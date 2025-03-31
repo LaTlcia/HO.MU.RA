@@ -1,2 +1,2 @@
 # HO.MU.RA
-For future
+Later I will hide the game name "Magia Exedra" like A.RA.YA
