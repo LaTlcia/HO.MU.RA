@@ -60,6 +60,13 @@
         "sortOrder": 8
       },
       {
+        "storyEventScenarioMstId": 100201,
+        "storyEventMstId": 2,
+        "advMstId": 20000901,
+        "conditionQuestStageMstId": 905101,
+        "sortOrder": 1
+      },
+      {
         "storyEventScenarioMstId": 1100001,
         "storyEventMstId": 10000,
         "advMstId": 20000801,

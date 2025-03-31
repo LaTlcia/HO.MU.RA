@@ -60,6 +60,13 @@
         "num": 10
       },
       {
+        "storyEventScenarioRewardMstId": 100201,
+        "storyEventScenarioMstId": 100201,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 10
+      },
+      {
         "storyEventScenarioRewardMstId": 1100001,
         "storyEventScenarioMstId": 1100001,
         "objectReceiveType": 2,

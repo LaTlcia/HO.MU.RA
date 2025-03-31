@@ -8,7 +8,7 @@
         "bannerMstId": 6,
         "startTime": "2025-01-30T12:00:00+09:00",
         "endTime": "2025-04-10T11:59:59+09:00",
-        "sortOrder": 41,
+        "sortOrder": 4,
         "osType": 0
       },
       {
@@ -16,7 +16,7 @@
         "bannerMstId": 12,
         "startTime": "2025-01-30T12:00:00+09:00",
         "endTime": "2025-04-10T11:59:59+09:00",
-        "sortOrder": 40,
+        "sortOrder": 3,
         "osType": 0
       },
       {
@@ -24,7 +24,7 @@
         "bannerMstId": 21,
         "startTime": "2025-03-30T12:00:00+09:00",
         "endTime": "2025-04-14T11:59:59+09:00",
-        "sortOrder": 42,
+        "sortOrder": 13,
         "osType": 0
       },
       {
@@ -32,7 +32,7 @@
         "bannerMstId": 25,
         "startTime": "2025-01-30T12:00:00+09:00",
         "endTime": "2025-04-10T11:59:59+09:00",
-        "sortOrder": 50,
+        "sortOrder": 5,
         "osType": 0
       },
       {
@@ -40,7 +40,15 @@
         "bannerMstId": 26,
         "startTime": "2025-03-30T12:00:00+09:00",
         "endTime": "2025-04-14T11:59:59+09:00",
-        "sortOrder": 50,
+        "sortOrder": 12,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 27,
+        "bannerMstId": 27,
+        "startTime": "2025-04-01T00:00:00+09:00",
+        "endTime": "2025-04-08T11:59:59+09:00",
+        "sortOrder": 21,
         "osType": 0
       },
       {
@@ -48,7 +56,7 @@
         "bannerMstId": 29,
         "startTime": "2025-01-30T12:00:00+09:00",
         "endTime": "2025-04-10T11:59:59+09:00",
-        "sortOrder": 30,
+        "sortOrder": 2,
         "osType": 0
       },
       {
@@ -56,7 +64,7 @@
         "bannerMstId": 30,
         "startTime": "2025-01-30T12:00:00+09:00",
         "endTime": "2025-04-10T11:59:59+09:00",
-        "sortOrder": 31,
+        "sortOrder": 1,
         "osType": 0
       },
       {
@@ -64,7 +72,7 @@
         "bannerMstId": 53,
         "startTime": "2025-03-30T12:00:00+09:00",
         "endTime": "2025-04-01T11:59:59+09:00",
-        "sortOrder": 43,
+        "sortOrder": 11,
         "osType": 0
       }
     ]

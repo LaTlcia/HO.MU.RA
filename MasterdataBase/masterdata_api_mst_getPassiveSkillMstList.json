@@ -2884,6 +2884,66 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 405701,
+        "skillUniqueId": 4057,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "HP回復量+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405702,
+        "skillUniqueId": 4057,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "HP回復量+6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405703,
+        "skillUniqueId": 4057,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "HP回復量+7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405704,
+        "skillUniqueId": 4057,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "HP回復量+8%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405705,
+        "skillUniqueId": 4057,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "HP回復量+9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405706,
+        "skillUniqueId": 4057,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "HP回復量+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 500101,
         "skillUniqueId": 5001,
         "level": 1,

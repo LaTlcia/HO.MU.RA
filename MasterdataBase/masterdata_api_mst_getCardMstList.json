@@ -344,6 +344,23 @@
         "releaseTime": "2025-03-27T05:00:00+09:00"
       },
       {
+        "cardMstId": 4200023,
+        "name": "DANCE☆MAGICA",
+        "illustrator": "",
+        "source": "",
+        "rarity": 5,
+        "element": 0,
+        "passiveSkill1": 4057,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_04_00_0026",
+        "characterMstId": 0,
+        "unlockTypeCsv": "2",
+        "unlockIdCsv": "2",
+        "advPosition": 0,
+        "releaseTime": "2025-04-01T00:00:00+09:00"
+      },
+      {
         "cardMstId": 4300001,
         "name": "またね、ほむらちゃん",
         "illustrator": "",

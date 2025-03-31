@@ -82,6 +82,19 @@
         "resourceName": ""
       },
       {
+        "shopSeriesMstId": 3997,
+        "title": "ＤＡＮＣＥ☆ＭＡＧＩＣＡイベント交換所",
+        "description": "",
+        "category": 3,
+        "startTime": "2025-04-01T00:00:00+09:00",
+        "endTime": "2025-04-09T11:59:59+09:00",
+        "shopGroupId1": 3997,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 201005,
+        "resourceName": ""
+      },
+      {
         "shopSeriesMstId": 3998,
         "title": "フェアウェル・ストーリー 前編イベント交換所",
         "description": "",

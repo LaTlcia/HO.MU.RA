@@ -151,6 +151,13 @@
         "bannerLabelMstId": 2
       },
       {
+        "bannerMstId": 27,
+        "name": "",
+        "imageName": "banner_00019",
+        "destination": "StoryEvent",
+        "bannerLabelMstId": 2
+      },
+      {
         "bannerMstId": 29,
         "name": "",
         "imageName": "banner_00013",

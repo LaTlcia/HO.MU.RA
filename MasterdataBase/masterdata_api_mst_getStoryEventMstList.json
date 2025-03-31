@@ -21,6 +21,23 @@
         "description": "ワルプルギスの夜襲来より時は遡り――\n新人の魔法少女 佐倉杏子が、見滝原市にやってきた\n危機的状況に陥った彼女はそこで、巴マミに助けられる\n――これは、ふたりの魔法少女の出会いと別れの物語"
       },
       {
+        "storyEventMstId": 2,
+        "name": "ＤＡＮＣＥ☆ＭＡＧＩＣＡ",
+        "storyQuestGroupId": 1005,
+        "scoreAttackMstId": 0,
+        "eventItemId": 201005,
+        "shopSeriesMstId": 3997,
+        "bonusStyleIds": "0",
+        "isEndPlayable": false,
+        "endDisplayTime": "2025-04-08T11:59:59+09:00",
+        "sortOrder": 9998,
+        "eventStartDirection": 1,
+        "topImageName": "3",
+        "bannerImageName": "banner_00019",
+        "bossCameraAssetName": "0",
+        "description": "『ダンシング魔法少女』\nそれは、キュゥべえにスカウトされた、\n踊ることで穢れを祓う５人の少女たち！\nある日、彼女たちにメディアデビューの話が舞い込み…！？ "
+      },
+      {
         "storyEventMstId": 10000,
         "name": "焦らずゆっくり未来へ ～魔法少女に夢を見て～",
         "storyQuestGroupId": 1004,

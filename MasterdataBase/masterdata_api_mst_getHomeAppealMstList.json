@@ -324,6 +324,26 @@
         "sortOrder": 8
       },
       {
+        "homeAppealMstId": 100002,
+        "type": 1,
+        "bannerType": 2,
+        "resourceName": "wallbanner_00012",
+        "bannerText1": "ストーリーイベント「ＤＡＮＣＥ☆ＭＡＧＩＣＡ」開催中",
+        "bannerText2": "イベントをプレイして限定ストーリーを体験しよう！",
+        "bannerText3": "※イベントクエストはメインクエスト「魔法少女まどか☆マギカ」Main【お菓子の魔女】をクリアで解放",
+        "bannerText4": "",
+        "textColor": "#dd6598",
+        "partsColor": "#ffa1cb",
+        "styleFigureMstId1": 0,
+        "styleFigureMstId2": 0,
+        "styleFigureMstId3": 0,
+        "transitionSceneName": "",
+        "transitionSceneParam": "",
+        "startTime": "2025-04-01T00:00:00+09:00",
+        "endTime": "2025-04-08T11:59:59+09:00",
+        "sortOrder": 6
+      },
+      {
         "homeAppealMstId": 100004,
         "type": 1,
         "bannerType": 1,

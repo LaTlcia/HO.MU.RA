@@ -191,6 +191,23 @@
         "reprintNum": 0
       },
       {
+        "questGroupMstId": 1005,
+        "questCategoryMstId": 9,
+        "questMapMstId": 0,
+        "groupType": 1,
+        "name": "ＤＡＮＣＥ☆ＭＡＧＩＣＡ",
+        "resourceName": "1005",
+        "startTime": "2025-04-01T00:00:00+09:00",
+        "endTime": "2025-04-08T11:59:59+09:00",
+        "sortOrder": 1,
+        "priorityTerm": 0,
+        "dailyBattleClearLimit": 0,
+        "playableWeekDays": "",
+        "keyQuestType": 0,
+        "keyItemMstId": 0,
+        "reprintNum": 0
+      },
+      {
         "questGroupMstId": 60000,
         "questCategoryMstId": 1,
         "questMapMstId": 1,

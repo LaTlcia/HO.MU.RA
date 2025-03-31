@@ -664,6 +664,28 @@
         "isConversion": false
       },
       {
+        "itemMstId": 201005,
+        "name": "メモリアルメダル（銅）",
+        "description": "イベントの交換所でアイテムと交換できます。",
+        "type": 2,
+        "detailType": 0,
+        "effectType": 1,
+        "effectValue": 0,
+        "effectValue2": 0,
+        "rarity": 3,
+        "canSell": false,
+        "price": 0,
+        "canUse": true,
+        "sortOrder": 1,
+        "maxNum": 0,
+        "validDays": 0,
+        "startTime": "2025-04-01T00:00:00+09:00",
+        "endTime": "2025-04-09T11:59:59+09:00",
+        "transitionSceneName": "",
+        "resourceName": "201005",
+        "isConversion": false
+      },
+      {
         "itemMstId": 201006,
         "name": "アーカイブメダル",
         "description": "アーカイブメダル交換所でアイテムと交換できます。",

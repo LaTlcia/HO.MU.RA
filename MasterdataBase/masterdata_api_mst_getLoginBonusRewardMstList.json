@@ -306,6 +306,46 @@
         "objectReceiveType": 5,
         "objectId": 232003,
         "num": 1
+      },
+      {
+        "loginBonusRewardMstId": 5001,
+        "loginBonusMstId": 5,
+        "dayCount": 1,
+        "objectReceiveType": 4,
+        "objectId": 4200023,
+        "num": 1
+      },
+      {
+        "loginBonusRewardMstId": 5002,
+        "loginBonusMstId": 5,
+        "dayCount": 2,
+        "objectReceiveType": 4,
+        "objectId": 4200023,
+        "num": 1
+      },
+      {
+        "loginBonusRewardMstId": 5003,
+        "loginBonusMstId": 5,
+        "dayCount": 3,
+        "objectReceiveType": 4,
+        "objectId": 4200023,
+        "num": 1
+      },
+      {
+        "loginBonusRewardMstId": 5004,
+        "loginBonusMstId": 5,
+        "dayCount": 4,
+        "objectReceiveType": 4,
+        "objectId": 4200023,
+        "num": 1
+      },
+      {
+        "loginBonusRewardMstId": 5005,
+        "loginBonusMstId": 5,
+        "dayCount": 5,
+        "objectReceiveType": 4,
+        "objectId": 4200023,
+        "num": 2
       }
     ]
   }

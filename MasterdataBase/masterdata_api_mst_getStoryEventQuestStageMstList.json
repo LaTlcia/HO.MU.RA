@@ -122,6 +122,10 @@
       {
         "questStageMstId": 904115,
         "eventItemNum": 1000
+      },
+      {
+        "questStageMstId": 905101,
+        "eventItemNum": 100
       }
     ]
   }
