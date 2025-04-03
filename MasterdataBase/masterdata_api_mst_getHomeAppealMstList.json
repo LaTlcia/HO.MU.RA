@@ -564,6 +564,26 @@
         "sortOrder": 9
       },
       {
+        "homeAppealMstId": 100034,
+        "type": 2,
+        "bannerType": 0,
+        "resourceName": "Movie/3DMovie/mv4013",
+        "bannerText1": "",
+        "bannerText2": "",
+        "bannerText3": "",
+        "bannerText4": "",
+        "textColor": "",
+        "partsColor": "",
+        "styleFigureMstId1": 0,
+        "styleFigureMstId2": 0,
+        "styleFigureMstId3": 0,
+        "transitionSceneName": "",
+        "transitionSceneParam": "",
+        "startTime": "2025-04-01T00:00:00+09:00",
+        "endTime": "2025-04-08T11:59:59+09:00",
+        "sortOrder": 1
+      },
+      {
         "homeAppealMstId": 512001,
         "type": 1,
         "bannerType": 5,
