@@ -1,2 +1,2 @@
 # HO.MU.RA
-Later I will hide the game name "Magia Exedra" like A.RA.YA
+7356cc236c1f35bc015f2cc44cedc5f0833b672d0364c22d7145081dcb430e238cc8a80560423848c29390a54f3aa296
