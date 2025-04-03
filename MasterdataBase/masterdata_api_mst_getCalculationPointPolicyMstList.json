@@ -16,7 +16,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 0,
-        "value": 500,
+        "value": 1000,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -24,7 +24,7 @@
         "policyType": 1,
         "coefficientName": "difficultyBonus",
         "conditionValue": 1,
-        "value": 5000,
+        "value": 10000,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -32,7 +32,7 @@
         "policyType": 1,
         "coefficientName": "difficultyBonus",
         "conditionValue": 2,
-        "value": 6000,
+        "value": 11000,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -40,7 +40,7 @@
         "policyType": 1,
         "coefficientName": "difficultyBonus",
         "conditionValue": 3,
-        "value": 7000,
+        "value": 12000,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -48,7 +48,7 @@
         "policyType": 1,
         "coefficientName": "difficultyBonus",
         "conditionValue": 4,
-        "value": 9000,
+        "value": 13000,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -56,7 +56,7 @@
         "policyType": 1,
         "coefficientName": "difficultyBonus",
         "conditionValue": 5,
-        "value": 10000,
+        "value": 15000,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -64,7 +64,7 @@
         "policyType": 1,
         "coefficientName": "divideDamageBonus",
         "conditionValue": 0,
-        "value": 1750,
+        "value": 9500,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -208,7 +208,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 1,
-        "value": 1000,
+        "value": 900,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -216,7 +216,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 2,
-        "value": 1000,
+        "value": 800,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -224,7 +224,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 3,
-        "value": 1000,
+        "value": 750,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -232,7 +232,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 4,
-        "value": 1000,
+        "value": 700,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -240,7 +240,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 5,
-        "value": 990,
+        "value": 650,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -248,7 +248,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 6,
-        "value": 980,
+        "value": 600,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -256,7 +256,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 7,
-        "value": 970,
+        "value": 550,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -264,7 +264,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 8,
-        "value": 950,
+        "value": 500,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -272,7 +272,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 9,
-        "value": 930,
+        "value": 450,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -280,7 +280,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 10,
-        "value": 910,
+        "value": 400,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -288,7 +288,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 11,
-        "value": 890,
+        "value": 350,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -296,7 +296,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 12,
-        "value": 870,
+        "value": 300,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -304,7 +304,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 13,
-        "value": 850,
+        "value": 250,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -312,7 +312,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 14,
-        "value": 830,
+        "value": 200,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -320,7 +320,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 15,
-        "value": 800,
+        "value": 150,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -328,7 +328,7 @@
         "policyType": 1,
         "coefficientName": "penaltyPerRound",
         "conditionValue": 16,
-        "value": 700,
+        "value": 100,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -344,7 +344,7 @@
         "policyType": 1,
         "coefficientName": "difficultyCoefficient",
         "conditionValue": 2,
-        "value": 1020,
+        "value": 1100,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -352,7 +352,7 @@
         "policyType": 1,
         "coefficientName": "difficultyCoefficient",
         "conditionValue": 3,
-        "value": 1040,
+        "value": 1200,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -360,7 +360,7 @@
         "policyType": 1,
         "coefficientName": "difficultyCoefficient",
         "conditionValue": 4,
-        "value": 1060,
+        "value": 1300,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -368,7 +368,7 @@
         "policyType": 1,
         "coefficientName": "difficultyCoefficient",
         "conditionValue": 5,
-        "value": 1100,
+        "value": 1400,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -376,7 +376,7 @@
         "policyType": 1,
         "coefficientName": "baseHpBonus",
         "conditionValue": 0,
-        "value": 3000,
+        "value": 15000,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -1376,7 +1376,7 @@
         "policyType": 1,
         "coefficientName": "difficultyBonus",
         "conditionValue": 6,
-        "value": 11000,
+        "value": 20000,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -1384,7 +1384,7 @@
         "policyType": 1,
         "coefficientName": "difficultyBonus",
         "conditionValue": 7,
-        "value": 12000,
+        "value": 25000,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -1392,7 +1392,7 @@
         "policyType": 1,
         "coefficientName": "difficultyBonus",
         "conditionValue": 8,
-        "value": 15000,
+        "value": 30000,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -1400,7 +1400,7 @@
         "policyType": 1,
         "coefficientName": "difficultyBonus",
         "conditionValue": 9,
-        "value": 20000,
+        "value": 45000,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -1408,7 +1408,7 @@
         "policyType": 1,
         "coefficientName": "difficultyBonus",
         "conditionValue": 10,
-        "value": 25000,
+        "value": 60000,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -1416,7 +1416,7 @@
         "policyType": 1,
         "coefficientName": "difficultyCoefficient",
         "conditionValue": 6,
-        "value": 1150,
+        "value": 1500,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -1424,7 +1424,7 @@
         "policyType": 1,
         "coefficientName": "difficultyCoefficient",
         "conditionValue": 7,
-        "value": 1200,
+        "value": 1600,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -1432,7 +1432,7 @@
         "policyType": 1,
         "coefficientName": "difficultyCoefficient",
         "conditionValue": 8,
-        "value": 1250,
+        "value": 1750,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -1440,7 +1440,7 @@
         "policyType": 1,
         "coefficientName": "difficultyCoefficient",
         "conditionValue": 9,
-        "value": 1350,
+        "value": 2000,
         "startTime": "2020-01-01T00:00:00+09:00"
       },
       {
@@ -1448,7 +1448,7 @@
         "policyType": 1,
         "coefficientName": "difficultyCoefficient",
         "conditionValue": 10,
-        "value": 1500,
+        "value": 2500,
         "startTime": "2020-01-01T00:00:00+09:00"
       }
     ]

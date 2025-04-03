@@ -64,6 +64,21 @@
         "sortOrder": 0
       },
       {
+        "characterMstId": 1005,
+        "description": "ある出来事を機に、見滝原市の縄張りを奪いにやってきた魔法少女。<br>当初、さやかとはいがみ合っていたが、自分と同じように他人の願いを叶えて魔法少女になったと知り、仲間意識を覚える。",
+        "characterVoice": "野中藍",
+        "schoolName": "―",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 1,
+        "regionId": 2,
+        "teamId1": 0,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
         "characterMstId": 1008,
         "description": "不思議な夢の真相を探るべく、神浜市にやってきた魔法少女。<br>お人好しな性格で、気遣いが行き過ぎてしまうことも多々ある。<br>最新の流行には疎く、スマホの扱いもぎこちない。<br>日頃は控えめだが、ここ一番では芯の強さを見せる。",
         "characterVoice": "麻倉もも",

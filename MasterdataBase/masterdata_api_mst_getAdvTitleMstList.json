@@ -224,8 +224,18 @@
         "isViewCollection": true
       },
       {
+        "advTitleMstId": 47,
+        "title": "これが、あたしの生き方",
+        "isViewCollection": true
+      },
+      {
         "advTitleMstId": 52,
         "title": "フェアウェル・ストーリー 前編",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 53,
+        "title": "フェアウェル・ストーリー 後編",
         "isViewCollection": true
       },
       {

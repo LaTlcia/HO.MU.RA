@@ -2704,6 +2704,66 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 404701,
+        "skillUniqueId": 4047,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "攻撃力+2.5%<br>【佐倉杏子に装備時に追加】<br>攻撃対象のブレイクボーナスが350%以上のとき与えるダメージ+2.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 404702,
+        "skillUniqueId": 4047,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "攻撃力+3%<br>【佐倉杏子に装備時に追加】<br>攻撃対象のブレイクボーナスが350%以上のとき与えるダメージ+3%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 404703,
+        "skillUniqueId": 4047,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "攻撃力+3.5%<br>【佐倉杏子に装備時に追加】<br>攻撃対象のブレイクボーナスが350%以上のとき与えるダメージ+3.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 404704,
+        "skillUniqueId": 4047,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "攻撃力+4%<br>【佐倉杏子に装備時に追加】<br>攻撃対象のブレイクボーナスが350%以上のとき与えるダメージ+4%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 404705,
+        "skillUniqueId": 4047,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "攻撃力+4.5%<br>【佐倉杏子に装備時に追加】<br>攻撃対象のブレイクボーナスが350%以上のとき与えるダメージ+4.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 404706,
+        "skillUniqueId": 4047,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "攻撃力+5%<br>【佐倉杏子に装備時に追加】<br>攻撃対象のブレイクボーナスが350%以上のとき与えるダメージ+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 404801,
         "skillUniqueId": 4048,
         "level": 1,
@@ -2819,6 +2879,126 @@
         "level": 6,
         "name": "【アビリティ】",
         "description": "防御力+5%<br>【二葉さなに装備時に追加】<br>スピード+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405001,
+        "skillUniqueId": 4050,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "火属性で攻撃したとき、与えるダメージ+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405002,
+        "skillUniqueId": 4050,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "火属性で攻撃したとき、与えるダメージ+8.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405003,
+        "skillUniqueId": 4050,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "火属性で攻撃したとき、与えるダメージ+9.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405004,
+        "skillUniqueId": 4050,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "火属性で攻撃したとき、与えるダメージ+10.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405005,
+        "skillUniqueId": 4050,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "火属性で攻撃したとき、与えるダメージ+11.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405006,
+        "skillUniqueId": 4050,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "火属性で攻撃したとき、与えるダメージ+12.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405101,
+        "skillUniqueId": 4051,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "最大HP+2.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405102,
+        "skillUniqueId": 4051,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "最大HP+3.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405103,
+        "skillUniqueId": 4051,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "最大HP+4.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405104,
+        "skillUniqueId": 4051,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "最大HP+5.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405105,
+        "skillUniqueId": 4051,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "最大HP+6.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405106,
+        "skillUniqueId": 4051,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "最大HP+7.5%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -10564,6 +10744,106 @@
         "skillButtonIcon": "battle_icon_passive_buff"
       },
       {
+        "passiveSkillMstId": 1501201,
+        "skillUniqueId": 15012,
+        "level": 1,
+        "name": "アサルトヘイスト",
+        "description": "HP80%以上のときスピード+20%。<br>HP50%以上のとき攻撃力+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1501202,
+        "skillUniqueId": 15012,
+        "level": 2,
+        "name": "アサルトヘイスト",
+        "description": "HP80%以上のときスピード+21%。<br>HP50%以上のとき攻撃力+11%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1501203,
+        "skillUniqueId": 15012,
+        "level": 3,
+        "name": "アサルトヘイスト",
+        "description": "HP80%以上のときスピード+22%。<br>HP50%以上のとき攻撃力+12%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1501204,
+        "skillUniqueId": 15012,
+        "level": 4,
+        "name": "アサルトヘイスト",
+        "description": "HP80%以上のときスピード+23%。<br>HP50%以上のとき攻撃力+13%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1501205,
+        "skillUniqueId": 15012,
+        "level": 5,
+        "name": "アサルトヘイスト",
+        "description": "HP80%以上のときスピード+24%。<br>HP50%以上のとき攻撃力+14%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1501206,
+        "skillUniqueId": 15012,
+        "level": 6,
+        "name": "アサルトヘイスト",
+        "description": "HP80%以上のときスピード+25%。<br>HP50%以上のとき攻撃力+15%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1501207,
+        "skillUniqueId": 15012,
+        "level": 7,
+        "name": "アサルトヘイスト",
+        "description": "HP80%以上のときスピード+26%。<br>HP50%以上のとき攻撃力+16%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1501208,
+        "skillUniqueId": 15012,
+        "level": 8,
+        "name": "アサルトヘイスト",
+        "description": "HP80%以上のときスピード+27%。<br>HP50%以上のとき攻撃力+17%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1501209,
+        "skillUniqueId": 15012,
+        "level": 9,
+        "name": "アサルトヘイスト",
+        "description": "HP80%以上のときスピード+28%。<br>HP50%以上のとき攻撃力+18%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1501210,
+        "skillUniqueId": 15012,
+        "level": 10,
+        "name": "アサルトヘイスト",
+        "description": "HP80%以上のときスピード+30%。<br>HP50%以上のとき攻撃力+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
         "passiveSkillMstId": 1501801,
         "skillUniqueId": 15018,
         "level": 1,
@@ -13199,6 +13479,16 @@
         "level": 1,
         "name": "限界突破効果",
         "description": "狙われる確率上昇。<br>バリアが付与されている味方全体のクリティカルダメージ+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 8502901,
+        "skillUniqueId": 85029,
+        "level": 1,
+        "name": "限界突破効果",
+        "description": "ブレイク中の敵に対して与えるダメージ+20%、攻撃対象のブレイクボーナスが350%未満の敵に対して攻撃したとき行動順+20%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -18201,6 +18491,106 @@
         "description": "【ディフェンダーに装備時】<br>狙われる確率上昇<br>受けるダメージ-10%",
         "conditionElement": 0,
         "conditionRole": 6,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501401,
+        "skillUniqueId": 95014,
+        "level": 1,
+        "name": "アサルトブラスト",
+        "description": "【火属性に装備時】<br>攻撃力+5%、攻撃対象がブレイク状態のとき与えるダメージ+7.2%",
+        "conditionElement": 1,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501402,
+        "skillUniqueId": 95014,
+        "level": 2,
+        "name": "アサルトブラスト",
+        "description": "【火属性に装備時】<br>攻撃力+6.1%、攻撃対象がブレイク状態のとき与えるダメージ+7.7%",
+        "conditionElement": 1,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501403,
+        "skillUniqueId": 95014,
+        "level": 3,
+        "name": "アサルトブラスト",
+        "description": "【火属性に装備時】<br>攻撃力+7.2%、攻撃対象がブレイク状態のとき与えるダメージ+8.3%",
+        "conditionElement": 1,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501404,
+        "skillUniqueId": 95014,
+        "level": 4,
+        "name": "アサルトブラスト",
+        "description": "【火属性に装備時】<br>攻撃力+8.3%、攻撃対象がブレイク状態のとき与えるダメージ+8.8%",
+        "conditionElement": 1,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501405,
+        "skillUniqueId": 95014,
+        "level": 5,
+        "name": "アサルトブラスト",
+        "description": "【火属性に装備時】<br>攻撃力+9.4%、攻撃対象がブレイク状態のとき与えるダメージ+9.3%",
+        "conditionElement": 1,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501406,
+        "skillUniqueId": 95014,
+        "level": 6,
+        "name": "アサルトブラスト",
+        "description": "【火属性に装備時】<br>攻撃力+10.6%、攻撃対象がブレイク状態のとき与えるダメージ+9.9%",
+        "conditionElement": 1,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501407,
+        "skillUniqueId": 95014,
+        "level": 7,
+        "name": "アサルトブラスト",
+        "description": "【火属性に装備時】<br>攻撃力+11.7%、攻撃対象がブレイク状態のとき与えるダメージ+10.4%",
+        "conditionElement": 1,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501408,
+        "skillUniqueId": 95014,
+        "level": 8,
+        "name": "アサルトブラスト",
+        "description": "【火属性に装備時】<br>攻撃力+12.8%、攻撃対象がブレイク状態のとき与えるダメージ+10.9%",
+        "conditionElement": 1,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501409,
+        "skillUniqueId": 95014,
+        "level": 9,
+        "name": "アサルトブラスト",
+        "description": "【火属性に装備時】<br>攻撃力+13.9%、攻撃対象がブレイク状態のとき与えるダメージ+11.5%",
+        "conditionElement": 1,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501410,
+        "skillUniqueId": 95014,
+        "level": 10,
+        "name": "アサルトブラスト",
+        "description": "【火属性に装備時】<br>攻撃力+15%、攻撃対象がブレイク状態のとき与えるダメージ+12%",
+        "conditionElement": 1,
+        "conditionRole": 0,
         "skillButtonIcon": "battle_icon_supportpassive_buff"
       }
     ]

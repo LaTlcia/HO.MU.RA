@@ -39,6 +39,13 @@
         "voiceCueSheetName": "cv_100301_{0}"
       },
       {
+        "styleFigureMstId": 100501,
+        "characterMstId": 1005,
+        "modelName": "chara_100501_battle_unit",
+        "iconName": "100501",
+        "voiceCueSheetName": "cv_100501_{0}"
+      },
+      {
         "styleFigureMstId": 100801,
         "characterMstId": 1008,
         "modelName": "chara_100801_battle_unit",

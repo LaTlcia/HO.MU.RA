@@ -32,6 +32,13 @@
         "colorCode": "#EA9C54"
       },
       {
+        "characterMstId": 1005,
+        "name": "佐倉杏子",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1005",
+        "colorCode": "#E64545"
+      },
+      {
         "characterMstId": 1008,
         "name": "環いろは",
         "awakeItemMstId": 0,

@@ -67,6 +67,62 @@
         "sortOrder": 1
       },
       {
+        "storyEventScenarioMstId": 100301,
+        "storyEventMstId": 3,
+        "advMstId": 20000209,
+        "conditionQuestStageMstId": 903101,
+        "sortOrder": 1
+      },
+      {
+        "storyEventScenarioMstId": 100302,
+        "storyEventMstId": 3,
+        "advMstId": 20000210,
+        "conditionQuestStageMstId": 903102,
+        "sortOrder": 2
+      },
+      {
+        "storyEventScenarioMstId": 100303,
+        "storyEventMstId": 3,
+        "advMstId": 20000211,
+        "conditionQuestStageMstId": 903103,
+        "sortOrder": 3
+      },
+      {
+        "storyEventScenarioMstId": 100304,
+        "storyEventMstId": 3,
+        "advMstId": 20000212,
+        "conditionQuestStageMstId": 903104,
+        "sortOrder": 4
+      },
+      {
+        "storyEventScenarioMstId": 100305,
+        "storyEventMstId": 3,
+        "advMstId": 20000213,
+        "conditionQuestStageMstId": 903105,
+        "sortOrder": 5
+      },
+      {
+        "storyEventScenarioMstId": 100306,
+        "storyEventMstId": 3,
+        "advMstId": 20000214,
+        "conditionQuestStageMstId": 903106,
+        "sortOrder": 6
+      },
+      {
+        "storyEventScenarioMstId": 100307,
+        "storyEventMstId": 3,
+        "advMstId": 20000215,
+        "conditionQuestStageMstId": 903107,
+        "sortOrder": 7
+      },
+      {
+        "storyEventScenarioMstId": 100308,
+        "storyEventMstId": 3,
+        "advMstId": 20000216,
+        "conditionQuestStageMstId": 903108,
+        "sortOrder": 8
+      },
+      {
         "storyEventScenarioMstId": 1100001,
         "storyEventMstId": 10000,
         "advMstId": 20000801,

@@ -18,7 +18,7 @@
         "topImageName": "2",
         "bannerImageName": "banner_00018",
         "bossCameraAssetName": "0",
-        "description": "ワルプルギスの夜襲来より時は遡り――\n新人の魔法少女 佐倉杏子が、見滝原市にやってきた\n危機的状況に陥った彼女はそこで、巴マミに助けられる\n――これは、ふたりの魔法少女の出会いと別れの物語"
+        "description": "新人の魔法少女 佐倉杏子が、見滝原市にやってきた\n危機的状況に陥った彼女はそこで、巴マミに助けられる\n――これは、ふたりの魔法少女の出会いと別れの物語\n（ドラマCD『フェアウェル・ストーリー』）"
       },
       {
         "storyEventMstId": 2,
@@ -36,6 +36,23 @@
         "bannerImageName": "banner_00019",
         "bossCameraAssetName": "0",
         "description": "『ダンシング魔法少女』\nそれは、キュゥべえにスカウトされた、\n踊ることで穢れを祓う５人の少女たち！\nある日、彼女たちにメディアデビューの話が舞い込み…！？ "
+      },
+      {
+        "storyEventMstId": 3,
+        "name": "フェアウェル・ストーリー 後編",
+        "storyQuestGroupId": 1003,
+        "scoreAttackMstId": 1,
+        "eventItemId": 201004,
+        "shopSeriesMstId": 3996,
+        "bonusStyleIds": "0",
+        "isEndPlayable": true,
+        "endDisplayTime": "2050-12-31T23:59:59+09:00",
+        "sortOrder": 9997,
+        "eventStartDirection": 1,
+        "topImageName": "4",
+        "bannerImageName": "banner_00020",
+        "bossCameraAssetName": "0",
+        "description": "戦いの中で信頼を深める杏子とマミ\nだがある日、願いが元で全てを失ってしまった杏子は\n二度と他人のために魔法を使わないと決意する――\n（ドラマCD『フェアウェル・ストーリー』）"
       },
       {
         "storyEventMstId": 10000,

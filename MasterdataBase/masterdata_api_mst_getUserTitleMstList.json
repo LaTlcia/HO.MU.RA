@@ -28,6 +28,12 @@
         "value1": 10030101
       },
       {
+        "userTitleMstId": 10050101,
+        "title": "盟神抉槍",
+        "titleType": 1,
+        "value1": 10050101
+      },
+      {
         "userTitleMstId": 10080101,
         "title": "ストラーダ・フトゥーロ",
         "titleType": 1,
@@ -512,6 +518,12 @@
         "title": "フェアウェル・ストーリー 前編クリア",
         "titleType": 2,
         "value1": 4200001
+      },
+      {
+        "userTitleMstId": 60000003,
+        "title": "フェアウェル・ストーリー 後編クリア",
+        "titleType": 2,
+        "value1": 4200003
       },
       {
         "userTitleMstId": 70000001,

@@ -67,6 +67,13 @@
         "featuredRewardResourceName": ""
       },
       {
+        "missionTitleMstId": 5002,
+        "prevMissionTitleMstId": 0,
+        "title": "フェアウェル・ストーリー 後編イベントミッション",
+        "priority": 12,
+        "featuredRewardResourceName": ""
+      },
+      {
         "missionTitleMstId": 5004,
         "prevMissionTitleMstId": 0,
         "title": "ＤＡＮＣＥ☆ＭＡＧＩＣＡイベントミッション",
@@ -78,6 +85,20 @@
         "prevMissionTitleMstId": 0,
         "title": "育成応援ミッション",
         "priority": 3,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5007,
+        "prevMissionTitleMstId": 0,
+        "title": "育成応援ミッション 第2弾",
+        "priority": 3,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5008,
+        "prevMissionTitleMstId": 0,
+        "title": "スコアアタック攻略応援ミッション",
+        "priority": 4,
         "featuredRewardResourceName": ""
       }
     ]

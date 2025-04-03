@@ -1751,7 +1751,7 @@
       },
       {
         "breakMstId": 60200202,
-        "breakPoint": 690,
+        "breakPoint": 720,
         "breakPointRecoveryPerTurn": 0,
         "breakTurnGaugeSlowRatio": 1400,
         "initialBreakedDamageReceiveRate": 3500,
@@ -1774,6 +1774,24 @@
         "breakTurnGaugeSlowRatio": 1400,
         "initialBreakedDamageReceiveRate": 2500,
         "maxBreakedDamageReceiveRate": 3000,
+        "breakedDamageReceiveRateIncreaseRate": 1000
+      },
+      {
+        "breakMstId": 60200205,
+        "breakPoint": 1300,
+        "breakPointRecoveryPerTurn": 0,
+        "breakTurnGaugeSlowRatio": 1400,
+        "initialBreakedDamageReceiveRate": 3500,
+        "maxBreakedDamageReceiveRate": 4000,
+        "breakedDamageReceiveRateIncreaseRate": 1000
+      },
+      {
+        "breakMstId": 60200206,
+        "breakPoint": 690,
+        "breakPointRecoveryPerTurn": 0,
+        "breakTurnGaugeSlowRatio": 1400,
+        "initialBreakedDamageReceiveRate": 3500,
+        "maxBreakedDamageReceiveRate": 4000,
         "breakedDamageReceiveRateIncreaseRate": 1000
       },
       {
