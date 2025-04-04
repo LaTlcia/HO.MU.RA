@@ -4380,7 +4380,7 @@
         "probability": 100,
         "description": "スピード+16%",
         "descriptionType": 0,
-        "startConditionSetIdCsv": "941",
+        "startConditionSetIdCsv": "311",
         "activeConditionSetIdCsv": ""
       },
       {
