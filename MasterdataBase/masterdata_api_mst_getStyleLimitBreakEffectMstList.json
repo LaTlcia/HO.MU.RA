@@ -740,6 +740,30 @@
         "value2": 0
       },
       {
+        "styleLimitBreakEffectMstId": 5026,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8503101,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5027,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8503201,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5028,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8503301,
+        "value2": 0
+      },
+      {
         "styleLimitBreakEffectMstId": 5030,
         "name": "",
         "targetType": 3,

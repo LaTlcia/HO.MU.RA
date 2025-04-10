@@ -582,7 +582,7 @@
       {
         "fieldStageMstId": 618001,
         "fieldSeriesMstId": 61800,
-        "name": "マチビト馬のウワサ",
+        "name": "マチビト馬のうわさ",
         "subTitle": "第二章",
         "difficulty": 1,
         "prevFieldStageMstId": 617001,
@@ -594,7 +594,7 @@
       {
         "fieldStageMstId": 618002,
         "fieldSeriesMstId": 61800,
-        "name": "マチビト馬のウワサ",
+        "name": "マチビト馬のうわさ",
         "subTitle": "第二章",
         "difficulty": 2,
         "prevFieldStageMstId": 618001,
@@ -606,7 +606,7 @@
       {
         "fieldStageMstId": 618003,
         "fieldSeriesMstId": 61800,
-        "name": "マチビト馬のウワサ",
+        "name": "マチビト馬のうわさ",
         "subTitle": "第二章",
         "difficulty": 3,
         "prevFieldStageMstId": 617003,
@@ -618,38 +618,74 @@
       {
         "fieldStageMstId": 619001,
         "fieldSeriesMstId": 61900,
-        "name": "名無し人工知能のウワサ",
+        "name": "名無し人工知能のうわさ",
         "subTitle": "第三章",
         "difficulty": 1,
-        "prevFieldStageMstId": 618001,
+        "prevFieldStageMstId": 615001,
         "prevFieldStageMstId2": 0,
         "firstClearRewardGroupId": 102,
         "stageAssetbundleName": "",
-        "backgroundCardMstId": 0
+        "backgroundCardMstId": 4100018
       },
       {
         "fieldStageMstId": 619002,
         "fieldSeriesMstId": 61900,
-        "name": "名無し人工知能のウワサ",
+        "name": "名無し人工知能のうわさ",
         "subTitle": "第三章",
         "difficulty": 2,
         "prevFieldStageMstId": 619001,
-        "prevFieldStageMstId2": 618002,
+        "prevFieldStageMstId2": 615002,
         "firstClearRewardGroupId": 102,
         "stageAssetbundleName": "",
-        "backgroundCardMstId": 0
+        "backgroundCardMstId": 4100018
       },
       {
         "fieldStageMstId": 619003,
         "fieldSeriesMstId": 61900,
-        "name": "名無し人工知能のウワサ",
+        "name": "名無し人工知能のうわさ",
         "subTitle": "第三章",
         "difficulty": 3,
         "prevFieldStageMstId": 619001,
-        "prevFieldStageMstId2": 618003,
+        "prevFieldStageMstId2": 615003,
         "firstClearRewardGroupId": 102,
         "stageAssetbundleName": "",
-        "backgroundCardMstId": 0
+        "backgroundCardMstId": 5100028
+      },
+      {
+        "fieldStageMstId": 620001,
+        "fieldSeriesMstId": 62000,
+        "name": "キレートビッグフェリスのうわさ",
+        "subTitle": "第四章",
+        "difficulty": 1,
+        "prevFieldStageMstId": 619001,
+        "prevFieldStageMstId2": 0,
+        "firstClearRewardGroupId": 102,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 4100019
+      },
+      {
+        "fieldStageMstId": 620002,
+        "fieldSeriesMstId": 62000,
+        "name": "キレートビッグフェリスのうわさ",
+        "subTitle": "第四章",
+        "difficulty": 2,
+        "prevFieldStageMstId": 620001,
+        "prevFieldStageMstId2": 619002,
+        "firstClearRewardGroupId": 102,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 4100019
+      },
+      {
+        "fieldStageMstId": 620003,
+        "fieldSeriesMstId": 62000,
+        "name": "キレートビッグフェリスのうわさ",
+        "subTitle": "第四章",
+        "difficulty": 3,
+        "prevFieldStageMstId": 620001,
+        "prevFieldStageMstId2": 619003,
+        "firstClearRewardGroupId": 102,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 5100029
       }
     ]
   }

@@ -81,6 +81,27 @@
         "voiceCueSheetName": "cv_101201_{0}"
       },
       {
+        "styleFigureMstId": 101401,
+        "characterMstId": 1014,
+        "modelName": "chara_101401_battle_unit",
+        "iconName": "101401",
+        "voiceCueSheetName": "cv_101401_{0}"
+      },
+      {
+        "styleFigureMstId": 101501,
+        "characterMstId": 1015,
+        "modelName": "chara_101501_battle_unit",
+        "iconName": "101501",
+        "voiceCueSheetName": "cv_101501_{0}"
+      },
+      {
+        "styleFigureMstId": 101601,
+        "characterMstId": 1016,
+        "modelName": "chara_101601_battle_unit",
+        "iconName": "101601",
+        "voiceCueSheetName": "cv_101601_{0}"
+      },
+      {
         "styleFigureMstId": 101701,
         "characterMstId": 1017,
         "modelName": "chara_101701_battle_unit",

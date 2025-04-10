@@ -64,6 +64,24 @@
         "objectRewardGroupId": 1012
       },
       {
+        "characterHeartMstId": 1014,
+        "characterMstId": 1014,
+        "paramUpGroupId": 1,
+        "objectRewardGroupId": 1014
+      },
+      {
+        "characterHeartMstId": 1015,
+        "characterMstId": 1015,
+        "paramUpGroupId": 1,
+        "objectRewardGroupId": 1015
+      },
+      {
+        "characterHeartMstId": 1016,
+        "characterMstId": 1016,
+        "paramUpGroupId": 1,
+        "objectRewardGroupId": 1016
+      },
+      {
         "characterHeartMstId": 1017,
         "characterMstId": 1017,
         "paramUpGroupId": 1,

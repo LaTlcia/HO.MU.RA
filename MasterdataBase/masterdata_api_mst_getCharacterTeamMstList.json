@@ -24,6 +24,11 @@
         "sortOrder": 4
       },
       {
+        "characterTeamMstId": 5,
+        "name": "チームももこ",
+        "sortOrder": 5
+      },
+      {
         "characterTeamMstId": 7,
         "name": "ブロッサム",
         "sortOrder": 7

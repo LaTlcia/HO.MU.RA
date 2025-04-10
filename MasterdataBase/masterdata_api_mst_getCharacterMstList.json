@@ -74,6 +74,27 @@
         "colorCode": "#8D6AD2"
       },
       {
+        "characterMstId": 1014,
+        "name": "十咎ももこ",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1014",
+        "colorCode": "#FC7459"
+      },
+      {
+        "characterMstId": 1015,
+        "name": "水波レナ",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1015",
+        "colorCode": "#9BDAEB"
+      },
+      {
+        "characterMstId": 1016,
+        "name": "秋野かえで",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1016",
+        "colorCode": "#CE3225"
+      },
+      {
         "characterMstId": 1017,
         "name": "御園かりん",
         "awakeItemMstId": 0,

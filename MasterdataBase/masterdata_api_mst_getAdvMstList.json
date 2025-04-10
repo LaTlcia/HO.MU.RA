@@ -2179,6 +2179,216 @@
         "releaseTime": "2024-01-01T00:00:00+09:00"
       },
       {
+        "advMstId": 16180014,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 76,
+        "name": "Another Episode1",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "1_Main/main_machibitouma_14",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
+        "advMstId": 16180015,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 76,
+        "name": "Another Episode2",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "1_Main/main_machibitouma_15",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
+        "advMstId": 16190001,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 76,
+        "name": "Episode1",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "1_Main/main_nanashi_1",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
+        "advMstId": 16190002,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 76,
+        "name": "Episode2",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "1_Main/main_nanashi_2",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
+        "advMstId": 16190004,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 76,
+        "name": "Episode3",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "1_Main/main_nanashi_4",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
+        "advMstId": 16190005,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 76,
+        "name": "Episode4",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "1_Main/main_nanashi_5",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
+        "advMstId": 16190006,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 76,
+        "name": "Episode5",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "1_Main/main_nanashi_6",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
+        "advMstId": 16190007,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 77,
+        "name": "Another Episode1",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "1_Main/main_nanashi_7",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
+        "advMstId": 16190008,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 77,
+        "name": "Another Episode2",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "1_Main/main_nanashi_8",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
+        "advMstId": 16190009,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 77,
+        "name": "Episode1",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "1_Main/main_nanashi_9",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
+        "advMstId": 16190010,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 77,
+        "name": "Episode2",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "1_Main/main_nanashi_10",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
+        "advMstId": 16190011,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 77,
+        "name": "Episode3",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "1_Main/main_nanashi_11",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
+        "advMstId": 16190012,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 77,
+        "name": "Episode4",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "1_Main/main_nanashi_12",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
+        "advMstId": 16190013,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 77,
+        "name": "Episode4",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "1_Main/main_nanashi_13",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 16190012,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
         "advMstId": 20000101,
         "advType": 2,
         "has3dMovie": false,
@@ -2412,6 +2622,456 @@
         "subName": "Episode16",
         "advAssetbundleName": "",
         "advResourceName": "2_Sub/sub_farewell_16",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000501,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode1",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_sunaba_1",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000502,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode2",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_sunaba_2",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000503,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode3",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_sunaba_3",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000504,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode4",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_sunaba_4",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000505,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode5",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_sunaba_5",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000506,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode6",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_sunaba_6",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000507,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode7",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_sunaba_7",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000508,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode8",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_sunaba_8",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000509,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode9",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_sunaba_9",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000510,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode10",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_sunaba_10",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000511,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode11",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_1",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000512,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode12",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_2",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000513,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode13",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_3",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000514,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode14",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_4",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000515,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode15",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_5",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000516,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode16",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_6",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000517,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode17",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_7",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000518,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode18",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_8",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000519,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode19",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_9",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000520,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode20",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_10",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000521,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode21",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_11",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000522,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode22",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_12",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000523,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode23",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_13",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000524,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode24",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_14",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000525,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode25",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_15",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000526,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode26",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_16",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000527,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode27",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_17",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000528,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode28",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_18",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000529,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode29",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_19",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20000530,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 80,
+        "name": "Episode30",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_machibitouma_20",
         "unlockType": 1,
         "unlockId": 0,
         "gainGemFlg": false,
@@ -3567,6 +4227,366 @@
         "subName": "Episode7",
         "advAssetbundleName": "",
         "advResourceName": "3_Character/character_felicia_7",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101400,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 49,
+        "name": "Episode0",
+        "subName": "Episode0",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_momoko_0",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101401,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 49,
+        "name": "Episode1",
+        "subName": "Episode1",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_momoko_1",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101402,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 49,
+        "name": "Episode2",
+        "subName": "Episode2",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_momoko_2",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101403,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 49,
+        "name": "Episode3",
+        "subName": "Episode3",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_momoko_3",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101404,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 49,
+        "name": "Episode4",
+        "subName": "Episode4",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_momoko_4",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101405,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 49,
+        "name": "Episode5",
+        "subName": "Episode5",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_momoko_5",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101406,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 49,
+        "name": "Episode6",
+        "subName": "Episode6",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_momoko_6",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101407,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 49,
+        "name": "Episode7",
+        "subName": "Episode7",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_momoko_7",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101500,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 50,
+        "name": "Episode0",
+        "subName": "Episode0",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_rena_0",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101501,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 50,
+        "name": "Episode1",
+        "subName": "Episode1",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_rena_1",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101502,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 50,
+        "name": "Episode2",
+        "subName": "Episode2",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_rena_2",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101503,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 50,
+        "name": "Episode3",
+        "subName": "Episode3",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_rena_3",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101504,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 50,
+        "name": "Episode4",
+        "subName": "Episode4",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_rena_4",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101505,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 50,
+        "name": "Episode5",
+        "subName": "Episode5",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_rena_5",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101506,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 50,
+        "name": "Episode6",
+        "subName": "Episode6",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_rena_6",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101507,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 50,
+        "name": "Episode7",
+        "subName": "Episode7",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_rena_7",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101600,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 51,
+        "name": "Episode0",
+        "subName": "Episode0",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_kaede_0",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101601,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 51,
+        "name": "Episode1",
+        "subName": "Episode1",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_kaede_1",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101602,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 51,
+        "name": "Episode2",
+        "subName": "Episode2",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_kaede_2",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101603,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 51,
+        "name": "Episode3",
+        "subName": "Episode3",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_kaede_3",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101604,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 51,
+        "name": "Episode4",
+        "subName": "Episode4",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_kaede_4",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101605,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 51,
+        "name": "Episode5",
+        "subName": "Episode5",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_kaede_5",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101606,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 51,
+        "name": "Episode6",
+        "subName": "Episode6",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_kaede_6",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30101607,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 51,
+        "name": "Episode7",
+        "subName": "Episode7",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_kaede_7",
         "unlockType": 1,
         "unlockId": 0,
         "gainGemFlg": true,
@@ -6739,6 +7759,36 @@
         "releaseTime": "2024-01-01T00:00:00+09:00"
       },
       {
+        "advMstId": 40013101,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 78,
+        "name": "Episode1",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "4_Portrait/portrait_nanashi_1",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
+        "advMstId": 40013102,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 78,
+        "name": "Episode2",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "4_Portrait/portrait_nanashi_2",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
         "advMstId": 70000009,
         "advType": 1,
         "has3dMovie": false,
@@ -6751,7 +7801,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000010,
@@ -6766,7 +7816,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000011,
@@ -6781,7 +7831,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000012,
@@ -6796,7 +7846,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000013,
@@ -6811,7 +7861,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000014,
@@ -6826,7 +7876,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000015,
@@ -6841,7 +7891,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000019,
@@ -6856,7 +7906,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000020,
@@ -6871,7 +7921,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000021,
@@ -6886,7 +7936,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000022,
@@ -6901,7 +7951,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000024,
@@ -6916,7 +7966,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000031,
@@ -6931,7 +7981,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000032,
@@ -6946,7 +7996,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000033,
@@ -6961,7 +8011,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000034,
@@ -6976,7 +8026,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000035,
@@ -6991,7 +8041,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000036,
@@ -7006,7 +8056,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000037,
@@ -7021,7 +8071,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000038,
@@ -7036,7 +8086,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000040,
@@ -7051,7 +8101,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000041,
@@ -7066,7 +8116,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000042,
@@ -7081,7 +8131,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000043,
@@ -7096,7 +8146,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000044,
@@ -7111,7 +8161,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000045,
@@ -7126,7 +8176,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000046,
@@ -7141,7 +8191,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000047,
@@ -7156,7 +8206,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000048,
@@ -7171,7 +8221,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000049,
@@ -7186,7 +8236,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000050,
@@ -7201,7 +8251,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000051,
@@ -7216,7 +8266,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000052,
@@ -7231,7 +8281,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000053,
@@ -7246,7 +8296,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000054,
@@ -7261,7 +8311,22 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
+      },
+      {
+        "advMstId": 70000055,
+        "advType": 1,
+        "has3dMovie": false,
+        "advTitleMstId": 0,
+        "name": "記憶の窓解放_マギレコ_03",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "7_Namae/gateopen_magireco_03",
+        "unlockType": 0,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000059,
@@ -7276,7 +8341,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000060,
@@ -7291,7 +8356,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000061,
@@ -7306,7 +8371,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000062,
@@ -7321,7 +8386,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000063,
@@ -7336,7 +8401,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000064,
@@ -7351,7 +8416,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000065,
@@ -7366,7 +8431,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000066,
@@ -7381,7 +8446,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000067,
@@ -7396,7 +8461,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000068,
@@ -7411,7 +8476,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000069,
@@ -7426,7 +8491,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000070,
@@ -7441,7 +8506,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000071,
@@ -7456,7 +8521,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000072,
@@ -7471,7 +8536,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000073,
@@ -7486,7 +8551,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000074,
@@ -7501,7 +8566,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000075,
@@ -7516,7 +8581,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000076,
@@ -7531,7 +8596,37 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
+      },
+      {
+        "advMstId": 70000077,
+        "advType": 1,
+        "has3dMovie": false,
+        "advTitleMstId": 0,
+        "name": "ピュエラピクトゥーラ拡張（物語）_マギレコ_normal_04",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "7_Namae/pp_monogatari_magireco_normal_04",
+        "unlockType": 0,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-10T13:18:48+09:00"
+      },
+      {
+        "advMstId": 70000078,
+        "advType": 1,
+        "has3dMovie": false,
+        "advTitleMstId": 0,
+        "name": "ピュエラピクトゥーラ拡張（物語）_マギレコ_normal_05",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "7_Namae/pp_monogatari_magireco_normal_05",
+        "unlockType": 0,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000084,
@@ -7546,7 +8641,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000085,
@@ -7561,7 +8656,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000086,
@@ -7576,7 +8671,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000087,
@@ -7591,7 +8686,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000088,
@@ -7606,7 +8701,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000089,
@@ -7621,7 +8716,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000090,
@@ -7636,7 +8731,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000091,
@@ -7651,7 +8746,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000092,
@@ -7666,7 +8761,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000093,
@@ -7681,7 +8776,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000094,
@@ -7696,7 +8791,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000095,
@@ -7711,7 +8806,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000096,
@@ -7726,7 +8821,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000097,
@@ -7741,7 +8836,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000098,
@@ -7756,7 +8851,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000099,
@@ -7771,7 +8866,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000103,
@@ -7786,7 +8881,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000104,
@@ -7801,7 +8896,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000108,
@@ -7816,7 +8911,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000109,
@@ -7831,7 +8926,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000114,
@@ -7846,7 +8941,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000115,
@@ -7861,7 +8956,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000116,
@@ -7876,7 +8971,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000117,
@@ -7891,7 +8986,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000119,
@@ -7906,7 +9001,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000120,
@@ -7921,7 +9016,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000121,
@@ -7936,7 +9031,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000123,
@@ -7951,7 +9046,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000124,
@@ -7966,7 +9061,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000126,
@@ -7981,7 +9076,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000127,
@@ -7996,7 +9091,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000129,
@@ -8011,7 +9106,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000130,
@@ -8026,7 +9121,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000131,
@@ -8041,7 +9136,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000133,
@@ -8056,7 +9151,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000134,
@@ -8071,7 +9166,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000136,
@@ -8086,7 +9181,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000137,
@@ -8101,7 +9196,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000138,
@@ -8116,7 +9211,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000140,
@@ -8131,7 +9226,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000141,
@@ -8146,7 +9241,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000143,
@@ -8161,7 +9256,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000144,
@@ -8176,7 +9271,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000145,
@@ -8191,7 +9286,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000147,
@@ -8206,7 +9301,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000148,
@@ -8221,7 +9316,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000149,
@@ -8236,7 +9331,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000151,
@@ -8251,7 +9346,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000152,
@@ -8266,7 +9361,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000153,
@@ -8281,7 +9376,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000155,
@@ -8296,7 +9391,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000156,
@@ -8311,7 +9406,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000157,
@@ -8326,7 +9421,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000159,
@@ -8341,7 +9436,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000160,
@@ -8356,7 +9451,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000161,
@@ -8371,7 +9466,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000163,
@@ -8386,7 +9481,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000164,
@@ -8401,7 +9496,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000165,
@@ -8416,7 +9511,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000170,
@@ -8521,7 +9616,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000178,
@@ -8536,7 +9631,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000179,
@@ -8551,7 +9646,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000180,
@@ -8566,7 +9661,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000181,
@@ -8581,7 +9676,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000182,
@@ -8596,7 +9691,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000183,
@@ -8611,7 +9706,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000184,
@@ -8626,7 +9721,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000185,
@@ -8641,7 +9736,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000186,
@@ -8656,7 +9751,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000187,
@@ -8671,7 +9766,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000190,
@@ -8686,7 +9781,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000191,
@@ -8701,7 +9796,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000192,
@@ -8716,7 +9811,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000193,
@@ -8731,7 +9826,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000194,
@@ -8746,7 +9841,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000195,
@@ -8776,7 +9871,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000197,
@@ -8791,7 +9886,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000198,
@@ -8806,7 +9901,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000199,
@@ -8821,7 +9916,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000200,
@@ -8836,7 +9931,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000201,
@@ -8851,7 +9946,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000202,
@@ -8866,7 +9961,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000203,
@@ -8881,7 +9976,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000204,
@@ -8896,7 +9991,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000205,
@@ -8911,7 +10006,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000206,
@@ -8926,7 +10021,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000207,
@@ -8941,7 +10036,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000208,
@@ -8956,7 +10051,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000209,
@@ -8971,7 +10066,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000210,
@@ -8986,7 +10081,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000211,
@@ -9001,7 +10096,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000212,
@@ -9016,7 +10111,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000213,
@@ -9031,7 +10126,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000214,
@@ -9046,7 +10141,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000215,
@@ -9061,7 +10156,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000216,
@@ -9076,7 +10171,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000217,
@@ -9091,7 +10186,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000218,
@@ -9106,7 +10201,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000219,
@@ -9121,7 +10216,37 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
+      },
+      {
+        "advMstId": 70000220,
+        "advType": 1,
+        "has3dMovie": false,
+        "advTitleMstId": 0,
+        "name": "名無し人工知能_4章　ピュエラピクトゥーラ拡張　nightmare / 記憶の光（物語）",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "7_Namae/pp_monogatari_magireco_nightmare_04",
+        "unlockType": 0,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-10T13:18:48+09:00"
+      },
+      {
+        "advMstId": 70000221,
+        "advType": 1,
+        "has3dMovie": false,
+        "advTitleMstId": 0,
+        "name": "名無し人工知能_5章　ピュエラピクトゥーラ拡張　nightmare / 記憶の光（物語）",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "7_Namae/pp_monogatari_magireco_nightmare_05",
+        "unlockType": 0,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000227,
@@ -9136,7 +10261,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000228,
@@ -9151,7 +10276,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000229,
@@ -9166,7 +10291,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000231,
@@ -9181,7 +10306,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000232,
@@ -9196,7 +10321,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000233,
@@ -9211,11 +10336,11 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-04-04T17:02:10+09:00"
+        "releaseTime": "2025-04-10T13:18:48+09:00"
       },
       {
         "advMstId": 70000234,
-        "advType": 1,
+        "advType": 0,
         "has3dMovie": false,
         "advTitleMstId": 75,
         "name": "Prologue1",

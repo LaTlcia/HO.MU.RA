@@ -30,6 +30,45 @@
         "resourceName": ""
       },
       {
+        "shopSeriesMstId": 1004,
+        "title": "★4キオク交換メダル交換所",
+        "description": "",
+        "category": 1,
+        "startTime": "2025-04-11T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00",
+        "shopGroupId1": 1004,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 201017,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 2993,
+        "title": "★5ブレイカーピックアップガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2025-04-14T12:00:00+09:00",
+        "endTime": "2025-04-21T11:59:59+09:00",
+        "shopGroupId1": 2993,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231007,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 2994,
+        "title": "十咎ももこ＆水波レナ＆秋野かえでガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2025-04-11T12:00:00+09:00",
+        "endTime": "2025-04-25T11:59:59+09:00",
+        "shopGroupId1": 2994,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231006,
+        "resourceName": ""
+      },
+      {
         "shopSeriesMstId": 2995,
         "title": "佐倉杏子ガチャ交換所",
         "description": "",
@@ -92,6 +131,32 @@
         "shopGroupId2": 0,
         "payType": 3,
         "payId": 231004,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 3994,
+        "title": "アーカイブメダル交換所",
+        "description": "",
+        "category": 3,
+        "startTime": "2025-04-15T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00",
+        "shopGroupId1": 3994,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 201006,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 3995,
+        "title": "調整屋さんの事件簿１イベント交換所",
+        "description": "",
+        "category": 3,
+        "startTime": "2025-04-11T12:00:00+09:00",
+        "endTime": "2025-04-26T11:59:59+09:00",
+        "shopGroupId1": 3995,
+        "shopGroupId2": 3991,
+        "payType": 3,
+        "payId": 201003,
         "resourceName": ""
       },
       {

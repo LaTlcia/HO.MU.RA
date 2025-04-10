@@ -354,6 +354,111 @@
         "styleLimitBreakEffectMstId2": 1002
       },
       {
+        "styleLimitBreakMstId": 1014010101,
+        "styleMstId": 10140101,
+        "limitBreakCount": 1,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 5001
+      },
+      {
+        "styleLimitBreakMstId": 1014010102,
+        "styleMstId": 10140101,
+        "limitBreakCount": 2,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 5027
+      },
+      {
+        "styleLimitBreakMstId": 1014010103,
+        "styleMstId": 10140101,
+        "limitBreakCount": 3,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 1002
+      },
+      {
+        "styleLimitBreakMstId": 1014010104,
+        "styleMstId": 10140101,
+        "limitBreakCount": 4,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 5002
+      },
+      {
+        "styleLimitBreakMstId": 1014010105,
+        "styleMstId": 10140101,
+        "limitBreakCount": 5,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 1002
+      },
+      {
+        "styleLimitBreakMstId": 1015010101,
+        "styleMstId": 10150101,
+        "limitBreakCount": 1,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 5003
+      },
+      {
+        "styleLimitBreakMstId": 1015010102,
+        "styleMstId": 10150101,
+        "limitBreakCount": 2,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 5026
+      },
+      {
+        "styleLimitBreakMstId": 1015010103,
+        "styleMstId": 10150101,
+        "limitBreakCount": 3,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 1002
+      },
+      {
+        "styleLimitBreakMstId": 1015010104,
+        "styleMstId": 10150101,
+        "limitBreakCount": 4,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 5004
+      },
+      {
+        "styleLimitBreakMstId": 1015010105,
+        "styleMstId": 10150101,
+        "limitBreakCount": 5,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 1002
+      },
+      {
+        "styleLimitBreakMstId": 1016010101,
+        "styleMstId": 10160101,
+        "limitBreakCount": 1,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 5009
+      },
+      {
+        "styleLimitBreakMstId": 1016010102,
+        "styleMstId": 10160101,
+        "limitBreakCount": 2,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 5028
+      },
+      {
+        "styleLimitBreakMstId": 1016010103,
+        "styleMstId": 10160101,
+        "limitBreakCount": 3,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 1002
+      },
+      {
+        "styleLimitBreakMstId": 1016010104,
+        "styleMstId": 10160101,
+        "limitBreakCount": 4,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 5010
+      },
+      {
+        "styleLimitBreakMstId": 1016010105,
+        "styleMstId": 10160101,
+        "limitBreakCount": 5,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 1002
+      },
+      {
         "styleLimitBreakMstId": 1017010101,
         "styleMstId": 10170101,
         "limitBreakCount": 1,

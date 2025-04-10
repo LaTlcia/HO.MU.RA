@@ -64,6 +64,24 @@
         "value1": 10120101
       },
       {
+        "userTitleMstId": 10140101,
+        "title": "エッジオブユニヴァース",
+        "titleType": 1,
+        "value1": 10140101
+      },
+      {
+        "userTitleMstId": 10150101,
+        "title": "インフィニットポセイドン",
+        "titleType": 1,
+        "value1": 10150101
+      },
+      {
+        "userTitleMstId": 10160101,
+        "title": "ジャッジメントアース",
+        "titleType": 1,
+        "value1": 10160101
+      },
+      {
         "userTitleMstId": 10800101,
         "title": "ソウル・サルベーション",
         "titleType": 1,
@@ -347,7 +365,13 @@
       },
       {
         "userTitleMstId": 20201002,
-        "title": "マチビト馬のウワサ Mainクリア",
+        "title": "マチビト馬のうわさ Mainクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20201003,
+        "title": "名無し人工知能のうわさ Mainクリア",
         "titleType": 0,
         "value1": 0
       },
@@ -359,7 +383,13 @@
       },
       {
         "userTitleMstId": 20202002,
-        "title": "マチビト馬のウワサ Battleクリア",
+        "title": "マチビト馬のうわさ Battleクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20202003,
+        "title": "名無し人工知能のうわさ Battleクリア",
         "titleType": 0,
         "value1": 0
       },
@@ -371,7 +401,13 @@
       },
       {
         "userTitleMstId": 20203002,
-        "title": "マチビト馬のウワサ Nightmareクリア",
+        "title": "マチビト馬のうわさ Nightmareクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20203003,
+        "title": "名無し人工知能のうわさ Nightmareクリア",
         "titleType": 0,
         "value1": 0
       },
@@ -524,6 +560,12 @@
         "title": "フェアウェル・ストーリー 後編クリア",
         "titleType": 2,
         "value1": 4200003
+      },
+      {
+        "userTitleMstId": 60000006,
+        "title": "調整屋さんの事件簿１ 多世界解釈のポエジークリア",
+        "titleType": 2,
+        "value1": 4200009
       },
       {
         "userTitleMstId": 70000001,

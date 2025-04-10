@@ -365,7 +365,7 @@
       },
       {
         "collectionConditionGroupMstId": 55,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 61900,
         "conditionGroupId1": 2012,
         "conditionGroupId2": 2017,
         "advMstId1": 70000077,
@@ -373,7 +373,7 @@
       },
       {
         "collectionConditionGroupMstId": 56,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 61900,
         "conditionGroupId1": 2001,
         "conditionGroupId2": 2005,
         "advMstId1": 70000078,
@@ -381,7 +381,7 @@
       },
       {
         "collectionConditionGroupMstId": 57,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 62000,
         "conditionGroupId1": 2004,
         "conditionGroupId2": 2019,
         "advMstId1": 70000079,
@@ -389,7 +389,7 @@
       },
       {
         "collectionConditionGroupMstId": 58,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 62000,
         "conditionGroupId1": 2020,
         "conditionGroupId2": 2013,
         "advMstId1": 70000080,
@@ -445,7 +445,7 @@
       },
       {
         "collectionConditionGroupMstId": 65,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 61900,
         "conditionGroupId1": 0,
         "conditionGroupId2": 2101,
         "advMstId1": 0,
@@ -453,7 +453,7 @@
       },
       {
         "collectionConditionGroupMstId": 66,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 61900,
         "conditionGroupId1": 0,
         "conditionGroupId2": 2102,
         "advMstId1": 0,
@@ -461,7 +461,7 @@
       },
       {
         "collectionConditionGroupMstId": 67,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 62000,
         "conditionGroupId1": 0,
         "conditionGroupId2": 2104,
         "advMstId1": 0,
@@ -469,7 +469,7 @@
       },
       {
         "collectionConditionGroupMstId": 68,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 62000,
         "conditionGroupId1": 0,
         "conditionGroupId2": 2108,
         "advMstId1": 0,
@@ -525,7 +525,7 @@
       },
       {
         "collectionConditionGroupMstId": 75,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 61900,
         "conditionGroupId1": 2205,
         "conditionGroupId2": 2203,
         "advMstId1": 70000220,
@@ -533,7 +533,7 @@
       },
       {
         "collectionConditionGroupMstId": 76,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 61900,
         "conditionGroupId1": 2202,
         "conditionGroupId2": 2217,
         "advMstId1": 70000221,
@@ -541,7 +541,7 @@
       },
       {
         "collectionConditionGroupMstId": 77,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 62000,
         "conditionGroupId1": 2219,
         "conditionGroupId2": 2213,
         "advMstId1": 70000222,
@@ -549,7 +549,7 @@
       },
       {
         "collectionConditionGroupMstId": 78,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 62000,
         "conditionGroupId1": 2207,
         "conditionGroupId2": 2204,
         "advMstId1": 70000223,

@@ -74,20 +74,6 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5004,
-        "prevMissionTitleMstId": 0,
-        "title": "ＤＡＮＣＥ☆ＭＡＧＩＣＡイベントミッション",
-        "priority": 11,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5006,
-        "prevMissionTitleMstId": 0,
-        "title": "育成応援ミッション",
-        "priority": 3,
-        "featuredRewardResourceName": ""
-      },
-      {
         "missionTitleMstId": 5007,
         "prevMissionTitleMstId": 0,
         "title": "育成応援ミッション 第2弾",
@@ -99,6 +85,20 @@
         "prevMissionTitleMstId": 0,
         "title": "スコアアタック攻略応援ミッション",
         "priority": 4,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5009,
+        "prevMissionTitleMstId": 0,
+        "title": "育成応援ミッション 第3弾",
+        "priority": 3,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5013,
+        "prevMissionTitleMstId": 0,
+        "title": "調整屋さんの事件簿１イベントミッション",
+        "priority": 15,
         "featuredRewardResourceName": ""
       }
     ]

@@ -184,6 +184,33 @@
         "advMstId": 0
       },
       {
+        "miniTutorialMstId": 2701,
+        "miniTutorialNumber": 27,
+        "sortOrder": 1,
+        "title": "タワー",
+        "description": "タワーは鏡層を順に攻略していくコンテンツで、期間限定で開催されます。\n各鏡層をクリアすると報酬が獲得でき、先に進むほど報酬が豪華になります。",
+        "resourceName": "tower_01",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 2702,
+        "miniTutorialNumber": 27,
+        "sortOrder": 2,
+        "title": "タワー",
+        "description": "クリアした鏡層は1日に3回までスキップしてA-Qチップを獲得できます。",
+        "resourceName": "tower_02",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 2703,
+        "miniTutorialNumber": 27,
+        "sortOrder": 3,
+        "title": "タワー",
+        "description": "開催毎に第1鏡層からスタートとなり、再度クリア報酬が獲得できます。\nクリアできなかった鏡層は次回クリアを目指し、キオクを育成しましょう。",
+        "resourceName": "tower_03",
+        "advMstId": 0
+      },
+      {
         "miniTutorialMstId": 4101,
         "miniTutorialNumber": 41,
         "sortOrder": 1,

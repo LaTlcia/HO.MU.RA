@@ -181,7 +181,7 @@
       },
       {
         "fieldSeriesMstId": 61800,
-        "name": "マチビト馬のウワサ",
+        "name": "マチビト馬のうわさ",
         "questMapMstId": 2,
         "questGroupMstId": 61800,
         "styleMstId": 0,
@@ -192,12 +192,23 @@
       },
       {
         "fieldSeriesMstId": 61900,
-        "name": "名無し人工知能のウワサ",
+        "name": "名無し人工知能のうわさ",
         "questMapMstId": 2,
         "questGroupMstId": 61900,
         "styleMstId": 0,
         "assetbundleName": "61900_01",
-        "startTime": "2033-01-02T10:00:00+09:00",
+        "startTime": "2025-04-11T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1
+      },
+      {
+        "fieldSeriesMstId": 62000,
+        "name": "キレートビッグフェリスのうわさ",
+        "questMapMstId": 2,
+        "questGroupMstId": 62000,
+        "styleMstId": 0,
+        "assetbundleName": "62000_01",
+        "startTime": "2050-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
         "sortOrder": 1
       }

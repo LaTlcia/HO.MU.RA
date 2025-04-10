@@ -55,6 +55,23 @@
         "description": "戦いの中で信頼を深める杏子とマミ\nだがある日、願いが元で全てを失ってしまった杏子は\n二度と他人のために魔法を使わないと決意する――\n（ドラマCD『フェアウェル・ストーリー』）"
       },
       {
+        "storyEventMstId": 6,
+        "name": "調整屋さんの事件簿１ 多世界解釈のポエジー",
+        "storyQuestGroupId": 1009,
+        "scoreAttackMstId": 0,
+        "eventItemId": 201003,
+        "shopSeriesMstId": 3995,
+        "bonusStyleIds": "0",
+        "isEndPlayable": true,
+        "endDisplayTime": "2050-12-31T23:59:59+09:00",
+        "sortOrder": 9996,
+        "eventStartDirection": 1,
+        "topImageName": "7",
+        "bannerImageName": "banner_00036",
+        "bossCameraAssetName": "0",
+        "description": "「いらっしゃい　八雲探偵事務所へようこそ」\n推理小説に夢中になり、探偵になりきるみたま\nそんな時、調整屋に“ありえない記憶”を持つ少女が現れる\nみたまは、その記憶の謎を解くために動き出す…"
+      },
+      {
         "storyEventMstId": 10000,
         "name": "焦らずゆっくり未来へ ～魔法少女に夢を見て～",
         "storyQuestGroupId": 1004,

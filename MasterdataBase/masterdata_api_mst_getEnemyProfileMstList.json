@@ -576,6 +576,34 @@
         "unlockType": 1,
         "unlockId": 0,
         "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "enemyProfileMstId": 619001,
+        "enemyUniqueId": 619001,
+        "enemyMstId": 619001,
+        "name": "名無し人工知能のウワサ",
+        "runesName": "",
+        "seriesId": 2,
+        "description": "アラもう聞いた？誰から聞いた？<br>名無し人工知能のそのウワサ<br>知らない人からピロン♪と受け取る、謎の人からのイタズラメッセ！<br>それはみんなを監禁しちゃう、名無し人工知能のアマイワナ！<br>悪いことを覚えたせいでデジタルの世界で隔離され、ひとりぼっちで寂しい彼女。<br>捕まえた人を手放さないって、中央区の人の間ではもっぱらのウワサ。<br>スタンダローン！",
+        "sortOrder": 0,
+        "isCollectionDisp": true,
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
+        "enemyProfileMstId": 619002,
+        "enemyUniqueId": 619002,
+        "enemyMstId": 619002,
+        "name": "名無しメールのウワサ",
+        "runesName": "",
+        "seriesId": 2,
+        "description": "アラもう聞いた？誰から聞いた？<br>名無しメールのそのウワサ<br>１通、100通、1000通!?人工知能の想いを届けるネットの世界の郵便屋さん！<br>背中に紙飛行機のメェ～ルを乗せて、相手の住所に飛んでいくと、<br>ピロン♪とみんなに合図を送って名無しのメールを残してく！<br>時々画面にチラッと顔を見せるって、中央区の人の間ではもっぱらのウワサ。<br>ダレコレー！",
+        "sortOrder": 0,
+        "isCollectionDisp": true,
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2025-04-11T12:00:00+09:00"
       }
     ]
   }

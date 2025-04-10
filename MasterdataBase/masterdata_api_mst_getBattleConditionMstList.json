@@ -5119,9 +5119,9 @@
         "battleConditionMstId": 640,
         "description": "対象は自身以外",
         "compareTarget": 8,
-        "compareContent": 10,
+        "compareContent": 8,
         "compareOperator": 1,
-        "compareValue": "TRUE"
+        "compareValue": "FALSE"
       },
       {
         "battleConditionMstId": 641,
@@ -5234,6 +5234,774 @@
         "compareContent": 16,
         "compareOperator": 1,
         "compareValue": "TRUE"
+      },
+      {
+        "battleConditionMstId": 656,
+        "description": "味方が1回以上ブレイクした場合",
+        "compareTarget": 5,
+        "compareContent": 302,
+        "compareOperator": 4,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 657,
+        "description": "トークンが21のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "21"
+      },
+      {
+        "battleConditionMstId": 658,
+        "description": "トークンが22のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "22"
+      },
+      {
+        "battleConditionMstId": 659,
+        "description": "トークンが23のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "23"
+      },
+      {
+        "battleConditionMstId": 660,
+        "description": "トークンが24のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "24"
+      },
+      {
+        "battleConditionMstId": 661,
+        "description": "トークンが25のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "25"
+      },
+      {
+        "battleConditionMstId": 662,
+        "description": "トークンが26のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "26"
+      },
+      {
+        "battleConditionMstId": 663,
+        "description": "トークンが27のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "27"
+      },
+      {
+        "battleConditionMstId": 664,
+        "description": "トークンが28のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "28"
+      },
+      {
+        "battleConditionMstId": 665,
+        "description": "トークンが29のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "29"
+      },
+      {
+        "battleConditionMstId": 666,
+        "description": "トークンが30のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "30"
+      },
+      {
+        "battleConditionMstId": 667,
+        "description": "トークンが31のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "31"
+      },
+      {
+        "battleConditionMstId": 668,
+        "description": "トークンが32のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "32"
+      },
+      {
+        "battleConditionMstId": 669,
+        "description": "トークンが33のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "33"
+      },
+      {
+        "battleConditionMstId": 670,
+        "description": "トークンが34のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "34"
+      },
+      {
+        "battleConditionMstId": 671,
+        "description": "トークンが35のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "35"
+      },
+      {
+        "battleConditionMstId": 672,
+        "description": "トークンが36のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "36"
+      },
+      {
+        "battleConditionMstId": 673,
+        "description": "トークンが37のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "37"
+      },
+      {
+        "battleConditionMstId": 674,
+        "description": "トークンが38のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "38"
+      },
+      {
+        "battleConditionMstId": 675,
+        "description": "トークンが39のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "39"
+      },
+      {
+        "battleConditionMstId": 676,
+        "description": "トークンが40のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "40"
+      },
+      {
+        "battleConditionMstId": 677,
+        "description": "トークンが41のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "41"
+      },
+      {
+        "battleConditionMstId": 678,
+        "description": "トークンが42のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "42"
+      },
+      {
+        "battleConditionMstId": 679,
+        "description": "トークンが43のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "43"
+      },
+      {
+        "battleConditionMstId": 680,
+        "description": "トークンが44のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "44"
+      },
+      {
+        "battleConditionMstId": 681,
+        "description": "トークンが45のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "45"
+      },
+      {
+        "battleConditionMstId": 682,
+        "description": "トークンが46のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "46"
+      },
+      {
+        "battleConditionMstId": 683,
+        "description": "トークンが47のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "47"
+      },
+      {
+        "battleConditionMstId": 684,
+        "description": "トークンが48のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "48"
+      },
+      {
+        "battleConditionMstId": 685,
+        "description": "トークンが49のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "49"
+      },
+      {
+        "battleConditionMstId": 686,
+        "description": "トークンが50のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "50"
+      },
+      {
+        "battleConditionMstId": 687,
+        "description": "トークンが51のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "51"
+      },
+      {
+        "battleConditionMstId": 688,
+        "description": "トークンが52のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "52"
+      },
+      {
+        "battleConditionMstId": 689,
+        "description": "トークンが53のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "53"
+      },
+      {
+        "battleConditionMstId": 690,
+        "description": "トークンが54のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "54"
+      },
+      {
+        "battleConditionMstId": 691,
+        "description": "トークンが55のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "55"
+      },
+      {
+        "battleConditionMstId": 692,
+        "description": "トークンが56のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "56"
+      },
+      {
+        "battleConditionMstId": 693,
+        "description": "トークンが57のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "57"
+      },
+      {
+        "battleConditionMstId": 694,
+        "description": "トークンが58のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "58"
+      },
+      {
+        "battleConditionMstId": 695,
+        "description": "トークンが59のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "59"
+      },
+      {
+        "battleConditionMstId": 696,
+        "description": "トークンが60のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "60"
+      },
+      {
+        "battleConditionMstId": 697,
+        "description": "トークンが61のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "61"
+      },
+      {
+        "battleConditionMstId": 698,
+        "description": "トークンが62のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "62"
+      },
+      {
+        "battleConditionMstId": 699,
+        "description": "トークンが63のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "63"
+      },
+      {
+        "battleConditionMstId": 700,
+        "description": "トークンが64のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "64"
+      },
+      {
+        "battleConditionMstId": 701,
+        "description": "トークンが65のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "65"
+      },
+      {
+        "battleConditionMstId": 702,
+        "description": "トークンが66のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "66"
+      },
+      {
+        "battleConditionMstId": 703,
+        "description": "トークンが67のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "67"
+      },
+      {
+        "battleConditionMstId": 704,
+        "description": "トークンが68のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "68"
+      },
+      {
+        "battleConditionMstId": 705,
+        "description": "トークンが69のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "69"
+      },
+      {
+        "battleConditionMstId": 706,
+        "description": "トークンが70のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "70"
+      },
+      {
+        "battleConditionMstId": 707,
+        "description": "トークンが71のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "71"
+      },
+      {
+        "battleConditionMstId": 708,
+        "description": "トークンが72のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "72"
+      },
+      {
+        "battleConditionMstId": 709,
+        "description": "トークンが73のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "73"
+      },
+      {
+        "battleConditionMstId": 710,
+        "description": "トークンが74のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "74"
+      },
+      {
+        "battleConditionMstId": 711,
+        "description": "トークンが75のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "75"
+      },
+      {
+        "battleConditionMstId": 712,
+        "description": "トークンが76のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "76"
+      },
+      {
+        "battleConditionMstId": 713,
+        "description": "トークンが77のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "77"
+      },
+      {
+        "battleConditionMstId": 714,
+        "description": "トークンが78のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "78"
+      },
+      {
+        "battleConditionMstId": 715,
+        "description": "トークンが79のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "79"
+      },
+      {
+        "battleConditionMstId": 716,
+        "description": "トークンが80のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "80"
+      },
+      {
+        "battleConditionMstId": 717,
+        "description": "トークンが81のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "81"
+      },
+      {
+        "battleConditionMstId": 718,
+        "description": "トークンが82のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "82"
+      },
+      {
+        "battleConditionMstId": 719,
+        "description": "トークンが83のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "83"
+      },
+      {
+        "battleConditionMstId": 720,
+        "description": "トークンが84のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "84"
+      },
+      {
+        "battleConditionMstId": 721,
+        "description": "トークンが85のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "85"
+      },
+      {
+        "battleConditionMstId": 722,
+        "description": "トークンが86のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "86"
+      },
+      {
+        "battleConditionMstId": 723,
+        "description": "トークンが87のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "87"
+      },
+      {
+        "battleConditionMstId": 724,
+        "description": "トークンが88のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "88"
+      },
+      {
+        "battleConditionMstId": 725,
+        "description": "トークンが89のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "89"
+      },
+      {
+        "battleConditionMstId": 726,
+        "description": "トークンが90のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "90"
+      },
+      {
+        "battleConditionMstId": 727,
+        "description": "トークンが91のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "91"
+      },
+      {
+        "battleConditionMstId": 728,
+        "description": "トークンが92のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "92"
+      },
+      {
+        "battleConditionMstId": 729,
+        "description": "トークンが93のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "93"
+      },
+      {
+        "battleConditionMstId": 730,
+        "description": "トークンが94のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "94"
+      },
+      {
+        "battleConditionMstId": 731,
+        "description": "トークンが95のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "95"
+      },
+      {
+        "battleConditionMstId": 732,
+        "description": "トークンが96のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "96"
+      },
+      {
+        "battleConditionMstId": 733,
+        "description": "トークンが97のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "97"
+      },
+      {
+        "battleConditionMstId": 734,
+        "description": "トークンが98のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "98"
+      },
+      {
+        "battleConditionMstId": 735,
+        "description": "トークンが99のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 1,
+        "compareValue": "99"
+      },
+      {
+        "battleConditionMstId": 736,
+        "description": "自分のHPが20％未満",
+        "compareTarget": 1,
+        "compareContent": 2,
+        "compareOperator": 5,
+        "compareValue": "20"
+      },
+      {
+        "battleConditionMstId": 737,
+        "description": "行動対象にバリアが貼られている場合",
+        "compareTarget": 3,
+        "compareContent": 12,
+        "compareOperator": 7,
+        "compareValue": "BARRIER"
+      },
+      {
+        "battleConditionMstId": 738,
+        "description": "行動対象にシールドが貼られている場合",
+        "compareTarget": 3,
+        "compareContent": 12,
+        "compareOperator": 7,
+        "compareValue": "SHIELD"
+      },
+      {
+        "battleConditionMstId": 739,
+        "description": "バリアが張られた敵が1体存在する場合",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 1,
+        "compareValue": "BARRIER,1"
+      },
+      {
+        "battleConditionMstId": 740,
+        "description": "バリアが張られた敵が2体存在する場合",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 1,
+        "compareValue": "BARRIER,2"
+      },
+      {
+        "battleConditionMstId": 741,
+        "description": "バリアが張られた敵が3体存在する場合",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 1,
+        "compareValue": "BARRIER,3"
+      },
+      {
+        "battleConditionMstId": 742,
+        "description": "バリアが張られた敵が4体存在する場合",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 1,
+        "compareValue": "BARRIER,4"
+      },
+      {
+        "battleConditionMstId": 743,
+        "description": "バリアが張られた敵が5体存在する場合",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 1,
+        "compareValue": "BARRIER,5"
+      },
+      {
+        "battleConditionMstId": 744,
+        "description": "行動対象が「呪い」の場合",
+        "compareTarget": 3,
+        "compareContent": 12,
+        "compareOperator": 7,
+        "compareValue": "CURSE"
+      },
+      {
+        "battleConditionMstId": 749,
+        "description": "対象のHPが50%未満のとき",
+        "compareTarget": 8,
+        "compareContent": 2,
+        "compareOperator": 5,
+        "compareValue": "50"
+      },
+      {
+        "battleConditionMstId": 750,
+        "description": "対象のHPが50%以上のとき",
+        "compareTarget": 8,
+        "compareContent": 2,
+        "compareOperator": 4,
+        "compareValue": "50"
+      },
+      {
+        "battleConditionMstId": 751,
+        "description": "対象のデバフ数が0",
+        "compareTarget": 8,
+        "compareContent": 25,
+        "compareOperator": 1,
+        "compareValue": "0"
+      },
+      {
+        "battleConditionMstId": 752,
+        "description": "対象のデバフ数が1",
+        "compareTarget": 8,
+        "compareContent": 25,
+        "compareOperator": 1,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 753,
+        "description": "対象のデバフ数が2",
+        "compareTarget": 8,
+        "compareContent": 25,
+        "compareOperator": 1,
+        "compareValue": "2"
+      },
+      {
+        "battleConditionMstId": 754,
+        "description": "対象のデバフ数が3以上",
+        "compareTarget": 8,
+        "compareContent": 25,
+        "compareOperator": 4,
+        "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 755,
+        "description": "味方が1体以上ブレイク状態のとき",
+        "compareTarget": 5,
+        "compareContent": 302,
+        "compareOperator": 4,
+        "compareValue": "1"
       }
     ]
   }
