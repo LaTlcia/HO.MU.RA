@@ -2704,6 +2704,66 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 404601,
+        "skillUniqueId": 4046,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "防御力+2.5%<br>【美樹さやかに装備時に追加】<br>受けるダメージ-0.3%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 404602,
+        "skillUniqueId": 4046,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "防御力+3%<br>【美樹さやかに装備時に追加】<br>受けるダメージ-0.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 404603,
+        "skillUniqueId": 4046,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "防御力+3.5%<br>【美樹さやかに装備時に追加】<br>受けるダメージ-0.7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 404604,
+        "skillUniqueId": 4046,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "防御力+4%<br>【美樹さやかに装備時に追加】<br>受けるダメージ-0.9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 404605,
+        "skillUniqueId": 4046,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "防御力+4.5%<br>【美樹さやかに装備時に追加】<br>受けるダメージ-1.1%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 404606,
+        "skillUniqueId": 4046,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "防御力+5%<br>【美樹さやかに装備時に追加】<br>受けるダメージ-1.3%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 404701,
         "skillUniqueId": 4047,
         "level": 1,
@@ -2999,6 +3059,126 @@
         "level": 6,
         "name": "【アビリティ】",
         "description": "最大HP+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405201,
+        "skillUniqueId": 4052,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "防御力+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405202,
+        "skillUniqueId": 4052,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "防御力+8.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405203,
+        "skillUniqueId": 4052,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "防御力+9.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405204,
+        "skillUniqueId": 4052,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "防御力+10.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405205,
+        "skillUniqueId": 4052,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "防御力+11.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405206,
+        "skillUniqueId": 4052,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "防御力+12.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405301,
+        "skillUniqueId": 4053,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "ブレイク特効+15%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405302,
+        "skillUniqueId": 4053,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "ブレイク特効+17%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405303,
+        "skillUniqueId": 4053,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "ブレイク特効+19%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405304,
+        "skillUniqueId": 4053,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "ブレイク特効+21%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405305,
+        "skillUniqueId": 4053,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "ブレイク特効+23%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405306,
+        "skillUniqueId": 4053,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "ブレイク特効+25%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -11224,6 +11404,106 @@
         "skillButtonIcon": "battle_icon_passive_buff"
       },
       {
+        "passiveSkillMstId": 1501101,
+        "skillUniqueId": 15011,
+        "level": 1,
+        "name": "ガードヒール",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力30%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP2%+20回復する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1501102,
+        "skillUniqueId": 15011,
+        "level": 2,
+        "name": "ガードヒール",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力31%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP2%+33回復する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1501103,
+        "skillUniqueId": 15011,
+        "level": 3,
+        "name": "ガードヒール",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力33%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP2%+49回復する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1501104,
+        "skillUniqueId": 15011,
+        "level": 4,
+        "name": "ガードヒール",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力35%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP3%+67回復する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1501105,
+        "skillUniqueId": 15011,
+        "level": 5,
+        "name": "ガードヒール",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力37%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP3%+87回復する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1501106,
+        "skillUniqueId": 15011,
+        "level": 6,
+        "name": "ガードヒール",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力40%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP3%+107回復する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1501107,
+        "skillUniqueId": 15011,
+        "level": 7,
+        "name": "ガードヒール",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力42%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP4%+128回復する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1501108,
+        "skillUniqueId": 15011,
+        "level": 8,
+        "name": "ガードヒール",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力44%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP4%+150回復する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1501109,
+        "skillUniqueId": 15011,
+        "level": 9,
+        "name": "ガードヒール",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力47%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP5%+173回復する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1501110,
+        "skillUniqueId": 15011,
+        "level": 10,
+        "name": "ガードヒール",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力50%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP5%+200回復する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
         "passiveSkillMstId": 1501201,
         "skillUniqueId": 15012,
         "level": 1,
@@ -12888,7 +13168,7 @@
         "skillUniqueId": 5001009,
         "level": 1,
         "name": "アビリティⅣ",
-        "description": "偶数ターンに2回行動する<br>さらにHPが50％未満の時、攻撃力とスピードが上昇する",
+        "description": "偶数ターンに2回行動する<br>さらにHPが50％未満の時、攻撃力と防御力が上昇する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -14409,6 +14689,16 @@
         "level": 1,
         "name": "限界突破効果",
         "description": "狙われる確率上昇。<br>バリアが付与されている味方全体のクリティカルダメージ+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 8502801,
+        "skillUniqueId": 85028,
+        "level": 1,
+        "name": "限界突破効果",
+        "description": "味方全体の受けるダメージ-20%。<br>【反撃】が発動したとき魔力+1",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -19451,6 +19741,106 @@
         "description": "【ディフェンダーに装備時】<br>狙われる確率上昇<br>受けるダメージ-10%",
         "conditionElement": 0,
         "conditionRole": 6,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501301,
+        "skillUniqueId": 95013,
+        "level": 1,
+        "name": "ガードディフェンド",
+        "description": "【水属性に装備時】<br>受けるダメージ-4.5%<br>敵にダメージを与えたとき防御力+1.2%(最大累積5回)",
+        "conditionElement": 2,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501302,
+        "skillUniqueId": 95013,
+        "level": 2,
+        "name": "ガードディフェンド",
+        "description": "【水属性に装備時】<br>受けるダメージ-4.8%<br>敵にダメージを与えたとき防御力+1.4%(最大累積5回)",
+        "conditionElement": 2,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501303,
+        "skillUniqueId": 95013,
+        "level": 3,
+        "name": "ガードディフェンド",
+        "description": "【水属性に装備時】<br>受けるダメージ-5.2%<br>敵にダメージを与えたとき防御力+1.7%(最大累積5回)",
+        "conditionElement": 2,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501304,
+        "skillUniqueId": 95013,
+        "level": 4,
+        "name": "ガードディフェンド",
+        "description": "【水属性に装備時】<br>受けるダメージ-5.5%<br>敵にダメージを与えたとき防御力+2%(最大累積5回)",
+        "conditionElement": 2,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501305,
+        "skillUniqueId": 95013,
+        "level": 5,
+        "name": "ガードディフェンド",
+        "description": "【水属性に装備時】<br>受けるダメージ-5.8%<br>敵にダメージを与えたとき防御力+2.2%(最大累積5回)",
+        "conditionElement": 2,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501306,
+        "skillUniqueId": 95013,
+        "level": 6,
+        "name": "ガードディフェンド",
+        "description": "【水属性に装備時】<br>受けるダメージ-6.2%<br>敵にダメージを与えたとき防御力+2.5%(最大累積5回)",
+        "conditionElement": 2,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501307,
+        "skillUniqueId": 95013,
+        "level": 7,
+        "name": "ガードディフェンド",
+        "description": "【水属性に装備時】<br>受けるダメージ-6.5%<br>敵にダメージを与えたとき防御力+2.8%(最大累積5回)",
+        "conditionElement": 2,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501308,
+        "skillUniqueId": 95013,
+        "level": 8,
+        "name": "ガードディフェンド",
+        "description": "【水属性に装備時】<br>受けるダメージ-6.8%<br>敵にダメージを与えたとき防御力+3%(最大累積5回)",
+        "conditionElement": 2,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501309,
+        "skillUniqueId": 95013,
+        "level": 9,
+        "name": "ガードディフェンド",
+        "description": "【水属性に装備時】<br>受けるダメージ-7.2%<br>敵にダメージを与えたとき防御力+3.3%(最大累積5回)",
+        "conditionElement": 2,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501310,
+        "skillUniqueId": 95013,
+        "level": 10,
+        "name": "ガードディフェンド",
+        "description": "【水属性に装備時】<br>受けるダメージ-7.5%<br>敵にダメージを与えたとき防御力+3.5%(最大累積5回)",
+        "conditionElement": 2,
+        "conditionRole": 0,
         "skillButtonIcon": "battle_icon_supportpassive_buff"
       },
       {

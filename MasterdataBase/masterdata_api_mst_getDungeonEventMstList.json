@@ -27416,6 +27416,20 @@
         "order": 0
       },
       {
+        "dungeonEventMstId": 31118117,
+        "dungeonRoomMstId": 0,
+        "dungeonMstId": 0,
+        "dungeonPointId": 0,
+        "eventType": 31,
+        "value1": 118117,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "isHidden": false,
+        "dungeonRoomId": 0,
+        "order": 0
+      },
+      {
         "dungeonEventMstId": 31118118,
         "dungeonRoomMstId": 0,
         "dungeonMstId": 0,

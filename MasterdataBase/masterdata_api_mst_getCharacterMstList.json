@@ -32,6 +32,13 @@
         "colorCode": "#EA9C54"
       },
       {
+        "characterMstId": 1004,
+        "name": "美樹さやか",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1004",
+        "colorCode": "#64C5E6"
+      },
+      {
         "characterMstId": 1005,
         "name": "佐倉杏子",
         "awakeItemMstId": 0,

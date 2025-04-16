@@ -12,7 +12,8 @@
         "assetbundleName": "60000_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 0
       },
       {
         "fieldSeriesMstId": 60001,
@@ -23,7 +24,8 @@
         "assetbundleName": "60001_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000040
       },
       {
         "fieldSeriesMstId": 60100,
@@ -34,7 +36,8 @@
         "assetbundleName": "60100_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000041
       },
       {
         "fieldSeriesMstId": 60200,
@@ -45,7 +48,8 @@
         "assetbundleName": "60200_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000042
       },
       {
         "fieldSeriesMstId": 60300,
@@ -56,7 +60,8 @@
         "assetbundleName": "60300_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000043
       },
       {
         "fieldSeriesMstId": 60400,
@@ -67,7 +72,8 @@
         "assetbundleName": "60400_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000044
       },
       {
         "fieldSeriesMstId": 60500,
@@ -78,7 +84,8 @@
         "assetbundleName": "60500_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000045
       },
       {
         "fieldSeriesMstId": 60600,
@@ -89,7 +96,8 @@
         "assetbundleName": "60600_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000046
       },
       {
         "fieldSeriesMstId": 60700,
@@ -100,7 +108,8 @@
         "assetbundleName": "60700_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000047
       },
       {
         "fieldSeriesMstId": 60800,
@@ -111,7 +120,8 @@
         "assetbundleName": "60800_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000048
       },
       {
         "fieldSeriesMstId": 60900,
@@ -122,7 +132,8 @@
         "assetbundleName": "60900_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000049
       },
       {
         "fieldSeriesMstId": 61000,
@@ -133,7 +144,8 @@
         "assetbundleName": "61000_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000050
       },
       {
         "fieldSeriesMstId": 61100,
@@ -144,7 +156,8 @@
         "assetbundleName": "61100_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000051
       },
       {
         "fieldSeriesMstId": 61200,
@@ -155,7 +168,8 @@
         "assetbundleName": "61200_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000052
       },
       {
         "fieldSeriesMstId": 61500,
@@ -166,7 +180,8 @@
         "assetbundleName": "61500_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000059
       },
       {
         "fieldSeriesMstId": 61700,
@@ -177,7 +192,8 @@
         "assetbundleName": "61700_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000053
       },
       {
         "fieldSeriesMstId": 61800,
@@ -188,7 +204,8 @@
         "assetbundleName": "61800_01",
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000054
       },
       {
         "fieldSeriesMstId": 61900,
@@ -199,18 +216,20 @@
         "assetbundleName": "61900_01",
         "startTime": "2025-04-11T12:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000055
       },
       {
         "fieldSeriesMstId": 62000,
-        "name": "キレートビッグフェリスのうわさ",
+        "name": "???",
         "questMapMstId": 2,
         "questGroupMstId": 62000,
         "styleMstId": 0,
         "assetbundleName": "62000_01",
         "startTime": "2050-01-02T10:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
-        "sortOrder": 1
+        "sortOrder": 1,
+        "advMstId": 70000056
       }
     ]
   }

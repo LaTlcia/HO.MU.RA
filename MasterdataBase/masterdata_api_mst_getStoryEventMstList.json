@@ -55,6 +55,23 @@
         "description": "戦いの中で信頼を深める杏子とマミ\nだがある日、願いが元で全てを失ってしまった杏子は\n二度と他人のために魔法を使わないと決意する――\n（ドラマCD『フェアウェル・ストーリー』）"
       },
       {
+        "storyEventMstId": 4,
+        "name": "サニーデイライフ 前編",
+        "storyQuestGroupId": 1006,
+        "scoreAttackMstId": 0,
+        "eventItemId": 201012,
+        "shopSeriesMstId": 3993,
+        "bonusStyleIds": "0",
+        "isEndPlayable": true,
+        "endDisplayTime": "2050-12-31T23:59:59+09:00",
+        "sortOrder": 9995,
+        "eventStartDirection": 1,
+        "topImageName": "5",
+        "bannerImageName": "banner_00034",
+        "bossCameraAssetName": "0",
+        "description": "――魔法少女してたら、おバカになっちゃった！\n追試対策のため、マミの家に集まった５人の魔法少女たち\n勉強会が始まろうとした矢先、仁美の悲鳴が聞こえてきて!?\n（ドラマCD『サニーデイライフ』）"
+      },
+      {
         "storyEventMstId": 6,
         "name": "調整屋さんの事件簿１ 多世界解釈のポエジー",
         "storyQuestGroupId": 1009,

@@ -242,6 +242,23 @@
         "reprintNum": 0
       },
       {
+        "questGroupMstId": 1006,
+        "questCategoryMstId": 9,
+        "questMapMstId": 0,
+        "groupType": 1,
+        "name": "サニーデイライフ 前編",
+        "resourceName": "1006",
+        "startTime": "2025-04-18T12:00:00+09:00",
+        "endTime": "2025-05-09T11:59:59+09:00",
+        "sortOrder": 96,
+        "priorityTerm": 0,
+        "dailyBattleClearLimit": 0,
+        "playableWeekDays": "",
+        "keyQuestType": 0,
+        "keyItemMstId": 0,
+        "reprintNum": 0
+      },
+      {
         "questGroupMstId": 1009,
         "questCategoryMstId": 9,
         "questMapMstId": 0,

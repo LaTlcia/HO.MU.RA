@@ -60,31 +60,10 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5001,
+        "missionTitleMstId": 5003,
         "prevMissionTitleMstId": 0,
-        "title": "フェアウェル・ストーリー 前編イベントミッション",
-        "priority": 10,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5002,
-        "prevMissionTitleMstId": 0,
-        "title": "フェアウェル・ストーリー 後編イベントミッション",
-        "priority": 12,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5007,
-        "prevMissionTitleMstId": 0,
-        "title": "育成応援ミッション 第2弾",
-        "priority": 3,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5008,
-        "prevMissionTitleMstId": 0,
-        "title": "スコアアタック攻略応援ミッション",
-        "priority": 4,
+        "title": "サニーデイライフ 前編イベントミッション",
+        "priority": 13,
         "featuredRewardResourceName": ""
       },
       {
@@ -92,6 +71,20 @@
         "prevMissionTitleMstId": 0,
         "title": "育成応援ミッション 第3弾",
         "priority": 3,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5010,
+        "prevMissionTitleMstId": 0,
+        "title": "育成応援ミッション 第4弾",
+        "priority": 3,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5011,
+        "prevMissionTitleMstId": 0,
+        "title": "タワー攻略応援ミッション",
+        "priority": 4,
         "featuredRewardResourceName": ""
       },
       {

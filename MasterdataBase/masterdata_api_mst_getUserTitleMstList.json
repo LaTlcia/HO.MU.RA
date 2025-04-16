@@ -28,6 +28,12 @@
         "value1": 10030101
       },
       {
+        "userTitleMstId": 10040101,
+        "title": "バルダメンテ・フォルティッシモ",
+        "titleType": 1,
+        "value1": 10040101
+      },
+      {
         "userTitleMstId": 10050101,
         "title": "盟神抉槍",
         "titleType": 1,
@@ -560,6 +566,12 @@
         "title": "フェアウェル・ストーリー 後編クリア",
         "titleType": 2,
         "value1": 4200003
+      },
+      {
+        "userTitleMstId": 60000004,
+        "title": "サニーデイライフ 前編クリア",
+        "titleType": 2,
+        "value1": 4200005
       },
       {
         "userTitleMstId": 60000006,

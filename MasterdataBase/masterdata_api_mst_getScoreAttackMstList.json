@@ -13,6 +13,17 @@
         "highScoreRewardGroupId": 1,
         "totalScoreRewardGroupId": 1,
         "dioramaBackgroundMstId": 110319
+      },
+      {
+        "scoreAttackMstId": 2,
+        "name": "",
+        "startTime": "2025-04-16T14:00:00+09:00",
+        "endTime": "2025-04-26T11:59:59+09:00",
+        "comment": "ブレイクボーナスの最大値に到達しやすいため、バッファーを編成すると良いでしょう。<br>高Rankのステージでは弱点属性以外のキオクが与えられるダメージが減り、受けるダメージが増えるため弱点属性の編成を心掛けましょう。<br><br>ボスは定期的にMP減少スキルを使用するためタイミングを覚えてあらかじめ必殺技を使用しておくと被害を抑えられます。<br>また、ブレイク直前に防御力を上昇するスキルをしようされるとダメージを抑えられてしまうため注意しましょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 1,
+        "totalScoreRewardGroupId": 1,
+        "dioramaBackgroundMstId": 111119
       }
     ]
   }

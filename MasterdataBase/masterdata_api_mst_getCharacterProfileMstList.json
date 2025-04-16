@@ -64,6 +64,21 @@
         "sortOrder": 0
       },
       {
+        "characterMstId": 1004,
+        "description": "明るく元気な性格で、正義感が強く、魔女の呪いから人々を守るマミに憧れていた。<br>想いを寄せる幼なじみの上条恭介の腕が治ることを願って魔法少女となる。<br>マミのように他人を助けるため魔法の力を使っている。",
+        "characterVoice": "喜多村英梨",
+        "schoolName": "見滝原中学校",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 1,
+        "regionId": 2,
+        "teamId1": 0,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
         "characterMstId": 1005,
         "description": "ある出来事を機に、見滝原市の縄張りを奪いにやってきた魔法少女。<br>当初、さやかとはいがみ合っていたが、自分と同じように他人の願いを叶えて魔法少女になったと知り、仲間意識を覚える。",
         "characterVoice": "野中藍",

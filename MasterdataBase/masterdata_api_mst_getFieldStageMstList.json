@@ -654,8 +654,8 @@
       {
         "fieldStageMstId": 620001,
         "fieldSeriesMstId": 62000,
-        "name": "キレートビッグフェリスのうわさ",
-        "subTitle": "第四章",
+        "name": "???",
+        "subTitle": "???",
         "difficulty": 1,
         "prevFieldStageMstId": 619001,
         "prevFieldStageMstId2": 0,
@@ -666,8 +666,8 @@
       {
         "fieldStageMstId": 620002,
         "fieldSeriesMstId": 62000,
-        "name": "キレートビッグフェリスのうわさ",
-        "subTitle": "第四章",
+        "name": "???",
+        "subTitle": "???",
         "difficulty": 2,
         "prevFieldStageMstId": 620001,
         "prevFieldStageMstId2": 619002,
@@ -678,8 +678,8 @@
       {
         "fieldStageMstId": 620003,
         "fieldSeriesMstId": 62000,
-        "name": "キレートビッグフェリスのうわさ",
-        "subTitle": "第四章",
+        "name": "???",
+        "subTitle": "???",
         "difficulty": 3,
         "prevFieldStageMstId": 620001,
         "prevFieldStageMstId2": 619003,

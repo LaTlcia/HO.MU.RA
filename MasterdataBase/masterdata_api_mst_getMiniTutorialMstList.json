@@ -197,7 +197,7 @@
         "miniTutorialNumber": 27,
         "sortOrder": 2,
         "title": "タワー",
-        "description": "クリアした鏡層は1日に3回までスキップしてA-Qチップを獲得できます。",
+        "description": "クリアした鏡層は1日に3回までスキップしてドロップ報酬を獲得できます。",
         "resourceName": "tower_02",
         "advMstId": 0
       },
@@ -206,7 +206,7 @@
         "miniTutorialNumber": 27,
         "sortOrder": 3,
         "title": "タワー",
-        "description": "開催毎に第1鏡層からスタートとなり、再度クリア報酬が獲得できます。\nクリアできなかった鏡層は次回クリアを目指し、キオクを育成しましょう。",
+        "description": "開催毎に第1鏡層からスタートとなり、クリアすると再度初回報酬が獲得できます。\nクリアできなかった鏡層は次回クリアを目指し、キオクを育成しましょう。",
         "resourceName": "tower_03",
         "advMstId": 0
       },

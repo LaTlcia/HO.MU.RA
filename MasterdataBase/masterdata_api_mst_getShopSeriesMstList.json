@@ -43,6 +43,32 @@
         "resourceName": ""
       },
       {
+        "shopSeriesMstId": 2991,
+        "title": "★5アタッカーピックアップガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2025-04-21T12:00:00+09:00",
+        "endTime": "2025-04-28T11:59:59+09:00",
+        "shopGroupId1": 2991,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231009,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 2992,
+        "title": "美樹さやかガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2025-04-18T12:00:00+09:00",
+        "endTime": "2025-05-09T11:59:59+09:00",
+        "shopGroupId1": 2992,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231008,
+        "resourceName": ""
+      },
+      {
         "shopSeriesMstId": 2993,
         "title": "★5ブレイカーピックアップガチャ交換所",
         "description": "",
@@ -131,6 +157,19 @@
         "shopGroupId2": 0,
         "payType": 3,
         "payId": 231004,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 3993,
+        "title": "サニーデイライフ 前編イベント交換所",
+        "description": "",
+        "category": 3,
+        "startTime": "2025-04-18T12:00:00+09:00",
+        "endTime": "2025-05-10T11:59:59+09:00",
+        "shopGroupId1": 3993,
+        "shopGroupId2": 3987,
+        "payType": 3,
+        "payId": 201012,
         "resourceName": ""
       },
       {

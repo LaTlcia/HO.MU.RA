@@ -5807,6 +5807,11 @@
         "battleConditionSetMstId": 1176,
         "description": "自分のターン、3ターンごとに（ターン3から）、行動対象に呪いが付与されている場合",
         "battleConditionMstIdCsv": "3,59,744"
+      },
+      {
+        "battleConditionSetMstId": 1177,
+        "description": "ブレイクされたユニット数が1以上",
+        "battleConditionMstIdCsv": "537"
       }
     ]
   }
