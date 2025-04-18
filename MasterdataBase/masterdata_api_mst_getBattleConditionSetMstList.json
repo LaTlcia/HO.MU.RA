@@ -5812,6 +5812,66 @@
         "battleConditionSetMstId": 1177,
         "description": "ブレイクされたユニット数が1以上",
         "battleConditionMstIdCsv": "537"
+      },
+      {
+        "battleConditionSetMstId": 1178,
+        "description": "継続回復効果が付与されているとき",
+        "battleConditionMstIdCsv": "759"
+      },
+      {
+        "battleConditionSetMstId": 1179,
+        "description": "魔力が0個のとき",
+        "battleConditionMstIdCsv": "406,282,3"
+      },
+      {
+        "battleConditionSetMstId": 1180,
+        "description": "魔力が1個のとき",
+        "battleConditionMstIdCsv": "393,282,3"
+      },
+      {
+        "battleConditionSetMstId": 1181,
+        "description": "魔力が2個のとき",
+        "battleConditionMstIdCsv": "394,282,3"
+      },
+      {
+        "battleConditionSetMstId": 1182,
+        "description": "魔力が3個のとき",
+        "battleConditionMstIdCsv": "395,282,3"
+      },
+      {
+        "battleConditionSetMstId": 1183,
+        "description": "魔力が4個のとき",
+        "battleConditionMstIdCsv": "396,282,3"
+      },
+      {
+        "battleConditionSetMstId": 1184,
+        "description": "魔力が5個のとき",
+        "battleConditionMstIdCsv": "285,282,3"
+      },
+      {
+        "battleConditionSetMstId": 1185,
+        "description": "魔力が6個のとき",
+        "battleConditionMstIdCsv": "397,282,3"
+      },
+      {
+        "battleConditionSetMstId": 1186,
+        "description": "魔力が7個のとき",
+        "battleConditionMstIdCsv": "398,282,3"
+      },
+      {
+        "battleConditionSetMstId": 1187,
+        "description": "魔力が8個のとき",
+        "battleConditionMstIdCsv": "399,282,3"
+      },
+      {
+        "battleConditionSetMstId": 1188,
+        "description": "魔力が9個のとき",
+        "battleConditionMstIdCsv": "400,282,3"
+      },
+      {
+        "battleConditionSetMstId": 1189,
+        "description": "魔力が10個のとき",
+        "battleConditionMstIdCsv": "401,282,3"
       }
     ]
   }

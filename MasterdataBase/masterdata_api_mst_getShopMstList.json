@@ -1812,7 +1812,7 @@
         "payType": 0,
         "payId": 0,
         "price": 25,
-        "purchaseLimitCount": 50,
+        "purchaseLimitCount": 60,
         "resetType": 0,
         "isSale": false,
         "objectReceiveType": 5,

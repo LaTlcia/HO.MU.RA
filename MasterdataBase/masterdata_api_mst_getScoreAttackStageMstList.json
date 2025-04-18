@@ -62,66 +62,6 @@
         "scoreAttackMstId": 1,
         "questStageMstId": 902110,
         "difficulty": 10
-      },
-      {
-        "scoreAttackStageMstId": 201,
-        "scoreAttackMstId": 2,
-        "questStageMstId": 908101,
-        "difficulty": 1
-      },
-      {
-        "scoreAttackStageMstId": 202,
-        "scoreAttackMstId": 2,
-        "questStageMstId": 908102,
-        "difficulty": 2
-      },
-      {
-        "scoreAttackStageMstId": 203,
-        "scoreAttackMstId": 2,
-        "questStageMstId": 908103,
-        "difficulty": 3
-      },
-      {
-        "scoreAttackStageMstId": 204,
-        "scoreAttackMstId": 2,
-        "questStageMstId": 908104,
-        "difficulty": 4
-      },
-      {
-        "scoreAttackStageMstId": 205,
-        "scoreAttackMstId": 2,
-        "questStageMstId": 908105,
-        "difficulty": 5
-      },
-      {
-        "scoreAttackStageMstId": 206,
-        "scoreAttackMstId": 2,
-        "questStageMstId": 908106,
-        "difficulty": 6
-      },
-      {
-        "scoreAttackStageMstId": 207,
-        "scoreAttackMstId": 2,
-        "questStageMstId": 908107,
-        "difficulty": 7
-      },
-      {
-        "scoreAttackStageMstId": 208,
-        "scoreAttackMstId": 2,
-        "questStageMstId": 908108,
-        "difficulty": 8
-      },
-      {
-        "scoreAttackStageMstId": 209,
-        "scoreAttackMstId": 2,
-        "questStageMstId": 908109,
-        "difficulty": 9
-      },
-      {
-        "scoreAttackStageMstId": 210,
-        "scoreAttackMstId": 2,
-        "questStageMstId": 908110,
-        "difficulty": 10
       }
     ]
   }
