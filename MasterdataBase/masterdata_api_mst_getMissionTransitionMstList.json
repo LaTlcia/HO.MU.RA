@@ -754,135 +754,69 @@
         "transitionSceneParam": 0
       },
       {
-        "missionTransitionMstId": 5009002,
-        "missionMstId": 5009002,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5009003,
-        "missionMstId": 5009003,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5009004,
-        "missionMstId": 5009004,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5009005,
-        "missionMstId": 5009005,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5009006,
-        "missionMstId": 5009006,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5009007,
-        "missionMstId": 5009007,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5009008,
-        "missionMstId": 5009008,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5009009,
-        "missionMstId": 5009009,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5009010,
-        "missionMstId": 5009010,
-        "transitionSceneName": "Training",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5009011,
-        "missionMstId": 5009011,
-        "transitionSceneName": "Training",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5009012,
-        "missionMstId": 5009012,
-        "transitionSceneName": "Training",
-        "transitionSceneParam": 0
-      },
-      {
         "missionTransitionMstId": 5010002,
         "missionMstId": 5010002,
-        "transitionSceneName": "Tower",
+        "transitionSceneName": "EnhanceQuest",
         "transitionSceneParam": 0
       },
       {
         "missionTransitionMstId": 5010003,
         "missionMstId": 5010003,
-        "transitionSceneName": "Tower",
+        "transitionSceneName": "EnhanceQuest",
         "transitionSceneParam": 0
       },
       {
         "missionTransitionMstId": 5010004,
         "missionMstId": 5010004,
-        "transitionSceneName": "Tower",
+        "transitionSceneName": "EnhanceQuest",
         "transitionSceneParam": 0
       },
       {
         "missionTransitionMstId": 5010005,
         "missionMstId": 5010005,
-        "transitionSceneName": "Tower",
+        "transitionSceneName": "EnhanceQuest",
         "transitionSceneParam": 0
       },
       {
         "missionTransitionMstId": 5010006,
         "missionMstId": 5010006,
-        "transitionSceneName": "Tower",
+        "transitionSceneName": "EnhanceQuest",
         "transitionSceneParam": 0
       },
       {
         "missionTransitionMstId": 5010007,
         "missionMstId": 5010007,
-        "transitionSceneName": "Tower",
+        "transitionSceneName": "EnhanceQuest",
         "transitionSceneParam": 0
       },
       {
         "missionTransitionMstId": 5010008,
         "missionMstId": 5010008,
-        "transitionSceneName": "Tower",
+        "transitionSceneName": "EnhanceQuest",
         "transitionSceneParam": 0
       },
       {
         "missionTransitionMstId": 5010009,
         "missionMstId": 5010009,
-        "transitionSceneName": "Tower",
+        "transitionSceneName": "EnhanceQuest",
         "transitionSceneParam": 0
       },
       {
         "missionTransitionMstId": 5010010,
         "missionMstId": 5010010,
-        "transitionSceneName": "Tower",
+        "transitionSceneName": "Training",
         "transitionSceneParam": 0
       },
       {
         "missionTransitionMstId": 5010011,
         "missionMstId": 5010011,
-        "transitionSceneName": "Tower",
+        "transitionSceneName": "Training",
         "transitionSceneParam": 0
       },
       {
         "missionTransitionMstId": 5010012,
         "missionMstId": 5010012,
-        "transitionSceneName": "Tower",
+        "transitionSceneName": "Training",
         "transitionSceneParam": 0
       },
       {

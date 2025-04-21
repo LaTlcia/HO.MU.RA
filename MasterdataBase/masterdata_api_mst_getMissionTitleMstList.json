@@ -67,13 +67,6 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5009,
-        "prevMissionTitleMstId": 0,
-        "title": "育成応援ミッション 第3弾",
-        "priority": 3,
-        "featuredRewardResourceName": ""
-      },
-      {
         "missionTitleMstId": 5010,
         "prevMissionTitleMstId": 0,
         "title": "育成応援ミッション 第4弾",
