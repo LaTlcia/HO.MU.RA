@@ -3184,6 +3184,126 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 405401,
+        "skillUniqueId": 4054,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "無属性で攻撃したとき、与えるダメージ+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405402,
+        "skillUniqueId": 4054,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "無属性で攻撃したとき、与えるダメージ+8.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405403,
+        "skillUniqueId": 4054,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "無属性で攻撃したとき、与えるダメージ+9.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405404,
+        "skillUniqueId": 4054,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "無属性で攻撃したとき、与えるダメージ+10.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405405,
+        "skillUniqueId": 4054,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "無属性で攻撃したとき、与えるダメージ+11.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405406,
+        "skillUniqueId": 4054,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "無属性で攻撃したとき、与えるダメージ+12.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405501,
+        "skillUniqueId": 4055,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+2.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405502,
+        "skillUniqueId": 4055,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+3.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405503,
+        "skillUniqueId": 4055,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+4.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405504,
+        "skillUniqueId": 4055,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+5.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405505,
+        "skillUniqueId": 4055,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+6.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 405506,
+        "skillUniqueId": 4055,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 405601,
         "skillUniqueId": 4056,
         "level": 1,
@@ -3659,6 +3779,126 @@
         "level": 6,
         "name": "【アビリティ】",
         "description": "状態異常命中率+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406401,
+        "skillUniqueId": 4064,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406402,
+        "skillUniqueId": 4064,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+8.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406403,
+        "skillUniqueId": 4064,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+9.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406404,
+        "skillUniqueId": 4064,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+10.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406405,
+        "skillUniqueId": 4064,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+11.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406406,
+        "skillUniqueId": 4064,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+12.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406501,
+        "skillUniqueId": 4065,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "HP回復量+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406502,
+        "skillUniqueId": 4065,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "HP回復量+9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406503,
+        "skillUniqueId": 4065,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "HP回復量+10.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406504,
+        "skillUniqueId": 4065,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "HP回復量+12%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406505,
+        "skillUniqueId": 4065,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "HP回復量+13.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406506,
+        "skillUniqueId": 4065,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "HP回復量+15%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -9908,7 +10148,7 @@
         "skillUniqueId": 14013,
         "level": 1,
         "name": "ブラストヘイスト",
-        "description": "通常攻撃を発動したときスピード+12%(1ターン)、バトル開始時に魔力+1。<br>魔力が5以上あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
+        "description": "通常攻撃を発動したときスピード+12%(1ターン)。<br>バトル開始時に魔力+1。<br>魔力が5あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_buff"
@@ -9918,7 +10158,7 @@
         "skillUniqueId": 14013,
         "level": 2,
         "name": "ブラストヘイスト",
-        "description": "通常攻撃を発動したときスピード+13%(1ターン)、バトル開始時に魔力+1。<br>魔力が5以上あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
+        "description": "通常攻撃を発動したときスピード+13%(1ターン)。<br>バトル開始時に魔力+1。<br>魔力が5あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_buff"
@@ -9928,7 +10168,7 @@
         "skillUniqueId": 14013,
         "level": 3,
         "name": "ブラストヘイスト",
-        "description": "通常攻撃を発動したときスピード+14%(1ターン)、バトル開始時に魔力+1。<br>魔力が5以上あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
+        "description": "通常攻撃を発動したときスピード+14%(1ターン)。<br>バトル開始時に魔力+1。<br>魔力が5あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_buff"
@@ -9938,7 +10178,7 @@
         "skillUniqueId": 14013,
         "level": 4,
         "name": "ブラストヘイスト",
-        "description": "通常攻撃を発動したときスピード+15%(1ターン)、バトル開始時に魔力+1。<br>魔力が5以上あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
+        "description": "通常攻撃を発動したときスピード+15%(1ターン)。<br>バトル開始時に魔力+1。<br>魔力が5あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_buff"
@@ -9948,7 +10188,7 @@
         "skillUniqueId": 14013,
         "level": 5,
         "name": "ブラストヘイスト",
-        "description": "通常攻撃を発動したときスピード+17%(1ターン)、バトル開始時に魔力+1。<br>魔力が5以上あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
+        "description": "通常攻撃を発動したときスピード+17%(1ターン)。<br>バトル開始時に魔力+1。<br>魔力が5あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_buff"
@@ -9958,7 +10198,7 @@
         "skillUniqueId": 14013,
         "level": 6,
         "name": "ブラストヘイスト",
-        "description": "通常攻撃を発動したときスピード+18%(1ターン)、バトル開始時に魔力+1。<br>魔力が5以上あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
+        "description": "通常攻撃を発動したときスピード+18%(1ターン)。<br>バトル開始時に魔力+1。<br>魔力が5あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_buff"
@@ -9968,7 +10208,7 @@
         "skillUniqueId": 14013,
         "level": 7,
         "name": "ブラストヘイスト",
-        "description": "通常攻撃を発動したときスピード+20%(1ターン)、バトル開始時に魔力+1。<br>魔力が5以上あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
+        "description": "通常攻撃を発動したときスピード+20%(1ターン)。<br>バトル開始時に魔力+1。<br>魔力が5あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_buff"
@@ -9978,7 +10218,7 @@
         "skillUniqueId": 14013,
         "level": 8,
         "name": "ブラストヘイスト",
-        "description": "通常攻撃を発動したときスピード+21%(1ターン)、バトル開始時に魔力+1。<br>魔力が5以上あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
+        "description": "通常攻撃を発動したときスピード+21%(1ターン)。<br>バトル開始時に魔力+1。<br>魔力が5あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_buff"
@@ -9988,7 +10228,7 @@
         "skillUniqueId": 14013,
         "level": 9,
         "name": "ブラストヘイスト",
-        "description": "通常攻撃を発動したときスピード+23%(1ターン)、バトル開始時に魔力+1。<br>魔力が5以上あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
+        "description": "通常攻撃を発動したときスピード+23%(1ターン)。<br>バトル開始時に魔力+1。<br>魔力が5あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_buff"
@@ -9998,7 +10238,7 @@
         "skillUniqueId": 14013,
         "level": 10,
         "name": "ブラストヘイスト",
-        "description": "通常攻撃を発動したときスピード+25%(1ターン)、バトル開始時に魔力+1。<br>魔力が5以上あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
+        "description": "通常攻撃を発動したときスピード+25%(1ターン)。<br>バトル開始時に魔力+1。<br>魔力が5あるとき戦闘スキルに「必殺技を発動したとき与えるダメージ+20%(2ターン)」を追加、魔力-5。<br>魔力の最大値は5",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_buff"
@@ -11408,7 +11648,7 @@
         "skillUniqueId": 15011,
         "level": 1,
         "name": "ガードヒール",
-        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力30%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP2%+20回復する",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力30%の水属性ダメージを与え、全属性耐性を-5%(2ターン/累積3回)。さらに、発動者のHP2%+20回復する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_additional_attack"
@@ -11418,7 +11658,7 @@
         "skillUniqueId": 15011,
         "level": 2,
         "name": "ガードヒール",
-        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力31%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP2%+33回復する",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力31%の水属性ダメージを与え、全属性耐性を-5%(2ターン/累積3回)。さらに、発動者のHP2%+33回復する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_additional_attack"
@@ -11428,7 +11668,7 @@
         "skillUniqueId": 15011,
         "level": 3,
         "name": "ガードヒール",
-        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力33%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP2%+49回復する",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力33%の水属性ダメージを与え、全属性耐性を-5%(2ターン/累積3回)。さらに、発動者のHP2%+49回復する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_additional_attack"
@@ -11438,7 +11678,7 @@
         "skillUniqueId": 15011,
         "level": 4,
         "name": "ガードヒール",
-        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力35%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP3%+67回復する",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力35%の水属性ダメージを与え、全属性耐性を-5%(2ターン/累積3回)。さらに、発動者のHP3%+67回復する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_additional_attack"
@@ -11448,7 +11688,7 @@
         "skillUniqueId": 15011,
         "level": 5,
         "name": "ガードヒール",
-        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力37%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP3%+87回復する",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力37%の水属性ダメージを与え、全属性耐性を-5%(2ターン/累積3回)。さらに、発動者のHP3%+87回復する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_additional_attack"
@@ -11458,7 +11698,7 @@
         "skillUniqueId": 15011,
         "level": 6,
         "name": "ガードヒール",
-        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力40%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP3%+107回復する",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力40%の水属性ダメージを与え、全属性耐性を-5%(2ターン/累積3回)。さらに、発動者のHP3%+107回復する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_additional_attack"
@@ -11468,7 +11708,7 @@
         "skillUniqueId": 15011,
         "level": 7,
         "name": "ガードヒール",
-        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力42%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP4%+128回復する",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力42%の水属性ダメージを与え、全属性耐性を-5%(2ターン/累積3回)。さらに、発動者のHP4%+128回復する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_additional_attack"
@@ -11478,7 +11718,7 @@
         "skillUniqueId": 15011,
         "level": 8,
         "name": "ガードヒール",
-        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力44%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP4%+150回復する",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力44%の水属性ダメージを与え、全属性耐性を-5%(2ターン/累積3回)。さらに、発動者のHP4%+150回復する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_additional_attack"
@@ -11488,7 +11728,7 @@
         "skillUniqueId": 15011,
         "level": 9,
         "name": "ガードヒール",
-        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力47%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP5%+173回復する",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力47%の水属性ダメージを与え、全属性耐性を-5%(2ターン/累積3回)。さらに、発動者のHP5%+173回復する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_additional_attack"
@@ -11498,7 +11738,7 @@
         "skillUniqueId": 15011,
         "level": 10,
         "name": "ガードヒール",
-        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力50%の水属性ダメージを与え、全属性耐性を-5%(1ターン/累積3回)。さらに、発動者のHP5%+200回復する",
+        "description": "バトル開始時にスピード+50(1ターン)。<br>味方全体の受けるダメージ-20%(2ターン)。<br>バトル開始時に魔力0。<br>ダメージを与えたとき魔力+1。<br>魔力が1につき味方全体の防御力+2%(最大20%)。<br>魔力の最大値は10。<br>自身を攻撃した敵に対し【反撃】を発動する。<br><br>【反撃】<br>防御力50%の水属性ダメージを与え、全属性耐性を-5%(2ターン/累積3回)。さらに、発動者のHP5%+200回復する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_additional_attack"
@@ -11602,6 +11842,106 @@
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1501301,
+        "skillUniqueId": 15013,
+        "level": 1,
+        "name": "アサルトチャージ",
+        "description": "バトル開始時SP+1。<br>味方全体のスピード+15%、攻撃力+5%。<br>自身または味方が通常攻撃、戦闘スキル、必殺技で敵にダメージを与えたとき魔力+1。<br>魔力の最大値は7。<br>魔力が7溜まったときSP+1、魔力-7",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_sp"
+      },
+      {
+        "passiveSkillMstId": 1501302,
+        "skillUniqueId": 15013,
+        "level": 2,
+        "name": "アサルトチャージ",
+        "description": "バトル開始時SP+1。<br>味方全体のスピード+16%、攻撃力+5%。<br>自身または味方が通常攻撃、戦闘スキル、必殺技で敵にダメージを与えたとき魔力+1。<br>魔力の最大値は7。<br>魔力が7溜まったときSP+1、魔力-7",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_sp"
+      },
+      {
+        "passiveSkillMstId": 1501303,
+        "skillUniqueId": 15013,
+        "level": 3,
+        "name": "アサルトチャージ",
+        "description": "バトル開始時SP+1。<br>味方全体のスピード+17%、攻撃力+5%。<br>自身または味方が通常攻撃、戦闘スキル、必殺技で敵にダメージを与えたとき魔力+1。<br>魔力の最大値は7。<br>魔力が7溜まったときSP+1、魔力-7",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_sp"
+      },
+      {
+        "passiveSkillMstId": 1501304,
+        "skillUniqueId": 15013,
+        "level": 4,
+        "name": "アサルトチャージ",
+        "description": "バトル開始時SP+1。<br>味方全体のスピード+19%、攻撃力+5%。<br>自身または味方が通常攻撃、戦闘スキル、必殺技で敵にダメージを与えたとき魔力+1。<br>魔力の最大値は7。<br>魔力が7溜まったときSP+1、魔力-7",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_sp"
+      },
+      {
+        "passiveSkillMstId": 1501305,
+        "skillUniqueId": 15013,
+        "level": 5,
+        "name": "アサルトチャージ",
+        "description": "バトル開始時SP+1。<br>味方全体のスピード+21%、攻撃力+5%。<br>自身または味方が通常攻撃、戦闘スキル、必殺技で敵にダメージを与えたとき魔力+1。<br>魔力の最大値は7。<br>魔力が7溜まったときSP+1、魔力-7",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_sp"
+      },
+      {
+        "passiveSkillMstId": 1501306,
+        "skillUniqueId": 15013,
+        "level": 6,
+        "name": "アサルトチャージ",
+        "description": "バトル開始時SP+1。<br>味方全体のスピード+22%、攻撃力+5%。<br>自身または味方が通常攻撃、戦闘スキル、必殺技で敵にダメージを与えたとき魔力+1。<br>魔力の最大値は7。<br>魔力が7溜まったときSP+1、魔力-7",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_sp"
+      },
+      {
+        "passiveSkillMstId": 1501307,
+        "skillUniqueId": 15013,
+        "level": 7,
+        "name": "アサルトチャージ",
+        "description": "バトル開始時SP+1。<br>味方全体のスピード+24%、攻撃力+5%。<br>自身または味方が通常攻撃、戦闘スキル、必殺技で敵にダメージを与えたとき魔力+1。<br>魔力の最大値は7。<br>魔力が7溜まったときSP+1、魔力-7",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_sp"
+      },
+      {
+        "passiveSkillMstId": 1501308,
+        "skillUniqueId": 15013,
+        "level": 8,
+        "name": "アサルトチャージ",
+        "description": "バトル開始時SP+1。<br>味方全体のスピード+26%、攻撃力+5%。<br>自身または味方が通常攻撃、戦闘スキル、必殺技で敵にダメージを与えたとき魔力+1。<br>魔力の最大値は7。<br>魔力が7溜まったときSP+1、魔力-7",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_sp"
+      },
+      {
+        "passiveSkillMstId": 1501309,
+        "skillUniqueId": 15013,
+        "level": 9,
+        "name": "アサルトチャージ",
+        "description": "バトル開始時SP+1。<br>味方全体のスピード+28%、攻撃力+5%。<br>自身または味方が通常攻撃、戦闘スキル、必殺技で敵にダメージを与えたとき魔力+1。<br>魔力の最大値は7。<br>魔力が7溜まったときSP+1、魔力-7",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_sp"
+      },
+      {
+        "passiveSkillMstId": 1501310,
+        "skillUniqueId": 15013,
+        "level": 10,
+        "name": "アサルトチャージ",
+        "description": "バトル開始時SP+1。<br>味方全体のスピード+30%、攻撃力+5%。<br>自身または味方が通常攻撃、戦闘スキル、必殺技で敵にダメージを与えたとき魔力+1。<br>魔力の最大値は7。<br>魔力が7溜まったときSP+1、魔力-7",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_sp"
       },
       {
         "passiveSkillMstId": 1501401,
@@ -12099,6 +12439,106 @@
         "level": 10,
         "name": "ガードシャープ",
         "description": "バトル開始時にスピード+50(1ターン)。<br>バリアが付与されている味方全体のクリティカル率+15%。<br>クリティカルが発生したとき味方全体の防御力+3%(累積10回)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502001,
+        "skillUniqueId": 15020,
+        "level": 1,
+        "name": "アサルトヒール",
+        "description": "バトル開始時に魔力0。<br>敵にダメージを与えたときまたはHP回復効果を受けたとき魔力+1。魔力の最大値は5。<br><br>通常攻撃または戦闘スキルを発動したとき味方全体のHPを発動者の攻撃力6%回復する。<br>HP回復効果を受けたとき攻撃力+2%(5回累積)、クリティカル率+2%(5回累積)<br>自身または味方の攻撃でクリティカルが発生したとき行動順+2%(【追撃・反撃】によるクリティカルは除く)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502002,
+        "skillUniqueId": 15020,
+        "level": 2,
+        "name": "アサルトヒール",
+        "description": "バトル開始時に魔力0。<br>敵にダメージを与えたときまたはHP回復効果を受けたとき魔力+1。魔力の最大値は5。<br><br>通常攻撃または戦闘スキルを発動したとき味方全体のHPを発動者の攻撃力6%回復する。<br>HP回復効果を受けたとき攻撃力+3%(5回累積)、クリティカル率+2%(5回累積)<br>自身または味方の攻撃でクリティカルが発生したとき行動順+2%(【追撃・反撃】によるクリティカルは除く)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502003,
+        "skillUniqueId": 15020,
+        "level": 3,
+        "name": "アサルトヒール",
+        "description": "バトル開始時に魔力0。<br>敵にダメージを与えたときまたはHP回復効果を受けたとき魔力+1。魔力の最大値は5。<br><br>通常攻撃または戦闘スキルを発動したとき味方全体のHPを発動者の攻撃力6%回復する。<br>HP回復効果を受けたとき攻撃力+3%(5回累積)、クリティカル率+3%(5回累積)<br>自身または味方の攻撃でクリティカルが発生したとき行動順+2%(【追撃・反撃】によるクリティカルは除く)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502004,
+        "skillUniqueId": 15020,
+        "level": 4,
+        "name": "アサルトヒール",
+        "description": "バトル開始時に魔力0。<br>敵にダメージを与えたときまたはHP回復効果を受けたとき魔力+1。魔力の最大値は5。<br><br>通常攻撃または戦闘スキルを発動したとき味方全体のHPを発動者の攻撃力6%回復する。<br>HP回復効果を受けたとき攻撃力+3%(5回累積)、クリティカル率+3%(5回累積)<br>自身または味方の攻撃でクリティカルが発生したとき行動順+3%(【追撃・反撃】によるクリティカルは除く)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502005,
+        "skillUniqueId": 15020,
+        "level": 5,
+        "name": "アサルトヒール",
+        "description": "バトル開始時に魔力0。<br>敵にダメージを与えたときまたはHP回復効果を受けたとき魔力+1。魔力の最大値は5。<br><br>通常攻撃または戦闘スキルを発動したとき味方全体のHPを発動者の攻撃力6%回復する。<br>HP回復効果を受けたとき攻撃力+4%(5回累積)、クリティカル率+3%(5回累積)<br>自身または味方の攻撃でクリティカルが発生したとき行動順+3%(【追撃・反撃】によるクリティカルは除く)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502006,
+        "skillUniqueId": 15020,
+        "level": 6,
+        "name": "アサルトヒール",
+        "description": "バトル開始時に魔力0。<br>敵にダメージを与えたときまたはHP回復効果を受けたとき魔力+1。魔力の最大値は5。<br><br>通常攻撃または戦闘スキルを発動したとき味方全体のHPを発動者の攻撃力6%回復する。<br>HP回復効果を受けたとき攻撃力+4%(5回累積)、クリティカル率+4%(5回累積)<br>自身または味方の攻撃でクリティカルが発生したとき行動順+3%(【追撃・反撃】によるクリティカルは除く)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502007,
+        "skillUniqueId": 15020,
+        "level": 7,
+        "name": "アサルトヒール",
+        "description": "バトル開始時に魔力0。<br>敵にダメージを与えたときまたはHP回復効果を受けたとき魔力+1。魔力の最大値は5。<br><br>通常攻撃または戦闘スキルを発動したとき味方全体のHPを発動者の攻撃力6%回復する。<br>HP回復効果を受けたとき攻撃力+4%(5回累積)、クリティカル率+4%(5回累積)<br>自身または味方の攻撃でクリティカルが発生したとき行動順+4%(【追撃・反撃】によるクリティカルは除く)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502008,
+        "skillUniqueId": 15020,
+        "level": 8,
+        "name": "アサルトヒール",
+        "description": "バトル開始時に魔力0。<br>敵にダメージを与えたときまたはHP回復効果を受けたとき魔力+1。魔力の最大値は5。<br><br>通常攻撃または戦闘スキルを発動したとき味方全体のHPを発動者の攻撃力6%回復する。<br>HP回復効果を受けたとき攻撃力+5%(5回累積)、クリティカル率+4%(5回累積)<br>自身または味方の攻撃でクリティカルが発生したとき行動順+4%(【追撃・反撃】によるクリティカルは除く)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502009,
+        "skillUniqueId": 15020,
+        "level": 9,
+        "name": "アサルトヒール",
+        "description": "バトル開始時に魔力0。<br>敵にダメージを与えたときまたはHP回復効果を受けたとき魔力+1。魔力の最大値は5。<br><br>通常攻撃または戦闘スキルを発動したとき味方全体のHPを発動者の攻撃力6%回復する。<br>HP回復効果を受けたとき攻撃力+5%(5回累積)、クリティカル率+4%(5回累積)<br>自身または味方の攻撃でクリティカルが発生したとき行動順+5%(【追撃・反撃】によるクリティカルは除く)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502010,
+        "skillUniqueId": 15020,
+        "level": 10,
+        "name": "アサルトヒール",
+        "description": "バトル開始時に魔力0。<br>敵にダメージを与えたときまたはHP回復効果を受けたとき魔力+1。魔力の最大値は5。<br><br>通常攻撃または戦闘スキルを発動したとき味方全体のHPを発動者の攻撃力6%回復する。<br>HP回復効果を受けたとき攻撃力+5%(5回累積)、クリティカル率+5%(5回累積)<br>自身または味方の攻撃でクリティカルが発生したとき行動順+5%(【追撃・反撃】によるクリティカルは除く)",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": "battle_icon_passive_buff"
@@ -12954,6 +13394,16 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 2011002,
+        "skillUniqueId": 2011002,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "バリアが付与されている場合、ブレイクゲージ削減耐性が上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 2012001,
         "skillUniqueId": 2012001,
         "level": 1,
@@ -13504,6 +13954,56 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 5001043,
+        "skillUniqueId": 5001043,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>バリアが付与されている場合、ブレイクゲージ削減耐性が上昇する<br>状態異常の敵から4回ダメージを受けた場合、敵全体に付与されている状態異常のダメージを即座に与える<br>自身のブレイクボーナスが400％以上の時、防御力が低下する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001044,
+        "skillUniqueId": 5001044,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>ターン開始時に自身にバリアを付与する<br>バリアが付与されている場合、ブレイクゲージ削減耐性が上昇する<br>状態異常の敵から3回ダメージを受けた場合、敵全体に付与されている状態異常のダメージを即座に与える<br>自身のブレイクボーナスが400％以上の時、防御力が大幅に低下する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001045,
+        "skillUniqueId": 5001045,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "奇数ターンに2回行動する<br>バリアが付与されている場合、ブレイクゲージ削減耐性が上昇する<br>状態異常の敵から4回ダメージを受けた場合、敵全体に付与されている状態異常のダメージを即座に与える",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001046,
+        "skillUniqueId": 5001046,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "偶数ターンに2回行動する<br>バリアが付与されている場合、ブレイクゲージ削減耐性が上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001047,
+        "skillUniqueId": 5001047,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "奇数ターンに2回行動する<br>バリアが付与されている場合、ブレイクゲージ削減耐性が上昇する<br>状態異常の敵から6回ダメージを受けた場合、敵全体に付与されている状態異常のダメージを即座に与える",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 5002001,
         "skillUniqueId": 5002001,
         "level": 1,
@@ -13749,6 +14249,16 @@
         "level": 1,
         "name": "アビリティⅠ",
         "description": "敵の攻撃で1以上のダメージを受ける場合、自身のターン開始時に味方全員の攻撃力と防御力を上昇する<br>攻撃された回数が多いほど効果が上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 7001014,
+        "skillUniqueId": 7001014,
+        "level": 1,
+        "name": "アビリティⅥ",
+        "description": "2回行動し、被ダメージ軽減効果を付与する<br>自身のターン開始時に被ダメージ軽減効果を上昇し、ダメージを受けるたびに被ダメージ軽減効果を減少する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -14714,6 +15224,16 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 8503001,
+        "skillUniqueId": 85030,
+        "level": 1,
+        "name": "限界突破効果",
+        "description": "バトル開始時に魔力+4。<br>スピード+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 8503101,
         "skillUniqueId": 85031,
         "level": 1,
@@ -14739,6 +15259,16 @@
         "level": 1,
         "name": "限界突破効果",
         "description": "最大HP+10%、戦闘スキルを発動したとき味方単体と隣接する味方の必殺技で与えるダメージ+20%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 8503401,
+        "skillUniqueId": 85034,
+        "level": 1,
+        "name": "限界突破効果",
+        "description": "バトル開始時に魔力+5<br>MP回復効率+10%、戦闘スキルで与えるダメージ+20%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -19944,6 +20474,106 @@
         "skillButtonIcon": "battle_icon_supportpassive_buff"
       },
       {
+        "passiveSkillMstId": 9501501,
+        "skillUniqueId": 95015,
+        "level": 1,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>スピード+10%<br>戦闘スキルを発動したとき味方全体の行動順+5%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501502,
+        "skillUniqueId": 95015,
+        "level": 2,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>スピード+11%<br>戦闘スキルを発動したとき味方全体の行動順+5%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501503,
+        "skillUniqueId": 95015,
+        "level": 3,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>スピード+12%<br>戦闘スキルを発動したとき味方全体の行動順+5%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501504,
+        "skillUniqueId": 95015,
+        "level": 4,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>スピード+13%<br>戦闘スキルを発動したとき味方全体の行動順+5%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501505,
+        "skillUniqueId": 95015,
+        "level": 5,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>スピード+14%<br>戦闘スキルを発動したとき味方全体の行動順+5%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501506,
+        "skillUniqueId": 95015,
+        "level": 6,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>スピード+15%<br>戦闘スキルを発動したとき味方全体の行動順+5%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501507,
+        "skillUniqueId": 95015,
+        "level": 7,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>スピード+16%<br>戦闘スキルを発動したとき味方全体の行動順+5%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501508,
+        "skillUniqueId": 95015,
+        "level": 8,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>スピード+17%<br>戦闘スキルを発動したとき味方全体の行動順+5%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501509,
+        "skillUniqueId": 95015,
+        "level": 9,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>スピード+18%<br>戦闘スキルを発動したとき味方全体の行動順+5%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501510,
+        "skillUniqueId": 95015,
+        "level": 10,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>スピード+20%<br>戦闘スキルを発動したとき味方全体の行動順+5%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
         "passiveSkillMstId": 9501601,
         "skillUniqueId": 95016,
         "level": 1,
@@ -20241,6 +20871,106 @@
         "description": "【ヒーラーに装備時】<br>HP回復量+12%、自身のHP20%以上のダメージを受けたとき行動順+5%",
         "conditionElement": 0,
         "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501901,
+        "skillUniqueId": 95019,
+        "level": 1,
+        "name": "アサルトヒール",
+        "description": "【アタッカーに装備時】<br>戦闘スキルを発動したとき自身のHPを発動者の攻撃力2%回復する。<br>敵がブレイクしたときスピード+8%(2ターン)、攻撃力+8%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501902,
+        "skillUniqueId": 95019,
+        "level": 2,
+        "name": "アサルトヒール",
+        "description": "【アタッカーに装備時】<br>戦闘スキルを発動したとき自身のHPを発動者の攻撃力2%回復する。<br>敵がブレイクしたときスピード+9%(2ターン)、攻撃力+9%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501903,
+        "skillUniqueId": 95019,
+        "level": 3,
+        "name": "アサルトヒール",
+        "description": "【アタッカーに装備時】<br>戦闘スキルを発動したとき自身のHPを発動者の攻撃力2%回復する。<br>敵がブレイクしたときスピード+10%(2ターン)、攻撃力+10%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501904,
+        "skillUniqueId": 95019,
+        "level": 4,
+        "name": "アサルトヒール",
+        "description": "【アタッカーに装備時】<br>戦闘スキルを発動したとき自身のHPを発動者の攻撃力2%回復する。<br>敵がブレイクしたときスピード+11%(2ターン)、攻撃力+11%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501905,
+        "skillUniqueId": 95019,
+        "level": 5,
+        "name": "アサルトヒール",
+        "description": "【アタッカーに装備時】<br>戦闘スキルを発動したとき自身のHPを発動者の攻撃力2%回復する。<br>敵がブレイクしたときスピード+12%(2ターン)、攻撃力+12%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501906,
+        "skillUniqueId": 95019,
+        "level": 6,
+        "name": "アサルトヒール",
+        "description": "【アタッカーに装備時】<br>戦闘スキルを発動したとき自身のHPを発動者の攻撃力2%回復する。<br>敵がブレイクしたときスピード+14%(2ターン)、攻撃力+14%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501907,
+        "skillUniqueId": 95019,
+        "level": 7,
+        "name": "アサルトヒール",
+        "description": "【アタッカーに装備時】<br>戦闘スキルを発動したとき自身のHPを発動者の攻撃力2%回復する。<br>敵がブレイクしたときスピード+15%(2ターン)、攻撃力+15%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501908,
+        "skillUniqueId": 95019,
+        "level": 8,
+        "name": "アサルトヒール",
+        "description": "【アタッカーに装備時】<br>戦闘スキルを発動したとき自身のHPを発動者の攻撃力2%回復する。<br>敵がブレイクしたときスピード+17%(2ターン)、攻撃力+17%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501909,
+        "skillUniqueId": 95019,
+        "level": 9,
+        "name": "アサルトヒール",
+        "description": "【アタッカーに装備時】<br>戦闘スキルを発動したとき自身のHPを発動者の攻撃力2%回復する。<br>敵がブレイクしたときスピード+18%(2ターン)、攻撃力+18%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9501910,
+        "skillUniqueId": 95019,
+        "level": 10,
+        "name": "アサルトヒール",
+        "description": "【アタッカーに装備時】<br>戦闘スキルを発動したとき自身のHPを発動者の攻撃力2%回復する。<br>敵がブレイクしたときスピード+20%(2ターン)、攻撃力+20%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 1,
         "skillButtonIcon": "battle_icon_supportpassive_buff"
       }
     ]

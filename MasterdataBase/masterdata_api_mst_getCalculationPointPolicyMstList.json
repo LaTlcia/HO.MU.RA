@@ -1448,7 +1448,87 @@
         "policyType": 1,
         "coefficientName": "difficultyCoefficient",
         "conditionValue": 10,
+        "value": 2250,
+        "startTime": "2020-01-01T00:00:00+09:00"
+      },
+      {
+        "calculationPointPolicyMstId": 182,
+        "policyType": 1,
+        "coefficientName": "difficultyBonus",
+        "conditionValue": 11,
+        "value": 80000,
+        "startTime": "2020-01-01T00:00:00+09:00"
+      },
+      {
+        "calculationPointPolicyMstId": 183,
+        "policyType": 1,
+        "coefficientName": "difficultyBonus",
+        "conditionValue": 12,
+        "value": 100000,
+        "startTime": "2020-01-01T00:00:00+09:00"
+      },
+      {
+        "calculationPointPolicyMstId": 184,
+        "policyType": 1,
+        "coefficientName": "difficultyCoefficient",
+        "conditionValue": 11,
         "value": 2500,
+        "startTime": "2020-01-01T00:00:00+09:00"
+      },
+      {
+        "calculationPointPolicyMstId": 185,
+        "policyType": 1,
+        "coefficientName": "difficultyCoefficient",
+        "conditionValue": 12,
+        "value": 3000,
+        "startTime": "2020-01-01T00:00:00+09:00"
+      },
+      {
+        "calculationPointPolicyMstId": 186,
+        "policyType": 1,
+        "coefficientName": "difficultyBonus",
+        "conditionValue": 13,
+        "value": 200000,
+        "startTime": "2020-01-01T00:00:00+09:00"
+      },
+      {
+        "calculationPointPolicyMstId": 187,
+        "policyType": 1,
+        "coefficientName": "difficultyBonus",
+        "conditionValue": 14,
+        "value": 300000,
+        "startTime": "2020-01-01T00:00:00+09:00"
+      },
+      {
+        "calculationPointPolicyMstId": 188,
+        "policyType": 1,
+        "coefficientName": "difficultyBonus",
+        "conditionValue": 15,
+        "value": 500000,
+        "startTime": "2020-01-01T00:00:00+09:00"
+      },
+      {
+        "calculationPointPolicyMstId": 189,
+        "policyType": 1,
+        "coefficientName": "difficultyCoefficient",
+        "conditionValue": 13,
+        "value": 5000,
+        "startTime": "2020-01-01T00:00:00+09:00"
+      },
+      {
+        "calculationPointPolicyMstId": 190,
+        "policyType": 1,
+        "coefficientName": "difficultyCoefficient",
+        "conditionValue": 14,
+        "value": 7000,
+        "startTime": "2020-01-01T00:00:00+09:00"
+      },
+      {
+        "calculationPointPolicyMstId": 191,
+        "policyType": 1,
+        "coefficientName": "difficultyCoefficient",
+        "conditionValue": 15,
+        "value": 10000,
         "startTime": "2020-01-01T00:00:00+09:00"
       }
     ]

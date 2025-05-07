@@ -5236,6 +5236,14 @@
         "compareValue": "TRUE"
       },
       {
+        "battleConditionMstId": 655,
+        "description": "敵チームに与えるトータルダメージは1以上",
+        "compareTarget": 6,
+        "compareContent": 304,
+        "compareOperator": 4,
+        "compareValue": "1"
+      },
+      {
         "battleConditionMstId": 656,
         "description": "味方が1回以上ブレイクした場合",
         "compareTarget": 5,
@@ -5948,6 +5956,38 @@
         "compareValue": "CURSE"
       },
       {
+        "battleConditionMstId": 745,
+        "description": "敵のブレイク補正倍率は200%以上",
+        "compareTarget": 8,
+        "compareContent": 21,
+        "compareOperator": 4,
+        "compareValue": "200"
+      },
+      {
+        "battleConditionMstId": 746,
+        "description": "敵のブレイク補正倍率は250%以上",
+        "compareTarget": 8,
+        "compareContent": 21,
+        "compareOperator": 4,
+        "compareValue": "250"
+      },
+      {
+        "battleConditionMstId": 747,
+        "description": "敵のブレイク補正倍率は300%以上",
+        "compareTarget": 8,
+        "compareContent": 21,
+        "compareOperator": 4,
+        "compareValue": "300"
+      },
+      {
+        "battleConditionMstId": 748,
+        "description": "敵のブレイク補正倍率は350%以上",
+        "compareTarget": 8,
+        "compareContent": 21,
+        "compareOperator": 4,
+        "compareValue": "350"
+      },
+      {
         "battleConditionMstId": 749,
         "description": "対象のHPが50%未満のとき",
         "compareTarget": 8,
@@ -6010,6 +6050,46 @@
         "compareContent": 306,
         "compareOperator": 4,
         "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 760,
+        "description": "行動タイプが必殺技以外",
+        "compareTarget": 7,
+        "compareContent": 401,
+        "compareOperator": 2,
+        "compareValue": "SpecialAttack"
+      },
+      {
+        "battleConditionMstId": 761,
+        "description": "行動者の状態異常数は1以上",
+        "compareTarget": 2,
+        "compareContent": 23,
+        "compareOperator": 4,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 762,
+        "description": "自分がブレイク状態のとき",
+        "compareTarget": 1,
+        "compareContent": 16,
+        "compareOperator": 1,
+        "compareValue": "TRUE"
+      },
+      {
+        "battleConditionMstId": 763,
+        "description": "自分がブレイク状態ではないとき",
+        "compareTarget": 1,
+        "compareContent": 16,
+        "compareOperator": 1,
+        "compareValue": "FALSE"
+      },
+      {
+        "battleConditionMstId": 764,
+        "description": "自分のブレイク補正倍率は400%未満",
+        "compareTarget": 1,
+        "compareContent": 21,
+        "compareOperator": 5,
+        "compareValue": "400"
       }
     ]
   }

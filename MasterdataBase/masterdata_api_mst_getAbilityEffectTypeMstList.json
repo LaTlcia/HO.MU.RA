@@ -2215,6 +2215,28 @@
         "displayType": 0
       },
       {
+        "abilityEffectTypeMstId": 205,
+        "name": "HPを回復",
+        "effectType": "RECOVERY_HP_ATK",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "",
+        "stateFlipName": "HPを回復",
+        "displayType": 0
+      },
+      {
+        "abilityEffectTypeMstId": 206,
+        "name": "戦闘スキル切り替え",
+        "effectType": "SWITCH_SKILL",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "",
+        "stateFlipName": "",
+        "displayType": 0
+      },
+      {
         "abilityEffectTypeMstId": 1001,
         "name": "HP・攻撃力・防御力上昇",
         "effectType": "UP_HP_ATK_DEF_RATIO",

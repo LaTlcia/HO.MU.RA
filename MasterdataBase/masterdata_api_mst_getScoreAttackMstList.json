@@ -13,6 +13,28 @@
         "highScoreRewardGroupId": 1,
         "totalScoreRewardGroupId": 1,
         "dioramaBackgroundMstId": 110319
+      },
+      {
+        "scoreAttackMstId": 2,
+        "name": "",
+        "startTime": "2025-04-25T15:00:00+09:00",
+        "endTime": "2025-05-09T11:59:59+09:00",
+        "comment": "バトル開始時に被ダメージ軽減効果を付与し、行動開始時に軽減効果が上昇します。<br>ダメージを与えることで軽減効果を減少させることができるのでなるべく多く攻撃しましょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 2,
+        "totalScoreRewardGroupId": 2,
+        "dioramaBackgroundMstId": 110919
+      },
+      {
+        "scoreAttackMstId": 3,
+        "name": "",
+        "startTime": "2025-05-02T12:00:00+09:00",
+        "endTime": "2025-05-19T11:59:59+09:00",
+        "comment": "ボスはバリアを使用します。バリアが付与されている間はブレイクゲージが減りづらいため気を付けましょう。<br>ブレイクボーナスの最大値が高いためブレイクボーナスの上昇を積極的に狙っていくとよりダメージを伸ばせるでしょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 3,
+        "totalScoreRewardGroupId": 2,
+        "dioramaBackgroundMstId": 111319
       }
     ]
   }

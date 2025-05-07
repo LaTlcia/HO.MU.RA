@@ -1,0 +1,13 @@
+{
+  "url": "/api/mst/getReplaceCharacterNameMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "replaceCharacterNameMstId": 1,
+        "styleMstId": 11370101,
+        "overrideCharacterName": "アルティメットまどか"
+      }
+    ]
+  }
+}

@@ -25,7 +25,7 @@
         "cycleType": 3,
         "sortOrder": 500,
         "startTime": "2025-03-26T17:00:00+09:00",
-        "endTime": "2050-01-01T00:00:00+09:00"
+        "endTime": "2025-04-28T14:59:59+09:00"
       },
       {
         "loginBonusMstId": 4,
@@ -58,6 +58,30 @@
         "sortOrder": 1000,
         "startTime": "2025-04-19T05:00:00+09:00",
         "endTime": "2025-05-02T04:59:59+09:00"
+      },
+      {
+        "loginBonusMstId": 8,
+        "title": "GWキャンペーンログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1001,
+        "startTime": "2025-04-26T05:00:00+09:00",
+        "endTime": "2025-05-12T04:59:59+09:00"
+      },
+      {
+        "loginBonusMstId": 9,
+        "title": "アルティメットまどか実装記念カウントダウンログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1002,
+        "startTime": "2025-04-30T12:00:00+09:00",
+        "endTime": "2025-05-03T04:59:59+09:00"
+      },
+      {
+        "loginBonusMstId": 10,
+        "title": "アルティメットまどか実装記念ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1003,
+        "startTime": "2025-05-02T12:00:00+09:00",
+        "endTime": "2025-05-19T04:59:59+09:00"
       }
     ]
   }

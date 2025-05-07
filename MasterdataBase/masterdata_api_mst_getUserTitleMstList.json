@@ -16,6 +16,12 @@
         "value1": 10010701
       },
       {
+        "userTitleMstId": 10020101,
+        "title": "時間停止攻撃",
+        "titleType": 1,
+        "value1": 10020101
+      },
+      {
         "userTitleMstId": 10020201,
         "title": "ミサイルによる集中砲火",
         "titleType": 1,
@@ -104,6 +110,12 @@
         "title": "ヴァンパイアファング",
         "titleType": 1,
         "value1": 11250101
+      },
+      {
+        "userTitleMstId": 11370101,
+        "title": "もう絶望する必要なんてない！",
+        "titleType": 1,
+        "value1": 11370101
       },
       {
         "userTitleMstId": 20000000,
@@ -574,10 +586,22 @@
         "value1": 4200005
       },
       {
+        "userTitleMstId": 60000005,
+        "title": "サニーデイライフ 後編クリア",
+        "titleType": 2,
+        "value1": 4200007
+      },
+      {
         "userTitleMstId": 60000006,
         "title": "調整屋さんの事件簿１ 多世界解釈のポエジークリア",
         "titleType": 2,
         "value1": 4200009
+      },
+      {
+        "userTitleMstId": 60000007,
+        "title": "Memories of you 前編クリア",
+        "titleType": 2,
+        "value1": 4200011
       },
       {
         "userTitleMstId": 70000001,

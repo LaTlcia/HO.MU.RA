@@ -43,6 +43,58 @@
         "resourceName": ""
       },
       {
+        "shopSeriesMstId": 2987,
+        "title": "★5バッファー＆デバッファーピックアップガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2025-05-05T12:00:00+09:00",
+        "endTime": "2025-05-12T11:59:59+09:00",
+        "shopGroupId1": 2987,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231013,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 2988,
+        "title": "アルティメットまどかピックアップガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2025-05-02T12:00:00+09:00",
+        "endTime": "2025-05-19T11:59:59+09:00",
+        "shopGroupId1": 2988,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231012,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 2989,
+        "title": "★5ディフェンダーピックアップガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2025-04-28T12:00:00+09:00",
+        "endTime": "2025-05-05T11:59:59+09:00",
+        "shopGroupId1": 2989,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231011,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 2990,
+        "title": "[時間停止攻撃]暁美ほむらガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2025-04-25T15:00:00+09:00",
+        "endTime": "2025-05-09T11:59:59+09:00",
+        "shopGroupId1": 2990,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231010,
+        "resourceName": ""
+      },
+      {
         "shopSeriesMstId": 2991,
         "title": "★5アタッカーピックアップガチャ交換所",
         "description": "",
@@ -157,6 +209,32 @@
         "shopGroupId2": 0,
         "payType": 3,
         "payId": 231004,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 3990,
+        "title": "Memories of you 前編イベント交換所",
+        "description": "",
+        "category": 3,
+        "startTime": "2025-05-02T12:00:00+09:00",
+        "endTime": "2025-05-20T11:59:59+09:00",
+        "shopGroupId1": 3990,
+        "shopGroupId2": 3986,
+        "payType": 3,
+        "payId": 201014,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 3992,
+        "title": "サニーデイライフ 後編イベント交換所",
+        "description": "",
+        "category": 3,
+        "startTime": "2025-04-25T15:00:00+09:00",
+        "endTime": "2025-05-10T11:59:59+09:00",
+        "shopGroupId1": 3992,
+        "shopGroupId2": 3987,
+        "payType": 3,
+        "payId": 201013,
         "resourceName": ""
       },
       {

@@ -32,13 +32,6 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5,
-        "prevMissionTitleMstId": 0,
-        "title": "カムバックミッション",
-        "priority": 1,
-        "featuredRewardResourceName": ""
-      },
-      {
         "missionTitleMstId": 10,
         "prevMissionTitleMstId": 0,
         "title": "エクセドラパスミッション",
@@ -67,10 +60,10 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5010,
+        "missionTitleMstId": 5005,
         "prevMissionTitleMstId": 0,
-        "title": "育成応援ミッション 第4弾",
-        "priority": 3,
+        "title": "サニーデイライフ 後編イベントミッション",
+        "priority": 17,
         "featuredRewardResourceName": ""
       },
       {
@@ -81,10 +74,24 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5013,
+        "missionTitleMstId": 5012,
         "prevMissionTitleMstId": 0,
-        "title": "調整屋さんの事件簿１イベントミッション",
-        "priority": 15,
+        "title": "GWキャンペーンミッション",
+        "priority": 6,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5014,
+        "prevMissionTitleMstId": 0,
+        "title": "Memories of you 前編イベントミッション",
+        "priority": 18,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5015,
+        "prevMissionTitleMstId": 0,
+        "title": "育成応援ミッション 第5弾",
+        "priority": 3,
         "featuredRewardResourceName": ""
       }
     ]

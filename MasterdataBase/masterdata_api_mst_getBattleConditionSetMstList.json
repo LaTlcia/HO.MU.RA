@@ -2071,7 +2071,7 @@
       {
         "battleConditionSetMstId": 414,
         "description": "敵にダメージを与えたとき",
-        "battleConditionMstIdCsv": "328,3"
+        "battleConditionMstIdCsv": "655,3"
       },
       {
         "battleConditionSetMstId": 415,
@@ -4096,7 +4096,7 @@
       {
         "battleConditionSetMstId": 819,
         "description": "通常スキルか戦闘スキルか必殺技でダメージを与えたとき",
-        "battleConditionMstIdCsv": "630,282,1"
+        "battleConditionMstIdCsv": "630,655,1"
       },
       {
         "battleConditionSetMstId": 820,
@@ -5119,6 +5119,31 @@
         "battleConditionMstIdCsv": "395"
       },
       {
+        "battleConditionSetMstId": 1028,
+        "description": "ダメージ与えたときか回復効果受けた時",
+        "battleConditionMstIdCsv": "557,280,3"
+      },
+      {
+        "battleConditionSetMstId": 1029,
+        "description": "魔力が2個のときで行動可能",
+        "battleConditionMstIdCsv": "394,286,3"
+      },
+      {
+        "battleConditionSetMstId": 1030,
+        "description": "魔力が3個のときで行動可能",
+        "battleConditionMstIdCsv": "395,286,3"
+      },
+      {
+        "battleConditionSetMstId": 1031,
+        "description": "魔力が4個のときで行動可能",
+        "battleConditionMstIdCsv": "396,286,3"
+      },
+      {
+        "battleConditionSetMstId": 1032,
+        "description": "魔力が5個のときで行動可能",
+        "battleConditionMstIdCsv": "285,286,3"
+      },
+      {
         "battleConditionSetMstId": 1033,
         "description": "「十咎ももこ」かつ必殺技発動時",
         "battleConditionMstIdCsv": "49,7"
@@ -5179,6 +5204,11 @@
         "battleConditionMstIdCsv": "743"
       },
       {
+        "battleConditionSetMstId": 1045,
+        "description": "敵チームに与えるトータルダメージは1以上",
+        "battleConditionMstIdCsv": "655,3"
+      },
+      {
         "battleConditionSetMstId": 1046,
         "description": "6ターンごとに（ターン2から） AND 連続行動の1回目",
         "battleConditionMstIdCsv": "70,273"
@@ -5232,6 +5262,26 @@
         "battleConditionSetMstId": 1056,
         "description": "10ターンごと（10ターン目から） AND 連続行動の3回目",
         "battleConditionMstIdCsv": "108,275"
+      },
+      {
+        "battleConditionSetMstId": 1057,
+        "description": "敵のブレイク補正倍率は350%以上",
+        "battleConditionMstIdCsv": "745"
+      },
+      {
+        "battleConditionSetMstId": 1058,
+        "description": "敵のブレイク補正倍率は400%以上",
+        "battleConditionMstIdCsv": "746"
+      },
+      {
+        "battleConditionSetMstId": 1059,
+        "description": "敵のブレイク補正倍率は450%以上",
+        "battleConditionMstIdCsv": "747"
+      },
+      {
+        "battleConditionSetMstId": 1060,
+        "description": "敵のブレイク補正倍率は500%以上",
+        "battleConditionMstIdCsv": "748"
       },
       {
         "battleConditionSetMstId": 1061,
@@ -5872,6 +5922,86 @@
         "battleConditionSetMstId": 1189,
         "description": "魔力が10個のとき",
         "battleConditionMstIdCsv": "401,282,3"
+      },
+      {
+        "battleConditionSetMstId": 1190,
+        "description": "【追撃・反撃】以外のクリティカルダメージが発生したとき",
+        "battleConditionMstIdCsv": "281,630"
+      },
+      {
+        "battleConditionSetMstId": 1191,
+        "description": "【追撃・反撃】と必殺技以外発動したとき",
+        "battleConditionMstIdCsv": "630760,3"
+      },
+      {
+        "battleConditionSetMstId": 1192,
+        "description": "状態異常が付与された敵から１以上のダメージを受けた",
+        "battleConditionMstIdCsv": "2,761,25"
+      },
+      {
+        "battleConditionSetMstId": 1193,
+        "description": "自分がブレイク状態のとき",
+        "battleConditionMstIdCsv": "762"
+      },
+      {
+        "battleConditionSetMstId": 1194,
+        "description": "自分がブレイク状態ではないとき",
+        "battleConditionMstIdCsv": "763"
+      },
+      {
+        "battleConditionSetMstId": 1195,
+        "description": "自分のブレイク補正倍率は400%未満",
+        "battleConditionMstIdCsv": "764"
+      },
+      {
+        "battleConditionSetMstId": 1196,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、魔力が1",
+        "battleConditionMstIdCsv": "420,286,393"
+      },
+      {
+        "battleConditionSetMstId": 1197,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、魔力が2",
+        "battleConditionMstIdCsv": "420,286,394"
+      },
+      {
+        "battleConditionSetMstId": 1198,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、魔力が3",
+        "battleConditionMstIdCsv": "420,286,395"
+      },
+      {
+        "battleConditionSetMstId": 1199,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、魔力が4",
+        "battleConditionMstIdCsv": "420,286,396"
+      },
+      {
+        "battleConditionSetMstId": 1200,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、魔力が5",
+        "battleConditionMstIdCsv": "420,286,285"
+      },
+      {
+        "battleConditionSetMstId": 1201,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、魔力が6",
+        "battleConditionMstIdCsv": "420,286,397"
+      },
+      {
+        "battleConditionSetMstId": 1202,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、魔力が7",
+        "battleConditionMstIdCsv": "420,286,398"
+      },
+      {
+        "battleConditionSetMstId": 1203,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、魔力が8",
+        "battleConditionMstIdCsv": "420,286,399"
+      },
+      {
+        "battleConditionSetMstId": 1204,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、魔力が9",
+        "battleConditionMstIdCsv": "420,286,400"
+      },
+      {
+        "battleConditionSetMstId": 1205,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、魔力が10",
+        "battleConditionMstIdCsv": "420,286,401"
       }
     ]
   }

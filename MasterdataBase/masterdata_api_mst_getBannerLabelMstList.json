@@ -77,6 +77,16 @@
         "bannerLabelMstId": 16,
         "labelContent": "メンテナンス",
         "labelBgColor": "#4f8a64"
+      },
+      {
+        "bannerLabelMstId": 17,
+        "labelContent": "限定キオクピックアップ",
+        "labelBgColor": "#5f8f7f"
+      },
+      {
+        "bannerLabelMstId": 18,
+        "labelContent": "★5提供割合2倍",
+        "labelBgColor": "#5f8f7f"
       }
     ]
   }
