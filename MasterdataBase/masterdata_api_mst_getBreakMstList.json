@@ -2290,6 +2290,15 @@
         "breakedDamageReceiveRateIncreaseRate": 1000
       },
       {
+        "breakMstId": 60900104,
+        "breakPoint": 1250,
+        "breakPointRecoveryPerTurn": 0,
+        "breakTurnGaugeSlowRatio": 1000,
+        "initialBreakedDamageReceiveRate": 3500,
+        "maxBreakedDamageReceiveRate": 5000,
+        "breakedDamageReceiveRateIncreaseRate": 1000
+      },
+      {
         "breakMstId": 60900201,
         "breakPoint": 90,
         "breakPointRecoveryPerTurn": 0,

@@ -6090,6 +6090,22 @@
         "compareContent": 21,
         "compareOperator": 5,
         "compareValue": "400"
+      },
+      {
+        "battleConditionMstId": 765,
+        "description": "バリアが張られた敵が存在しない場合",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 1,
+        "compareValue": "BARRIER,0"
+      },
+      {
+        "battleConditionMstId": 766,
+        "description": "バリアが張られた敵が存在する場合",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 4,
+        "compareValue": "BARRIER,1"
       }
     ]
   }

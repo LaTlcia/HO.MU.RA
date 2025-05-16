@@ -234,6 +234,14 @@
         "endTime": "2025-05-31T11:59:59+09:00",
         "sortOrder": 134,
         "osType": 0
+      },
+      {
+        "homeBannerMstId": 80,
+        "bannerMstId": 80,
+        "startTime": "2025-05-09T12:00:00+09:00",
+        "endTime": "2025-05-23T11:59:59+09:00",
+        "sortOrder": 145,
+        "osType": 0
       }
     ]
   }

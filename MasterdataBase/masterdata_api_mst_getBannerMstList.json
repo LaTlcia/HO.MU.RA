@@ -513,6 +513,20 @@
         "imageName": "banner_00064",
         "destination": "",
         "bannerLabelMstId": 3
+      },
+      {
+        "bannerMstId": 80,
+        "name": "",
+        "imageName": "banner_00073",
+        "destination": "Tower",
+        "bannerLabelMstId": 4
+      },
+      {
+        "bannerMstId": 83,
+        "name": "",
+        "imageName": "banner_00075",
+        "destination": "",
+        "bannerLabelMstId": 3
       }
     ]
   }

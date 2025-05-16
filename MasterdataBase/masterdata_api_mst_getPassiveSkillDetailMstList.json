@@ -48553,7 +48553,7 @@
         "passiveSkillDetailMstId": 200500801,
         "passiveSkillMstId": 2005008,
         "abilityEffectType": "DWN_RCV_DMG_RATIO",
-        "value1": 150,
+        "value1": 50,
         "value2": 0,
         "value3": 0,
         "element": 0,
@@ -48565,7 +48565,7 @@
         "descriptionType": 0,
         "startTimingIdCsv": "1",
         "startConditionSetIdCsv": "",
-        "activeConditionSetIdCsv": "483"
+        "activeConditionSetIdCsv": "1220"
       },
       {
         "passiveSkillDetailMstId": 200500901,

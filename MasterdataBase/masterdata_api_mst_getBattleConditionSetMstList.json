@@ -6002,6 +6002,41 @@
         "battleConditionSetMstId": 1205,
         "description": "自身がブレイク状態ではなく、行動可能な状態で、魔力が10",
         "battleConditionMstIdCsv": "420,286,401"
+      },
+      {
+        "battleConditionSetMstId": 1207,
+        "description": "バリアが張られた敵が存在しない場合",
+        "battleConditionMstIdCsv": "765"
+      },
+      {
+        "battleConditionSetMstId": 1208,
+        "description": "バリアが張られた敵が存在する場合",
+        "battleConditionMstIdCsv": "766"
+      },
+      {
+        "battleConditionSetMstId": 1217,
+        "description": "行動者が裂傷状態",
+        "battleConditionMstIdCsv": "418"
+      },
+      {
+        "battleConditionSetMstId": 1218,
+        "description": "行動者が火傷状態",
+        "battleConditionMstIdCsv": "414"
+      },
+      {
+        "battleConditionSetMstId": 1219,
+        "description": "行動者が毒状態",
+        "battleConditionMstIdCsv": "415"
+      },
+      {
+        "battleConditionSetMstId": 1220,
+        "description": "行動者が呪い状態",
+        "battleConditionMstIdCsv": "416"
+      },
+      {
+        "battleConditionSetMstId": 1221,
+        "description": "行動者が衰弱状態",
+        "battleConditionMstIdCsv": "417"
       }
     ]
   }

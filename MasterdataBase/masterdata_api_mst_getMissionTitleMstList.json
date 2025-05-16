@@ -53,34 +53,6 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5003,
-        "prevMissionTitleMstId": 0,
-        "title": "サニーデイライフ 前編イベントミッション",
-        "priority": 16,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5005,
-        "prevMissionTitleMstId": 0,
-        "title": "サニーデイライフ 後編イベントミッション",
-        "priority": 17,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5011,
-        "prevMissionTitleMstId": 0,
-        "title": "タワー攻略応援ミッション",
-        "priority": 4,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5012,
-        "prevMissionTitleMstId": 0,
-        "title": "GWキャンペーンミッション",
-        "priority": 6,
-        "featuredRewardResourceName": ""
-      },
-      {
         "missionTitleMstId": 5014,
         "prevMissionTitleMstId": 0,
         "title": "Memories of you 前編イベントミッション",
@@ -88,9 +60,9 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5015,
+        "missionTitleMstId": 5017,
         "prevMissionTitleMstId": 0,
-        "title": "育成応援ミッション 第5弾",
+        "title": "育成応援ミッション 第6弾",
         "priority": 3,
         "featuredRewardResourceName": ""
       }
