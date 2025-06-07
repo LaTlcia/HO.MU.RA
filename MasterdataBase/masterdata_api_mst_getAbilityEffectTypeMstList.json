@@ -2237,6 +2237,50 @@
         "displayType": 0
       },
       {
+        "abilityEffectTypeMstId": 207,
+        "name": "ドレイン",
+        "effectType": "DRAIN",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 2,
+        "iconName": "",
+        "stateFlipName": "ドレイン",
+        "displayType": 0
+      },
+      {
+        "abilityEffectTypeMstId": 208,
+        "name": "カットアウト",
+        "effectType": "CUTOUT",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "",
+        "stateFlipName": "カットアウト",
+        "displayType": 1
+      },
+      {
+        "abilityEffectTypeMstId": 209,
+        "name": "リジェネレイト",
+        "effectType": "CONTINUOUS_RECOVERY",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "",
+        "stateFlipName": "リジェネレイト",
+        "displayType": 1
+      },
+      {
+        "abilityEffectTypeMstId": 210,
+        "name": "バリア効果値減少",
+        "effectType": "DWN_BARRIER_VALUE",
+        "category": 3,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "DebuffIconL",
+        "stateFlipName": "バリア効果値減少",
+        "displayType": 2
+      },
+      {
         "abilityEffectTypeMstId": 1001,
         "name": "HP・攻撃力・防御力上昇",
         "effectType": "UP_HP_ATK_DEF_RATIO",

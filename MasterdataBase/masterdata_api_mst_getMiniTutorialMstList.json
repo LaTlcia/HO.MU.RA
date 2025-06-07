@@ -89,7 +89,7 @@
         "miniTutorialNumber": 15,
         "sortOrder": 1,
         "title": "イベントクエスト",
-        "description": "本イベント「焦らずゆっくり未来へ ～魔法少女に夢を見て～」は常設イベントとなります。また、その他にも期間限定イベントを順次配信予定です。\n今後配信されるイベントクエストをぜひお楽しみください。 ",
+        "description": "「焦らずゆっくり未来へ ～魔法少女に夢を見て～」は常設イベントとなります。また、その他にも期間限定イベントを順次配信予定です。\n今後配信されるイベントクエストをぜひお楽しみください。 ",
         "resourceName": "event_appeal01",
         "advMstId": 0
       },
@@ -487,6 +487,24 @@
         "title": "バトルのAUTO設定について",
         "description": "バトルをオートで進行する設定をすることができます。\n必殺技以外の行動がオート進行になるSEMI AUTOモードと、\n全ての行動が自動になるFULL AUTOモードがあります。",
         "resourceName": "battle_auto_01",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 7901,
+        "miniTutorialNumber": 79,
+        "sortOrder": 1,
+        "title": "Chaosモードについて",
+        "description": "ChaosモードはNightmareモードよりさらに強力な敵が待ち構えています。\nChaosモードの各クエストには挑戦ミッションが設定されており、挑戦ミッションのクリア数が一定以上になると挑戦可能なクエストが解放される場合があります。\n※Chaosモードのクエストは定期的に追加されます。",
+        "resourceName": "chaosmode_tutorial01",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 7902,
+        "miniTutorialNumber": 79,
+        "sortOrder": 2,
+        "title": "挑戦ミッションについて",
+        "description": "挑戦ミッションはバトル中に特定条件を満たした状態でクリアすることで達成できます。\nChaosモードの各クエストには挑戦ミッションが3つずつ設定されています。\n1度クリアしたミッションはクリア扱いになるので、何度も挑戦してすべての挑戦ミッション達成を目指しましょう！",
+        "resourceName": "chaosmode_tutorial02",
         "advMstId": 0
       },
       {

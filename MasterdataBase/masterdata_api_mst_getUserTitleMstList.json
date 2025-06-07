@@ -46,10 +46,22 @@
         "value1": 10050101
       },
       {
+        "userTitleMstId": 10070101,
+        "title": "ホロウ・ウーマン",
+        "titleType": 1,
+        "value1": 10070101
+      },
+      {
         "userTitleMstId": 10080101,
         "title": "ストラーダ・フトゥーロ",
         "titleType": 1,
         "value1": 10080101
+      },
+      {
+        "userTitleMstId": 10080102,
+        "title": "沈黙のドッペル",
+        "titleType": 1,
+        "value1": 10080102
       },
       {
         "userTitleMstId": 10090101,
@@ -376,6 +388,24 @@
         "value1": 0
       },
       {
+        "userTitleMstId": 20104002,
+        "title": "薔薇園の魔女 Chaosクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20104003,
+        "title": "暗闇の魔女 Chaosクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20104004,
+        "title": "お菓子の魔女 Chaosクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
         "userTitleMstId": 20201001,
         "title": "砂場の魔女 Mainクリア",
         "titleType": 0,
@@ -390,6 +420,12 @@
       {
         "userTitleMstId": 20201003,
         "title": "名無し人工知能のうわさ Mainクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20201004,
+        "title": "キレートビッグフェリスのうわさ Mainクリア",
         "titleType": 0,
         "value1": 0
       },
@@ -412,6 +448,12 @@
         "value1": 0
       },
       {
+        "userTitleMstId": 20202004,
+        "title": "キレートビッグフェリスのうわさ Battleクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
         "userTitleMstId": 20203001,
         "title": "砂場の魔女 Nightmareクリア",
         "titleType": 0,
@@ -426,6 +468,12 @@
       {
         "userTitleMstId": 20203003,
         "title": "名無し人工知能のうわさ Nightmareクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20203004,
+        "title": "キレートビッグフェリスのうわさ Nightmareクリア",
         "titleType": 0,
         "value1": 0
       },
@@ -602,6 +650,24 @@
         "title": "Memories of you 前編クリア",
         "titleType": 2,
         "value1": 4200011
+      },
+      {
+        "userTitleMstId": 60000008,
+        "title": "調整屋さんの事件簿２ 漂泊するナラティヴクリア",
+        "titleType": 2,
+        "value1": 4200015
+      },
+      {
+        "userTitleMstId": 60000009,
+        "title": "魔法少女まどか☆マギカ scene0 前編クリア",
+        "titleType": 2,
+        "value1": 4200024
+      },
+      {
+        "userTitleMstId": 60000010,
+        "title": "Memories of you 後編クリア",
+        "titleType": 2,
+        "value1": 4200013
       },
       {
         "userTitleMstId": 70000001,

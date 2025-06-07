@@ -12,6 +12,7 @@
         "reprintNum": 0,
         "highScoreRewardGroupId": 1,
         "totalScoreRewardGroupId": 1,
+        "rankingRewardGroupId": 0,
         "dioramaBackgroundMstId": 110319
       },
       {
@@ -23,6 +24,7 @@
         "reprintNum": 0,
         "highScoreRewardGroupId": 2,
         "totalScoreRewardGroupId": 2,
+        "rankingRewardGroupId": 0,
         "dioramaBackgroundMstId": 110919
       },
       {
@@ -34,6 +36,7 @@
         "reprintNum": 0,
         "highScoreRewardGroupId": 3,
         "totalScoreRewardGroupId": 2,
+        "rankingRewardGroupId": 3,
         "dioramaBackgroundMstId": 111319
       }
     ]

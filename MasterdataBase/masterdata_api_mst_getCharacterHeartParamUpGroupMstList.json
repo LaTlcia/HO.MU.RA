@@ -302,6 +302,300 @@
         "paramUpGroupId": 2,
         "heartLevel": 47,
         "styleParamUpEffectMstId": 702
+      },
+      {
+        "characterHeartParamUpGroupMstId": 200,
+        "paramUpGroupId": 3,
+        "heartLevel": 2,
+        "styleParamUpEffectMstId": 503
+      },
+      {
+        "characterHeartParamUpGroupMstId": 201,
+        "paramUpGroupId": 3,
+        "heartLevel": 3,
+        "styleParamUpEffectMstId": 503
+      },
+      {
+        "characterHeartParamUpGroupMstId": 202,
+        "paramUpGroupId": 3,
+        "heartLevel": 4,
+        "styleParamUpEffectMstId": 504
+      },
+      {
+        "characterHeartParamUpGroupMstId": 203,
+        "paramUpGroupId": 3,
+        "heartLevel": 5,
+        "styleParamUpEffectMstId": 504
+      },
+      {
+        "characterHeartParamUpGroupMstId": 204,
+        "paramUpGroupId": 3,
+        "heartLevel": 6,
+        "styleParamUpEffectMstId": 504
+      },
+      {
+        "characterHeartParamUpGroupMstId": 205,
+        "paramUpGroupId": 3,
+        "heartLevel": 7,
+        "styleParamUpEffectMstId": 504
+      },
+      {
+        "characterHeartParamUpGroupMstId": 206,
+        "paramUpGroupId": 3,
+        "heartLevel": 8,
+        "styleParamUpEffectMstId": 504
+      },
+      {
+        "characterHeartParamUpGroupMstId": 207,
+        "paramUpGroupId": 3,
+        "heartLevel": 13,
+        "styleParamUpEffectMstId": 504
+      },
+      {
+        "characterHeartParamUpGroupMstId": 208,
+        "paramUpGroupId": 3,
+        "heartLevel": 14,
+        "styleParamUpEffectMstId": 504
+      },
+      {
+        "characterHeartParamUpGroupMstId": 209,
+        "paramUpGroupId": 3,
+        "heartLevel": 19,
+        "styleParamUpEffectMstId": 504
+      },
+      {
+        "characterHeartParamUpGroupMstId": 210,
+        "paramUpGroupId": 3,
+        "heartLevel": 20,
+        "styleParamUpEffectMstId": 504
+      },
+      {
+        "characterHeartParamUpGroupMstId": 211,
+        "paramUpGroupId": 3,
+        "heartLevel": 25,
+        "styleParamUpEffectMstId": 504
+      },
+      {
+        "characterHeartParamUpGroupMstId": 212,
+        "paramUpGroupId": 3,
+        "heartLevel": 26,
+        "styleParamUpEffectMstId": 504
+      },
+      {
+        "characterHeartParamUpGroupMstId": 213,
+        "paramUpGroupId": 3,
+        "heartLevel": 31,
+        "styleParamUpEffectMstId": 504
+      },
+      {
+        "characterHeartParamUpGroupMstId": 214,
+        "paramUpGroupId": 3,
+        "heartLevel": 32,
+        "styleParamUpEffectMstId": 504
+      },
+      {
+        "characterHeartParamUpGroupMstId": 215,
+        "paramUpGroupId": 3,
+        "heartLevel": 37,
+        "styleParamUpEffectMstId": 505
+      },
+      {
+        "characterHeartParamUpGroupMstId": 216,
+        "paramUpGroupId": 3,
+        "heartLevel": 38,
+        "styleParamUpEffectMstId": 505
+      },
+      {
+        "characterHeartParamUpGroupMstId": 217,
+        "paramUpGroupId": 3,
+        "heartLevel": 43,
+        "styleParamUpEffectMstId": 505
+      },
+      {
+        "characterHeartParamUpGroupMstId": 218,
+        "paramUpGroupId": 3,
+        "heartLevel": 44,
+        "styleParamUpEffectMstId": 505
+      },
+      {
+        "characterHeartParamUpGroupMstId": 219,
+        "paramUpGroupId": 3,
+        "heartLevel": 49,
+        "styleParamUpEffectMstId": 505
+      },
+      {
+        "characterHeartParamUpGroupMstId": 220,
+        "paramUpGroupId": 3,
+        "heartLevel": 50,
+        "styleParamUpEffectMstId": 501
+      },
+      {
+        "characterHeartParamUpGroupMstId": 221,
+        "paramUpGroupId": 3,
+        "heartLevel": 9,
+        "styleParamUpEffectMstId": 603
+      },
+      {
+        "characterHeartParamUpGroupMstId": 222,
+        "paramUpGroupId": 3,
+        "heartLevel": 10,
+        "styleParamUpEffectMstId": 603
+      },
+      {
+        "characterHeartParamUpGroupMstId": 223,
+        "paramUpGroupId": 3,
+        "heartLevel": 15,
+        "styleParamUpEffectMstId": 603
+      },
+      {
+        "characterHeartParamUpGroupMstId": 224,
+        "paramUpGroupId": 3,
+        "heartLevel": 16,
+        "styleParamUpEffectMstId": 603
+      },
+      {
+        "characterHeartParamUpGroupMstId": 225,
+        "paramUpGroupId": 3,
+        "heartLevel": 21,
+        "styleParamUpEffectMstId": 601
+      },
+      {
+        "characterHeartParamUpGroupMstId": 226,
+        "paramUpGroupId": 3,
+        "heartLevel": 22,
+        "styleParamUpEffectMstId": 601
+      },
+      {
+        "characterHeartParamUpGroupMstId": 227,
+        "paramUpGroupId": 3,
+        "heartLevel": 27,
+        "styleParamUpEffectMstId": 601
+      },
+      {
+        "characterHeartParamUpGroupMstId": 228,
+        "paramUpGroupId": 3,
+        "heartLevel": 28,
+        "styleParamUpEffectMstId": 601
+      },
+      {
+        "characterHeartParamUpGroupMstId": 229,
+        "paramUpGroupId": 3,
+        "heartLevel": 33,
+        "styleParamUpEffectMstId": 601
+      },
+      {
+        "characterHeartParamUpGroupMstId": 230,
+        "paramUpGroupId": 3,
+        "heartLevel": 34,
+        "styleParamUpEffectMstId": 601
+      },
+      {
+        "characterHeartParamUpGroupMstId": 231,
+        "paramUpGroupId": 3,
+        "heartLevel": 39,
+        "styleParamUpEffectMstId": 601
+      },
+      {
+        "characterHeartParamUpGroupMstId": 232,
+        "paramUpGroupId": 3,
+        "heartLevel": 40,
+        "styleParamUpEffectMstId": 601
+      },
+      {
+        "characterHeartParamUpGroupMstId": 233,
+        "paramUpGroupId": 3,
+        "heartLevel": 45,
+        "styleParamUpEffectMstId": 601
+      },
+      {
+        "characterHeartParamUpGroupMstId": 234,
+        "paramUpGroupId": 3,
+        "heartLevel": 46,
+        "styleParamUpEffectMstId": 601
+      },
+      {
+        "characterHeartParamUpGroupMstId": 235,
+        "paramUpGroupId": 3,
+        "heartLevel": 11,
+        "styleParamUpEffectMstId": 703
+      },
+      {
+        "characterHeartParamUpGroupMstId": 236,
+        "paramUpGroupId": 3,
+        "heartLevel": 12,
+        "styleParamUpEffectMstId": 703
+      },
+      {
+        "characterHeartParamUpGroupMstId": 237,
+        "paramUpGroupId": 3,
+        "heartLevel": 17,
+        "styleParamUpEffectMstId": 703
+      },
+      {
+        "characterHeartParamUpGroupMstId": 238,
+        "paramUpGroupId": 3,
+        "heartLevel": 18,
+        "styleParamUpEffectMstId": 703
+      },
+      {
+        "characterHeartParamUpGroupMstId": 239,
+        "paramUpGroupId": 3,
+        "heartLevel": 23,
+        "styleParamUpEffectMstId": 701
+      },
+      {
+        "characterHeartParamUpGroupMstId": 240,
+        "paramUpGroupId": 3,
+        "heartLevel": 24,
+        "styleParamUpEffectMstId": 701
+      },
+      {
+        "characterHeartParamUpGroupMstId": 241,
+        "paramUpGroupId": 3,
+        "heartLevel": 29,
+        "styleParamUpEffectMstId": 701
+      },
+      {
+        "characterHeartParamUpGroupMstId": 242,
+        "paramUpGroupId": 3,
+        "heartLevel": 30,
+        "styleParamUpEffectMstId": 701
+      },
+      {
+        "characterHeartParamUpGroupMstId": 243,
+        "paramUpGroupId": 3,
+        "heartLevel": 35,
+        "styleParamUpEffectMstId": 701
+      },
+      {
+        "characterHeartParamUpGroupMstId": 244,
+        "paramUpGroupId": 3,
+        "heartLevel": 36,
+        "styleParamUpEffectMstId": 701
+      },
+      {
+        "characterHeartParamUpGroupMstId": 245,
+        "paramUpGroupId": 3,
+        "heartLevel": 41,
+        "styleParamUpEffectMstId": 701
+      },
+      {
+        "characterHeartParamUpGroupMstId": 246,
+        "paramUpGroupId": 3,
+        "heartLevel": 42,
+        "styleParamUpEffectMstId": 701
+      },
+      {
+        "characterHeartParamUpGroupMstId": 247,
+        "paramUpGroupId": 3,
+        "heartLevel": 47,
+        "styleParamUpEffectMstId": 701
+      },
+      {
+        "characterHeartParamUpGroupMstId": 248,
+        "paramUpGroupId": 3,
+        "heartLevel": 48,
+        "styleParamUpEffectMstId": 701
       }
     ]
   }

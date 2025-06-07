@@ -82,6 +82,30 @@
         "sortOrder": 1003,
         "startTime": "2025-05-02T12:00:00+09:00",
         "endTime": "2025-05-19T04:59:59+09:00"
+      },
+      {
+        "loginBonusMstId": 11,
+        "title": "メインクエスト追加記念ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1000,
+        "startTime": "2025-05-17T05:00:00+09:00",
+        "endTime": "2025-05-31T04:59:59+09:00"
+      },
+      {
+        "loginBonusMstId": 12,
+        "title": "scene0カウントダウンログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1001,
+        "startTime": "2025-05-27T12:00:00+09:00",
+        "endTime": "2025-05-31T04:59:59+09:00"
+      },
+      {
+        "loginBonusMstId": 13,
+        "title": "scene0開幕記念ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1002,
+        "startTime": "2025-05-30T12:00:00+09:00",
+        "endTime": "2025-06-30T04:59:59+09:00"
       }
     ]
   }

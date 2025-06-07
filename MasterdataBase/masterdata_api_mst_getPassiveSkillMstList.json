@@ -3904,6 +3904,426 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 406601,
+        "skillUniqueId": 4066,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406602,
+        "skillUniqueId": 4066,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+8.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406603,
+        "skillUniqueId": 4066,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+9.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406604,
+        "skillUniqueId": 4066,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+10.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406605,
+        "skillUniqueId": 4066,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+11.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406606,
+        "skillUniqueId": 4066,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+12.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406701,
+        "skillUniqueId": 4067,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "スピード+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406702,
+        "skillUniqueId": 4067,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "スピード+8.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406703,
+        "skillUniqueId": 4067,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "スピード+9.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406704,
+        "skillUniqueId": 4067,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "スピード+10.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406705,
+        "skillUniqueId": 4067,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "スピード+11.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406706,
+        "skillUniqueId": 4067,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "スピード+12.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406801,
+        "skillUniqueId": 4068,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "HP回復量+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406802,
+        "skillUniqueId": 4068,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "HP回復量+6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406803,
+        "skillUniqueId": 4068,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "HP回復量+7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406804,
+        "skillUniqueId": 4068,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "HP回復量+8%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406805,
+        "skillUniqueId": 4068,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "HP回復量+9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406806,
+        "skillUniqueId": 4068,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "HP回復量+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406901,
+        "skillUniqueId": 4069,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "状態異常耐性+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406902,
+        "skillUniqueId": 4069,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "状態異常耐性+8.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406903,
+        "skillUniqueId": 4069,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "状態異常耐性+9.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406904,
+        "skillUniqueId": 4069,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "状態異常耐性+10.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406905,
+        "skillUniqueId": 4069,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "状態異常耐性+11.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 406906,
+        "skillUniqueId": 4069,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "状態異常耐性+12.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407001,
+        "skillUniqueId": 4070,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "最大HP+2.5%、防御力+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407002,
+        "skillUniqueId": 4070,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "最大HP+3%、防御力+5.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407003,
+        "skillUniqueId": 4070,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "最大HP+3.5%、防御力+6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407004,
+        "skillUniqueId": 4070,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "最大HP+4%、防御力+6.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407005,
+        "skillUniqueId": 4070,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "最大HP+4.5%、防御力+7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407006,
+        "skillUniqueId": 4070,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "最大HP+5%、防御力+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407101,
+        "skillUniqueId": 4071,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "闇属性で攻撃したとき、与えるダメージ+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407102,
+        "skillUniqueId": 4071,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "闇属性で攻撃したとき、与えるダメージ+8.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407103,
+        "skillUniqueId": 4071,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "闇属性で攻撃したとき、与えるダメージ+9.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407104,
+        "skillUniqueId": 4071,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "闇属性で攻撃したとき、与えるダメージ+10.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407105,
+        "skillUniqueId": 4071,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "闇属性で攻撃したとき、与えるダメージ+11.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407106,
+        "skillUniqueId": 4071,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "闇属性で攻撃したとき、与えるダメージ+12.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407201,
+        "skillUniqueId": 4072,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "光属性で攻撃したとき、与えるダメージ+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407202,
+        "skillUniqueId": 4072,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "光属性で攻撃したとき、与えるダメージ+8.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407203,
+        "skillUniqueId": 4072,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "光属性で攻撃したとき、与えるダメージ+9.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407204,
+        "skillUniqueId": 4072,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "光属性で攻撃したとき、与えるダメージ+10.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407205,
+        "skillUniqueId": 4072,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "光属性で攻撃したとき、与えるダメージ+11.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407206,
+        "skillUniqueId": 4072,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "光属性で攻撃したとき、与えるダメージ+12.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 500101,
         "skillUniqueId": 5001,
         "level": 1,
@@ -6664,6 +7084,126 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 504701,
+        "skillUniqueId": 5047,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "HP回復量+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504702,
+        "skillUniqueId": 5047,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "HP回復量+12%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504703,
+        "skillUniqueId": 5047,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "HP回復量+14%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504704,
+        "skillUniqueId": 5047,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "HP回復量+16%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504705,
+        "skillUniqueId": 5047,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "HP回復量+18%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504706,
+        "skillUniqueId": 5047,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "HP回復量+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504801,
+        "skillUniqueId": 5048,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+15%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504802,
+        "skillUniqueId": 5048,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+16%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504803,
+        "skillUniqueId": 5048,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+17%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504804,
+        "skillUniqueId": 5048,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+18%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504805,
+        "skillUniqueId": 5048,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+19%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504806,
+        "skillUniqueId": 5048,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 900101,
         "skillUniqueId": 9001,
         "level": 1,
@@ -6839,6 +7379,66 @@
         "level": 6,
         "name": "【アビリティ】",
         "description": "最大HP+2.5%、防御力+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 900401,
+        "skillUniqueId": 9004,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "攻撃力+5%、防御力+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 900402,
+        "skillUniqueId": 9004,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "攻撃力+5.5%、防御力+5.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 900403,
+        "skillUniqueId": 9004,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "攻撃力+6%、防御力+6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 900404,
+        "skillUniqueId": 9004,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "攻撃力+6.5%、防御力+6.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 900405,
+        "skillUniqueId": 9004,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "攻撃力+7%、防御力+7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 900406,
+        "skillUniqueId": 9004,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "攻撃力+7.5%、防御力+7.5%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -12544,6 +13144,206 @@
         "skillButtonIcon": "battle_icon_passive_buff"
       },
       {
+        "passiveSkillMstId": 1502101,
+        "skillUniqueId": 15021,
+        "level": 1,
+        "name": "クイックシャープ",
+        "description": "リジェネレイトが付与されている味方全体の攻撃力+5%、クリティカル率+10%。<br>バトル開始時に行動順+30%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502102,
+        "skillUniqueId": 15021,
+        "level": 2,
+        "name": "クイックシャープ",
+        "description": "リジェネレイトが付与されている味方全体の攻撃力+5%、クリティカル率+10%。<br>バトル開始時に行動順+31%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502103,
+        "skillUniqueId": 15021,
+        "level": 3,
+        "name": "クイックシャープ",
+        "description": "リジェネレイトが付与されている味方全体の攻撃力+6%、クリティカル率+10%。<br>バトル開始時に行動順+32%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502104,
+        "skillUniqueId": 15021,
+        "level": 4,
+        "name": "クイックシャープ",
+        "description": "リジェネレイトが付与されている味方全体の攻撃力+6%、クリティカル率+10%。<br>バトル開始時に行動順+33%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502105,
+        "skillUniqueId": 15021,
+        "level": 5,
+        "name": "クイックシャープ",
+        "description": "リジェネレイトが付与されている味方全体の攻撃力+7%、クリティカル率+10%。<br>バトル開始時に行動順+34%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502106,
+        "skillUniqueId": 15021,
+        "level": 6,
+        "name": "クイックシャープ",
+        "description": "リジェネレイトが付与されている味方全体の攻撃力+7%、クリティカル率+10%。<br>バトル開始時に行動順+35%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502107,
+        "skillUniqueId": 15021,
+        "level": 7,
+        "name": "クイックシャープ",
+        "description": "リジェネレイトが付与されている味方全体の攻撃力+8%、クリティカル率+10%。<br>バトル開始時に行動順+36%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502108,
+        "skillUniqueId": 15021,
+        "level": 8,
+        "name": "クイックシャープ",
+        "description": "リジェネレイトが付与されている味方全体の攻撃力+9%、クリティカル率+10%。<br>バトル開始時に行動順+37%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502109,
+        "skillUniqueId": 15021,
+        "level": 9,
+        "name": "クイックシャープ",
+        "description": "リジェネレイトが付与されている味方全体の攻撃力+9%、クリティカル率+10%。<br>バトル開始時に行動順+38%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502110,
+        "skillUniqueId": 15021,
+        "level": 10,
+        "name": "クイックシャープ",
+        "description": "リジェネレイトが付与されている味方全体の攻撃力+10%、クリティカル率+10%。<br>バトル開始時に行動順+40%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502201,
+        "skillUniqueId": 15022,
+        "level": 1,
+        "name": "ヘイストエンチャント",
+        "description": "バトル開始時に行動順+30%。<br>通常攻撃を発動したとき行動順+20%。<br>味方全体の弱点属性に対して与えるダメージ+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502202,
+        "skillUniqueId": 15022,
+        "level": 2,
+        "name": "ヘイストエンチャント",
+        "description": "バトル開始時に行動順+30%。<br>通常攻撃を発動したとき行動順+20%。<br>味方全体の弱点属性に対して与えるダメージ+11%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502203,
+        "skillUniqueId": 15022,
+        "level": 3,
+        "name": "ヘイストエンチャント",
+        "description": "バトル開始時に行動順+30%。<br>通常攻撃を発動したとき行動順+20%。<br>味方全体の弱点属性に対して与えるダメージ+12%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502204,
+        "skillUniqueId": 15022,
+        "level": 4,
+        "name": "ヘイストエンチャント",
+        "description": "バトル開始時に行動順+30%。<br>通常攻撃を発動したとき行動順+20%。<br>味方全体の弱点属性に対して与えるダメージ+13%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502205,
+        "skillUniqueId": 15022,
+        "level": 5,
+        "name": "ヘイストエンチャント",
+        "description": "バトル開始時に行動順+30%。<br>通常攻撃を発動したとき行動順+20%。<br>味方全体の弱点属性に対して与えるダメージ+14%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502206,
+        "skillUniqueId": 15022,
+        "level": 6,
+        "name": "ヘイストエンチャント",
+        "description": "バトル開始時に行動順+30%。<br>通常攻撃を発動したとき行動順+20%。<br>味方全体の弱点属性に対して与えるダメージ+15%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502207,
+        "skillUniqueId": 15022,
+        "level": 7,
+        "name": "ヘイストエンチャント",
+        "description": "バトル開始時に行動順+30%。<br>通常攻撃を発動したとき行動順+20%。<br>味方全体の弱点属性に対して与えるダメージ+16%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502208,
+        "skillUniqueId": 15022,
+        "level": 8,
+        "name": "ヘイストエンチャント",
+        "description": "バトル開始時に行動順+30%。<br>通常攻撃を発動したとき行動順+20%。<br>味方全体の弱点属性に対して与えるダメージ+17%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502209,
+        "skillUniqueId": 15022,
+        "level": 9,
+        "name": "ヘイストエンチャント",
+        "description": "バトル開始時に行動順+30%。<br>通常攻撃を発動したとき行動順+20%。<br>味方全体の弱点属性に対して与えるダメージ+18%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502210,
+        "skillUniqueId": 15022,
+        "level": 10,
+        "name": "ヘイストエンチャント",
+        "description": "バトル開始時に行動順+30%。<br>通常攻撃を発動したとき行動順+20%。<br>味方全体の弱点属性に対して与えるダメージ+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
         "passiveSkillMstId": 2001001,
         "skillUniqueId": 2001001,
         "level": 1,
@@ -12984,6 +13784,26 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 2003007,
+        "skillUniqueId": 2003007,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "ターンが経過するほどスピードが上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2003008,
+        "skillUniqueId": 2003008,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "ターンが経過するほどスピードが上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 2004001,
         "skillUniqueId": 2004001,
         "level": 1,
@@ -13214,6 +14034,26 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 2005017,
+        "skillUniqueId": 2005017,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "味方全体の被ダメージとブレイクゲージ削減耐性を大幅に上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2005018,
+        "skillUniqueId": 2005018,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "自身にデバフが付与されていない場合、被ダメージを軽減する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 2006001,
         "skillUniqueId": 2006001,
         "level": 1,
@@ -13254,6 +14094,16 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 2006005,
+        "skillUniqueId": 2006005,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "味方全体の与ダメージを大幅に上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 2007001,
         "skillUniqueId": 2007001,
         "level": 1,
@@ -13276,6 +14126,26 @@
       {
         "passiveSkillMstId": 2007003,
         "skillUniqueId": 2007003,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "ターンが経過するほど回復効果が上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2007004,
+        "skillUniqueId": 2007004,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "ターンが経過するほど回復効果が上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2007005,
+        "skillUniqueId": 2007005,
         "level": 1,
         "name": "アビリティⅠ",
         "description": "ターンが経過するほど回復効果が上昇する",
@@ -13384,6 +14254,26 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 2010005,
+        "skillUniqueId": 2010005,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "ターンが経過するほど自身が使用するバフ/デバフ効果の効果値が上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2010006,
+        "skillUniqueId": 2010006,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "ターンが経過するほど自身が使用するバフ/デバフ効果の効果値が上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 2011001,
         "skillUniqueId": 2011001,
         "level": 1,
@@ -13404,11 +14294,31 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 2011003,
+        "skillUniqueId": 2011003,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "バリアが付与されている場合、ブレイクゲージ削減耐性が上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 2012001,
         "skillUniqueId": 2012001,
         "level": 1,
         "name": "アビリティⅠ",
         "description": "バリアが存在する間、味方全体の状態異常耐性を上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2013001,
+        "skillUniqueId": 2013001,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "敵全体のHP回復効果量を減少させる",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -13999,6 +14909,106 @@
         "level": 1,
         "name": "アビリティⅣ",
         "description": "奇数ターンに2回行動する<br>バリアが付与されている場合、ブレイクゲージ削減耐性が上昇する<br>状態異常の敵から6回ダメージを受けた場合、敵全体に付与されている状態異常のダメージを即座に与える",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001048,
+        "skillUniqueId": 5001048,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>ブレイクするたびに攻撃力が上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001049,
+        "skillUniqueId": 5001049,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>ブレイクするたびに攻撃力が大幅に上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001050,
+        "skillUniqueId": 5001050,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>自身が1度でもブレイク状態となった場合、以降は3回行動する<br><br>魔力数に応じて火属性与ダメージが上昇する<br>自身がブレイクした際に魔力はリセットされる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001051,
+        "skillUniqueId": 5001051,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>自身が1度でもブレイク状態となった場合、以降は3回行動する<br><br>魔力数に応じて火属性与ダメージが上昇する<br>ブレイク状態ではないときにダメージを受けた場合、魔力+1<br>自身がブレイクした際に魔力はリセットされる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001052,
+        "skillUniqueId": 5001052,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "バトル開始から一定ターン経過すると行動回数が徐々に増える",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001053,
+        "skillUniqueId": 5001053,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "バトル開始から一定ターン経過すると行動回数が徐々に増える",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001054,
+        "skillUniqueId": 5001054,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br><br>ブレイク状態ではない場合に1以上のダメージを一定回数受けると3ターンの間、敵全体に強威力(防御力依存)の毒を付与する<br>毒状態の敵からダメージを受けた場合、毒の付与が早くなる<br>自身がブレイク後、さらに毒の付与が早くなる<br><br>敵全体が使用するバリアの耐久値を著しく減少させる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001055,
+        "skillUniqueId": 5001055,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "奇数ターンに2回行動する<br><br>自身に付与されているデバフが多いほど与ダメージとブレイクゲージ削減耐性が減少し、被ダメージとデバフ耐性が上昇する<br>HPが50％未満の場合、攻撃力が大幅に上昇する<br><br>敵全体のバリア耐久値とHP回復効果量を著しく減少させる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001056,
+        "skillUniqueId": 5001056,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>味方が倒されるたびに被ダメージ軽減効果とブレイクゲージ削減耐性が減少し、攻撃力が上昇する<br>ターンが経過するほどスピードが上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001057,
+        "skillUniqueId": 5001057,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "バリアが付与されている場合、2回行動する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -15269,6 +16279,26 @@
         "level": 1,
         "name": "限界突破効果",
         "description": "バトル開始時に魔力+5<br>MP回復効率+10%、戦闘スキルで与えるダメージ+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 8503501,
+        "skillUniqueId": 85035,
+        "level": 1,
+        "name": "限界突破効果",
+        "description": "リジェネレイトの効果ターン+1、味方全体のHP回復量+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 8503601,
+        "skillUniqueId": 85036,
+        "level": 1,
+        "name": "限界突破効果",
+        "description": "カットアウトが付与されている味方の弱点属性に対して与えるダメージ+30%。<br>戦闘スキルを発動したとき味方全体の行動順+10%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -20971,6 +22001,206 @@
         "description": "【アタッカーに装備時】<br>戦闘スキルを発動したとき自身のHPを発動者の攻撃力2%回復する。<br>敵がブレイクしたときスピード+20%(2ターン)、攻撃力+20%(2ターン)",
         "conditionElement": 0,
         "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502001,
+        "skillUniqueId": 95020,
+        "level": 1,
+        "name": "クイックベネフィット",
+        "description": "【ヒーラーに装備時】<br>HP回復量+6%。<br>バトル開始時に行動順+10%",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502002,
+        "skillUniqueId": 95020,
+        "level": 2,
+        "name": "クイックベネフィット",
+        "description": "【ヒーラーに装備時】<br>HP回復量+6.7%。<br>バトル開始時に行動順+10%",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502003,
+        "skillUniqueId": 95020,
+        "level": 3,
+        "name": "クイックベネフィット",
+        "description": "【ヒーラーに装備時】<br>HP回復量+7.3%。<br>バトル開始時に行動順+11%",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502004,
+        "skillUniqueId": 95020,
+        "level": 4,
+        "name": "クイックベネフィット",
+        "description": "【ヒーラーに装備時】<br>HP回復量+8%。<br>バトル開始時に行動順+11%",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502005,
+        "skillUniqueId": 95020,
+        "level": 5,
+        "name": "クイックベネフィット",
+        "description": "【ヒーラーに装備時】<br>HP回復量+8.7%。<br>バトル開始時に行動順+12%",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502006,
+        "skillUniqueId": 95020,
+        "level": 6,
+        "name": "クイックベネフィット",
+        "description": "【ヒーラーに装備時】<br>HP回復量+9.3%。<br>バトル開始時に行動順+12%",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502007,
+        "skillUniqueId": 95020,
+        "level": 7,
+        "name": "クイックベネフィット",
+        "description": "【ヒーラーに装備時】<br>HP回復量+10%。<br>バトル開始時に行動順+13%",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502008,
+        "skillUniqueId": 95020,
+        "level": 8,
+        "name": "クイックベネフィット",
+        "description": "【ヒーラーに装備時】<br>HP回復量+10.6%。<br>バトル開始時に行動順+14%",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502009,
+        "skillUniqueId": 95020,
+        "level": 9,
+        "name": "クイックベネフィット",
+        "description": "【ヒーラーに装備時】<br>HP回復量+11.3%。<br>バトル開始時に行動順+14%",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502010,
+        "skillUniqueId": 95020,
+        "level": 10,
+        "name": "クイックベネフィット",
+        "description": "【ヒーラーに装備時】<br>HP回復量+12%。<br>バトル開始時に行動順+15%",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502101,
+        "skillUniqueId": 95021,
+        "level": 1,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>通常攻撃を発動したとき行動順+10%。<br>スピード+10%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502102,
+        "skillUniqueId": 95021,
+        "level": 2,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>通常攻撃を発動したとき行動順+10%。<br>スピード+11%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502103,
+        "skillUniqueId": 95021,
+        "level": 3,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>通常攻撃を発動したとき行動順+10%。<br>スピード+12%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502104,
+        "skillUniqueId": 95021,
+        "level": 4,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>通常攻撃を発動したとき行動順+10%。<br>スピード+13%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502105,
+        "skillUniqueId": 95021,
+        "level": 5,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>通常攻撃を発動したとき行動順+10%。<br>スピード+14%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502106,
+        "skillUniqueId": 95021,
+        "level": 6,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>通常攻撃を発動したとき行動順+10%。<br>スピード+15%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502107,
+        "skillUniqueId": 95021,
+        "level": 7,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>通常攻撃を発動したとき行動順+10%。<br>スピード+16%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502108,
+        "skillUniqueId": 95021,
+        "level": 8,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>通常攻撃を発動したとき行動順+10%。<br>スピード+17%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502109,
+        "skillUniqueId": 95021,
+        "level": 9,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>通常攻撃を発動したとき行動順+10%。<br>スピード+18%",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502110,
+        "skillUniqueId": 95021,
+        "level": 10,
+        "name": "ヘイストクイック",
+        "description": "【バッファーに装備時】<br>通常攻撃を発動したとき行動順+10%。<br>スピード+20%",
+        "conditionElement": 0,
+        "conditionRole": 4,
         "skillButtonIcon": "battle_icon_supportpassive_buff"
       }
     ]

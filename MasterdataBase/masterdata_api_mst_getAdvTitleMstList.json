@@ -384,6 +384,11 @@
         "isViewCollection": true
       },
       {
+        "advTitleMstId": 79,
+        "title": "鍋奉行の特権！",
+        "isViewCollection": true
+      },
+      {
         "advTitleMstId": 80,
         "title": "調整屋さんの事件簿１ 多世界解釈のポエジー",
         "isViewCollection": true
@@ -394,6 +399,16 @@
         "isViewCollection": true
       },
       {
+        "advTitleMstId": 82,
+        "title": "Memories of you 後編",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 83,
+        "title": "調整屋さんの事件簿２ 漂泊するナラティヴ",
+        "isViewCollection": true
+      },
+      {
         "advTitleMstId": 84,
         "title": "父ちゃんと母ちゃんが殺された日",
         "isViewCollection": true
@@ -401,6 +416,16 @@
       {
         "advTitleMstId": 85,
         "title": "私の新しいお家",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 86,
+        "title": "第6章 真実を語る記憶",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 87,
+        "title": "第7章 楽園行き覚醒前夜",
         "isViewCollection": true
       },
       {
@@ -416,6 +441,11 @@
       {
         "advTitleMstId": 93,
         "title": "ＤＡＮＣＥ☆ＭＡＧＩＣＡ",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 112,
+        "title": "魔法少女まどか☆マギカ scene0 前編",
         "isViewCollection": true
       }
     ]

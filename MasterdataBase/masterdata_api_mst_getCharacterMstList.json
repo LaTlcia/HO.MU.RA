@@ -46,6 +46,13 @@
         "colorCode": "#E64545"
       },
       {
+        "characterMstId": 1007,
+        "name": "愛生まばゆ",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1007",
+        "colorCode": "#EBA4F0"
+      },
+      {
         "characterMstId": 1008,
         "name": "環いろは",
         "awakeItemMstId": 0,

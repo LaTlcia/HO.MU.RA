@@ -28,6 +28,14 @@
         "openEffectFlagMiniTutorialNumber": 33
       },
       {
+        "questMapMstId": 6,
+        "questCategoryMstId": 1,
+        "name": "Chaos",
+        "conditionGroupId": 0,
+        "openFlagMiniTutorialNumber": 78,
+        "openEffectFlagMiniTutorialNumber": 79
+      },
+      {
         "questMapMstId": 41,
         "questCategoryMstId": 4,
         "name": "キオク強化素材クエスト",

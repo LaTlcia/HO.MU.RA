@@ -487,6 +487,41 @@
         "nextBossDirectionMstId": 0
       },
       {
+        "bossDirectionMstId": 1005,
+        "resourceName": "62000/subboss1/bossappeardirectiondata",
+        "nextSceneType": 2,
+        "objectId": 119133,
+        "nextBossDirectionMstId": 1006
+      },
+      {
+        "bossDirectionMstId": 1006,
+        "resourceName": "62000/subboss1/bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16200007,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 1007,
+        "resourceName": "62000/boss/notbossbattledirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16200015,
+        "nextBossDirectionMstId": 1008
+      },
+      {
+        "bossDirectionMstId": 1008,
+        "resourceName": "62000/boss/startsecondbattledirectiondata",
+        "nextSceneType": 2,
+        "objectId": 119134,
+        "nextBossDirectionMstId": 1009
+      },
+      {
+        "bossDirectionMstId": 1009,
+        "resourceName": "62000/boss/bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16200016,
+        "nextBossDirectionMstId": 0
+      },
+      {
         "bossDirectionMstId": 2001,
         "resourceName": "61500/boss/startsecondbattledirectiondata",
         "nextSceneType": 2,
@@ -792,6 +827,34 @@
         "resourceName": "61900/boss/bossbattleenddirectiondata",
         "nextSceneType": 1,
         "objectId": 40013102,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3043,
+        "resourceName": "62000/subboss1/bossappeardirectiondata",
+        "nextSceneType": 2,
+        "objectId": 119318,
+        "nextBossDirectionMstId": 3044
+      },
+      {
+        "bossDirectionMstId": 3044,
+        "resourceName": "62000/subboss1/bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 40014101,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3045,
+        "resourceName": "62000/boss/bossappeardirectiondata",
+        "nextSceneType": 2,
+        "objectId": 119319,
+        "nextBossDirectionMstId": 3046
+      },
+      {
+        "bossDirectionMstId": 3046,
+        "resourceName": "62000/boss/bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 40014102,
         "nextBossDirectionMstId": 0
       },
       {

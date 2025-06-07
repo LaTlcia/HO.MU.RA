@@ -412,6 +412,42 @@
         "transitionSceneParam": 0
       },
       {
+        "missionTransitionMstId": 3012020,
+        "missionMstId": 3012020,
+        "transitionSceneName": "MainQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 3012021,
+        "missionMstId": 3012021,
+        "transitionSceneName": "MainQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 3012022,
+        "missionMstId": 3012022,
+        "transitionSceneName": "MainQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 3012023,
+        "missionMstId": 3012023,
+        "transitionSceneName": "MainQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 3012024,
+        "missionMstId": 3012024,
+        "transitionSceneName": "MainQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 3012025,
+        "missionMstId": 3012025,
+        "transitionSceneName": "MainQuest",
+        "transitionSceneParam": 0
+      },
+      {
         "missionTransitionMstId": 3061001,
         "missionMstId": 3061001,
         "transitionSceneName": "PvP",
@@ -712,69 +748,27 @@
         "transitionSceneParam": 0
       },
       {
-        "missionTransitionMstId": 5017002,
-        "missionMstId": 5017002,
+        "missionTransitionMstId": 5019001,
+        "missionMstId": 5019001,
         "transitionSceneName": "EnhanceQuest",
         "transitionSceneParam": 0
       },
       {
-        "missionTransitionMstId": 5017003,
-        "missionMstId": 5017003,
+        "missionTransitionMstId": 5019002,
+        "missionMstId": 5019002,
         "transitionSceneName": "EnhanceQuest",
         "transitionSceneParam": 0
       },
       {
-        "missionTransitionMstId": 5017004,
-        "missionMstId": 5017004,
+        "missionTransitionMstId": 5019003,
+        "missionMstId": 5019003,
         "transitionSceneName": "EnhanceQuest",
         "transitionSceneParam": 0
       },
       {
-        "missionTransitionMstId": 5017005,
-        "missionMstId": 5017005,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5017006,
-        "missionMstId": 5017006,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5017007,
-        "missionMstId": 5017007,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5017008,
-        "missionMstId": 5017008,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5017009,
-        "missionMstId": 5017009,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5017010,
-        "missionMstId": 5017010,
-        "transitionSceneName": "Training",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5017011,
-        "missionMstId": 5017011,
-        "transitionSceneName": "Training",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5017012,
-        "missionMstId": 5017012,
-        "transitionSceneName": "Training",
+        "missionTransitionMstId": 5019004,
+        "missionMstId": 5019004,
+        "transitionSceneName": "Gacha",
         "transitionSceneParam": 0
       }
     ]

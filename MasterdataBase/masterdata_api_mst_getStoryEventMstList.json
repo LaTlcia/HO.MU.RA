@@ -19,7 +19,8 @@
         "topImageName": "2",
         "bannerImageName": "banner_00018",
         "bossCameraAssetName": "0",
-        "description": "新人の魔法少女 佐倉杏子が、見滝原市にやってきた\n危機的状況に陥った彼女はそこで、巴マミに助けられる\n――これは、ふたりの魔法少女の出会いと別れの物語\n（ドラマCD『フェアウェル・ストーリー』）"
+        "description": "新人の魔法少女 佐倉杏子が、見滝原市にやってきた\n危機的状況に陥った彼女はそこで、巴マミに助けられる\n――これは、ふたりの魔法少女の出会いと別れの物語\n（ドラマCD『フェアウェル・ストーリー』）",
+        "soundMstId": 0
       },
       {
         "storyEventMstId": 2,
@@ -37,7 +38,8 @@
         "topImageName": "3",
         "bannerImageName": "banner_00019",
         "bossCameraAssetName": "0",
-        "description": "『ダンシング魔法少女』\nそれは、キュゥべえにスカウトされた、\n踊ることで穢れを祓う５人の少女たち！\nある日、彼女たちにメディアデビューの話が舞い込み…！？ "
+        "description": "『ダンシング魔法少女』\nそれは、キュゥべえにスカウトされた、\n踊ることで穢れを祓う５人の少女たち！\nある日、彼女たちにメディアデビューの話が舞い込み…！？ ",
+        "soundMstId": 0
       },
       {
         "storyEventMstId": 3,
@@ -55,7 +57,8 @@
         "topImageName": "4",
         "bannerImageName": "banner_00020",
         "bossCameraAssetName": "0",
-        "description": "戦いの中で信頼を深める杏子とマミ\nだがある日、願いが元で全てを失ってしまった杏子は\n二度と他人のために魔法を使わないと決意する――\n（ドラマCD『フェアウェル・ストーリー』）"
+        "description": "戦いの中で信頼を深める杏子とマミ\nだがある日、願いが元で全てを失ってしまった杏子は\n二度と他人のために魔法を使わないと決意する――\n（ドラマCD『フェアウェル・ストーリー』）",
+        "soundMstId": 0
       },
       {
         "storyEventMstId": 4,
@@ -73,7 +76,8 @@
         "topImageName": "5",
         "bannerImageName": "banner_00034",
         "bossCameraAssetName": "0",
-        "description": "――魔法少女してたら、おバカになっちゃった！\n追試対策のため、マミの家に集まった５人の魔法少女たち\n勉強会が始まろうとした矢先、仁美の悲鳴が聞こえてきて!?\n（ドラマCD『サニーデイライフ』）"
+        "description": "――魔法少女してたら、おバカになっちゃった！\n追試対策のため、マミの家に集まった５人の魔法少女たち\n勉強会が始まろうとした矢先、仁美の悲鳴が聞こえてきて!?\n（ドラマCD『サニーデイライフ』）",
+        "soundMstId": 0
       },
       {
         "storyEventMstId": 5,
@@ -91,7 +95,8 @@
         "topImageName": "6",
         "bannerImageName": "banner_00035",
         "bossCameraAssetName": "0",
-        "description": "使い魔を追いかけ、廃ビルの中へ歩を進めるまどかたち\n追い詰めた先で見つけたのは…!?\n魔法少女たちの「サニーデイ」はまだまだ終わらない！\n（ドラマCD『サニーデイライフ』）"
+        "description": "使い魔を追いかけ、廃ビルの中へ歩を進めるまどかたち\n追い詰めた先で見つけたのは…!?\n魔法少女たちの「サニーデイ」はまだまだ終わらない！\n（ドラマCD『サニーデイライフ』）",
+        "soundMstId": 0
       },
       {
         "storyEventMstId": 6,
@@ -109,7 +114,8 @@
         "topImageName": "7",
         "bannerImageName": "banner_00036",
         "bossCameraAssetName": "0",
-        "description": "「いらっしゃい　八雲探偵事務所へようこそ」\n推理小説に夢中になり、探偵になりきるみたま\nそんな時、調整屋に“ありえない記憶”を持つ少女が現れる\nみたまは、その記憶の謎を解くために動き出す…"
+        "description": "「いらっしゃい　八雲探偵事務所へようこそ」\n推理小説に夢中になり、探偵になりきるみたま\nそんな時、調整屋に“ありえない記憶”を持つ少女が現れる\nみたまは、その記憶の謎を解くために動き出す…",
+        "soundMstId": 0
       },
       {
         "storyEventMstId": 7,
@@ -127,7 +133,65 @@
         "topImageName": "8",
         "bannerImageName": "banner_00056",
         "bossCameraAssetName": "0",
-        "description": "長い入院生活を終え、転校初日を迎えたほむら\n新しい環境に馴染めず緊張していたが、\nとある少女が声をかけてくれて…\n（ドラマCD『Memories of you』）"
+        "description": "長い入院生活を終え、転校初日を迎えたほむら\n新しい環境に馴染めず緊張していたが、\nとある少女が声をかけてくれて…\n（ドラマCD『Memories of you』）",
+        "soundMstId": 0
+      },
+      {
+        "storyEventMstId": 9,
+        "name": "調整屋さんの事件簿２ 漂泊するナラティヴ",
+        "storyQuestGroupId": 1012,
+        "scoreAttackMstId": 0,
+        "maxPlayCountPerDay": 5,
+        "eventItemId": 201015,
+        "shopSeriesMstId": 3989,
+        "bonusStyleIds": "0",
+        "isEndPlayable": true,
+        "endDisplayTime": "2050-12-31T23:59:59+09:00",
+        "sortOrder": 9991,
+        "eventStartDirection": 1,
+        "topImageName": "10",
+        "bannerImageName": "banner_00072",
+        "bossCameraAssetName": "0",
+        "description": "ひょんなことから探偵業を続けることになったみたま\nそんな中、自分が描かれると絵と同じことが\n必ず起こるという“不幸のデッサン帳”の噂を耳にするが…\n「ここは、名探偵さんに任せて！」",
+        "soundMstId": 0
+      },
+      {
+        "storyEventMstId": 10,
+        "name": "魔法少女まどか☆マギカ scene0 前編",
+        "storyQuestGroupId": 1013,
+        "scoreAttackMstId": 0,
+        "maxPlayCountPerDay": 5,
+        "eventItemId": 201016,
+        "shopSeriesMstId": 3988,
+        "bonusStyleIds": "0",
+        "isEndPlayable": false,
+        "endDisplayTime": "2025-06-30T11:59:59+09:00",
+        "sortOrder": 9990,
+        "eventStartDirection": 1,
+        "topImageName": "11",
+        "bannerImageName": "banner_00078",
+        "bossCameraAssetName": "0",
+        "description": "見滝原中学校に通う“愛生まばゆ”は\n『自分以外の時間が止まる』という現象に翻弄される\n以来、まばゆはいくつもの不思議な現象に巻き込まれながら\n時間停止の原因を探っていく中で、とある魔法少女に出会う",
+        "soundMstId": 3000057
+      },
+      {
+        "storyEventMstId": 11,
+        "name": "Memories of you 後編",
+        "storyQuestGroupId": 1014,
+        "scoreAttackMstId": 0,
+        "maxPlayCountPerDay": 5,
+        "eventItemId": 201020,
+        "shopSeriesMstId": 3983,
+        "bonusStyleIds": "0",
+        "isEndPlayable": true,
+        "endDisplayTime": "2050-12-31T23:59:59+09:00",
+        "sortOrder": 9989,
+        "eventStartDirection": 1,
+        "topImageName": "12",
+        "bannerImageName": "banner_00085",
+        "bossCameraAssetName": "0",
+        "description": "学校での勉強も運動も失敗ばかりで落ち込むほむら\n迷い込んだ魔女結界で彼女を救ったのは\n転校初日に声をかけてくれた少女、鹿目まどかだった\n（ドラマCD『Memories of you』）",
+        "soundMstId": 0
       },
       {
         "storyEventMstId": 10000,
@@ -145,7 +209,8 @@
         "topImageName": "1",
         "bannerImageName": "banner_00017",
         "bossCameraAssetName": "0",
-        "description": "新人魔法少女のまどかは、やっと一人前と認められたばかり\n立派に活躍する先輩魔法少女たちに憧れ\nまだまだ力不足の自分に焦りを感じてもいる\nそんなまどかの新しい日常の始まり"
+        "description": "新人魔法少女のまどかは、やっと一人前と認められたばかり\n立派に活躍する先輩魔法少女たちに憧れ\nまだまだ力不足の自分に焦りを感じてもいる\nそんなまどかの新しい日常の始まり",
+        "soundMstId": 0
       }
     ]
   }

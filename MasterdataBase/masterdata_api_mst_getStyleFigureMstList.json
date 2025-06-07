@@ -60,6 +60,14 @@
         "sortOrder": 0
       },
       {
+        "styleFigureMstId": 100701,
+        "characterMstId": 1007,
+        "modelName": "chara_100701_battle_unit",
+        "iconName": "100701",
+        "voiceCueSheetName": "cv_100701_{0}",
+        "sortOrder": 0
+      },
+      {
         "styleFigureMstId": 100801,
         "characterMstId": 1008,
         "modelName": "chara_100801_battle_unit",

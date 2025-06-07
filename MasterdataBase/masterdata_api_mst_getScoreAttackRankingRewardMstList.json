@@ -1,0 +1,104 @@
+{
+  "url": "/api/mst/getScoreAttackRankingRewardMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "scoreAttackRankingRewardMstId": 1,
+        "groupId": 0,
+        "ranking": 300,
+        "objectReceiveType": 5,
+        "objectId": 370009,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 2,
+        "groupId": 0,
+        "ranking": 500,
+        "objectReceiveType": 5,
+        "objectId": 370009,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 3,
+        "groupId": 0,
+        "ranking": 1000,
+        "objectReceiveType": 5,
+        "objectId": 370009,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 4,
+        "groupId": 0,
+        "ranking": 3000,
+        "objectReceiveType": 5,
+        "objectId": 370010,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 5,
+        "groupId": 0,
+        "ranking": 5000,
+        "objectReceiveType": 5,
+        "objectId": 370010,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 6,
+        "groupId": 0,
+        "ranking": 10000,
+        "objectReceiveType": 5,
+        "objectId": 370010,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 7,
+        "groupId": 0,
+        "ranking": 30000,
+        "objectReceiveType": 5,
+        "objectId": 370011,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 8,
+        "groupId": 0,
+        "ranking": 50000,
+        "objectReceiveType": 5,
+        "objectId": 370011,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 9,
+        "groupId": 0,
+        "ranking": 0,
+        "objectReceiveType": 5,
+        "objectId": 370011,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 10,
+        "groupId": 3,
+        "ranking": 10,
+        "objectReceiveType": 5,
+        "objectId": 370005,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 11,
+        "groupId": 3,
+        "ranking": 50,
+        "objectReceiveType": 5,
+        "objectId": 370006,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 12,
+        "groupId": 3,
+        "ranking": 100,
+        "objectReceiveType": 5,
+        "objectId": 370007,
+        "num": 1
+      }
+    ]
+  }
+}

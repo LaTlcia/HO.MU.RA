@@ -604,6 +604,34 @@
         "unlockType": 1,
         "unlockId": 0,
         "releaseTime": "2025-04-11T12:00:00+09:00"
+      },
+      {
+        "enemyProfileMstId": 620001,
+        "enemyUniqueId": 620001,
+        "enemyMstId": 620001,
+        "name": "キレートビッグフェリスのウワサ",
+        "runesName": "",
+        "seriesId": 2,
+        "description": "アラもう聞いた？誰から聞いた？<br>キレートビッグフェリスのそのウワサ<br>グルグルまわる大きなゴンドラ、その中身は一体なーに？<br>モチロン中身は、怒りや悲しみに悩みみたいな、人間のゴミででイッパイイッパイ<br>ヒトタビ乗ると後悔するから近付こうとするのも絶対禁止！<br>この観覧車でみんな無心になれるって大東区の人の間ではもっぱらのウワサ<br>アイ、ウォント、ハッピー!!",
+        "sortOrder": 0,
+        "isCollectionDisp": true,
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2025-05-16T15:00:00+09:00"
+      },
+      {
+        "enemyProfileMstId": 620002,
+        "enemyUniqueId": 620002,
+        "enemyMstId": 620002,
+        "name": "キレートマスコットのウワサ",
+        "runesName": "",
+        "seriesId": 2,
+        "description": "アラもう聞いた？誰から聞いた？<br>キレートマスコットのそのウワサ<br>滑ってやってくるクセに、パカパカ軽快、足音奏でる、テーマパークのマスコット！<br>出会っちゃったらもう最後だけど、ノンノン全然コワがらないで♪<br>きっとみんなの心も体もポワ～ッと癒してくれるから！<br>イヤ～な気持ちを連れていってくれるって、大東区の人の間ではもっぱらのウワサ<br>チョープリンス～♪",
+        "sortOrder": 0,
+        "isCollectionDisp": true,
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2025-05-16T15:00:00+09:00"
       }
     ]
   }

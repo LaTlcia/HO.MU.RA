@@ -221,15 +221,63 @@
       },
       {
         "fieldSeriesMstId": 62000,
-        "name": "???",
+        "name": "キレートビッグフェリスのうわさ",
         "questMapMstId": 2,
         "questGroupMstId": 62000,
         "styleMstId": 0,
         "assetbundleName": "62000_01",
-        "startTime": "2050-01-02T10:00:00+09:00",
+        "startTime": "2025-05-16T15:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
         "sortOrder": 1,
         "advMstId": 70000056
+      },
+      {
+        "fieldSeriesMstId": 62100,
+        "name": "???",
+        "questMapMstId": 2,
+        "questGroupMstId": 62100,
+        "styleMstId": 0,
+        "assetbundleName": "61900_01",
+        "startTime": "2050-01-02T10:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 70000055
+      },
+      {
+        "fieldSeriesMstId": 70000,
+        "name": "薔薇園の魔女",
+        "questMapMstId": 6,
+        "questGroupMstId": 70000,
+        "styleMstId": 0,
+        "assetbundleName": "60001_01",
+        "startTime": "2025-05-30T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 0
+      },
+      {
+        "fieldSeriesMstId": 70100,
+        "name": "暗闇の魔女",
+        "questMapMstId": 6,
+        "questGroupMstId": 70100,
+        "styleMstId": 0,
+        "assetbundleName": "60100_01",
+        "startTime": "2025-05-30T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 0
+      },
+      {
+        "fieldSeriesMstId": 70200,
+        "name": "お菓子の魔女",
+        "questMapMstId": 6,
+        "questGroupMstId": 70200,
+        "styleMstId": 0,
+        "assetbundleName": "60200_01",
+        "startTime": "2025-05-30T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 0
       }
     ]
   }

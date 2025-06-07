@@ -236,11 +236,75 @@
         "osType": 0
       },
       {
+        "homeBannerMstId": 76,
+        "bannerMstId": 76,
+        "startTime": "2025-05-16T15:00:00+09:00",
+        "endTime": "2025-05-30T11:59:59+09:00",
+        "sortOrder": 148,
+        "osType": 0
+      },
+      {
         "homeBannerMstId": 80,
         "bannerMstId": 80,
         "startTime": "2025-05-09T12:00:00+09:00",
         "endTime": "2025-05-23T11:59:59+09:00",
         "sortOrder": 145,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 82,
+        "bannerMstId": 82,
+        "startTime": "2025-05-16T15:00:00+09:00",
+        "endTime": "2025-05-30T11:59:59+09:00",
+        "sortOrder": 149,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 84,
+        "bannerMstId": 84,
+        "startTime": "2025-05-30T12:00:00+09:00",
+        "endTime": "2025-06-30T11:59:59+09:00",
+        "sortOrder": 159,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 85,
+        "bannerMstId": 85,
+        "startTime": "2025-05-30T12:00:00+09:00",
+        "endTime": "2025-06-30T11:59:59+09:00",
+        "sortOrder": 158,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 88,
+        "bannerMstId": 88,
+        "startTime": "2025-05-30T12:00:00+09:00",
+        "endTime": "2025-06-30T11:59:59+09:00",
+        "sortOrder": 160,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 92,
+        "bannerMstId": 92,
+        "startTime": "2025-06-06T12:00:00+09:00",
+        "endTime": "2025-06-20T11:59:59+09:00",
+        "sortOrder": 162,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 93,
+        "bannerMstId": 93,
+        "startTime": "2025-06-06T12:00:00+09:00",
+        "endTime": "2025-06-20T11:59:59+09:00",
+        "sortOrder": 163,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 100,
+        "bannerMstId": 80,
+        "startTime": "2025-06-06T12:00:00+09:00",
+        "endTime": "2025-06-20T11:59:59+09:00",
+        "sortOrder": 161,
         "osType": 0
       }
     ]

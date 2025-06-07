@@ -862,6 +862,58 @@
         "enemyType": 1
       },
       {
+        "dioramaBackgroundMstId": 210411,
+        "seriesId": 2,
+        "fieldSeriesMstId": 62000,
+        "stageThumbnailName": "210411",
+        "backgroundResourceName": "bg_3d_620_00_01_001",
+        "stageName": "キレートビッグフェリスのうわさ 第1階層",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2025-05-16T15:00:00+09:00",
+        "sortOrder": 72,
+        "enemyType": 5
+      },
+      {
+        "dioramaBackgroundMstId": 210412,
+        "seriesId": 2,
+        "fieldSeriesMstId": 62000,
+        "stageThumbnailName": "210412",
+        "backgroundResourceName": "bg_3d_620_00_01_002",
+        "stageName": "キレートビッグフェリスのうわさ 第2階層",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2025-05-16T15:00:00+09:00",
+        "sortOrder": 73,
+        "enemyType": 5
+      },
+      {
+        "dioramaBackgroundMstId": 210413,
+        "seriesId": 2,
+        "fieldSeriesMstId": 62000,
+        "stageThumbnailName": "210413",
+        "backgroundResourceName": "bg_3d_620_00_01_003",
+        "stageName": "キレートビッグフェリスのうわさ 第3階層",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2025-05-16T15:00:00+09:00",
+        "sortOrder": 74,
+        "enemyType": 5
+      },
+      {
+        "dioramaBackgroundMstId": 210419,
+        "seriesId": 2,
+        "fieldSeriesMstId": 62000,
+        "stageThumbnailName": "210419",
+        "backgroundResourceName": "bg_3d_620_00_00_001",
+        "stageName": "キレートビッグフェリスのうわさ ボス階層",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2025-05-16T15:00:00+09:00",
+        "sortOrder": 75,
+        "enemyType": 5
+      },
+      {
         "dioramaBackgroundMstId": 310111,
         "seriesId": 3,
         "fieldSeriesMstId": 61500,

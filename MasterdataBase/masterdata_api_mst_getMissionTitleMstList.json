@@ -53,17 +53,24 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5014,
+        "missionTitleMstId": 5018,
         "prevMissionTitleMstId": 0,
-        "title": "Memories of you 前編イベントミッション",
-        "priority": 18,
+        "title": "魔法少女まどか☆マギカ scene0 前編イベントミッション",
+        "priority": 20,
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5017,
+        "missionTitleMstId": 5019,
         "prevMissionTitleMstId": 0,
-        "title": "育成応援ミッション 第6弾",
-        "priority": 3,
+        "title": "Chaosモード追加記念ミッション",
+        "priority": 6,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5020,
+        "prevMissionTitleMstId": 0,
+        "title": "Memories of you 後編イベントミッション",
+        "priority": 21,
         "featuredRewardResourceName": ""
       }
     ]

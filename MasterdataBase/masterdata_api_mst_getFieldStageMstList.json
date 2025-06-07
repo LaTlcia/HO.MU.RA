@@ -654,8 +654,8 @@
       {
         "fieldStageMstId": 620001,
         "fieldSeriesMstId": 62000,
-        "name": "???",
-        "subTitle": "???",
+        "name": "キレートビッグフェリスのうわさ",
+        "subTitle": "第四章",
         "difficulty": 1,
         "prevFieldStageMstId": 619001,
         "prevFieldStageMstId2": 0,
@@ -666,8 +666,8 @@
       {
         "fieldStageMstId": 620002,
         "fieldSeriesMstId": 62000,
-        "name": "???",
-        "subTitle": "???",
+        "name": "キレートビッグフェリスのうわさ",
+        "subTitle": "第四章",
         "difficulty": 2,
         "prevFieldStageMstId": 620001,
         "prevFieldStageMstId2": 619002,
@@ -678,14 +678,86 @@
       {
         "fieldStageMstId": 620003,
         "fieldSeriesMstId": 62000,
-        "name": "???",
-        "subTitle": "???",
+        "name": "キレートビッグフェリスのうわさ",
+        "subTitle": "第四章",
         "difficulty": 3,
         "prevFieldStageMstId": 620001,
         "prevFieldStageMstId2": 619003,
         "firstClearRewardGroupId": 102,
         "stageAssetbundleName": "",
         "backgroundCardMstId": 5100029
+      },
+      {
+        "fieldStageMstId": 621001,
+        "fieldSeriesMstId": 62100,
+        "name": "???",
+        "subTitle": "???",
+        "difficulty": 1,
+        "prevFieldStageMstId": 620001,
+        "prevFieldStageMstId2": 0,
+        "firstClearRewardGroupId": 102,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 4100019
+      },
+      {
+        "fieldStageMstId": 621002,
+        "fieldSeriesMstId": 62100,
+        "name": "???",
+        "subTitle": "???",
+        "difficulty": 2,
+        "prevFieldStageMstId": 621001,
+        "prevFieldStageMstId2": 620002,
+        "firstClearRewardGroupId": 102,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 4100019
+      },
+      {
+        "fieldStageMstId": 621003,
+        "fieldSeriesMstId": 62100,
+        "name": "???",
+        "subTitle": "???",
+        "difficulty": 3,
+        "prevFieldStageMstId": 621001,
+        "prevFieldStageMstId2": 620003,
+        "firstClearRewardGroupId": 102,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 5100029
+      },
+      {
+        "fieldStageMstId": 700004,
+        "fieldSeriesMstId": 70000,
+        "name": "薔薇園の魔女",
+        "subTitle": "???",
+        "difficulty": 4,
+        "prevFieldStageMstId": 615003,
+        "prevFieldStageMstId2": 0,
+        "firstClearRewardGroupId": 0,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 0
+      },
+      {
+        "fieldStageMstId": 701004,
+        "fieldSeriesMstId": 70100,
+        "name": "暗闇の魔女",
+        "subTitle": "???",
+        "difficulty": 4,
+        "prevFieldStageMstId": 700004,
+        "prevFieldStageMstId2": 0,
+        "firstClearRewardGroupId": 0,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 0
+      },
+      {
+        "fieldStageMstId": 702004,
+        "fieldSeriesMstId": 70200,
+        "name": "お菓子の魔女",
+        "subTitle": "???",
+        "difficulty": 4,
+        "prevFieldStageMstId": 701004,
+        "prevFieldStageMstId2": 0,
+        "firstClearRewardGroupId": 0,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 0
       }
     ]
   }

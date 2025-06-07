@@ -116,6 +116,30 @@
         "value2": 0
       },
       {
+        "styleParamUpEffectMstId": 503,
+        "name": "HP+5",
+        "targetType": 1,
+        "abilityEffectType": "UP_HP_FIXED",
+        "value1": 5,
+        "value2": 0
+      },
+      {
+        "styleParamUpEffectMstId": 504,
+        "name": "HP+10",
+        "targetType": 1,
+        "abilityEffectType": "UP_HP_FIXED",
+        "value1": 10,
+        "value2": 0
+      },
+      {
+        "styleParamUpEffectMstId": 505,
+        "name": "HP+20",
+        "targetType": 1,
+        "abilityEffectType": "UP_HP_FIXED",
+        "value1": 20,
+        "value2": 0
+      },
+      {
         "styleParamUpEffectMstId": 601,
         "name": "攻撃力+10",
         "targetType": 1,
@@ -132,6 +156,14 @@
         "value2": 0
       },
       {
+        "styleParamUpEffectMstId": 603,
+        "name": "攻撃力+5",
+        "targetType": 1,
+        "abilityEffectType": "UP_ATK_FIXED",
+        "value1": 5,
+        "value2": 0
+      },
+      {
         "styleParamUpEffectMstId": 701,
         "name": "防御力+10",
         "targetType": 1,
@@ -145,6 +177,14 @@
         "targetType": 1,
         "abilityEffectType": "UP_DEF_FIXED",
         "value1": 20,
+        "value2": 0
+      },
+      {
+        "styleParamUpEffectMstId": 703,
+        "name": "防御力+5",
+        "targetType": 1,
+        "abilityEffectType": "UP_DEF_FIXED",
+        "value1": 5,
         "value2": 0
       }
     ]
