@@ -261,6 +261,111 @@
         "questStageMstId": 911115,
         "difficulty": 15,
         "dioramaBackgroundMstId": 111319
+      },
+      {
+        "scoreAttackStageMstId": 401,
+        "scoreAttackMstId": 4,
+        "questStageMstId": 916101,
+        "difficulty": 1,
+        "dioramaBackgroundMstId": 0
+      },
+      {
+        "scoreAttackStageMstId": 402,
+        "scoreAttackMstId": 4,
+        "questStageMstId": 916102,
+        "difficulty": 2,
+        "dioramaBackgroundMstId": 0
+      },
+      {
+        "scoreAttackStageMstId": 403,
+        "scoreAttackMstId": 4,
+        "questStageMstId": 916103,
+        "difficulty": 3,
+        "dioramaBackgroundMstId": 0
+      },
+      {
+        "scoreAttackStageMstId": 404,
+        "scoreAttackMstId": 4,
+        "questStageMstId": 916104,
+        "difficulty": 4,
+        "dioramaBackgroundMstId": 0
+      },
+      {
+        "scoreAttackStageMstId": 405,
+        "scoreAttackMstId": 4,
+        "questStageMstId": 916105,
+        "difficulty": 5,
+        "dioramaBackgroundMstId": 0
+      },
+      {
+        "scoreAttackStageMstId": 406,
+        "scoreAttackMstId": 4,
+        "questStageMstId": 916106,
+        "difficulty": 6,
+        "dioramaBackgroundMstId": 0
+      },
+      {
+        "scoreAttackStageMstId": 407,
+        "scoreAttackMstId": 4,
+        "questStageMstId": 916107,
+        "difficulty": 7,
+        "dioramaBackgroundMstId": 0
+      },
+      {
+        "scoreAttackStageMstId": 408,
+        "scoreAttackMstId": 4,
+        "questStageMstId": 916108,
+        "difficulty": 8,
+        "dioramaBackgroundMstId": 0
+      },
+      {
+        "scoreAttackStageMstId": 409,
+        "scoreAttackMstId": 4,
+        "questStageMstId": 916109,
+        "difficulty": 9,
+        "dioramaBackgroundMstId": 0
+      },
+      {
+        "scoreAttackStageMstId": 410,
+        "scoreAttackMstId": 4,
+        "questStageMstId": 916110,
+        "difficulty": 10,
+        "dioramaBackgroundMstId": 0
+      },
+      {
+        "scoreAttackStageMstId": 411,
+        "scoreAttackMstId": 4,
+        "questStageMstId": 916111,
+        "difficulty": 11,
+        "dioramaBackgroundMstId": 0
+      },
+      {
+        "scoreAttackStageMstId": 412,
+        "scoreAttackMstId": 4,
+        "questStageMstId": 916112,
+        "difficulty": 12,
+        "dioramaBackgroundMstId": 0
+      },
+      {
+        "scoreAttackStageMstId": 413,
+        "scoreAttackMstId": 4,
+        "questStageMstId": 916113,
+        "difficulty": 13,
+        "dioramaBackgroundMstId": 0
+      },
+      {
+        "scoreAttackStageMstId": 414,
+        "scoreAttackMstId": 4,
+        "questStageMstId": 916114,
+        "difficulty": 14,
+        "dioramaBackgroundMstId": 0
+      },
+      {
+        "scoreAttackStageMstId": 415,
+        "scoreAttackMstId": 4,
+        "questStageMstId": 916115,
+        "difficulty": 15,
+        "dioramaBackgroundMstId": 0
       }
     ]
   }

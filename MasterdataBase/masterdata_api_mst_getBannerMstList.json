@@ -625,6 +625,34 @@
         "imageName": "banner_00083",
         "destination": "MainQuest",
         "bannerLabelMstId": 4
+      },
+      {
+        "bannerMstId": 95,
+        "name": "",
+        "imageName": "banner_00086",
+        "destination": "Gacha",
+        "bannerLabelMstId": 8
+      },
+      {
+        "bannerMstId": 96,
+        "name": "",
+        "imageName": "banner_00090",
+        "destination": "StoryEvent",
+        "bannerLabelMstId": 2
+      },
+      {
+        "bannerMstId": 97,
+        "name": "",
+        "imageName": "banner_00089",
+        "destination": "",
+        "bannerLabelMstId": 0
+      },
+      {
+        "bannerMstId": 101,
+        "name": "",
+        "imageName": "banner_00095",
+        "destination": "",
+        "bannerLabelMstId": 0
       }
     ]
   }

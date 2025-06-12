@@ -148,6 +148,22 @@
         "sortOrder": 0
       },
       {
+        "styleFigureMstId": 102501,
+        "characterMstId": 1025,
+        "modelName": "chara_102501_battle_unit",
+        "iconName": "102501",
+        "voiceCueSheetName": "cv_102501_{0}",
+        "sortOrder": 0
+      },
+      {
+        "styleFigureMstId": 102601,
+        "characterMstId": 1026,
+        "modelName": "chara_102601_battle_unit",
+        "iconName": "102601",
+        "voiceCueSheetName": "cv_102601_{0}",
+        "sortOrder": 0
+      },
+      {
         "styleFigureMstId": 105801,
         "characterMstId": 1058,
         "modelName": "chara_105801_battle_unit",

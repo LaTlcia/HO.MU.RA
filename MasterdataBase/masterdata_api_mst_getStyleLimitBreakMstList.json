@@ -739,6 +739,76 @@
         "styleLimitBreakEffectMstId2": 1003
       },
       {
+        "styleLimitBreakMstId": 1025010101,
+        "styleMstId": 10250101,
+        "limitBreakCount": 1,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 5003
+      },
+      {
+        "styleLimitBreakMstId": 1025010102,
+        "styleMstId": 10250101,
+        "limitBreakCount": 2,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 5041
+      },
+      {
+        "styleLimitBreakMstId": 1025010103,
+        "styleMstId": 10250101,
+        "limitBreakCount": 3,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 1002
+      },
+      {
+        "styleLimitBreakMstId": 1025010104,
+        "styleMstId": 10250101,
+        "limitBreakCount": 4,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 5004
+      },
+      {
+        "styleLimitBreakMstId": 1025010105,
+        "styleMstId": 10250101,
+        "limitBreakCount": 5,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 1002
+      },
+      {
+        "styleLimitBreakMstId": 1026010101,
+        "styleMstId": 10260101,
+        "limitBreakCount": 1,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 5007
+      },
+      {
+        "styleLimitBreakMstId": 1026010102,
+        "styleMstId": 10260101,
+        "limitBreakCount": 2,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 5042
+      },
+      {
+        "styleLimitBreakMstId": 1026010103,
+        "styleMstId": 10260101,
+        "limitBreakCount": 3,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 1002
+      },
+      {
+        "styleLimitBreakMstId": 1026010104,
+        "styleMstId": 10260101,
+        "limitBreakCount": 4,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 5008
+      },
+      {
+        "styleLimitBreakMstId": 1026010105,
+        "styleMstId": 10260101,
+        "limitBreakCount": 5,
+        "styleLimitBreakEffectMstId1": 1001,
+        "styleLimitBreakEffectMstId2": 1002
+      },
+      {
         "styleLimitBreakMstId": 1058010101,
         "styleMstId": 10580101,
         "limitBreakCount": 1,

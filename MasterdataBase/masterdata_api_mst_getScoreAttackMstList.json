@@ -38,6 +38,18 @@
         "totalScoreRewardGroupId": 2,
         "rankingRewardGroupId": 3,
         "dioramaBackgroundMstId": 111319
+      },
+      {
+        "scoreAttackMstId": 4,
+        "name": "",
+        "startTime": "2025-06-12T12:00:00+09:00",
+        "endTime": "2025-06-26T11:59:59+09:00",
+        "comment": "ボスは自身のアビリティで被ダメージの軽減効果を付与しています。<br>この軽減効果は手下を倒すほど減少させることができ、手下を2体倒すと解除されます。<br>また、攻撃力デバフやブレイクゲージ削減耐性バフを使用するため定期的にバフ/デバフ欄を確認すると良いでしょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 4,
+        "totalScoreRewardGroupId": 3,
+        "rankingRewardGroupId": 4,
+        "dioramaBackgroundMstId": 210219
       }
     ]
   }

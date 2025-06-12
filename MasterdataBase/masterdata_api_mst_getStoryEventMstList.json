@@ -194,6 +194,25 @@
         "soundMstId": 0
       },
       {
+        "storyEventMstId": 12,
+        "name": "重なる音、キミと繋ぐ手",
+        "storyQuestGroupId": 1015,
+        "scoreAttackMstId": 4,
+        "maxPlayCountPerDay": 5,
+        "eventItemId": 201021,
+        "shopSeriesMstId": 3982,
+        "bonusStyleIds": "0",
+        "isEndPlayable": true,
+        "endDisplayTime": "2050-12-31T23:59:59+09:00",
+        "sortOrder": 9988,
+        "eventStartDirection": 1,
+        "topImageName": "13",
+        "bannerImageName": "banner_00090",
+        "bossCameraAssetName": "0",
+        "description": "月夜と月咲は仲良しでそっくりな双子の姉妹\nところが、ある日新人の黒羽根に言われたのは\n「双子っぽくない」という衝撃的なひとことで…！?\nはたしてふたりは、双子らしさを取り戻せるのか？",
+        "soundMstId": 0
+      },
+      {
         "storyEventMstId": 10000,
         "name": "焦らずゆっくり未来へ ～魔法少女に夢を見て～",
         "storyQuestGroupId": 1004,

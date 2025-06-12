@@ -300,6 +300,22 @@
         "osType": 0
       },
       {
+        "homeBannerMstId": 95,
+        "bannerMstId": 95,
+        "startTime": "2025-06-12T12:00:00+09:00",
+        "endTime": "2025-06-26T11:59:59+09:00",
+        "sortOrder": 172,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 96,
+        "bannerMstId": 96,
+        "startTime": "2025-06-12T12:00:00+09:00",
+        "endTime": "2025-06-26T11:59:59+09:00",
+        "sortOrder": 171,
+        "osType": 0
+      },
+      {
         "homeBannerMstId": 100,
         "bannerMstId": 80,
         "startTime": "2025-06-06T12:00:00+09:00",

@@ -106,6 +106,18 @@
         "value1": 10160101
       },
       {
+        "userTitleMstId": 10250101,
+        "title": "桜隠れ",
+        "titleType": 1,
+        "value1": 10250101
+      },
+      {
+        "userTitleMstId": 10260101,
+        "title": "桜語り",
+        "titleType": 1,
+        "value1": 10260101
+      },
+      {
         "userTitleMstId": 10800101,
         "title": "ソウル・サルベーション",
         "titleType": 1,
@@ -668,6 +680,12 @@
         "title": "Memories of you 後編クリア",
         "titleType": 2,
         "value1": 4200013
+      },
+      {
+        "userTitleMstId": 60000011,
+        "title": "重なる音、キミと繋ぐ手クリア",
+        "titleType": 2,
+        "value1": 4200022
       },
       {
         "userTitleMstId": 70000001,

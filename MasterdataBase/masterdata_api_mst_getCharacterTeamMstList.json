@@ -34,6 +34,11 @@
         "sortOrder": 7
       },
       {
+        "characterTeamMstId": 9,
+        "name": "マギウスの翼",
+        "sortOrder": 9
+      },
+      {
         "characterTeamMstId": 900,
         "name": "無所属",
         "sortOrder": 900

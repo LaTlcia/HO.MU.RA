@@ -616,6 +616,23 @@
         "releaseTime": "2025-03-27T05:00:00+09:00"
       },
       {
+        "cardMstId": 4200022,
+        "name": "双子の力をあわせれば",
+        "illustrator": "",
+        "source": "",
+        "rarity": 5,
+        "element": 0,
+        "passiveSkill1": 4073,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_04_01_0003",
+        "characterMstId": 0,
+        "unlockTypeCsv": "2",
+        "unlockIdCsv": "12",
+        "advPosition": 0,
+        "releaseTime": "2025-06-12T12:00:00+09:00"
+      },
+      {
         "cardMstId": 4200023,
         "name": "DANCE☆MAGICA",
         "illustrator": "",
@@ -1226,6 +1243,40 @@
         "unlockIdCsv": "0",
         "advPosition": 0,
         "releaseTime": "2023-01-02T00:00:06+09:00"
+      },
+      {
+        "cardMstId": 4300036,
+        "name": "夢見る月咲ちゃんとの日々",
+        "illustrator": "",
+        "source": "",
+        "rarity": 4,
+        "element": 0,
+        "passiveSkill1": 4074,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_03_01_1025",
+        "characterMstId": 0,
+        "unlockTypeCsv": "7",
+        "unlockIdCsv": "0",
+        "advPosition": 0,
+        "releaseTime": "2025-06-12T12:00:00+09:00"
+      },
+      {
+        "cardMstId": 4300037,
+        "name": "夢見る月夜ちゃんとの日々",
+        "illustrator": "",
+        "source": "",
+        "rarity": 4,
+        "element": 0,
+        "passiveSkill1": 4075,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_03_01_1026",
+        "characterMstId": 0,
+        "unlockTypeCsv": "7",
+        "unlockIdCsv": "0",
+        "advPosition": 0,
+        "releaseTime": "2025-06-12T12:00:00+09:00"
       },
       {
         "cardMstId": 5100001,
@@ -2110,6 +2161,23 @@
         "unlockIdCsv": "0",
         "advPosition": 0,
         "releaseTime": "2025-05-25T00:00:00+09:00"
+      },
+      {
+        "cardMstId": 9900005,
+        "name": "Illumination of Geniuses",
+        "illustrator": "",
+        "source": "",
+        "rarity": 5,
+        "element": 0,
+        "passiveSkill1": 9005,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_05_01_0002",
+        "characterMstId": 0,
+        "unlockTypeCsv": "99",
+        "unlockIdCsv": "0",
+        "advPosition": 0,
+        "releaseTime": "2025-06-24T00:00:00+09:00"
       }
     ]
   }

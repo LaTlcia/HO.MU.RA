@@ -4324,6 +4324,186 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 407301,
+        "skillUniqueId": 4073,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407302,
+        "skillUniqueId": 4073,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+8.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407303,
+        "skillUniqueId": 4073,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+9.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407304,
+        "skillUniqueId": 4073,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+10.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407305,
+        "skillUniqueId": 4073,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+11.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407306,
+        "skillUniqueId": 4073,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+12.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407401,
+        "skillUniqueId": 4074,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "デバフ命中率+5%<br>【天音月夜に装備時に追加】<br>スピード+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407402,
+        "skillUniqueId": 4074,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "デバフ命中率+6%<br>【天音月夜に装備時に追加】<br>スピード+6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407403,
+        "skillUniqueId": 4074,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "デバフ命中率+7%<br>【天音月夜に装備時に追加】<br>スピード+7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407404,
+        "skillUniqueId": 4074,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "デバフ命中率+8%<br>【天音月夜に装備時に追加】<br>スピード+8%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407405,
+        "skillUniqueId": 4074,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "デバフ命中率+9%<br>【天音月夜に装備時に追加】<br>スピード+9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407406,
+        "skillUniqueId": 4074,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "デバフ命中率+10%<br>【天音月夜に装備時に追加】<br>スピード+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407501,
+        "skillUniqueId": 4075,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "スピード+5%<br>【天音月咲に装備時に追加】<br>デバフ命中率+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407502,
+        "skillUniqueId": 4075,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "スピード+6%<br>【天音月咲に装備時に追加】<br>デバフ命中率+6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407503,
+        "skillUniqueId": 4075,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "スピード+7%<br>【天音月咲に装備時に追加】<br>デバフ命中率+7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407504,
+        "skillUniqueId": 4075,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "スピード+8%<br>【天音月咲に装備時に追加】<br>デバフ命中率+8%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407505,
+        "skillUniqueId": 4075,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "スピード+9%<br>【天音月咲に装備時に追加】<br>デバフ命中率+9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 407506,
+        "skillUniqueId": 4075,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "スピード+10%<br>【天音月咲に装備時に追加】<br>デバフ命中率+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 500101,
         "skillUniqueId": 5001,
         "level": 1,
@@ -7436,6 +7616,66 @@
       {
         "passiveSkillMstId": 900406,
         "skillUniqueId": 9004,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "攻撃力+7.5%、防御力+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 900501,
+        "skillUniqueId": 9005,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "攻撃力+5%、防御力+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 900502,
+        "skillUniqueId": 9005,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "攻撃力+5.5%、防御力+5.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 900503,
+        "skillUniqueId": 9005,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "攻撃力+6%、防御力+6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 900504,
+        "skillUniqueId": 9005,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "攻撃力+6.5%、防御力+6.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 900505,
+        "skillUniqueId": 9005,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "攻撃力+7%、防御力+7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 900506,
+        "skillUniqueId": 9005,
         "level": 6,
         "name": "【アビリティ】",
         "description": "攻撃力+7.5%、防御力+7.5%",
@@ -13344,6 +13584,206 @@
         "skillButtonIcon": "battle_icon_passive_buff"
       },
       {
+        "passiveSkillMstId": 1502401,
+        "skillUniqueId": 15024,
+        "level": 1,
+        "name": "アクセルブレイカブル",
+        "description": "ブレイク特効+45%。<br>バトル開始時に魔力0。<br><br>【敵全体のデバフ効果が2個以上のとき】<br>敵に対してダメージを与えたとき魔力+1。<br><br>さらに【敵全体のデバフ効果が5個以上のとき】<br>敵に対してダメージを与えたとき魔力+2、MP+5<br>魔力の最大値は12",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_mp_heal"
+      },
+      {
+        "passiveSkillMstId": 1502402,
+        "skillUniqueId": 15024,
+        "level": 2,
+        "name": "アクセルブレイカブル",
+        "description": "ブレイク特効+54%。<br>バトル開始時に魔力0。<br><br>【敵全体のデバフ効果が2個以上のとき】<br>敵に対してダメージを与えたとき魔力+1。<br><br>さらに【敵全体のデバフ効果が5個以上のとき】<br>敵に対してダメージを与えたとき魔力+2、MP+5<br>魔力の最大値は12",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_mp_heal"
+      },
+      {
+        "passiveSkillMstId": 1502403,
+        "skillUniqueId": 15024,
+        "level": 3,
+        "name": "アクセルブレイカブル",
+        "description": "ブレイク特効+67%。<br>バトル開始時に魔力0。<br><br>【敵全体のデバフ効果が2個以上のとき】<br>敵に対してダメージを与えたとき魔力+1。<br><br>さらに【敵全体のデバフ効果が5個以上のとき】<br>敵に対してダメージを与えたとき魔力+2、MP+5<br>魔力の最大値は12",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_mp_heal"
+      },
+      {
+        "passiveSkillMstId": 1502404,
+        "skillUniqueId": 15024,
+        "level": 4,
+        "name": "アクセルブレイカブル",
+        "description": "ブレイク特効+80%。<br>バトル開始時に魔力0。<br><br>【敵全体のデバフ効果が2個以上のとき】<br>敵に対してダメージを与えたとき魔力+1。<br><br>さらに【敵全体のデバフ効果が5個以上のとき】<br>敵に対してダメージを与えたとき魔力+2、MP+5<br>魔力の最大値は12",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_mp_heal"
+      },
+      {
+        "passiveSkillMstId": 1502405,
+        "skillUniqueId": 15024,
+        "level": 5,
+        "name": "アクセルブレイカブル",
+        "description": "ブレイク特効+95%。<br>バトル開始時に魔力0。<br><br>【敵全体のデバフ効果が2個以上のとき】<br>敵に対してダメージを与えたとき魔力+1。<br><br>さらに【敵全体のデバフ効果が5個以上のとき】<br>敵に対してダメージを与えたとき魔力+2、MP+5<br>魔力の最大値は12",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_mp_heal"
+      },
+      {
+        "passiveSkillMstId": 1502406,
+        "skillUniqueId": 15024,
+        "level": 6,
+        "name": "アクセルブレイカブル",
+        "description": "ブレイク特効+110%。<br>バトル開始時に魔力0。<br><br>【敵全体のデバフ効果が2個以上のとき】<br>敵に対してダメージを与えたとき魔力+1。<br><br>さらに【敵全体のデバフ効果が5個以上のとき】<br>敵に対してダメージを与えたとき魔力+2、MP+5<br>魔力の最大値は12",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_mp_heal"
+      },
+      {
+        "passiveSkillMstId": 1502407,
+        "skillUniqueId": 15024,
+        "level": 7,
+        "name": "アクセルブレイカブル",
+        "description": "ブレイク特効+126%。<br>バトル開始時に魔力0。<br><br>【敵全体のデバフ効果が2個以上のとき】<br>敵に対してダメージを与えたとき魔力+1。<br><br>さらに【敵全体のデバフ効果が5個以上のとき】<br>敵に対してダメージを与えたとき魔力+2、MP+5<br>魔力の最大値は12",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_mp_heal"
+      },
+      {
+        "passiveSkillMstId": 1502408,
+        "skillUniqueId": 15024,
+        "level": 8,
+        "name": "アクセルブレイカブル",
+        "description": "ブレイク特効+143%。<br>バトル開始時に魔力0。<br><br>【敵全体のデバフ効果が2個以上のとき】<br>敵に対してダメージを与えたとき魔力+1。<br><br>さらに【敵全体のデバフ効果が5個以上のとき】<br>敵に対してダメージを与えたとき魔力+2、MP+5<br>魔力の最大値は12",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_mp_heal"
+      },
+      {
+        "passiveSkillMstId": 1502409,
+        "skillUniqueId": 15024,
+        "level": 9,
+        "name": "アクセルブレイカブル",
+        "description": "ブレイク特効+160%。<br>バトル開始時に魔力0。<br><br>【敵全体のデバフ効果が2個以上のとき】<br>敵に対してダメージを与えたとき魔力+1。<br><br>さらに【敵全体のデバフ効果が5個以上のとき】<br>敵に対してダメージを与えたとき魔力+2、MP+5<br>魔力の最大値は12",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_mp_heal"
+      },
+      {
+        "passiveSkillMstId": 1502410,
+        "skillUniqueId": 15024,
+        "level": 10,
+        "name": "アクセルブレイカブル",
+        "description": "ブレイク特効+180%。<br>バトル開始時に魔力0。<br><br>【敵全体のデバフ効果が2個以上のとき】<br>敵に対してダメージを与えたとき魔力+1。<br><br>さらに【敵全体のデバフ効果が5個以上のとき】<br>敵に対してダメージを与えたとき魔力+2、MP+5<br>魔力の最大値は12",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_mp_heal"
+      },
+      {
+        "passiveSkillMstId": 1502501,
+        "skillUniqueId": 15025,
+        "level": 1,
+        "name": "ヘイストアクセル",
+        "description": "【敵全体のデバフ効果が3個以上のとき】<br>ターン開始時にMP+5。<br>さらに【敵全体のデバフ効果が5個以上のとき】<br>スピード+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502502,
+        "skillUniqueId": 15025,
+        "level": 2,
+        "name": "ヘイストアクセル",
+        "description": "【敵全体のデバフ効果が3個以上のとき】<br>ターン開始時にMP+5。<br>さらに【敵全体のデバフ効果が5個以上のとき】<br>スピード+21%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502503,
+        "skillUniqueId": 15025,
+        "level": 3,
+        "name": "ヘイストアクセル",
+        "description": "【敵全体のデバフ効果が3個以上のとき】<br>ターン開始時にMP+5。<br>さらに【敵全体のデバフ効果が5個以上のとき】<br>スピード+22%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502504,
+        "skillUniqueId": 15025,
+        "level": 4,
+        "name": "ヘイストアクセル",
+        "description": "【敵全体のデバフ効果が3個以上のとき】<br>ターン開始時にMP+5。<br>さらに【敵全体のデバフ効果が5個以上のとき】<br>スピード+23%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502505,
+        "skillUniqueId": 15025,
+        "level": 5,
+        "name": "ヘイストアクセル",
+        "description": "【敵全体のデバフ効果が3個以上のとき】<br>ターン開始時にMP+5。<br>さらに【敵全体のデバフ効果が5個以上のとき】<br>スピード+24%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502506,
+        "skillUniqueId": 15025,
+        "level": 6,
+        "name": "ヘイストアクセル",
+        "description": "【敵全体のデバフ効果が3個以上のとき】<br>ターン開始時にMP+5。<br>さらに【敵全体のデバフ効果が5個以上のとき】<br>スピード+25%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502507,
+        "skillUniqueId": 15025,
+        "level": 7,
+        "name": "ヘイストアクセル",
+        "description": "【敵全体のデバフ効果が3個以上のとき】<br>ターン開始時にMP+5。<br>さらに【敵全体のデバフ効果が5個以上のとき】<br>スピード+26%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502508,
+        "skillUniqueId": 15025,
+        "level": 8,
+        "name": "ヘイストアクセル",
+        "description": "【敵全体のデバフ効果が3個以上のとき】<br>ターン開始時にMP+5。<br>さらに【敵全体のデバフ効果が5個以上のとき】<br>スピード+27%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502509,
+        "skillUniqueId": 15025,
+        "level": 9,
+        "name": "ヘイストアクセル",
+        "description": "【敵全体のデバフ効果が3個以上のとき】<br>ターン開始時にMP+5。<br>さらに【敵全体のデバフ効果が5個以上のとき】<br>スピード+28%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1502510,
+        "skillUniqueId": 15025,
+        "level": 10,
+        "name": "ヘイストアクセル",
+        "description": "【敵全体のデバフ効果が3個以上のとき】<br>ターン開始時にMP+5。<br>さらに【敵全体のデバフ効果が5個以上のとき】<br>スピード+30%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
         "passiveSkillMstId": 2001001,
         "skillUniqueId": 2001001,
         "level": 1,
@@ -15014,6 +15454,16 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 5001058,
+        "skillUniqueId": 5001058,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>味方が倒れるごとに被ダメージが上昇する<br><br>敵全体のバリア耐久値とHP回復効果量を大幅に減少させる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 5002001,
         "skillUniqueId": 5002001,
         "level": 1,
@@ -16299,6 +16749,26 @@
         "level": 1,
         "name": "限界突破効果",
         "description": "カットアウトが付与されている味方の弱点属性に対して与えるダメージ+30%。<br>戦闘スキルを発動したとき味方全体の行動順+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 8503801,
+        "skillUniqueId": 85038,
+        "level": 1,
+        "name": "限界突破効果",
+        "description": "【敵全体のデバフ効果が5個以上のとき】<br>ブレイクゲージ削減量が上昇する（デバフ効果の個数が増えるごとに上昇、最大8個）",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 8503901,
+        "skillUniqueId": 85039,
+        "level": 1,
+        "name": "限界突破効果",
+        "description": "必殺技発動時に攻撃対象から解除できるバフ効果+1。<br>戦闘スキルを発動したとき行動順+20%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -22201,6 +22671,206 @@
         "description": "【バッファーに装備時】<br>通常攻撃を発動したとき行動順+10%。<br>スピード+20%",
         "conditionElement": 0,
         "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502301,
+        "skillUniqueId": 95023,
+        "level": 1,
+        "name": "ヘイストアクセル",
+        "description": "【デバッファーに装備時】<br>ターン開始時にMP+2。<br>敵全体のデバフ効果が3個以上のときスピード+15%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502302,
+        "skillUniqueId": 95023,
+        "level": 2,
+        "name": "ヘイストアクセル",
+        "description": "【デバッファーに装備時】<br>ターン開始時にMP+2。<br>敵全体のデバフ効果が3個以上のときスピード+16%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502303,
+        "skillUniqueId": 95023,
+        "level": 3,
+        "name": "ヘイストアクセル",
+        "description": "【デバッファーに装備時】<br>ターン開始時にMP+2。<br>敵全体のデバフ効果が3個以上のときスピード+17%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502304,
+        "skillUniqueId": 95023,
+        "level": 4,
+        "name": "ヘイストアクセル",
+        "description": "【デバッファーに装備時】<br>ターン開始時にMP+2。<br>敵全体のデバフ効果が3個以上のときスピード+18%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502305,
+        "skillUniqueId": 95023,
+        "level": 5,
+        "name": "ヘイストアクセル",
+        "description": "【デバッファーに装備時】<br>ターン開始時にMP+2。<br>敵全体のデバフ効果が3個以上のときスピード+19%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502306,
+        "skillUniqueId": 95023,
+        "level": 6,
+        "name": "ヘイストアクセル",
+        "description": "【デバッファーに装備時】<br>ターン開始時にMP+2。<br>敵全体のデバフ効果が3個以上のときスピード+20%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502307,
+        "skillUniqueId": 95023,
+        "level": 7,
+        "name": "ヘイストアクセル",
+        "description": "【デバッファーに装備時】<br>ターン開始時にMP+2。<br>敵全体のデバフ効果が3個以上のときスピード+21%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502308,
+        "skillUniqueId": 95023,
+        "level": 8,
+        "name": "ヘイストアクセル",
+        "description": "【デバッファーに装備時】<br>ターン開始時にMP+2。<br>敵全体のデバフ効果が3個以上のときスピード+22%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502309,
+        "skillUniqueId": 95023,
+        "level": 9,
+        "name": "ヘイストアクセル",
+        "description": "【デバッファーに装備時】<br>ターン開始時にMP+2。<br>敵全体のデバフ効果が3個以上のときスピード+23%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502310,
+        "skillUniqueId": 95023,
+        "level": 10,
+        "name": "ヘイストアクセル",
+        "description": "【デバッファーに装備時】<br>ターン開始時にMP+2。<br>敵全体のデバフ効果が3個以上のときスピード+25%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502401,
+        "skillUniqueId": 95024,
+        "level": 1,
+        "name": "ヘイストアクセル",
+        "description": "【ブレイカーに装備時】<br>敵全体のデバフ効果が2個以上のとき敵に対してダメージを与えたときMP+2。<br>スピード+10%",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502402,
+        "skillUniqueId": 95024,
+        "level": 2,
+        "name": "ヘイストアクセル",
+        "description": "【ブレイカーに装備時】<br>敵全体のデバフ効果が2個以上のとき敵に対してダメージを与えたときMP+2。<br>スピード+11%",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502403,
+        "skillUniqueId": 95024,
+        "level": 3,
+        "name": "ヘイストアクセル",
+        "description": "【ブレイカーに装備時】<br>敵全体のデバフ効果が2個以上のとき敵に対してダメージを与えたときMP+2。<br>スピード+12%",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502404,
+        "skillUniqueId": 95024,
+        "level": 4,
+        "name": "ヘイストアクセル",
+        "description": "【ブレイカーに装備時】<br>敵全体のデバフ効果が2個以上のとき敵に対してダメージを与えたときMP+2。<br>スピード+13%",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502405,
+        "skillUniqueId": 95024,
+        "level": 5,
+        "name": "ヘイストアクセル",
+        "description": "【ブレイカーに装備時】<br>敵全体のデバフ効果が2個以上のとき敵に対してダメージを与えたときMP+2。<br>スピード+14%",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502406,
+        "skillUniqueId": 95024,
+        "level": 6,
+        "name": "ヘイストアクセル",
+        "description": "【ブレイカーに装備時】<br>敵全体のデバフ効果が2個以上のとき敵に対してダメージを与えたときMP+2。<br>スピード+15%",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502407,
+        "skillUniqueId": 95024,
+        "level": 7,
+        "name": "ヘイストアクセル",
+        "description": "【ブレイカーに装備時】<br>敵全体のデバフ効果が2個以上のとき敵に対してダメージを与えたときMP+2。<br>スピード+16%",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502408,
+        "skillUniqueId": 95024,
+        "level": 8,
+        "name": "ヘイストアクセル",
+        "description": "【ブレイカーに装備時】<br>敵全体のデバフ効果が2個以上のとき敵に対してダメージを与えたときMP+2。<br>スピード+17%",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502409,
+        "skillUniqueId": 95024,
+        "level": 9,
+        "name": "ヘイストアクセル",
+        "description": "【ブレイカーに装備時】<br>敵全体のデバフ効果が2個以上のとき敵に対してダメージを与えたときMP+2。<br>スピード+18%",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502410,
+        "skillUniqueId": 95024,
+        "level": 10,
+        "name": "ヘイストアクセル",
+        "description": "【ブレイカーに装備時】<br>敵全体のデバフ効果が2個以上のとき敵に対してダメージを与えたときMP+2。<br>スピード+20%",
+        "conditionElement": 0,
+        "conditionRole": 2,
         "skillButtonIcon": "battle_icon_supportpassive_buff"
       }
     ]

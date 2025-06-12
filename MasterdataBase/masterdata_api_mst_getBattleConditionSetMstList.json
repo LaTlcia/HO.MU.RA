@@ -5936,7 +5936,7 @@
       {
         "battleConditionSetMstId": 1191,
         "description": "【追撃・反撃】と必殺技以外発動したとき",
-        "battleConditionMstIdCsv": "630760,3"
+        "battleConditionMstIdCsv": "630,760,3"
       },
       {
         "battleConditionSetMstId": 1192,
@@ -6549,6 +6549,26 @@
         "battleConditionMstIdCsv": "108,768"
       },
       {
+        "battleConditionSetMstId": 1314,
+        "description": "対象のデバフ数が3",
+        "battleConditionMstIdCsv": "801"
+      },
+      {
+        "battleConditionSetMstId": 1315,
+        "description": "対象のデバフ数が4",
+        "battleConditionMstIdCsv": "802"
+      },
+      {
+        "battleConditionSetMstId": 1316,
+        "description": "対象のデバフ数が1以上の敵にダメージを与えたとき",
+        "battleConditionMstIdCsv": "803,557,3"
+      },
+      {
+        "battleConditionSetMstId": 1317,
+        "description": "対象のデバフ数が2以上",
+        "battleConditionMstIdCsv": "804"
+      },
+      {
         "battleConditionSetMstId": 1318,
         "description": "自身が1以上のダメージを与えたとき",
         "battleConditionMstIdCsv": "3,805"
@@ -6562,6 +6582,41 @@
         "battleConditionSetMstId": 1320,
         "description": "5ターンごと（5ターン目） And 自身の行動時",
         "battleConditionMstIdCsv": "3,68"
+      },
+      {
+        "battleConditionSetMstId": 1321,
+        "description": "トークンが6未満",
+        "battleConditionMstIdCsv": "807"
+      },
+      {
+        "battleConditionSetMstId": 1322,
+        "description": "トークンが6以上、トークンが12未満のとき",
+        "battleConditionMstIdCsv": "291,808"
+      },
+      {
+        "battleConditionSetMstId": 1323,
+        "description": "敵全体のデバフ数が2以上",
+        "battleConditionMstIdCsv": "809"
+      },
+      {
+        "battleConditionSetMstId": 1324,
+        "description": "敵全体のデバフ数が2以上で1以上のダメージを与えたとき",
+        "battleConditionMstIdCsv": "809,655,3"
+      },
+      {
+        "battleConditionSetMstId": 1325,
+        "description": "敵全体のデバフ数が6以上で1以上のダメージを与えたとき",
+        "battleConditionMstIdCsv": "810,655,3"
+      },
+      {
+        "battleConditionSetMstId": 1326,
+        "description": "敵全体のデバフ数が5以上で1以上のダメージを与えたとき",
+        "battleConditionMstIdCsv": "811,655,3"
+      },
+      {
+        "battleConditionSetMstId": 1327,
+        "description": "敵全体のデバフ数が5以上のとき",
+        "battleConditionMstIdCsv": "811"
       },
       {
         "battleConditionSetMstId": 1328,
@@ -6582,6 +6637,61 @@
         "battleConditionSetMstId": 1331,
         "description": "攻撃で味方が4人殺された場合",
         "battleConditionMstIdCsv": "814"
+      },
+      {
+        "battleConditionSetMstId": 1332,
+        "description": "対象のデバフ数が3以上",
+        "battleConditionMstIdCsv": "815,3"
+      },
+      {
+        "battleConditionSetMstId": 1333,
+        "description": "対象のデバフ数が2以上",
+        "battleConditionMstIdCsv": "809,3"
+      },
+      {
+        "battleConditionSetMstId": 1334,
+        "description": "トークンが12以上のとき",
+        "battleConditionMstIdCsv": "816"
+      },
+      {
+        "battleConditionSetMstId": 1335,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、味方が誰もいない場合",
+        "battleConditionMstIdCsv": "420,286,389"
+      },
+      {
+        "battleConditionSetMstId": 1336,
+        "description": "対象のデバフ数が6以上",
+        "battleConditionMstIdCsv": "810"
+      },
+      {
+        "battleConditionSetMstId": 1337,
+        "description": "対象のデバフ数が7以上",
+        "battleConditionMstIdCsv": "817"
+      },
+      {
+        "battleConditionSetMstId": 1338,
+        "description": "対象のデバフ数が8以上",
+        "battleConditionMstIdCsv": "818"
+      },
+      {
+        "battleConditionSetMstId": 1339,
+        "description": "裂傷状態が付与されている敵に攻撃したとき",
+        "battleConditionMstIdCsv": "819"
+      },
+      {
+        "battleConditionSetMstId": 1340,
+        "description": "「天音月夜」専用",
+        "battleConditionMstIdCsv": "820"
+      },
+      {
+        "battleConditionSetMstId": 1341,
+        "description": "「天音月咲」専用",
+        "battleConditionMstIdCsv": "821"
+      },
+      {
+        "battleConditionSetMstId": 1346,
+        "description": "敵全体のデバフ数が3以上",
+        "battleConditionMstIdCsv": "815"
       }
     ]
   }

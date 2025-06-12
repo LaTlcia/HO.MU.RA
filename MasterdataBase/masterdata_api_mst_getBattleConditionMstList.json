@@ -6044,6 +6044,14 @@
         "compareValue": "1"
       },
       {
+        "battleConditionMstId": 756,
+        "description": "行動者が攻撃バフをもっている",
+        "compareTarget": 2,
+        "compareContent": 12,
+        "compareOperator": 7,
+        "compareValue": "UP_ATK_RATIO"
+      },
+      {
         "battleConditionMstId": 757,
         "description": "ブレイクされたユニット数が1以上",
         "compareTarget": 6,
@@ -6388,6 +6396,38 @@
         "compareValue": "9"
       },
       {
+        "battleConditionMstId": 801,
+        "description": "対象のデバフ数が3",
+        "compareTarget": 8,
+        "compareContent": 25,
+        "compareOperator": 1,
+        "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 802,
+        "description": "対象のデバフ数が4",
+        "compareTarget": 8,
+        "compareContent": 25,
+        "compareOperator": 1,
+        "compareValue": "4"
+      },
+      {
+        "battleConditionMstId": 803,
+        "description": "対象のデバフ数が1以上",
+        "compareTarget": 8,
+        "compareContent": 25,
+        "compareOperator": 4,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 804,
+        "description": "対象のデバフ数が2以上",
+        "compareTarget": 8,
+        "compareContent": 25,
+        "compareOperator": 4,
+        "compareValue": "2"
+      },
+      {
         "battleConditionMstId": 805,
         "description": "1以上のダメージを与えたとき",
         "compareTarget": 3,
@@ -6402,6 +6442,46 @@
         "compareContent": 25,
         "compareOperator": 4,
         "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 807,
+        "description": "トークンが6未満",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 5,
+        "compareValue": "6"
+      },
+      {
+        "battleConditionMstId": 808,
+        "description": "トークンが12未満",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 5,
+        "compareValue": "12"
+      },
+      {
+        "battleConditionMstId": 809,
+        "description": "対象のデバフ数が2以上",
+        "compareTarget": 6,
+        "compareContent": 208,
+        "compareOperator": 4,
+        "compareValue": "2"
+      },
+      {
+        "battleConditionMstId": 810,
+        "description": "対象のデバフ数が6以上",
+        "compareTarget": 6,
+        "compareContent": 208,
+        "compareOperator": 4,
+        "compareValue": "6"
+      },
+      {
+        "battleConditionMstId": 811,
+        "description": "対象のデバフ数が5以上",
+        "compareTarget": 6,
+        "compareContent": 208,
+        "compareOperator": 4,
+        "compareValue": "5"
       },
       {
         "battleConditionMstId": 812,
@@ -6426,6 +6506,62 @@
         "compareContent": 301,
         "compareOperator": 1,
         "compareValue": "4"
+      },
+      {
+        "battleConditionMstId": 815,
+        "description": "対象のデバフ数が3以上",
+        "compareTarget": 6,
+        "compareContent": 208,
+        "compareOperator": 4,
+        "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 816,
+        "description": "トークンが12以上のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 4,
+        "compareValue": "12"
+      },
+      {
+        "battleConditionMstId": 817,
+        "description": "対象のデバフ数が7以上",
+        "compareTarget": 6,
+        "compareContent": 208,
+        "compareOperator": 4,
+        "compareValue": "7"
+      },
+      {
+        "battleConditionMstId": 818,
+        "description": "対象のデバフ数が8以上",
+        "compareTarget": 6,
+        "compareContent": 208,
+        "compareOperator": 4,
+        "compareValue": "8"
+      },
+      {
+        "battleConditionMstId": 819,
+        "description": "裂傷状態が付与されている敵に攻撃したとき",
+        "compareTarget": 6,
+        "compareContent": 309,
+        "compareOperator": 4,
+        "compareValue": "BLEED,1"
+      },
+      {
+        "battleConditionMstId": 820,
+        "description": "自分のキャラクターが「天音月夜」",
+        "compareTarget": 1,
+        "compareContent": 14,
+        "compareOperator": 1,
+        "compareValue": "1025"
+      },
+      {
+        "battleConditionMstId": 821,
+        "description": "自分のキャラクターが「天音月咲」",
+        "compareTarget": 1,
+        "compareContent": 14,
+        "compareOperator": 1,
+        "compareValue": "1026"
       }
     ]
   }

@@ -259,6 +259,36 @@
         "sortOrder": 0
       },
       {
+        "characterMstId": 1025,
+        "description": "月咲の双子の姉にあたる、解放を望む魔法少女。<br>普段から箏曲、毛筆、舞踊などの稽古に勤しみ、優れた腕前を持つ。<br>後輩や同期からの信頼も厚いが、気を許せる仲の人は居ないため、妹の月咲と一緒にいるのが最も心が安らぐ。",
+        "characterVoice": "内田真礼",
+        "schoolName": "水名女学園",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 2,
+        "regionId": 1,
+        "teamId1": 9,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
+        "characterMstId": 1026,
+        "description": "月夜の双子の妹にあたる、解放を望む魔法少女。<br>実家の竹細工工房で、父とその弟子のために、家事や家計を一手に引き受けている。<br>明るく友人が多い性格だが、自身の本音をさらけ出せるのは月夜だけだと思っている。",
+        "characterVoice": "内田彩",
+        "schoolName": "工匠学舎",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 2,
+        "regionId": 1,
+        "teamId1": 9,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
         "characterMstId": 1058,
         "description": "みんなにエールを送ってくれる、元気はつらつ魔法少女。<br>野球が大好きで、学校ではチアガールとして野球部員にエールを送っている。<br>また、野球部のマネージャーも兼任しており、名実ともに、年中無休のみんなのサポーターである。",
         "characterVoice": "杜野まこ",

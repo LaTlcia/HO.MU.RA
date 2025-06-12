@@ -123,6 +123,20 @@
         "colorCode": "#4A8DE4"
       },
       {
+        "characterMstId": 1025,
+        "name": "天音月夜",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1025",
+        "colorCode": "#EF3775"
+      },
+      {
+        "characterMstId": 1026,
+        "name": "天音月咲",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1026",
+        "colorCode": "#EF3775"
+      },
+      {
         "characterMstId": 1058,
         "name": "空穂夏希",
         "awakeItemMstId": 0,

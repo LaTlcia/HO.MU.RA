@@ -14,6 +14,11 @@
         "resourceName": ""
       },
       {
+        "questCategoryMstId": 5,
+        "name": "鏡層",
+        "resourceName": ""
+      },
+      {
         "questCategoryMstId": 9,
         "name": "ストーリーイベント",
         "resourceName": ""

@@ -72,6 +72,13 @@
         "title": "Memories of you 後編イベントミッション",
         "priority": 21,
         "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5021,
+        "prevMissionTitleMstId": 0,
+        "title": "重なる音、キミと繋ぐ手イベントミッション",
+        "priority": 22,
+        "featuredRewardResourceName": ""
       }
     ]
   }
