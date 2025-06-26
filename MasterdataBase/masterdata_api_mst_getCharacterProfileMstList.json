@@ -259,6 +259,36 @@
         "sortOrder": 0
       },
       {
+        "characterMstId": 1019,
+        "description": "魔女化のない世界を作ろうとしている魔法少女。<br>入院していた里見メディカルセンターの院長の娘で、幼くして天体物理学を修めた理系の天才。<br>普段は無数の機器に囲まれながら研究を続けており、夢は宇宙の全てを知ること。",
+        "characterVoice": "釘宮理恵",
+        "schoolName": "聖リリアンナ学園",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 2,
+        "regionId": 1,
+        "teamId1": 9,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
+        "characterMstId": 1020,
+        "description": "魔女化のない世界を作ろうとしている魔法少女。<br>自己承認欲求を満たすために物語を書き始め、ネット上で掲載すると天才作家と呼ばれるようになった。<br>だが、今まで誰も彼女には接触できていない。<br>夢は世界中に自分の物語を具現化させること。",
+        "characterVoice": "諸星すみれ",
+        "schoolName": "参京院教育学園",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 2,
+        "regionId": 1,
+        "teamId1": 9,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
         "characterMstId": 1025,
         "description": "月咲の双子の姉にあたる、解放を望む魔法少女。<br>普段から箏曲、毛筆、舞踊などの稽古に勤しみ、優れた腕前を持つ。<br>後輩や同期からの信頼も厚いが、気を許せる仲の人は居ないため、妹の月咲と一緒にいるのが最も心が安らぐ。",
         "characterVoice": "内田真礼",

@@ -429,6 +429,16 @@
         "isViewCollection": true
       },
       {
+        "advTitleMstId": 89,
+        "title": "犠牲の上に成り立つ希望",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 90,
+        "title": "見せかけの希望",
+        "isViewCollection": true
+      },
+      {
         "advTitleMstId": 91,
         "title": "魔法少女おりこ☆マギカ[別編]",
         "isViewCollection": true
@@ -441,6 +451,11 @@
       {
         "advTitleMstId": 93,
         "title": "ＤＡＮＣＥ☆ＭＡＧＩＣＡ",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 94,
+        "title": "調整屋さんの事件簿３ 箱庭のコスモロジー",
         "isViewCollection": true
       },
       {

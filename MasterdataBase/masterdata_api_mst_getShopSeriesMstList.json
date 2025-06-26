@@ -43,6 +43,19 @@
         "resourceName": ""
       },
       {
+        "shopSeriesMstId": 2981,
+        "title": "100日感謝祭  柊ねむ＆里見灯花ピックアップガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2025-06-26T12:00:00+09:00",
+        "endTime": "2025-07-16T11:59:59+09:00",
+        "shopGroupId1": 2981,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231019,
+        "resourceName": ""
+      },
+      {
         "shopSeriesMstId": 2982,
         "title": "天音月夜＆天音月咲ピックアップガチャ交換所",
         "description": "",
@@ -274,6 +287,45 @@
         "shopGroupId2": 0,
         "payType": 3,
         "payId": 231004,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 3979,
+        "title": "★5キオク交換メダル（みかづき荘）交換所",
+        "description": "",
+        "category": 3,
+        "startTime": "2025-06-26T12:00:00+09:00",
+        "endTime": "2025-08-01T11:59:59+09:00",
+        "shopGroupId1": 3979,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 201024,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 3980,
+        "title": "100日感謝祭 選べる★5&オーブ獲得イベント交換所",
+        "description": "",
+        "category": 3,
+        "startTime": "2025-06-26T12:00:00+09:00",
+        "endTime": "2025-08-01T11:59:59+09:00",
+        "shopGroupId1": 3980,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 201025,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 3981,
+        "title": "調整屋さんの事件簿３イベント交換所",
+        "description": "",
+        "category": 3,
+        "startTime": "2025-06-26T12:00:00+09:00",
+        "endTime": "2025-07-17T11:59:59+09:00",
+        "shopGroupId1": 3981,
+        "shopGroupId2": 3978,
+        "payType": 3,
+        "payId": 201022,
         "resourceName": ""
       },
       {

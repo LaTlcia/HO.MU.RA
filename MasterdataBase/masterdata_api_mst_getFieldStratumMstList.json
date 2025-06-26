@@ -1535,6 +1535,27 @@
         "stratumNum": 1,
         "isWholeFieldVisible": false,
         "soundMstId": 0
+      },
+      {
+        "fieldStratumMstId": 7030041,
+        "fieldStageMstId": 703004,
+        "stratumNum": 1,
+        "isWholeFieldVisible": false,
+        "soundMstId": 0
+      },
+      {
+        "fieldStratumMstId": 7040041,
+        "fieldStageMstId": 704004,
+        "stratumNum": 1,
+        "isWholeFieldVisible": false,
+        "soundMstId": 0
+      },
+      {
+        "fieldStratumMstId": 7050041,
+        "fieldStageMstId": 705004,
+        "stratumNum": 1,
+        "isWholeFieldVisible": false,
+        "soundMstId": 0
       }
     ]
   }

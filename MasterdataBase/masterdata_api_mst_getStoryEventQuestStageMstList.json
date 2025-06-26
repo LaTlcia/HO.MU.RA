@@ -832,6 +832,91 @@
         "questStageMstId": 915115,
         "eventItemNum": 1000,
         "filmNo": 0
+      },
+      {
+        "questStageMstId": 917101,
+        "eventItemNum": 100,
+        "filmNo": 0
+      },
+      {
+        "questStageMstId": 917102,
+        "eventItemNum": 100,
+        "filmNo": 0
+      },
+      {
+        "questStageMstId": 917103,
+        "eventItemNum": 100,
+        "filmNo": 0
+      },
+      {
+        "questStageMstId": 917104,
+        "eventItemNum": 100,
+        "filmNo": 0
+      },
+      {
+        "questStageMstId": 917105,
+        "eventItemNum": 200,
+        "filmNo": 0
+      },
+      {
+        "questStageMstId": 917106,
+        "eventItemNum": 200,
+        "filmNo": 0
+      },
+      {
+        "questStageMstId": 917107,
+        "eventItemNum": 200,
+        "filmNo": 0
+      },
+      {
+        "questStageMstId": 917108,
+        "eventItemNum": 300,
+        "filmNo": 0
+      },
+      {
+        "questStageMstId": 917109,
+        "eventItemNum": 400,
+        "filmNo": 0
+      },
+      {
+        "questStageMstId": 917110,
+        "eventItemNum": 500,
+        "filmNo": 0
+      },
+      {
+        "questStageMstId": 917111,
+        "eventItemNum": 600,
+        "filmNo": 0
+      },
+      {
+        "questStageMstId": 917112,
+        "eventItemNum": 700,
+        "filmNo": 0
+      },
+      {
+        "questStageMstId": 917113,
+        "eventItemNum": 800,
+        "filmNo": 0
+      },
+      {
+        "questStageMstId": 917114,
+        "eventItemNum": 900,
+        "filmNo": 0
+      },
+      {
+        "questStageMstId": 917115,
+        "eventItemNum": 1000,
+        "filmNo": 0
+      },
+      {
+        "questStageMstId": 920101,
+        "eventItemNum": 100,
+        "filmNo": 0
+      },
+      {
+        "questStageMstId": 921101,
+        "eventItemNum": 15000,
+        "filmNo": 0
       }
     ]
   }

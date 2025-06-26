@@ -6689,9 +6689,389 @@
         "battleConditionMstIdCsv": "821"
       },
       {
+        "battleConditionSetMstId": 1342,
+        "description": "行動タイプは必殺技 + 自身のバフ数が2以上",
+        "battleConditionMstIdCsv": "3,7,823"
+      },
+      {
+        "battleConditionSetMstId": 1343,
+        "description": "自身のバフ数が1以上",
+        "battleConditionMstIdCsv": "822"
+      },
+      {
+        "battleConditionSetMstId": 1344,
+        "description": "自身のバフ数が2以上",
+        "battleConditionMstIdCsv": "823"
+      },
+      {
+        "battleConditionSetMstId": 1345,
+        "description": "自身のバフ数が3以上",
+        "battleConditionMstIdCsv": "824"
+      },
+      {
         "battleConditionSetMstId": 1346,
         "description": "敵全体のデバフ数が3以上",
         "battleConditionMstIdCsv": "815"
+      },
+      {
+        "battleConditionSetMstId": 1347,
+        "description": "自身のバフ数が4以上",
+        "battleConditionMstIdCsv": "825"
+      },
+      {
+        "battleConditionSetMstId": 1348,
+        "description": "自身のバフ数が5以上",
+        "battleConditionMstIdCsv": "826"
+      },
+      {
+        "battleConditionSetMstId": 1349,
+        "description": "自分のキャラクターが「里見灯花」",
+        "battleConditionMstIdCsv": "827"
+      },
+      {
+        "battleConditionSetMstId": 1350,
+        "description": "自分のキャラクターが「柊ねむ」",
+        "battleConditionMstIdCsv": "828"
+      },
+      {
+        "battleConditionSetMstId": 1352,
+        "description": "自軍が追撃したとき",
+        "battleConditionMstIdCsv": "306,1"
+      },
+      {
+        "battleConditionSetMstId": 1353,
+        "description": "行動者が自分+ 対象が毒状態の時",
+        "battleConditionMstIdCsv": "3,330"
+      },
+      {
+        "battleConditionSetMstId": 1354,
+        "description": "行動者は敵+行動者の状態異常数は1以上",
+        "battleConditionMstIdCsv": "2,761"
+      },
+      {
+        "battleConditionSetMstId": 1355,
+        "description": "メインターゲットが毒+味方のターン+必殺技を発動したとき",
+        "battleConditionMstIdCsv": "831,3,7"
+      },
+      {
+        "battleConditionSetMstId": 1356,
+        "description": "敵全体が毒+味方のターン+必殺技を発動したとき",
+        "battleConditionMstIdCsv": "831,1,7"
+      },
+      {
+        "battleConditionSetMstId": 1358,
+        "description": "毒状態が付与されている敵に攻撃したとき＋自分は行動者＋行動タイプは必殺技",
+        "battleConditionMstIdCsv": "833,3,7"
+      },
+      {
+        "battleConditionSetMstId": 1359,
+        "description": "対象のHPが80%未満のとき",
+        "battleConditionMstIdCsv": "834"
+      },
+      {
+        "battleConditionSetMstId": 1360,
+        "description": "自身の防御力が5000のとき",
+        "battleConditionMstIdCsv": "835"
+      },
+      {
+        "battleConditionSetMstId": 1361,
+        "description": "自身の防御力が5001以上のとき",
+        "battleConditionMstIdCsv": "836"
+      },
+      {
+        "battleConditionSetMstId": 1362,
+        "description": "自身の防御力が4500～4999のとき",
+        "battleConditionMstIdCsv": "838,837"
+      },
+      {
+        "battleConditionSetMstId": 1363,
+        "description": "自身の防御力が4500未満のとき",
+        "battleConditionMstIdCsv": "839"
+      },
+      {
+        "battleConditionSetMstId": 1364,
+        "description": "バトル開始から自分の行動が10回以上",
+        "battleConditionMstIdCsv": "840"
+      },
+      {
+        "battleConditionSetMstId": 1365,
+        "description": "バトル開始から自分の行動が20回以上",
+        "battleConditionMstIdCsv": "841"
+      },
+      {
+        "battleConditionSetMstId": 1366,
+        "description": "バトル開始から自分の行動が30回以上",
+        "battleConditionMstIdCsv": "842"
+      },
+      {
+        "battleConditionSetMstId": 1367,
+        "description": "自軍にクリティカルダメージが発生",
+        "battleConditionMstIdCsv": "843"
+      },
+      {
+        "battleConditionSetMstId": 1368,
+        "description": "10ターンごと（1ターン目から） AND 連続行動の4回目",
+        "battleConditionMstIdCsv": "99,844"
+      },
+      {
+        "battleConditionSetMstId": 1369,
+        "description": "10ターンごと（2ターン目から） AND 連続行動の4回目",
+        "battleConditionMstIdCsv": "100,844"
+      },
+      {
+        "battleConditionSetMstId": 1370,
+        "description": "10ターンごと（3ターン目から） AND 連続行動の4回目",
+        "battleConditionMstIdCsv": "101,844"
+      },
+      {
+        "battleConditionSetMstId": 1371,
+        "description": "10ターンごと（4ターン目から） AND 連続行動の4回目",
+        "battleConditionMstIdCsv": "102,844"
+      },
+      {
+        "battleConditionSetMstId": 1372,
+        "description": "10ターンごと（5ターン目から） AND 連続行動の4回目",
+        "battleConditionMstIdCsv": "103,844"
+      },
+      {
+        "battleConditionSetMstId": 1373,
+        "description": "10ターンごと（6ターン目から） AND 連続行動の4回目",
+        "battleConditionMstIdCsv": "104,844"
+      },
+      {
+        "battleConditionSetMstId": 1374,
+        "description": "10ターンごと（7ターン目から） AND 連続行動の4回目",
+        "battleConditionMstIdCsv": "105,844"
+      },
+      {
+        "battleConditionSetMstId": 1375,
+        "description": "10ターンごと（8ターン目から） AND 連続行動の4回目",
+        "battleConditionMstIdCsv": "106,844"
+      },
+      {
+        "battleConditionSetMstId": 1376,
+        "description": "10ターンごと（9ターン目から） AND 連続行動の4回目",
+        "battleConditionMstIdCsv": "107,844"
+      },
+      {
+        "battleConditionSetMstId": 1377,
+        "description": "10ターンごと（10ターン目から） AND 連続行動の4回目",
+        "battleConditionMstIdCsv": "108,844"
+      },
+      {
+        "battleConditionSetMstId": 1378,
+        "description": "トークンが11のとき",
+        "battleConditionMstIdCsv": "613"
+      },
+      {
+        "battleConditionSetMstId": 1379,
+        "description": "トークンが12のとき",
+        "battleConditionMstIdCsv": "614"
+      },
+      {
+        "battleConditionSetMstId": 1380,
+        "description": "トークンが13のとき",
+        "battleConditionMstIdCsv": "615"
+      },
+      {
+        "battleConditionSetMstId": 1381,
+        "description": "トークンが14のとき",
+        "battleConditionMstIdCsv": "616"
+      },
+      {
+        "battleConditionSetMstId": 1382,
+        "description": "トークンが15のとき",
+        "battleConditionMstIdCsv": "617"
+      },
+      {
+        "battleConditionSetMstId": 1383,
+        "description": "トークンが16のとき",
+        "battleConditionMstIdCsv": "622"
+      },
+      {
+        "battleConditionSetMstId": 1384,
+        "description": "トークンが17のとき",
+        "battleConditionMstIdCsv": "623"
+      },
+      {
+        "battleConditionSetMstId": 1385,
+        "description": "トークンが18のとき",
+        "battleConditionMstIdCsv": "624"
+      },
+      {
+        "battleConditionSetMstId": 1386,
+        "description": "トークンが19のとき",
+        "battleConditionMstIdCsv": "625"
+      },
+      {
+        "battleConditionSetMstId": 1387,
+        "description": "トークンが20のとき",
+        "battleConditionMstIdCsv": "626"
+      },
+      {
+        "battleConditionSetMstId": 1388,
+        "description": "トークンが21のとき",
+        "battleConditionMstIdCsv": "657"
+      },
+      {
+        "battleConditionSetMstId": 1389,
+        "description": "トークンが22のとき",
+        "battleConditionMstIdCsv": "658"
+      },
+      {
+        "battleConditionSetMstId": 1390,
+        "description": "トークンが23のとき",
+        "battleConditionMstIdCsv": "659"
+      },
+      {
+        "battleConditionSetMstId": 1391,
+        "description": "トークンが24のとき",
+        "battleConditionMstIdCsv": "660"
+      },
+      {
+        "battleConditionSetMstId": 1392,
+        "description": "トークンが25のとき",
+        "battleConditionMstIdCsv": "661"
+      },
+      {
+        "battleConditionSetMstId": 1393,
+        "description": "トークンが26のとき",
+        "battleConditionMstIdCsv": "662"
+      },
+      {
+        "battleConditionSetMstId": 1394,
+        "description": "トークンが27のとき",
+        "battleConditionMstIdCsv": "663"
+      },
+      {
+        "battleConditionSetMstId": 1395,
+        "description": "トークンが28のとき",
+        "battleConditionMstIdCsv": "664"
+      },
+      {
+        "battleConditionSetMstId": 1396,
+        "description": "トークンが29のとき",
+        "battleConditionMstIdCsv": "665"
+      },
+      {
+        "battleConditionSetMstId": 1397,
+        "description": "トークンが30のとき",
+        "battleConditionMstIdCsv": "666"
+      },
+      {
+        "battleConditionSetMstId": 1398,
+        "description": "トークンが31のとき",
+        "battleConditionMstIdCsv": "667"
+      },
+      {
+        "battleConditionSetMstId": 1399,
+        "description": "トークンが32のとき",
+        "battleConditionMstIdCsv": "668"
+      },
+      {
+        "battleConditionSetMstId": 1400,
+        "description": "トークンが33のとき",
+        "battleConditionMstIdCsv": "669"
+      },
+      {
+        "battleConditionSetMstId": 1401,
+        "description": "トークンが34のとき",
+        "battleConditionMstIdCsv": "670"
+      },
+      {
+        "battleConditionSetMstId": 1402,
+        "description": "トークンが35のとき",
+        "battleConditionMstIdCsv": "671"
+      },
+      {
+        "battleConditionSetMstId": 1403,
+        "description": "トークンが36のとき",
+        "battleConditionMstIdCsv": "672"
+      },
+      {
+        "battleConditionSetMstId": 1404,
+        "description": "トークンが37のとき",
+        "battleConditionMstIdCsv": "673"
+      },
+      {
+        "battleConditionSetMstId": 1405,
+        "description": "トークンが38のとき",
+        "battleConditionMstIdCsv": "674"
+      },
+      {
+        "battleConditionSetMstId": 1406,
+        "description": "トークンが39のとき",
+        "battleConditionMstIdCsv": "675"
+      },
+      {
+        "battleConditionSetMstId": 1407,
+        "description": "トークンが40のとき",
+        "battleConditionMstIdCsv": "676"
+      },
+      {
+        "battleConditionSetMstId": 1408,
+        "description": "トークンが41のとき",
+        "battleConditionMstIdCsv": "677"
+      },
+      {
+        "battleConditionSetMstId": 1409,
+        "description": "トークンが42のとき",
+        "battleConditionMstIdCsv": "678"
+      },
+      {
+        "battleConditionSetMstId": 1410,
+        "description": "トークンが43のとき",
+        "battleConditionMstIdCsv": "679"
+      },
+      {
+        "battleConditionSetMstId": 1411,
+        "description": "トークンが44のとき",
+        "battleConditionMstIdCsv": "680"
+      },
+      {
+        "battleConditionSetMstId": 1412,
+        "description": "トークンが45のとき",
+        "battleConditionMstIdCsv": "681"
+      },
+      {
+        "battleConditionSetMstId": 1413,
+        "description": "トークンが46のとき",
+        "battleConditionMstIdCsv": "682"
+      },
+      {
+        "battleConditionSetMstId": 1414,
+        "description": "トークンが47のとき",
+        "battleConditionMstIdCsv": "683"
+      },
+      {
+        "battleConditionSetMstId": 1415,
+        "description": "トークンが48のとき",
+        "battleConditionMstIdCsv": "684"
+      },
+      {
+        "battleConditionSetMstId": 1416,
+        "description": "トークンが49のとき",
+        "battleConditionMstIdCsv": "685"
+      },
+      {
+        "battleConditionSetMstId": 1417,
+        "description": "トークンが50のとき",
+        "battleConditionMstIdCsv": "686"
+      },
+      {
+        "battleConditionSetMstId": 1471,
+        "description": "自分のターン、2ターンごとに（ターン2から）",
+        "battleConditionMstIdCsv": "3,56"
+      },
+      {
+        "battleConditionSetMstId": 1474,
+        "description": "毒状態の敵が1体以上存在する場合+自分は行動者",
+        "battleConditionMstIdCsv": "507,3"
+      },
+      {
+        "battleConditionSetMstId": 1476,
+        "description": "自分が15ターンごとに（ターン15から） And 行動者は自分",
+        "battleConditionMstIdCsv": "612,3"
       }
     ]
   }

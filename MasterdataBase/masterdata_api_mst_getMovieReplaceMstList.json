@@ -386,6 +386,22 @@
         "bgmOffPath": "Movie/3DMovie/mv6017_bgmoff",
         "englishPath": "Movie/3DMovie/mv6017_en",
         "bgmOffEnglishPath": "Movie/3DMovie/mv6017_en_bgmoff"
+      },
+      {
+        "movieReplaceMstId": 49,
+        "path": "Movie/3DMovie/mv4025",
+        "isStreamable": true,
+        "bgmOffPath": "Movie/3DMovie/mv4025_bgmoff",
+        "englishPath": "Movie/3DMovie/mv4025_en",
+        "bgmOffEnglishPath": "Movie/3DMovie/mv4025_en_bgmoff"
+      },
+      {
+        "movieReplaceMstId": 50,
+        "path": "Movie/3DMovie/mv6011",
+        "isStreamable": true,
+        "bgmOffPath": "Movie/3DMovie/mv6011_bgmoff",
+        "englishPath": "Movie/3DMovie/mv6011_en",
+        "bgmOffEnglishPath": "Movie/3DMovie/mv6011_en_bgmoff"
       }
     ]
   }

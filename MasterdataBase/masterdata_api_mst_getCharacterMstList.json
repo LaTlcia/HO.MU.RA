@@ -123,6 +123,20 @@
         "colorCode": "#4A8DE4"
       },
       {
+        "characterMstId": 1019,
+        "name": "里見灯花",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1019",
+        "colorCode": "#E73D24"
+      },
+      {
+        "characterMstId": 1020,
+        "name": "柊ねむ",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1020",
+        "colorCode": "#EAB088"
+      },
+      {
         "characterMstId": 1025,
         "name": "天音月夜",
         "awakeItemMstId": 0,

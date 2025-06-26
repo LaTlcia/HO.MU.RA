@@ -874,6 +874,86 @@
         "objectReceiveType": 6,
         "objectId": 202001,
         "num": 1
+      },
+      {
+        "loginBonusRewardMstId": 14001,
+        "loginBonusMstId": 14,
+        "dayCount": 1,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 200
+      },
+      {
+        "loginBonusRewardMstId": 14002,
+        "loginBonusMstId": 14,
+        "dayCount": 2,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 200
+      },
+      {
+        "loginBonusRewardMstId": 14003,
+        "loginBonusMstId": 14,
+        "dayCount": 3,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 200
+      },
+      {
+        "loginBonusRewardMstId": 14004,
+        "loginBonusMstId": 14,
+        "dayCount": 4,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 200
+      },
+      {
+        "loginBonusRewardMstId": 14005,
+        "loginBonusMstId": 14,
+        "dayCount": 5,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 200
+      },
+      {
+        "loginBonusRewardMstId": 14006,
+        "loginBonusMstId": 14,
+        "dayCount": 6,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 200
+      },
+      {
+        "loginBonusRewardMstId": 14007,
+        "loginBonusMstId": 14,
+        "dayCount": 7,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 200
+      },
+      {
+        "loginBonusRewardMstId": 14008,
+        "loginBonusMstId": 14,
+        "dayCount": 8,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 200
+      },
+      {
+        "loginBonusRewardMstId": 14009,
+        "loginBonusMstId": 14,
+        "dayCount": 9,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 200
+      },
+      {
+        "loginBonusRewardMstId": 14010,
+        "loginBonusMstId": 14,
+        "dayCount": 10,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 200
       }
     ]
   }

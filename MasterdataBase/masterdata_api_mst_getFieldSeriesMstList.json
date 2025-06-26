@@ -278,6 +278,42 @@
         "endTime": "2050-01-02T10:00:00+09:00",
         "sortOrder": 1,
         "advMstId": 0
+      },
+      {
+        "fieldSeriesMstId": 70300,
+        "name": "ハコの魔女",
+        "questMapMstId": 6,
+        "questGroupMstId": 70300,
+        "styleMstId": 0,
+        "assetbundleName": "60300_01",
+        "startTime": "2025-06-26T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 0
+      },
+      {
+        "fieldSeriesMstId": 70400,
+        "name": "落書きの魔女",
+        "questMapMstId": 6,
+        "questGroupMstId": 70400,
+        "styleMstId": 0,
+        "assetbundleName": "60400_01",
+        "startTime": "2025-06-26T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 0
+      },
+      {
+        "fieldSeriesMstId": 70500,
+        "name": "銀の魔女",
+        "questMapMstId": 6,
+        "questGroupMstId": 70500,
+        "styleMstId": 0,
+        "assetbundleName": "60500_01",
+        "startTime": "2025-06-26T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 0
       }
     ]
   }

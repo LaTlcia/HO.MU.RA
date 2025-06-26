@@ -758,6 +758,42 @@
         "firstClearRewardGroupId": 0,
         "stageAssetbundleName": "",
         "backgroundCardMstId": 0
+      },
+      {
+        "fieldStageMstId": 703004,
+        "fieldSeriesMstId": 70300,
+        "name": "ハコの魔女",
+        "subTitle": "???",
+        "difficulty": 4,
+        "prevFieldStageMstId": 702004,
+        "prevFieldStageMstId2": 0,
+        "firstClearRewardGroupId": 0,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 0
+      },
+      {
+        "fieldStageMstId": 704004,
+        "fieldSeriesMstId": 70400,
+        "name": "落書きの魔女",
+        "subTitle": "???",
+        "difficulty": 4,
+        "prevFieldStageMstId": 703004,
+        "prevFieldStageMstId2": 0,
+        "firstClearRewardGroupId": 0,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 0
+      },
+      {
+        "fieldStageMstId": 705004,
+        "fieldSeriesMstId": 70500,
+        "name": "銀の魔女",
+        "subTitle": "???",
+        "difficulty": 4,
+        "prevFieldStageMstId": 704004,
+        "prevFieldStageMstId2": 0,
+        "firstClearRewardGroupId": 0,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 0
       }
     ]
   }

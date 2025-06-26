@@ -640,6 +640,78 @@
         "limitBreakCount5Rate": 250
       },
       {
+        "storyEventBonusRateMstId": 1500,
+        "storyEventMstId": 15,
+        "bonusType": 1,
+        "bonusMstId": 10190101,
+        "limitBreakCount0Rate": 1000,
+        "limitBreakCount1Rate": 1400,
+        "limitBreakCount2Rate": 1800,
+        "limitBreakCount3Rate": 2200,
+        "limitBreakCount4Rate": 2600,
+        "limitBreakCount5Rate": 3000
+      },
+      {
+        "storyEventBonusRateMstId": 1501,
+        "storyEventMstId": 15,
+        "bonusType": 1,
+        "bonusMstId": 10200101,
+        "limitBreakCount0Rate": 1000,
+        "limitBreakCount1Rate": 1400,
+        "limitBreakCount2Rate": 1800,
+        "limitBreakCount3Rate": 2200,
+        "limitBreakCount4Rate": 2600,
+        "limitBreakCount5Rate": 3000
+      },
+      {
+        "storyEventBonusRateMstId": 1502,
+        "storyEventMstId": 15,
+        "bonusType": 1,
+        "bonusMstId": 10180101,
+        "limitBreakCount0Rate": 200,
+        "limitBreakCount1Rate": 250,
+        "limitBreakCount2Rate": 300,
+        "limitBreakCount3Rate": 350,
+        "limitBreakCount4Rate": 400,
+        "limitBreakCount5Rate": 500
+      },
+      {
+        "storyEventBonusRateMstId": 1503,
+        "storyEventMstId": 15,
+        "bonusType": 1,
+        "bonusMstId": 11260101,
+        "limitBreakCount0Rate": 200,
+        "limitBreakCount1Rate": 250,
+        "limitBreakCount2Rate": 300,
+        "limitBreakCount3Rate": 350,
+        "limitBreakCount4Rate": 400,
+        "limitBreakCount5Rate": 500
+      },
+      {
+        "storyEventBonusRateMstId": 1504,
+        "storyEventMstId": 15,
+        "bonusType": 2,
+        "bonusMstId": 4200017,
+        "limitBreakCount0Rate": 100,
+        "limitBreakCount1Rate": 130,
+        "limitBreakCount2Rate": 160,
+        "limitBreakCount3Rate": 190,
+        "limitBreakCount4Rate": 220,
+        "limitBreakCount5Rate": 250
+      },
+      {
+        "storyEventBonusRateMstId": 1505,
+        "storyEventMstId": 15,
+        "bonusType": 2,
+        "bonusMstId": 4200018,
+        "limitBreakCount0Rate": 100,
+        "limitBreakCount1Rate": 130,
+        "limitBreakCount2Rate": 160,
+        "limitBreakCount3Rate": 190,
+        "limitBreakCount4Rate": 220,
+        "limitBreakCount5Rate": 250
+      },
+      {
         "storyEventBonusRateMstId": 1000000,
         "storyEventMstId": 10000,
         "bonusType": 1,

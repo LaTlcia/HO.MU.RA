@@ -3604,6 +3604,24 @@
         "startTime": "2020-01-02T10:00:00+09:00"
       },
       {
+        "fieldPointMstId": 44001,
+        "fieldStratumMstId": 7030041,
+        "prevFieldPointMstId": 0,
+        "name": "ハコの魔女",
+        "chapterNum": 1,
+        "pointType": 3,
+        "pointValue1": 105401,
+        "pointValue2": 0,
+        "displayType": 0,
+        "isHidden": false,
+        "firstClearRewardGroupId": 703000,
+        "firstClearOtherCollectionRewardGroupId": 0,
+        "needViewAdvMstIds": "",
+        "coordinateId": 0,
+        "assetbundleName": "",
+        "startTime": "2025-06-26T12:00:00+09:00"
+      },
+      {
         "fieldPointMstId": 51001,
         "fieldStratumMstId": 6030011,
         "prevFieldPointMstId": 0,
@@ -4504,6 +4522,24 @@
         "startTime": "2020-01-02T10:00:00+09:00"
       },
       {
+        "fieldPointMstId": 54001,
+        "fieldStratumMstId": 7040041,
+        "prevFieldPointMstId": 0,
+        "name": "落書きの魔女",
+        "chapterNum": 1,
+        "pointType": 3,
+        "pointValue1": 106401,
+        "pointValue2": 0,
+        "displayType": 0,
+        "isHidden": false,
+        "firstClearRewardGroupId": 704000,
+        "firstClearOtherCollectionRewardGroupId": 0,
+        "needViewAdvMstIds": "",
+        "coordinateId": 0,
+        "assetbundleName": "",
+        "startTime": "2025-06-26T12:00:00+09:00"
+      },
+      {
         "fieldPointMstId": 61001,
         "fieldStratumMstId": 6040011,
         "prevFieldPointMstId": 0,
@@ -5402,6 +5438,24 @@
         "coordinateId": 318,
         "assetbundleName": "",
         "startTime": "2020-01-02T10:00:00+09:00"
+      },
+      {
+        "fieldPointMstId": 64001,
+        "fieldStratumMstId": 7050041,
+        "prevFieldPointMstId": 0,
+        "name": "銀の魔女",
+        "chapterNum": 1,
+        "pointType": 3,
+        "pointValue1": 107401,
+        "pointValue2": 0,
+        "displayType": 0,
+        "isHidden": false,
+        "firstClearRewardGroupId": 705000,
+        "firstClearOtherCollectionRewardGroupId": 0,
+        "needViewAdvMstIds": "",
+        "coordinateId": 0,
+        "assetbundleName": "",
+        "startTime": "2025-06-26T12:00:00+09:00"
       },
       {
         "fieldPointMstId": 71001,

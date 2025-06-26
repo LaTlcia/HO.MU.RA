@@ -6562,6 +6562,174 @@
         "compareContent": 14,
         "compareOperator": 1,
         "compareValue": "1026"
+      },
+      {
+        "battleConditionMstId": 822,
+        "description": "自身のバフ数が1以上",
+        "compareTarget": 1,
+        "compareContent": 24,
+        "compareOperator": 4,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 823,
+        "description": "自身のバフ数が2以上",
+        "compareTarget": 1,
+        "compareContent": 24,
+        "compareOperator": 4,
+        "compareValue": "2"
+      },
+      {
+        "battleConditionMstId": 824,
+        "description": "自身のバフ数が3以上",
+        "compareTarget": 1,
+        "compareContent": 24,
+        "compareOperator": 4,
+        "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 825,
+        "description": "自身のバフ数が4以上",
+        "compareTarget": 1,
+        "compareContent": 24,
+        "compareOperator": 4,
+        "compareValue": "4"
+      },
+      {
+        "battleConditionMstId": 826,
+        "description": "自身のバフ数が5以上",
+        "compareTarget": 1,
+        "compareContent": 24,
+        "compareOperator": 4,
+        "compareValue": "5"
+      },
+      {
+        "battleConditionMstId": 827,
+        "description": "自分のキャラクターが「里見灯花」",
+        "compareTarget": 1,
+        "compareContent": 14,
+        "compareOperator": 1,
+        "compareValue": "1019"
+      },
+      {
+        "battleConditionMstId": 828,
+        "description": "自分のキャラクターが「柊ねむ」",
+        "compareTarget": 1,
+        "compareContent": 14,
+        "compareOperator": 1,
+        "compareValue": "1020"
+      },
+      {
+        "battleConditionMstId": 830,
+        "description": "対象が毒状態のとき",
+        "compareTarget": 3,
+        "compareContent": 12,
+        "compareOperator": 7,
+        "compareValue": "POISON"
+      },
+      {
+        "battleConditionMstId": 831,
+        "description": "敵全体に対して対象が毒状態のとき",
+        "compareTarget": 6,
+        "compareContent": 309,
+        "compareOperator": 4,
+        "compareValue": "POISON,1"
+      },
+      {
+        "battleConditionMstId": 833,
+        "description": "毒状態が付与されている敵に攻撃したとき",
+        "compareTarget": 6,
+        "compareContent": 305,
+        "compareOperator": 4,
+        "compareValue": "POISON,1"
+      },
+      {
+        "battleConditionMstId": 834,
+        "description": "対象のHPが80%未満のとき",
+        "compareTarget": 8,
+        "compareContent": 2,
+        "compareOperator": 5,
+        "compareValue": "80"
+      },
+      {
+        "battleConditionMstId": 835,
+        "description": "自身の防御力が5000のとき",
+        "compareTarget": 1,
+        "compareContent": 4,
+        "compareOperator": 1,
+        "compareValue": "5000"
+      },
+      {
+        "battleConditionMstId": 836,
+        "description": "自身の防御力が5001以上のとき",
+        "compareTarget": 1,
+        "compareContent": 4,
+        "compareOperator": 4,
+        "compareValue": "5001"
+      },
+      {
+        "battleConditionMstId": 837,
+        "description": "自身の防御力が5000未満のとき",
+        "compareTarget": 1,
+        "compareContent": 4,
+        "compareOperator": 5,
+        "compareValue": "5000"
+      },
+      {
+        "battleConditionMstId": 838,
+        "description": "自身の防御力が4500以上のとき",
+        "compareTarget": 1,
+        "compareContent": 4,
+        "compareOperator": 4,
+        "compareValue": "4500"
+      },
+      {
+        "battleConditionMstId": 839,
+        "description": "自身の防御力が4500未満のとき",
+        "compareTarget": 1,
+        "compareContent": 4,
+        "compareOperator": 5,
+        "compareValue": "4500"
+      },
+      {
+        "battleConditionMstId": 840,
+        "description": "バトル開始から自分の行動が10回以上",
+        "compareTarget": 1,
+        "compareContent": 7,
+        "compareOperator": 4,
+        "compareValue": "10"
+      },
+      {
+        "battleConditionMstId": 841,
+        "description": "バトル開始から自分の行動が20回以上",
+        "compareTarget": 1,
+        "compareContent": 7,
+        "compareOperator": 4,
+        "compareValue": "20"
+      },
+      {
+        "battleConditionMstId": 842,
+        "description": "バトル開始から自分の行動が30回以上",
+        "compareTarget": 1,
+        "compareContent": 7,
+        "compareOperator": 4,
+        "compareValue": "30"
+      },
+      {
+        "battleConditionMstId": 843,
+        "description": "自軍にクリティカルダメージが発生",
+        "compareTarget": 5,
+        "compareContent": 303,
+        "compareOperator": 4,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 844,
+        "description": "連続行動の4回目",
+        "compareTarget": 7,
+        "compareContent": 402,
+        "compareOperator": 1,
+        "compareValue": "4"
       }
     ]
   }

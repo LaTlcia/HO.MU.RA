@@ -900,6 +900,54 @@
         "num": 1
       },
       {
+        "questRewardMstId": 703000,
+        "rewardGroupId": 703000,
+        "sortOrder": 1,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 30
+      },
+      {
+        "questRewardMstId": 703001,
+        "rewardGroupId": 703000,
+        "sortOrder": 2,
+        "objectReceiveType": 15,
+        "objectId": 20104005,
+        "num": 1
+      },
+      {
+        "questRewardMstId": 704000,
+        "rewardGroupId": 704000,
+        "sortOrder": 1,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 30
+      },
+      {
+        "questRewardMstId": 704001,
+        "rewardGroupId": 704000,
+        "sortOrder": 2,
+        "objectReceiveType": 15,
+        "objectId": 20104006,
+        "num": 1
+      },
+      {
+        "questRewardMstId": 705000,
+        "rewardGroupId": 705000,
+        "sortOrder": 1,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 30
+      },
+      {
+        "questRewardMstId": 705001,
+        "rewardGroupId": 705000,
+        "sortOrder": 2,
+        "objectReceiveType": 15,
+        "objectId": 20104007,
+        "num": 1
+      },
+      {
         "questRewardMstId": 1010101,
         "rewardGroupId": 10101,
         "sortOrder": 1,

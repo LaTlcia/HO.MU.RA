@@ -648,11 +648,74 @@
         "bannerLabelMstId": 0
       },
       {
+        "bannerMstId": 98,
+        "name": "",
+        "imageName": "banner_00092",
+        "destination": "StoryEvent",
+        "bannerLabelMstId": 2
+      },
+      {
+        "bannerMstId": 99,
+        "name": "",
+        "imageName": "banner_00091",
+        "destination": "Gacha",
+        "bannerLabelMstId": 8
+      },
+      {
+        "bannerMstId": 100,
+        "name": "",
+        "imageName": "banner_00093",
+        "destination": "MainQuest",
+        "bannerLabelMstId": 4
+      },
+      {
         "bannerMstId": 101,
         "name": "",
         "imageName": "banner_00095",
         "destination": "",
         "bannerLabelMstId": 0
+      },
+      {
+        "bannerMstId": 102,
+        "name": "",
+        "imageName": "banner_00099",
+        "destination": "Gacha",
+        "bannerLabelMstId": 14
+      },
+      {
+        "bannerMstId": 103,
+        "name": "",
+        "imageName": "banner_00091",
+        "destination": "Gacha",
+        "bannerLabelMstId": 14
+      },
+      {
+        "bannerMstId": 104,
+        "name": "",
+        "imageName": "banner_00098",
+        "destination": "StoryEvent",
+        "bannerLabelMstId": 2
+      },
+      {
+        "bannerMstId": 105,
+        "name": "",
+        "imageName": "banner_00097",
+        "destination": "StoryEvent",
+        "bannerLabelMstId": 2
+      },
+      {
+        "bannerMstId": 109,
+        "name": "",
+        "imageName": "banner_00096",
+        "destination": "",
+        "bannerLabelMstId": 0
+      },
+      {
+        "bannerMstId": 110,
+        "name": "",
+        "imageName": "banner_00094",
+        "destination": "",
+        "bannerLabelMstId": 5
       }
     ]
   }

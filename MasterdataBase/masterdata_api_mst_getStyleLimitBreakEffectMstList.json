@@ -836,6 +836,22 @@
         "value2": 0
       },
       {
+        "styleLimitBreakEffectMstId": 5037,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8504001,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5038,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8504101,
+        "value2": 0
+      },
+      {
         "styleLimitBreakEffectMstId": 5041,
         "name": "",
         "targetType": 3,

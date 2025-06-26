@@ -65,6 +65,69 @@
         "sortOrder": 3,
         "conditionType": 1,
         "conditionCount": 5
+      },
+      {
+        "questMissionMstId": 10540101,
+        "questMissionGroupId": 105401,
+        "sortOrder": 1,
+        "conditionType": 3,
+        "conditionCount": 1000000
+      },
+      {
+        "questMissionMstId": 10540102,
+        "questMissionGroupId": 105401,
+        "sortOrder": 2,
+        "conditionType": 2,
+        "conditionCount": 50
+      },
+      {
+        "questMissionMstId": 10540103,
+        "questMissionGroupId": 105401,
+        "sortOrder": 3,
+        "conditionType": 1,
+        "conditionCount": 3
+      },
+      {
+        "questMissionMstId": 10640101,
+        "questMissionGroupId": 106401,
+        "sortOrder": 1,
+        "conditionType": 3,
+        "conditionCount": 250000
+      },
+      {
+        "questMissionMstId": 10640102,
+        "questMissionGroupId": 106401,
+        "sortOrder": 2,
+        "conditionType": 2,
+        "conditionCount": 90
+      },
+      {
+        "questMissionMstId": 10640103,
+        "questMissionGroupId": 106401,
+        "sortOrder": 3,
+        "conditionType": 1,
+        "conditionCount": 4
+      },
+      {
+        "questMissionMstId": 10740101,
+        "questMissionGroupId": 107401,
+        "sortOrder": 1,
+        "conditionType": 3,
+        "conditionCount": 800000
+      },
+      {
+        "questMissionMstId": 10740102,
+        "questMissionGroupId": 107401,
+        "sortOrder": 2,
+        "conditionType": 2,
+        "conditionCount": 30
+      },
+      {
+        "questMissionMstId": 10740103,
+        "questMissionGroupId": 107401,
+        "sortOrder": 3,
+        "conditionType": 1,
+        "conditionCount": 3
       }
     ]
   }

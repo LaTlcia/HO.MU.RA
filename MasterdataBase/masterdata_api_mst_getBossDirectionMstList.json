@@ -663,14 +663,14 @@
       },
       {
         "bossDirectionMstId": 3019,
-        "resourceName": "60800/bossappeardirectiondata2",
+        "resourceName": "60800/bossappeardirectiondata1",
         "nextSceneType": 2,
         "objectId": 110318,
         "nextBossDirectionMstId": 3020
       },
       {
         "bossDirectionMstId": 3020,
-        "resourceName": "60800/bossbattleenddirectiondata2",
+        "resourceName": "60800/bossbattleenddirectiondata1",
         "nextSceneType": 1,
         "objectId": 40011001,
         "nextBossDirectionMstId": 0
