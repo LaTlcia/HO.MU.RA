@@ -60,20 +60,6 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5019,
-        "prevMissionTitleMstId": 0,
-        "title": "Chaosモード追加記念ミッション",
-        "priority": 6,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5020,
-        "prevMissionTitleMstId": 0,
-        "title": "Memories of you 後編イベントミッション",
-        "priority": 21,
-        "featuredRewardResourceName": ""
-      },
-      {
         "missionTitleMstId": 5021,
         "prevMissionTitleMstId": 0,
         "title": "重なる音、キミと繋ぐ手イベントミッション",

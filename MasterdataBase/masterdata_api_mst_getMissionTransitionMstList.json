@@ -746,30 +746,6 @@
         "missionMstId": 3061050,
         "transitionSceneName": "PvP",
         "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5019001,
-        "missionMstId": 5019001,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5019002,
-        "missionMstId": 5019002,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5019003,
-        "missionMstId": 5019003,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5019004,
-        "missionMstId": 5019004,
-        "transitionSceneName": "Gacha",
-        "transitionSceneParam": 0
       }
     ]
   }
