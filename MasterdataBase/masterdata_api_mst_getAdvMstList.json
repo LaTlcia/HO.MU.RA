@@ -2646,7 +2646,7 @@
       {
         "advMstId": 16200015,
         "advType": 2,
-        "has3dMovie": false,
+        "has3dMovie": true,
         "advTitleMstId": 87,
         "name": "Episode6",
         "subName": "",
@@ -2661,7 +2661,7 @@
       {
         "advMstId": 16200016,
         "advType": 2,
-        "has3dMovie": false,
+        "has3dMovie": true,
         "advTitleMstId": 87,
         "name": "Episode6",
         "subName": "",
@@ -5359,6 +5359,366 @@
         "releaseTime": "2024-01-01T00:00:00+09:00"
       },
       {
+        "advMstId": 20001801,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode1",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_1",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001802,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode2",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_2",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001803,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode3",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_3",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001804,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode4",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_4",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001805,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode5",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_5",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001806,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode6",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_6",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001807,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode7",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_7",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001808,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode8",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_8",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001809,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode9",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_9",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001810,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode10",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_10",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001811,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode11",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_11",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001812,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode12",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_12",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001813,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode13",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_13",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001814,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode14",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_14",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001815,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode15",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_15",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001816,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode16",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_16",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001817,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode17",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_17",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001818,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode18",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_18",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001819,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode19",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_19",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001820,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode20",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_20",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001821,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode21",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_21",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001822,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode22",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_22",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001823,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode23",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_23",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 20001824,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 116,
+        "name": "Episode24",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "2_Sub/sub_swimwear2025_24",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
         "advMstId": 30100100,
         "advType": 2,
         "has3dMovie": false,
@@ -7392,6 +7752,126 @@
         "subName": "Episode7",
         "advAssetbundleName": "",
         "advResourceName": "3_Character/character_nemu_7",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30102100,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 97,
+        "name": "Episode0",
+        "subName": "Episode0",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_arina_0",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30102101,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 97,
+        "name": "Episode1",
+        "subName": "Episode1",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_arina_1",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30102102,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 97,
+        "name": "Episode2",
+        "subName": "Episode2",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_arina_2",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30102103,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 97,
+        "name": "Episode3",
+        "subName": "Episode3",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_arina_3",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30102104,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 97,
+        "name": "Episode4",
+        "subName": "Episode4",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_arina_4",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30102105,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 97,
+        "name": "Episode5",
+        "subName": "Episode5",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_arina_5",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30102106,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 97,
+        "name": "Episode6",
+        "subName": "Episode6",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_arina_6",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": true,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 30102107,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 97,
+        "name": "Episode7",
+        "subName": "Episode7",
+        "advAssetbundleName": "",
+        "advResourceName": "3_Character/character_arina_7",
         "unlockType": 1,
         "unlockId": 0,
         "gainGemFlg": true,
@@ -10624,6 +11104,36 @@
         "releaseTime": "2024-01-01T00:00:00+09:00"
       },
       {
+        "advMstId": 40012401,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 122,
+        "name": "Episode1",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "4_Portrait/portrait_swimwear2025_mami_1",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 40012402,
+        "advType": 2,
+        "has3dMovie": false,
+        "advTitleMstId": 122,
+        "name": "Episode2",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "4_Portrait/portrait_swimwear2025_mami_2",
+        "unlockType": 1,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
         "advMstId": 40013101,
         "advType": 2,
         "has3dMovie": false,
@@ -10696,7 +11206,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000010,
@@ -10711,7 +11221,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000011,
@@ -10726,7 +11236,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000012,
@@ -10741,7 +11251,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000013,
@@ -10756,7 +11266,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000014,
@@ -10771,7 +11281,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000015,
@@ -10786,7 +11296,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000019,
@@ -10801,7 +11311,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000020,
@@ -10816,7 +11326,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000021,
@@ -10831,7 +11341,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000022,
@@ -10846,7 +11356,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000024,
@@ -10861,7 +11371,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000031,
@@ -10876,7 +11386,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000032,
@@ -10891,7 +11401,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000033,
@@ -10906,7 +11416,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000034,
@@ -10921,7 +11431,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000035,
@@ -10936,7 +11446,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000036,
@@ -10951,7 +11461,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000037,
@@ -10966,7 +11476,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000038,
@@ -10981,7 +11491,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000040,
@@ -10996,7 +11506,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000041,
@@ -11011,7 +11521,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000042,
@@ -11026,7 +11536,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000043,
@@ -11041,7 +11551,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000044,
@@ -11056,7 +11566,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000045,
@@ -11071,7 +11581,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000046,
@@ -11086,7 +11596,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000047,
@@ -11101,7 +11611,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000048,
@@ -11116,7 +11626,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000049,
@@ -11131,7 +11641,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000050,
@@ -11146,7 +11656,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000051,
@@ -11161,7 +11671,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000052,
@@ -11176,7 +11686,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000053,
@@ -11191,7 +11701,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000054,
@@ -11206,7 +11716,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000055,
@@ -11221,7 +11731,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000056,
@@ -11236,7 +11746,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000059,
@@ -11251,7 +11761,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000060,
@@ -11266,7 +11776,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000061,
@@ -11281,7 +11791,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000062,
@@ -11296,7 +11806,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000063,
@@ -11311,7 +11821,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000064,
@@ -11326,7 +11836,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000065,
@@ -11341,7 +11851,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000066,
@@ -11356,7 +11866,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000067,
@@ -11371,7 +11881,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000068,
@@ -11386,7 +11896,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000069,
@@ -11401,7 +11911,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000070,
@@ -11416,7 +11926,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000071,
@@ -11431,7 +11941,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000072,
@@ -11446,7 +11956,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000073,
@@ -11461,7 +11971,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000074,
@@ -11476,7 +11986,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000075,
@@ -11491,7 +12001,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000076,
@@ -11506,7 +12016,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000077,
@@ -11521,7 +12031,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000078,
@@ -11536,7 +12046,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000079,
@@ -11551,7 +12061,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000080,
@@ -11566,7 +12076,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000084,
@@ -11581,7 +12091,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000085,
@@ -11596,7 +12106,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000086,
@@ -11611,7 +12121,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000087,
@@ -11626,7 +12136,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000088,
@@ -11641,7 +12151,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000089,
@@ -11656,7 +12166,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000090,
@@ -11671,7 +12181,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000091,
@@ -11686,7 +12196,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000092,
@@ -11701,7 +12211,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000093,
@@ -11716,7 +12226,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000094,
@@ -11731,7 +12241,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000095,
@@ -11746,7 +12256,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000096,
@@ -11761,7 +12271,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000097,
@@ -11776,7 +12286,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000098,
@@ -11791,7 +12301,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000099,
@@ -11806,7 +12316,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000103,
@@ -11821,7 +12331,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000104,
@@ -11836,7 +12346,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000108,
@@ -11851,7 +12361,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000109,
@@ -11866,7 +12376,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000114,
@@ -11881,7 +12391,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000115,
@@ -11896,7 +12406,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000116,
@@ -11911,7 +12421,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000117,
@@ -11926,7 +12436,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000119,
@@ -11941,7 +12451,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000120,
@@ -11956,7 +12466,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000121,
@@ -11971,7 +12481,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000123,
@@ -11986,7 +12496,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000124,
@@ -12001,7 +12511,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000126,
@@ -12016,7 +12526,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000127,
@@ -12031,7 +12541,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000129,
@@ -12046,7 +12556,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000130,
@@ -12061,7 +12571,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000131,
@@ -12076,7 +12586,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000133,
@@ -12091,7 +12601,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000134,
@@ -12106,7 +12616,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000136,
@@ -12121,7 +12631,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000137,
@@ -12136,7 +12646,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000138,
@@ -12151,7 +12661,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000140,
@@ -12166,7 +12676,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000141,
@@ -12181,7 +12691,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000143,
@@ -12196,7 +12706,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000144,
@@ -12211,7 +12721,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000145,
@@ -12226,7 +12736,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000147,
@@ -12241,7 +12751,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000148,
@@ -12256,7 +12766,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000149,
@@ -12271,7 +12781,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000151,
@@ -12286,7 +12796,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000152,
@@ -12301,7 +12811,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000153,
@@ -12316,7 +12826,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000155,
@@ -12331,7 +12841,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000156,
@@ -12346,7 +12856,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000157,
@@ -12361,7 +12871,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000159,
@@ -12376,7 +12886,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000160,
@@ -12391,7 +12901,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000161,
@@ -12406,7 +12916,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000163,
@@ -12421,7 +12931,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000164,
@@ -12436,7 +12946,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000165,
@@ -12451,7 +12961,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000170,
@@ -12556,7 +13066,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000178,
@@ -12571,7 +13081,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000179,
@@ -12586,7 +13096,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000180,
@@ -12601,7 +13111,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000181,
@@ -12616,7 +13126,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000182,
@@ -12631,7 +13141,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000183,
@@ -12646,7 +13156,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000184,
@@ -12661,7 +13171,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000185,
@@ -12676,7 +13186,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000186,
@@ -12691,7 +13201,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000187,
@@ -12706,7 +13216,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000190,
@@ -12721,7 +13231,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000191,
@@ -12736,7 +13246,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000192,
@@ -12751,7 +13261,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000193,
@@ -12766,7 +13276,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000194,
@@ -12781,7 +13291,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000195,
@@ -12811,7 +13321,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000197,
@@ -12826,7 +13336,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000198,
@@ -12841,7 +13351,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000199,
@@ -12856,7 +13366,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000200,
@@ -12871,7 +13381,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000201,
@@ -12886,7 +13396,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000202,
@@ -12901,7 +13411,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000203,
@@ -12916,7 +13426,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000204,
@@ -12931,7 +13441,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000205,
@@ -12946,7 +13456,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000206,
@@ -12961,7 +13471,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000207,
@@ -12976,7 +13486,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000208,
@@ -12991,7 +13501,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000209,
@@ -13006,7 +13516,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000210,
@@ -13021,7 +13531,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000211,
@@ -13036,7 +13546,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000212,
@@ -13051,7 +13561,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000213,
@@ -13066,7 +13576,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000214,
@@ -13081,7 +13591,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000215,
@@ -13096,7 +13606,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000216,
@@ -13111,7 +13621,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000217,
@@ -13126,7 +13636,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000218,
@@ -13141,7 +13651,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000219,
@@ -13156,7 +13666,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000220,
@@ -13171,7 +13681,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000221,
@@ -13186,7 +13696,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000222,
@@ -13201,7 +13711,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000223,
@@ -13216,7 +13726,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000227,
@@ -13231,7 +13741,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000228,
@@ -13246,7 +13756,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000229,
@@ -13261,7 +13771,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000231,
@@ -13276,7 +13786,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000232,
@@ -13291,7 +13801,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000233,
@@ -13306,7 +13816,7 @@
         "unlockId": 0,
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
-        "releaseTime": "2025-06-26T12:52:44+09:00"
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       },
       {
         "advMstId": 70000234,
@@ -13322,6 +13832,21 @@
         "gainGemFlg": false,
         "beforeAdvMstIdInGallery": 0,
         "releaseTime": "2024-01-01T00:00:00+09:00"
+      },
+      {
+        "advMstId": 70000243,
+        "advType": 5,
+        "has3dMovie": false,
+        "advTitleMstId": 0,
+        "name": "能力晶花チュートリアル1",
+        "subName": "",
+        "advAssetbundleName": "",
+        "advResourceName": "7_Namae/contents_tutorial_gensen",
+        "unlockType": 0,
+        "unlockId": 0,
+        "gainGemFlg": false,
+        "beforeAdvMstIdInGallery": 0,
+        "releaseTime": "2025-07-16T13:54:51+09:00"
       }
     ]
   }

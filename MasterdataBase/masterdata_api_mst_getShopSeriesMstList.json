@@ -43,6 +43,32 @@
         "resourceName": ""
       },
       {
+        "shopSeriesMstId": 2979,
+        "title": "[フィオレ・フィナーレ]巴マミピックアップガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-08-20T11:59:59+09:00",
+        "shopGroupId1": 2979,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231021,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 2980,
+        "title": "100日感謝祭 アリナ・グレイピックアップガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2025-07-04T12:00:00+09:00",
+        "endTime": "2025-07-23T11:59:59+09:00",
+        "shopGroupId1": 2980,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231020,
+        "resourceName": ""
+      },
+      {
         "shopSeriesMstId": 2981,
         "title": "100日感謝祭  柊ねむ＆里見灯花ピックアップガチャ交換所",
         "description": "",
@@ -287,6 +313,19 @@
         "shopGroupId2": 0,
         "payType": 3,
         "payId": 231004,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 3977,
+        "title": "エターナルサマーデイズ 前編イベント交換所",
+        "description": "",
+        "category": 3,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-08-20T11:59:59+09:00",
+        "shopGroupId1": 3977,
+        "shopGroupId2": 3976,
+        "payType": 3,
+        "payId": 201023,
         "resourceName": ""
       },
       {

@@ -706,6 +706,32 @@
         "enemyType": 2
       },
       {
+        "dioramaBackgroundMstId": 111411,
+        "seriesId": 1,
+        "fieldSeriesMstId": 0,
+        "stageThumbnailName": "bg_3d_613_00_00_001",
+        "backgroundResourceName": "bg_3d_613_00_00_001",
+        "stageName": "ゴムの魔女（Paola）無_ボスバトル_01",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2050-07-16T12:00:00+09:00",
+        "sortOrder": 100,
+        "enemyType": 2
+      },
+      {
+        "dioramaBackgroundMstId": 111419,
+        "seriesId": 1,
+        "fieldSeriesMstId": 0,
+        "stageThumbnailName": "bg_3d_613_00_01_001",
+        "backgroundResourceName": "bg_3d_613_00_01_001",
+        "stageName": "ゴムの魔女（Paola）無_ザコバトル_01",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2050-07-16T12:00:00+09:00",
+        "sortOrder": 100,
+        "enemyType": 1
+      },
+      {
         "dioramaBackgroundMstId": 120111,
         "seriesId": 1,
         "fieldSeriesMstId": 60001,

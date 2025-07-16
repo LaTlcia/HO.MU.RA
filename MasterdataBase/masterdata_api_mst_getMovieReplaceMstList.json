@@ -402,6 +402,38 @@
         "bgmOffPath": "Movie/3DMovie/mv6011_bgmoff",
         "englishPath": "Movie/3DMovie/mv6011_en",
         "bgmOffEnglishPath": "Movie/3DMovie/mv6011_en_bgmoff"
+      },
+      {
+        "movieReplaceMstId": 51,
+        "path": "Movie/3DMovie/mv6014",
+        "isStreamable": true,
+        "bgmOffPath": "Movie/3DMovie/mv6014_bgmoff",
+        "englishPath": "Movie/3DMovie/mv6014_en",
+        "bgmOffEnglishPath": "Movie/3DMovie/mv6014_en_bgmoff"
+      },
+      {
+        "movieReplaceMstId": 52,
+        "path": "Movie/3DMovie/mv4029",
+        "isStreamable": true,
+        "bgmOffPath": "Movie/3DMovie/mv4029_bgmoff",
+        "englishPath": "Movie/3DMovie/mv4029_en",
+        "bgmOffEnglishPath": "Movie/3DMovie/mv4029_en_bgmoff"
+      },
+      {
+        "movieReplaceMstId": 53,
+        "path": "Movie/3DMovie/mv6020",
+        "isStreamable": true,
+        "bgmOffPath": "Movie/3DMovie/mv6020_bgmoff",
+        "englishPath": "Movie/3DMovie/mv6020_en",
+        "bgmOffEnglishPath": "Movie/3DMovie/mv6020_en_bgmoff"
+      },
+      {
+        "movieReplaceMstId": 55,
+        "path": "Movie/2DMovie/mv_r9999",
+        "isStreamable": false,
+        "bgmOffPath": "Movie/2DMovie/mv_r9999_bgmoff",
+        "englishPath": "",
+        "bgmOffEnglishPath": ""
       }
     ]
   }

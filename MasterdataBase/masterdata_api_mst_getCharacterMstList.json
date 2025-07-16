@@ -137,6 +137,13 @@
         "colorCode": "#EAB088"
       },
       {
+        "characterMstId": 1021,
+        "name": "アリナ・グレイ",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1021",
+        "colorCode": "#CCF02A"
+      },
+      {
         "characterMstId": 1025,
         "name": "天音月夜",
         "awakeItemMstId": 0,

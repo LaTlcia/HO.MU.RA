@@ -718,6 +718,23 @@
         "releaseTime": "2025-05-30T12:00:00+09:00"
       },
       {
+        "cardMstId": 4200026,
+        "name": "盛夏のご褒美！",
+        "illustrator": "",
+        "source": "",
+        "rarity": 5,
+        "element": 0,
+        "passiveSkill1": 4081,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_04_00_0023",
+        "characterMstId": 0,
+        "unlockTypeCsv": "2",
+        "unlockIdCsv": "16",
+        "advPosition": 0,
+        "releaseTime": "2025-07-16T12:00:00+09:00"
+      },
+      {
         "cardMstId": 4300001,
         "name": "またね、ほむらちゃん",
         "illustrator": "",
@@ -1345,6 +1362,23 @@
         "unlockIdCsv": "0",
         "advPosition": 0,
         "releaseTime": "2025-06-12T12:00:00+09:00"
+      },
+      {
+        "cardMstId": 4300038,
+        "name": "サイコーの挑戦状",
+        "illustrator": "",
+        "source": "",
+        "rarity": 4,
+        "element": 0,
+        "passiveSkill1": 4078,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_03_01_1021",
+        "characterMstId": 0,
+        "unlockTypeCsv": "7",
+        "unlockIdCsv": "0",
+        "advPosition": 0,
+        "releaseTime": "2025-07-04T12:00:00+09:00"
       },
       {
         "cardMstId": 5100001,

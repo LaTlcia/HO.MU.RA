@@ -34,6 +34,12 @@
         "value1": 10030101
       },
       {
+        "userTitleMstId": 10030301,
+        "title": "フィオレ・フィナーレ",
+        "titleType": 1,
+        "value1": 10030301
+      },
+      {
         "userTitleMstId": 10040101,
         "title": "バルダメンテ・フォルティッシモ",
         "titleType": 1,
@@ -116,6 +122,12 @@
         "title": "創造の子どもたち",
         "titleType": 1,
         "value1": 10200101
+      },
+      {
+        "userTitleMstId": 10210101,
+        "title": "Nine Phases",
+        "titleType": 1,
+        "value1": 10210101
       },
       {
         "userTitleMstId": 10250101,
@@ -722,6 +734,12 @@
         "title": "調整屋さんの事件簿３ 箱庭のコスモロジークリア",
         "titleType": 2,
         "value1": 4200017
+      },
+      {
+        "userTitleMstId": 60000013,
+        "title": "エターナルサマーデイズ 前編クリア",
+        "titleType": 2,
+        "value1": 4200026
       },
       {
         "userTitleMstId": 70000001,

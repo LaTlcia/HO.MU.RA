@@ -114,6 +114,22 @@
         "sortOrder": 1003,
         "startTime": "2025-06-26T12:00:00+09:00",
         "endTime": "2025-07-16T11:59:59+09:00"
+      },
+      {
+        "loginBonusMstId": 15,
+        "title": "100日感謝祭第2弾 ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1010,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-07-31T11:59:59+09:00"
+      },
+      {
+        "loginBonusMstId": 16,
+        "title": "100日感謝祭第2弾 コア&オーブ獲得ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1005,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-08-19T11:59:59+09:00"
       }
     ]
   }

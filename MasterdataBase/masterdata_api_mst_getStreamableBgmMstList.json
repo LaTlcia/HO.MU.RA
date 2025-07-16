@@ -272,6 +272,16 @@
         "streamableBgmMstId": 54,
         "cueSheetName": "bgm_adv",
         "cueName": "bgm01_adv_despair"
+      },
+      {
+        "streamableBgmMstId": 55,
+        "cueSheetName": "bgm_battle_summer",
+        "cueName": "bgm01_battle_summer_teshita"
+      },
+      {
+        "streamableBgmMstId": 56,
+        "cueSheetName": "bgm_battle_summer",
+        "cueName": "bgm01_battle_summer_majo"
       }
     ]
   }

@@ -50,6 +50,18 @@
         "totalScoreRewardGroupId": 3,
         "rankingRewardGroupId": 4,
         "dioramaBackgroundMstId": 210219
+      },
+      {
+        "scoreAttackMstId": 5,
+        "name": "",
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-08-19T11:59:59+09:00",
+        "comment": "ボスはブレイク状態でないときは被ダメージを軽減します。<br>さらに、奇数ターンにブレイクゲージ削減耐性が上昇し、偶数ターンに防御力が上昇します。<br>防御力が上昇していないターンにブレイクできると良いでしょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 5,
+        "totalScoreRewardGroupId": 4,
+        "rankingRewardGroupId": 5,
+        "dioramaBackgroundMstId": 111411
       }
     ]
   }

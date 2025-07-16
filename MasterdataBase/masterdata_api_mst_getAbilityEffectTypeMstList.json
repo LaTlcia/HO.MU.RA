@@ -2281,6 +2281,127 @@
         "displayType": 2
       },
       {
+        "abilityEffectTypeMstId": 211,
+        "name": "与える持続ダメージ上昇",
+        "effectType": "UP_GIV_SLIP_DMG_RATIO",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "BuffIconL",
+        "stateFlipName": "与える持続ダメージ上昇",
+        "displayType": 1
+      },
+      {
+        "abilityEffectTypeMstId": 212,
+        "name": "与える火傷ダメージ上昇",
+        "effectType": "UP_GIV_BURN_DMG_RATIO",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "BuffIconL",
+        "stateFlipName": "与える火傷ダメージ上昇",
+        "displayType": 1
+      },
+      {
+        "abilityEffectTypeMstId": 213,
+        "name": "与える毒ダメージ上昇",
+        "effectType": "UP_GIV_POISON_DMG_RATIO",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "BuffIconL",
+        "stateFlipName": "与える毒ダメージ上昇",
+        "displayType": 1
+      },
+      {
+        "abilityEffectTypeMstId": 214,
+        "name": "与える呪いダメージ上昇",
+        "effectType": "UP_GIV_CURSE_DMG_RATIO",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "BuffIconL",
+        "stateFlipName": "与える呪いダメージ上昇",
+        "displayType": 1
+      },
+      {
+        "abilityEffectTypeMstId": 215,
+        "name": "与える裂傷ダメージ上昇",
+        "effectType": "UP_GIV_BLEED_DMG_RATIO",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "BuffIconL",
+        "stateFlipName": "与える裂傷ダメージ上昇",
+        "displayType": 1
+      },
+      {
+        "abilityEffectTypeMstId": 216,
+        "name": "与える持続ダメージ減少",
+        "effectType": "DWN_GIV_SLIP_DMG_RATIO",
+        "category": 3,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "DebuffIconL",
+        "stateFlipName": "与える持続ダメージ減少",
+        "displayType": 2
+      },
+      {
+        "abilityEffectTypeMstId": 217,
+        "name": "与える火傷ダメージ減少",
+        "effectType": "DWN_GIV_BURN_DMG_RATIO",
+        "category": 3,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "DebuffIconL",
+        "stateFlipName": "与える火傷ダメージ減少",
+        "displayType": 2
+      },
+      {
+        "abilityEffectTypeMstId": 218,
+        "name": "与える毒ダメージ減少",
+        "effectType": "DWN_GIV_POISON_DMG_RATIO",
+        "category": 3,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "DebuffIconL",
+        "stateFlipName": "与える毒ダメージ減少",
+        "displayType": 2
+      },
+      {
+        "abilityEffectTypeMstId": 219,
+        "name": "与える呪いダメージ減少",
+        "effectType": "DWN_GIV_CURSE_DMG_RATIO",
+        "category": 3,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "DebuffIconL",
+        "stateFlipName": "与える呪いダメージ減少",
+        "displayType": 2
+      },
+      {
+        "abilityEffectTypeMstId": 220,
+        "name": "与える裂傷ダメージ減少",
+        "effectType": "DWN_GIV_BLEED_DMG_RATIO",
+        "category": 3,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "DebuffIconL",
+        "stateFlipName": "与える裂傷ダメージ減少",
+        "displayType": 2
+      },
+      {
+        "abilityEffectTypeMstId": 221,
+        "name": "真夏の花火",
+        "effectType": "UNIQUE_10030301",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "BuffIconL",
+        "stateFlipName": "真夏の花火",
+        "displayType": 1
+      },
+      {
         "abilityEffectTypeMstId": 1001,
         "name": "HP・攻撃力・防御力上昇",
         "effectType": "UP_HP_ATK_DEF_RATIO",

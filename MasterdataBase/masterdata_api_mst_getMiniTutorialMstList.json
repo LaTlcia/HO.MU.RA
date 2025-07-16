@@ -508,6 +508,105 @@
         "advMstId": 0
       },
       {
+        "miniTutorialMstId": 8101,
+        "miniTutorialNumber": 81,
+        "sortOrder": 1,
+        "title": "能力晶花とは",
+        "description": "キオクの育成要素の一つです。\n能力晶花クエストをクリアして晶花アビリティを獲得できます。\n晶花アビリティをブースト効果抽選でさらに強化できます。",
+        "resourceName": "crystalability_quest_01",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 8102,
+        "miniTutorialNumber": 81,
+        "sortOrder": 2,
+        "title": "能力晶花クエストについて①",
+        "description": "能力晶花クエストをクリアすると、確率で晶花アビリティを獲得できます。\n難易度があがると、より高レアリティの晶花アビリティを獲得できる確率が上がります。\nQPを使用してバトルに挑戦でき、スキップはできません。",
+        "resourceName": "crystalability_quest_02",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 8103,
+        "miniTutorialNumber": 81,
+        "sortOrder": 3,
+        "title": "能力晶花クエストについて②",
+        "description": "晶花アビリティにはEX/S/A/Bのレアリティが存在します。\nEXは各キオク固有の晶花アビリティでそれぞれ1種類のみ存在します。\n全てのキオクにEX晶花アビリティが存在します。",
+        "resourceName": "crystalability_quest_03",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 8104,
+        "miniTutorialNumber": 81,
+        "sortOrder": 4,
+        "title": "晶花アビリティの獲得",
+        "description": "バトルに参加したキオクのみ晶花アビリティを獲得します。\n晶花アビリティはキオクごとにストックされるので、獲得したいキオクを編成しましょう。",
+        "resourceName": "crystalability_quest_04",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 8301,
+        "miniTutorialNumber": 83,
+        "sortOrder": 1,
+        "title": "能力晶花とは",
+        "description": "晶花アビリティをセットできるようになりました。\n最初は1個セット可能で、専用アイテムを使用することで枠を解放できます。\nキオクごとに最大3つセットできます。",
+        "resourceName": "crystalability_tutorial_01",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 8302,
+        "miniTutorialNumber": 83,
+        "sortOrder": 2,
+        "title": "晶花アビリティ",
+        "description": "晶花アビリティは、キオクにセットすることで効果を発揮します。\nメインキオクとして編成している時にのみ発揮し、サポートキオクとして編成している時は発揮しません。",
+        "resourceName": "crystalability_tutorial_02",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 8303,
+        "miniTutorialNumber": 83,
+        "sortOrder": 3,
+        "title": "アビリティススロット解放アイテムについて",
+        "description": "晶花アビリティの2枠目、3枠目は解放アイテムを使用することで使えるようになります。\n解放アイテムはイベントクエストやスコアタック、タワーの報酬などで獲得できます。",
+        "resourceName": "crystalability_tutorial_03",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 8304,
+        "miniTutorialNumber": 83,
+        "sortOrder": 4,
+        "title": "ストックについて",
+        "description": "晶花アビリティはキオクごとに100個までストックできます。\n上限を超えた場合、レアリティが低く、古いものからブースト効果抽選アイテムに変換されます。",
+        "resourceName": "crystalability_tutorial_04",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 8305,
+        "miniTutorialNumber": 83,
+        "sortOrder": 5,
+        "title": "ブースト効果について",
+        "description": "セットしている晶花アビリティに対して、抽選アイテムを使ってブースト効果をつけることができます。\nレアリティEX/Sでは3つ、Aでは2つ、Bでは1つつけることができます。\n同じ効果のブースト効果でも、効果値が異なるものが存在します。",
+        "resourceName": "crystalability_tutorial_05",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 8306,
+        "miniTutorialNumber": 83,
+        "sortOrder": 6,
+        "title": "ブースト効果の抽選アイテムについて",
+        "description": "ブースト効果の内容は、抽選アイテムを使用することで確率で決定します。\n1回の抽選でレアリティに応じた個数分まとめて抽選されます。\n抽選アイテムはイベントクエストやスコアアタックの報酬などで獲得できます。",
+        "resourceName": "crystalability_tutorial_06",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 8307,
+        "miniTutorialNumber": 83,
+        "sortOrder": 7,
+        "title": "ロックアイテムについて",
+        "description": "ブースト効果の抽選時に、現在の効果値をロックできるアイテムです。\n1回抽選を行うと、ロックアイテムは消費されます。\nロックアイテムはスコアタックやタワーの報酬などで獲得できます。",
+        "resourceName": "crystalability_tutorial_07",
+        "advMstId": 0
+      },
+      {
         "miniTutorialMstId": 10401,
         "miniTutorialNumber": 104,
         "sortOrder": 1,
@@ -647,7 +746,7 @@
         "miniTutorialNumber": 217,
         "sortOrder": 2,
         "title": "Bossポイントについて",
-        "description": "ボスを倒すことで結界クリアとなり\nマギカストーン×300が獲得できます。",
+        "description": "最後のボスを倒すことで結界クリアとなり\nマギカストーン×300が獲得できます。",
         "resourceName": "dungeon_boss_02",
         "advMstId": 0
       },
@@ -656,7 +755,7 @@
         "miniTutorialNumber": 219,
         "sortOrder": 1,
         "title": "AreaBossポイントについて",
-        "description": "結界の途中ではAreaBossポイントが出現することがあります。\nAreaBossポイントの敵はこれまでより強力で\nバトル中にAutoが使用できません。",
+        "description": "結界の途中ではAreaBossポイントが出現することがあります。\nAreaBossポイントの敵はこれまでより強力です。",
         "resourceName": "dungeon_areaboss_01",
         "advMstId": 0
       },
@@ -739,6 +838,15 @@
         "title": "敵の情報を確認する",
         "description": "バトル中に敵の持つスキルや発動中の効果を確認することができます。\n詳しい情報を知りたい時は確認してみましょう。",
         "resourceName": "battletutorial_1015",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 31701,
+        "miniTutorialNumber": 317,
+        "sortOrder": 1,
+        "title": "キーコンフィグについて",
+        "description": "キーコンフィグでは各種操作のキーボード割り当てを変更することができます。\nよく使う操作を使いやすいキーに割り当てることで快適にプレイできます。",
+        "resourceName": "keyconfig_tutorial01",
         "advMstId": 0
       },
       {

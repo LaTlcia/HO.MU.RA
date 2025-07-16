@@ -370,6 +370,62 @@
         "endTime": "2025-07-16T11:59:59+09:00",
         "sortOrder": 174,
         "osType": 0
+      },
+      {
+        "homeBannerMstId": 105,
+        "bannerMstId": 80,
+        "startTime": "2025-07-04T12:00:00+09:00",
+        "endTime": "2025-07-22T11:59:59+09:00",
+        "sortOrder": 183,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 106,
+        "bannerMstId": 106,
+        "startTime": "2025-07-04T12:00:00+09:00",
+        "endTime": "2025-07-23T11:59:59+09:00",
+        "sortOrder": 189,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 107,
+        "bannerMstId": 107,
+        "startTime": "2025-07-04T12:00:00+09:00",
+        "endTime": "2025-07-23T11:59:59+09:00",
+        "sortOrder": 190,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 108,
+        "bannerMstId": 108,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-07-31T11:59:59+09:00",
+        "sortOrder": 200,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 110,
+        "bannerMstId": 111,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-07-31T11:59:59+09:00",
+        "sortOrder": 196,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 111,
+        "bannerMstId": 112,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-08-19T11:59:59+09:00",
+        "sortOrder": 210,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 112,
+        "bannerMstId": 116,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-07-31T11:59:59+09:00",
+        "sortOrder": 192,
+        "osType": 0
       }
     ]
   }

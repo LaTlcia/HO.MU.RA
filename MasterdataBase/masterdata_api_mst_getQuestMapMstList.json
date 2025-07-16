@@ -52,6 +52,14 @@
         "openEffectFlagMiniTutorialNumber": 0
       },
       {
+        "questMapMstId": 43,
+        "questCategoryMstId": 4,
+        "name": "能力晶花クエスト",
+        "conditionGroupId": 0,
+        "openFlagMiniTutorialNumber": 0,
+        "openEffectFlagMiniTutorialNumber": 0
+      },
+      {
         "questMapMstId": 101,
         "questCategoryMstId": 10,
         "name": "こころの器クエスト",

@@ -1,0 +1,35 @@
+{
+  "url": "/api/mst/getQuestCampaignMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "questCampaignMstId": 1001,
+        "questMapMstId": 41,
+        "campaignType": 1,
+        "campaignValue": 50,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-07-31T11:59:59+09:00",
+        "description": "消費QP1/2！"
+      },
+      {
+        "questCampaignMstId": 1002,
+        "questMapMstId": 42,
+        "campaignType": 1,
+        "campaignValue": 50,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-07-31T11:59:59+09:00",
+        "description": "消費QP1/2！"
+      },
+      {
+        "questCampaignMstId": 1003,
+        "questMapMstId": 43,
+        "campaignType": 1,
+        "campaignValue": 50,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-07-31T11:59:59+09:00",
+        "description": "消費QP1/2！"
+      }
+    ]
+  }
+}

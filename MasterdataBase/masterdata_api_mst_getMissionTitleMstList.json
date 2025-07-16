@@ -53,20 +53,6 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5018,
-        "prevMissionTitleMstId": 0,
-        "title": "魔法少女まどか☆マギカ scene0 前編イベントミッション",
-        "priority": 20,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5021,
-        "prevMissionTitleMstId": 0,
-        "title": "重なる音、キミと繋ぐ手イベントミッション",
-        "priority": 22,
-        "featuredRewardResourceName": ""
-      },
-      {
         "missionTitleMstId": 5022,
         "prevMissionTitleMstId": 0,
         "title": "調整屋さんの事件簿３イベントミッション",
@@ -74,10 +60,38 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5023,
+        "missionTitleMstId": 5024,
         "prevMissionTitleMstId": 0,
-        "title": "100日感謝祭 ミッション第1弾",
+        "title": "100日感謝祭 ミッション第2弾",
         "priority": 6,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5025,
+        "prevMissionTitleMstId": 0,
+        "title": "100日感謝祭第2弾 ミッション第1弾",
+        "priority": 6,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5027,
+        "prevMissionTitleMstId": 0,
+        "title": "エターナルサマーデイズ 前編イベントミッション",
+        "priority": 24,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5028,
+        "prevMissionTitleMstId": 0,
+        "title": "100日感謝祭第2弾 メインクエスト攻略応援ミッション",
+        "priority": 10,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5029,
+        "prevMissionTitleMstId": 0,
+        "title": "能力晶花実装記念ミッション",
+        "priority": 12,
         "featuredRewardResourceName": ""
       }
     ]

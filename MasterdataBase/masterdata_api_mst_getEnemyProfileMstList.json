@@ -452,6 +452,34 @@
         "releaseTime": "2024-01-01T00:00:00+09:00"
       },
       {
+        "enemyProfileMstId": 613001,
+        "enemyUniqueId": 613001,
+        "enemyMstId": 613001,
+        "name": "ゴムの魔女",
+        "runesName": "Paola",
+        "seriesId": 1,
+        "description": "ゴムの魔女。その性質は反発。<br>海水浴場に姿を現しその結界内も無限に広がる海面。<br>魔女自身は全く泳げないためよく浮く手下が必須。ひとりぼっちのこの魔女は、拾い損ねたものを波間に探し続けている。",
+        "sortOrder": 0,
+        "isCollectionDisp": false,
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2050-01-02T10:00:00+09:00"
+      },
+      {
+        "enemyProfileMstId": 613002,
+        "enemyUniqueId": 613002,
+        "enemyMstId": 613002,
+        "name": "ゴムの魔女の手下",
+        "runesName": "Bona",
+        "seriesId": 1,
+        "description": "ゴムの魔女の手下。その役割は、浮力。<br>アメンボのように海面を走り回ることが出来る。<br>体には空気が詰まっており、尖っている物は苦手。<br>結界に広がる海中には様々な落し物が沈んでいるらしい。",
+        "sortOrder": 0,
+        "isCollectionDisp": false,
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2050-01-02T10:00:00+09:00"
+      },
+      {
         "enemyProfileMstId": 614002,
         "enemyUniqueId": 614002,
         "enemyMstId": 614002,

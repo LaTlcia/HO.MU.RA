@@ -459,6 +459,11 @@
         "isViewCollection": true
       },
       {
+        "advTitleMstId": 97,
+        "title": "逃れられないもの",
+        "isViewCollection": true
+      },
+      {
         "advTitleMstId": 102,
         "title": "心から頑張りたいと思えたこと",
         "isViewCollection": true
@@ -486,6 +491,16 @@
       {
         "advTitleMstId": 112,
         "title": "魔法少女まどか☆マギカ scene0 前編",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 116,
+        "title": "エターナルサマーデイズ 前編",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 122,
+        "title": "最高の瞬間！",
         "isViewCollection": true
       }
     ]

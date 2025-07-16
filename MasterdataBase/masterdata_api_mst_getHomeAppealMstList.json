@@ -24,6 +24,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -47,6 +48,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -70,6 +72,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -93,6 +96,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -116,6 +120,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -139,6 +144,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -162,6 +168,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -185,6 +192,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -208,6 +216,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -231,6 +240,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -254,6 +264,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -277,6 +288,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -300,6 +312,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -323,6 +336,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -346,6 +360,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-01-30T12:00:00+09:00",
         "endTime": "2025-04-10T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 20
       },
       {
@@ -369,6 +384,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-03-30T12:00:00+09:00",
         "endTime": "2025-04-14T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 90010
       },
       {
@@ -392,6 +408,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-01T00:00:00+09:00",
         "endTime": "2025-04-08T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 6
       },
       {
@@ -415,6 +432,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-04T12:00:00+09:00",
         "endTime": "2025-04-14T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 90007
       },
       {
@@ -438,6 +456,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-01-30T12:00:00+09:00",
         "endTime": "2025-04-10T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 30
       },
       {
@@ -461,6 +480,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-01-30T12:00:00+09:00",
         "endTime": "2025-04-10T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 31
       },
       {
@@ -484,6 +504,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-01-30T12:00:00+09:00",
         "endTime": "2025-04-10T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 10
       },
       {
@@ -507,6 +528,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-01-30T12:00:00+09:00",
         "endTime": "2025-04-10T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 40
       },
       {
@@ -530,6 +552,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-01-30T12:00:00+09:00",
         "endTime": "2025-04-10T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 41
       },
       {
@@ -553,6 +576,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-01-30T12:00:00+09:00",
         "endTime": "2025-04-10T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 1
       },
       {
@@ -576,6 +600,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-01-30T12:00:00+09:00",
         "endTime": "2025-04-10T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 2
       },
       {
@@ -599,6 +624,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-03-30T12:00:00+09:00",
         "endTime": "2025-04-14T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 90009
       },
       {
@@ -622,6 +648,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-04T13:00:00+09:00",
         "endTime": "2025-04-14T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 90006
       },
       {
@@ -645,6 +672,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-18T12:00:00+09:00",
         "endTime": "2025-05-09T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89970
       },
       {
@@ -668,6 +696,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-25T15:00:00+09:00",
         "endTime": "2025-05-09T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89950
       },
       {
@@ -691,6 +720,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-11T12:00:00+09:00",
         "endTime": "2025-04-25T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89990
       },
       {
@@ -714,6 +744,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-18T12:00:00+09:00",
         "endTime": "2025-05-09T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89971
       },
       {
@@ -737,6 +768,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-25T15:00:00+09:00",
         "endTime": "2025-05-09T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89951
       },
       {
@@ -760,6 +792,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-11T12:00:00+09:00",
         "endTime": "2025-04-25T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 90000
       },
       {
@@ -783,6 +816,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-03-30T12:00:00+09:00",
         "endTime": "2025-04-14T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 10000
       },
       {
@@ -806,6 +840,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-03-30T12:00:00+09:00",
         "endTime": "2025-04-14T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9999
       },
       {
@@ -829,6 +864,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-04T13:00:00+09:00",
         "endTime": "2025-04-14T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9998
       },
       {
@@ -852,6 +888,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-18T12:00:00+09:00",
         "endTime": "2025-05-09T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9993
       },
       {
@@ -875,6 +912,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-25T15:00:00+09:00",
         "endTime": "2025-05-09T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9992
       },
       {
@@ -898,6 +936,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-18T12:00:00+09:00",
         "endTime": "2025-05-02T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89972
       },
       {
@@ -921,6 +960,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-03-30T12:00:00+09:00",
         "endTime": "2025-04-01T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9
       },
       {
@@ -944,6 +984,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-01T00:00:00+09:00",
         "endTime": "2025-04-08T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 1
       },
       {
@@ -967,6 +1008,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-04T12:00:00+09:00",
         "endTime": "2025-04-25T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 90008
       },
       {
@@ -990,6 +1032,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-14T12:00:00+09:00",
         "endTime": "2025-04-21T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89980
       },
       {
@@ -1013,6 +1056,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-21T12:00:00+09:00",
         "endTime": "2025-04-28T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89960
       },
       {
@@ -1036,6 +1080,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-28T12:00:00+09:00",
         "endTime": "2025-05-05T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89940
       },
       {
@@ -1059,6 +1104,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-11T12:00:00+09:00",
         "endTime": "2025-04-25T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 90001
       },
       {
@@ -1082,6 +1128,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-09T20:00:00+09:00",
         "endTime": "2025-04-23T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 90005
       },
       {
@@ -1105,6 +1152,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-11T12:00:00+09:00",
         "endTime": "2025-04-18T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 90002
       },
       {
@@ -1128,6 +1176,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-11T12:00:00+09:00",
         "endTime": "2025-04-25T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9996
       },
       {
@@ -1151,6 +1200,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-11T12:00:00+09:00",
         "endTime": "2025-04-25T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9995
       },
       {
@@ -1174,6 +1224,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-11T12:00:00+09:00",
         "endTime": "2025-04-25T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9997
       },
       {
@@ -1197,6 +1248,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-18T12:00:00+09:00",
         "endTime": "2025-05-09T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9994
       },
       {
@@ -1220,6 +1272,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-02T12:00:00+09:00",
         "endTime": "2025-05-19T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9991
       },
       {
@@ -1243,6 +1296,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-02T12:00:00+09:00",
         "endTime": "2025-05-19T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9990
       },
       {
@@ -1266,6 +1320,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-02T12:00:00+09:00",
         "endTime": "2025-05-19T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89932
       },
       {
@@ -1289,6 +1344,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-05T12:00:00+09:00",
         "endTime": "2025-05-12T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89933
       },
       {
@@ -1312,6 +1368,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-18T12:00:00+09:00",
         "endTime": "2025-04-25T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89974
       },
       {
@@ -1335,6 +1392,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-18T12:00:00+09:00",
         "endTime": "2025-05-02T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89973
       },
       {
@@ -1358,6 +1416,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-02T12:00:00+09:00",
         "endTime": "2025-05-19T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89931
       },
       {
@@ -1381,6 +1440,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-25T15:00:00+09:00",
         "endTime": "2025-05-12T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89952
       },
       {
@@ -1404,6 +1464,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-02T12:00:00+09:00",
         "endTime": "2025-05-19T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89934
       },
       {
@@ -1427,6 +1488,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-04-30T12:00:00+09:00",
         "endTime": "2025-05-07T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89939
       },
       {
@@ -1450,6 +1512,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-16T15:00:00+09:00",
         "endTime": "2025-05-30T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89919
       },
       {
@@ -1473,6 +1536,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-02T12:00:00+09:00",
         "endTime": "2025-05-19T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89930
       },
       {
@@ -1496,6 +1560,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-02T12:00:00+09:00",
         "endTime": "2025-05-09T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89935
       },
       {
@@ -1519,6 +1584,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-09T12:00:00+09:00",
         "endTime": "2025-05-23T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89934
       },
       {
@@ -1542,6 +1608,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-16T15:00:00+09:00",
         "endTime": "2025-05-30T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89918
       },
       {
@@ -1565,6 +1632,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-16T15:00:00+09:00",
         "endTime": "2025-05-30T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9987
       },
       {
@@ -1588,6 +1656,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-16T15:00:00+09:00",
         "endTime": "2025-05-30T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89920
       },
       {
@@ -1611,6 +1680,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-16T15:00:00+09:00",
         "endTime": "2025-05-30T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9989
       },
       {
@@ -1634,6 +1704,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-16T15:00:00+09:00",
         "endTime": "2025-05-30T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9988
       },
       {
@@ -1657,6 +1728,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-09T12:00:00+09:00",
         "endTime": "2025-05-16T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89929
       },
       {
@@ -1680,6 +1752,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-30T12:00:00+09:00",
         "endTime": "2025-06-30T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89909
       },
       {
@@ -1703,6 +1776,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-31T12:00:00+09:00",
         "endTime": "2025-06-26T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 100000
       },
       {
@@ -1726,6 +1800,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-30T12:00:00+09:00",
         "endTime": "2025-06-30T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89900
       },
       {
@@ -1749,6 +1824,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-30T12:00:00+09:00",
         "endTime": "2025-06-30T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89908
       },
       {
@@ -1772,6 +1848,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-30T12:00:00+09:00",
         "endTime": "2025-06-13T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89920
       },
       {
@@ -1795,6 +1872,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-06T12:00:00+09:00",
         "endTime": "2025-06-20T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89906
       },
       {
@@ -1818,6 +1896,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-30T12:00:00+09:00",
         "endTime": "2025-06-30T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9985
       },
       {
@@ -1841,6 +1920,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-30T12:00:00+09:00",
         "endTime": "2025-06-30T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9986
       },
       {
@@ -1864,6 +1944,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-06T12:00:00+09:00",
         "endTime": "2025-06-20T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89907
       },
       {
@@ -1887,6 +1968,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-30T12:00:00+09:00",
         "endTime": "2025-06-13T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89921
       },
       {
@@ -1910,6 +1992,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-05-31T12:00:00+09:00",
         "endTime": "2025-06-30T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89922
       },
       {
@@ -1933,6 +2016,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-12T12:00:00+09:00",
         "endTime": "2025-06-26T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89904
       },
       {
@@ -1956,6 +2040,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-12T12:00:00+09:00",
         "endTime": "2025-06-26T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9983
       },
       {
@@ -1979,6 +2064,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-12T12:00:00+09:00",
         "endTime": "2025-06-26T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9984
       },
       {
@@ -2002,6 +2088,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-12T12:00:00+09:00",
         "endTime": "2025-06-26T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89905
       },
       {
@@ -2025,6 +2112,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-06T12:00:00+09:00",
         "endTime": "2025-06-20T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9984
       },
       {
@@ -2048,6 +2136,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-26T12:00:00+09:00",
         "endTime": "2025-07-16T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89892
       },
       {
@@ -2071,6 +2160,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-26T12:00:00+09:00",
         "endTime": "2025-07-16T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89891
       },
       {
@@ -2094,6 +2184,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-26T12:00:00+09:00",
         "endTime": "2025-07-16T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9982
       },
       {
@@ -2117,6 +2208,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-26T12:00:00+09:00",
         "endTime": "2025-07-16T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 9981
       },
       {
@@ -2140,6 +2232,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-06T12:00:00+09:00",
         "endTime": "2025-06-20T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89910
       },
       {
@@ -2163,6 +2256,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-26T12:00:00+09:00",
         "endTime": "2025-07-16T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89897
       },
       {
@@ -2186,6 +2280,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-30T12:00:00+09:00",
         "endTime": "2025-07-01T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89890
       },
       {
@@ -2194,7 +2289,7 @@
         "bannerType": 2,
         "resourceName": "wallbanner_00064",
         "bannerText1": "「100日感謝祭 選べる★5&オーブ獲得イベント」開催中！",
-        "bannerText2": "イベントをプレイしてメダルを集め、対象の中から好きな★5キオクと交換しよう！\n他にもプリズムオーブなどの豪華アイテムと交換可能！",
+        "bannerText2": "イベントをプレイしてメダルを集め、対象の中から好きな★5キオクと交換しよう！",
         "bannerText3": "※イベントクエストはメインクエスト「魔法少女まどか☆マギカ」Main【お菓子の魔女】をクリアで解放",
         "bannerText4": "",
         "textColor": "#d5a752",
@@ -2209,7 +2304,56 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-26T12:00:00+09:00",
         "endTime": "2025-07-31T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89893
+      },
+      {
+        "homeAppealMstId": 100092,
+        "type": 1,
+        "bannerType": 1,
+        "resourceName": "wallbanner_00066",
+        "bannerText1": "100日感謝祭 アリナ・グレイピックアップガチャ開催中！",
+        "bannerText2": "アリナ・グレイの新キオクが初登場＆提供割合アップ！\n10回ガチャは★4以上キオク1体確定！",
+        "bannerText3": "さらに★5キオクは提供割合が5%！",
+        "bannerText4": "",
+        "textColor": "",
+        "partsColor": "",
+        "styleMstId1": 10210101,
+        "styleMstId2": 0,
+        "styleMstId3": 0,
+        "styleFigureMstId1": 0,
+        "styleFigureMstId2": 0,
+        "styleFigureMstId3": 0,
+        "transitionSceneName": "Gacha",
+        "transitionSceneParam": "",
+        "startTime": "2025-07-04T12:00:00+09:00",
+        "endTime": "2025-07-23T11:59:59+09:00",
+        "targetRegionType": 0,
+        "sortOrder": 89887
+      },
+      {
+        "homeAppealMstId": 100093,
+        "type": 1,
+        "bannerType": 2,
+        "resourceName": "wallbanner_00067",
+        "bannerText1": "「タワー」開催中！",
+        "bannerText2": "100日感謝祭を記念し、★5キオク確定マギアキーのかけらが通常のタワー開催時と比較して報酬量アップ！",
+        "bannerText3": "※タワーはメインクエスト「魔法少女まどか☆マギカ」Main【影の魔女】をクリアで解放",
+        "bannerText4": "",
+        "textColor": "#54a6c5",
+        "partsColor": "#72BDD2",
+        "styleMstId1": 0,
+        "styleMstId2": 0,
+        "styleMstId3": 0,
+        "styleFigureMstId1": 0,
+        "styleFigureMstId2": 0,
+        "styleFigureMstId3": 0,
+        "transitionSceneName": "Tower",
+        "transitionSceneParam": "",
+        "startTime": "2025-07-04T12:00:00+09:00",
+        "endTime": "2025-07-22T11:59:59+09:00",
+        "targetRegionType": 0,
+        "sortOrder": 89888
       },
       {
         "homeAppealMstId": 100094,
@@ -2232,6 +2376,7 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-26T12:00:00+09:00",
         "endTime": "2025-07-16T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89885
       },
       {
@@ -2254,7 +2399,8 @@
         "transitionSceneName": "",
         "transitionSceneParam": "",
         "startTime": "2025-06-26T12:00:00+09:00",
-        "endTime": "2025-07-31T11:59:59+09:00",
+        "endTime": "2025-07-16T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 89898
       },
       {
@@ -2278,7 +2424,296 @@
         "transitionSceneParam": "",
         "startTime": "2025-06-26T12:00:00+09:00",
         "endTime": "2025-07-16T11:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 100000
+      },
+      {
+        "homeAppealMstId": 100097,
+        "type": 2,
+        "bannerType": 0,
+        "resourceName": "Movie/3DMovie/mv6014",
+        "bannerText1": "",
+        "bannerText2": "",
+        "bannerText3": "",
+        "bannerText4": "",
+        "textColor": "",
+        "partsColor": "",
+        "styleMstId1": 0,
+        "styleMstId2": 0,
+        "styleMstId3": 0,
+        "styleFigureMstId1": 0,
+        "styleFigureMstId2": 0,
+        "styleFigureMstId3": 0,
+        "transitionSceneName": "",
+        "transitionSceneParam": "",
+        "startTime": "2025-07-04T12:00:00+09:00",
+        "endTime": "2025-07-23T11:59:59+09:00",
+        "targetRegionType": 0,
+        "sortOrder": 9980
+      },
+      {
+        "homeAppealMstId": 100098,
+        "type": 2,
+        "bannerType": 0,
+        "resourceName": "Movie/3DMovie/mv6020",
+        "bannerText1": "",
+        "bannerText2": "",
+        "bannerText3": "",
+        "bannerText4": "",
+        "textColor": "",
+        "partsColor": "",
+        "styleMstId1": 0,
+        "styleMstId2": 0,
+        "styleMstId3": 0,
+        "styleFigureMstId1": 0,
+        "styleFigureMstId2": 0,
+        "styleFigureMstId3": 0,
+        "transitionSceneName": "",
+        "transitionSceneParam": "",
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-07-31T11:59:59+09:00",
+        "targetRegionType": 0,
+        "sortOrder": 9978
+      },
+      {
+        "homeAppealMstId": 100099,
+        "type": 2,
+        "bannerType": 0,
+        "resourceName": "Movie/3DMovie/mv4029",
+        "bannerText1": "",
+        "bannerText2": "",
+        "bannerText3": "",
+        "bannerText4": "",
+        "textColor": "",
+        "partsColor": "",
+        "styleMstId1": 0,
+        "styleMstId2": 0,
+        "styleMstId3": 0,
+        "styleFigureMstId1": 0,
+        "styleFigureMstId2": 0,
+        "styleFigureMstId3": 0,
+        "transitionSceneName": "",
+        "transitionSceneParam": "",
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-07-31T11:59:59+09:00",
+        "targetRegionType": 0,
+        "sortOrder": 9979
+      },
+      {
+        "homeAppealMstId": 100100,
+        "type": 1,
+        "bannerType": 1,
+        "resourceName": "wallbanner_00069",
+        "bannerText1": "[フィオレ・フィナーレ]巴マミピックアップガチャ開催中！",
+        "bannerText2": "巴マミの限定キオクが初登場＆提供割合アップ！\nさらに今回のガチャはボーナスゲージ付き！",
+        "bannerText3": "ボーナスゲージをためて★5キオクをGET！",
+        "bannerText4": "",
+        "textColor": "",
+        "partsColor": "",
+        "styleMstId1": 10030301,
+        "styleMstId2": 0,
+        "styleMstId3": 0,
+        "styleFigureMstId1": 0,
+        "styleFigureMstId2": 0,
+        "styleFigureMstId3": 0,
+        "transitionSceneName": "Gacha",
+        "transitionSceneParam": "",
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-07-31T11:59:59+09:00",
+        "targetRegionType": 0,
+        "sortOrder": 89876
+      },
+      {
+        "homeAppealMstId": 100101,
+        "type": 1,
+        "bannerType": 2,
+        "resourceName": "wallbanner_00068",
+        "bannerText1": "ストーリーイベント「エターナルサマーデイズ 前編」開催中",
+        "bannerText2": "イベントをプレイして限定ストーリーを体験しよう！さらにスコアアタックをリニューアル！",
+        "bannerText3": "※イベントクエストはメインクエスト「魔法少女まどか☆マギカ」Main【お菓子の魔女】をクリアで解放",
+        "bannerText4": "",
+        "textColor": "#d5a752",
+        "partsColor": "#eab759",
+        "styleMstId1": 0,
+        "styleMstId2": 0,
+        "styleMstId3": 0,
+        "styleFigureMstId1": 0,
+        "styleFigureMstId2": 0,
+        "styleFigureMstId3": 0,
+        "transitionSceneName": "StoryEvent",
+        "transitionSceneParam": "",
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-07-31T11:59:59+09:00",
+        "targetRegionType": 0,
+        "sortOrder": 89878
+      },
+      {
+        "homeAppealMstId": 100102,
+        "type": 1,
+        "bannerType": 1,
+        "resourceName": "wallbanner_00072",
+        "bannerText1": "100日感謝祭 最大100連！1日1回無料10連ガチャ開催中！",
+        "bannerText2": "期間中最大100連！1日1回、10連ガチャが無料で引けます！",
+        "bannerText3": "さらに★4以上キオク1体確定！",
+        "bannerText4": "",
+        "textColor": "",
+        "partsColor": "",
+        "styleMstId1": 10010701,
+        "styleMstId2": 10030101,
+        "styleMstId3": 10040101,
+        "styleFigureMstId1": 0,
+        "styleFigureMstId2": 0,
+        "styleFigureMstId3": 0,
+        "transitionSceneName": "Gacha",
+        "transitionSceneParam": "",
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-08-19T11:59:59+09:00",
+        "targetRegionType": 0,
+        "sortOrder": 89874
+      },
+      {
+        "homeAppealMstId": 100103,
+        "type": 1,
+        "bannerType": 2,
+        "resourceName": "wallbanner_00073",
+        "bannerText1": "新強化クエスト「能力晶花」登場！",
+        "bannerText2": "キオクの新たな育成要素「能力晶花」リリース！",
+        "bannerText3": "リリース記念で能力晶花に使用する素材をプレゼント！",
+        "bannerText4": "",
+        "textColor": "#d5a752",
+        "partsColor": "#d5a752",
+        "styleMstId1": 0,
+        "styleMstId2": 0,
+        "styleMstId3": 0,
+        "styleFigureMstId1": 0,
+        "styleFigureMstId2": 0,
+        "styleFigureMstId3": 0,
+        "transitionSceneName": "",
+        "transitionSceneParam": "",
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-08-19T11:59:59+09:00",
+        "targetRegionType": 0,
+        "sortOrder": 89880
+      },
+      {
+        "homeAppealMstId": 100104,
+        "type": 1,
+        "bannerType": 6,
+        "resourceName": "wallbanner_00051",
+        "bannerText1": "WEB SHOPのお知らせ",
+        "bannerText2": "",
+        "bannerText3": "<u>100日感謝祭記念でアプリ内よりマギカストーンが20%お得な商品を販売！</u>",
+        "bannerText4": "※購入回数限定商品の購入回数は、アプリ版とWEB SHOP版で共有となります。\n※ご利用にはゲームデータの連携が必要となります。\n※WEB SHOPでご利用いただける決済手段はクレジットカードのみとなります。",
+        "textColor": "",
+        "partsColor": "",
+        "styleMstId1": 0,
+        "styleMstId2": 0,
+        "styleMstId3": 0,
+        "styleFigureMstId1": 0,
+        "styleFigureMstId2": 0,
+        "styleFigureMstId3": 0,
+        "transitionSceneName": "",
+        "transitionSceneParam": "",
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-07-31T11:59:59+09:00",
+        "targetRegionType": 0,
+        "sortOrder": 100000
+      },
+      {
+        "homeAppealMstId": 100106,
+        "type": 1,
+        "bannerType": 3,
+        "resourceName": "wallbanner_00070",
+        "bannerText1": "100日感謝祭 第2弾開催！",
+        "bannerText2": "マギカストーン3000個貰えるログボや最大100連の無料ガチャ！",
+        "bannerText3": "イベントで新要素『能力晶花』で使えるアイテムを獲得可能！",
+        "bannerText4": "詳細はお知らせをご確認ください",
+        "textColor": "#FF00007F",
+        "partsColor": "#0000FFAA",
+        "styleMstId1": 0,
+        "styleMstId2": 0,
+        "styleMstId3": 0,
+        "styleFigureMstId1": 0,
+        "styleFigureMstId2": 0,
+        "styleFigureMstId3": 0,
+        "transitionSceneName": "",
+        "transitionSceneParam": "",
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-08-19T11:59:59+09:00",
+        "targetRegionType": 0,
+        "sortOrder": 89872
+      },
+      {
+        "homeAppealMstId": 100107,
+        "type": 1,
+        "bannerType": 3,
+        "resourceName": "wallbanner_00071",
+        "bannerText1": "プレミアム増量セール販売",
+        "bannerText2": "マギカストーンの増量セールをショップに追加！",
+        "bannerText3": "",
+        "bannerText4": "",
+        "textColor": "#FF00007F",
+        "partsColor": "#0000FFAA",
+        "styleMstId1": 0,
+        "styleMstId2": 0,
+        "styleMstId3": 0,
+        "styleFigureMstId1": 0,
+        "styleFigureMstId2": 0,
+        "styleFigureMstId3": 0,
+        "transitionSceneName": "",
+        "transitionSceneParam": "",
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-07-31T11:59:59+09:00",
+        "targetRegionType": 0,
+        "sortOrder": 89885
+      },
+      {
+        "homeAppealMstId": 100108,
+        "type": 1,
+        "bannerType": 3,
+        "resourceName": "wallbanner_00078",
+        "bannerText1": "能力晶花実装記念ミッション",
+        "bannerText2": "能力晶花クエストをプレイして報酬を獲得！",
+        "bannerText3": "能力晶花でパーティをさらに強化しよう！",
+        "bannerText4": "",
+        "textColor": "#FF00007F",
+        "partsColor": "#0000FFAA",
+        "styleMstId1": 0,
+        "styleMstId2": 0,
+        "styleMstId3": 0,
+        "styleFigureMstId1": 0,
+        "styleFigureMstId2": 0,
+        "styleFigureMstId3": 0,
+        "transitionSceneName": "",
+        "transitionSceneParam": "",
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2025-08-19T11:59:59+09:00",
+        "targetRegionType": 0,
+        "sortOrder": 89883
+      },
+      {
+        "homeAppealMstId": 100111,
+        "type": 2,
+        "bannerType": 0,
+        "resourceName": "Movie/2DMovie/mv_r9999",
+        "bannerText1": "",
+        "bannerText2": "",
+        "bannerText3": "",
+        "bannerText4": "",
+        "textColor": "",
+        "partsColor": "",
+        "styleMstId1": 0,
+        "styleMstId2": 0,
+        "styleMstId3": 0,
+        "styleFigureMstId1": 0,
+        "styleFigureMstId2": 0,
+        "styleFigureMstId3": 0,
+        "transitionSceneName": "",
+        "transitionSceneParam": "",
+        "startTime": "2025-07-15T22:00:00+09:00",
+        "endTime": "2025-07-22T23:59:59+09:00",
+        "targetRegionType": 1,
+        "sortOrder": 9977
       },
       {
         "homeAppealMstId": 512001,
@@ -2301,6 +2736,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -2324,6 +2760,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -2347,6 +2784,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -2370,6 +2808,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -2393,6 +2832,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -2416,6 +2856,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -2439,6 +2880,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -2462,6 +2904,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -2485,6 +2928,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -2508,6 +2952,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -2531,6 +2976,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -2554,6 +3000,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -2577,6 +3024,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       },
       {
@@ -2600,6 +3048,7 @@
         "transitionSceneParam": "",
         "startTime": "2024-01-01T00:00:00+09:00",
         "endTime": "2024-01-01T23:59:59+09:00",
+        "targetRegionType": 0,
         "sortOrder": 0
       }
     ]

@@ -289,6 +289,21 @@
         "sortOrder": 0
       },
       {
+        "characterMstId": 1021,
+        "description": "魔女化のない世界を作ろうとしている魔法少女。<br>生と死というテーマに取り憑かれた天才芸術家で、スランプ時は自分を題材にしたこともある。<br>自身の目的こそが至上で努力を惜しまない彼女は、魔女を最高のアートにすることを夢見ている。",
+        "characterVoice": "竹達彩奈",
+        "schoolName": "栄総合学園",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 2,
+        "regionId": 1,
+        "teamId1": 9,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
         "characterMstId": 1025,
         "description": "月咲の双子の姉にあたる、解放を望む魔法少女。<br>普段から箏曲、毛筆、舞踊などの稽古に勤しみ、優れた腕前を持つ。<br>後輩や同期からの信頼も厚いが、気を許せる仲の人は居ないため、妹の月咲と一緒にいるのが最も心が安らぐ。",
         "characterVoice": "内田真礼",

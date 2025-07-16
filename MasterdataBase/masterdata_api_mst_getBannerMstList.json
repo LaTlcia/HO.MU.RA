@@ -704,6 +704,27 @@
         "bannerLabelMstId": 2
       },
       {
+        "bannerMstId": 106,
+        "name": "",
+        "imageName": "banner_00100",
+        "destination": "Gacha",
+        "bannerLabelMstId": 8
+      },
+      {
+        "bannerMstId": 107,
+        "name": "",
+        "imageName": "banner_00100",
+        "destination": "Gacha",
+        "bannerLabelMstId": 14
+      },
+      {
+        "bannerMstId": 108,
+        "name": "",
+        "imageName": "banner_00102",
+        "destination": "Gacha",
+        "bannerLabelMstId": 17
+      },
+      {
         "bannerMstId": 109,
         "name": "",
         "imageName": "banner_00096",
@@ -716,6 +737,55 @@
         "imageName": "banner_00094",
         "destination": "",
         "bannerLabelMstId": 5
+      },
+      {
+        "bannerMstId": 111,
+        "name": "",
+        "imageName": "banner_00101",
+        "destination": "StoryEvent",
+        "bannerLabelMstId": 2
+      },
+      {
+        "bannerMstId": 112,
+        "name": "",
+        "imageName": "banner_00105",
+        "destination": "Gacha",
+        "bannerLabelMstId": 14
+      },
+      {
+        "bannerMstId": 113,
+        "name": "",
+        "imageName": "banner_00106",
+        "destination": "EnhanceQuest",
+        "bannerLabelMstId": 4
+      },
+      {
+        "bannerMstId": 115,
+        "name": "",
+        "imageName": "banner_00103",
+        "destination": "",
+        "bannerLabelMstId": 3
+      },
+      {
+        "bannerMstId": 116,
+        "name": "",
+        "imageName": "banner_00104",
+        "destination": "StoneItemList",
+        "bannerLabelMstId": 5
+      },
+      {
+        "bannerMstId": 117,
+        "name": "",
+        "imageName": "banner_00111",
+        "destination": "",
+        "bannerLabelMstId": 0
+      },
+      {
+        "bannerMstId": 118,
+        "name": "",
+        "imageName": "banner_00112",
+        "destination": "",
+        "bannerLabelMstId": 0
       }
     ]
   }

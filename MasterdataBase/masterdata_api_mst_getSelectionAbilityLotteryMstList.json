@@ -1,0 +1,158 @@
+{
+  "url": "/api/mst/getSelectionAbilityLotteryMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "selectionAbilityLotteryMstId": 101,
+        "selectionAbilityLotteryGroupId": 101,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 102,
+        "selectionAbilityLotteryGroupId": 102,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 103,
+        "selectionAbilityLotteryGroupId": 103,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 104,
+        "selectionAbilityLotteryGroupId": 104,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 105,
+        "selectionAbilityLotteryGroupId": 105,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 201,
+        "selectionAbilityLotteryGroupId": 201,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 202,
+        "selectionAbilityLotteryGroupId": 202,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 203,
+        "selectionAbilityLotteryGroupId": 203,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 204,
+        "selectionAbilityLotteryGroupId": 204,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 205,
+        "selectionAbilityLotteryGroupId": 205,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 301,
+        "selectionAbilityLotteryGroupId": 301,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 302,
+        "selectionAbilityLotteryGroupId": 302,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 303,
+        "selectionAbilityLotteryGroupId": 303,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 304,
+        "selectionAbilityLotteryGroupId": 304,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 305,
+        "selectionAbilityLotteryGroupId": 305,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 401,
+        "selectionAbilityLotteryGroupId": 401,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 402,
+        "selectionAbilityLotteryGroupId": 402,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 403,
+        "selectionAbilityLotteryGroupId": 403,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 404,
+        "selectionAbilityLotteryGroupId": 404,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 405,
+        "selectionAbilityLotteryGroupId": 405,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 501,
+        "selectionAbilityLotteryGroupId": 501,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 502,
+        "selectionAbilityLotteryGroupId": 502,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 503,
+        "selectionAbilityLotteryGroupId": 503,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 504,
+        "selectionAbilityLotteryGroupId": 504,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 505,
+        "selectionAbilityLotteryGroupId": 505,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 601,
+        "selectionAbilityLotteryGroupId": 601,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 602,
+        "selectionAbilityLotteryGroupId": 602,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 603,
+        "selectionAbilityLotteryGroupId": 603,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 604,
+        "selectionAbilityLotteryGroupId": 604,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 605,
+        "selectionAbilityLotteryGroupId": 605,
+        "selectionAbilityType": 1
+      }
+    ]
+  }
+}

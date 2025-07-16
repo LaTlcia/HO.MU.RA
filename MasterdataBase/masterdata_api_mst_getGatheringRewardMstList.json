@@ -3476,6 +3476,726 @@
         "num": 17,
         "startTime": "2020-01-02T10:00:00+09:00",
         "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 387,
+        "gatheringLevel": 101,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 117,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 388,
+        "gatheringLevel": 101,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 325,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 389,
+        "gatheringLevel": 101,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 2649,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 390,
+        "gatheringLevel": 101,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 17,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 391,
+        "gatheringLevel": 102,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 118,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 392,
+        "gatheringLevel": 102,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 337,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 393,
+        "gatheringLevel": 102,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 2716,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 394,
+        "gatheringLevel": 102,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 17,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 395,
+        "gatheringLevel": 103,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 119,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 396,
+        "gatheringLevel": 103,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 350,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 397,
+        "gatheringLevel": 103,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 2783,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 398,
+        "gatheringLevel": 103,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 20,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 399,
+        "gatheringLevel": 104,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 120,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 400,
+        "gatheringLevel": 104,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 426,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 401,
+        "gatheringLevel": 104,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 2851,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 402,
+        "gatheringLevel": 104,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 20,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 403,
+        "gatheringLevel": 105,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 121,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 404,
+        "gatheringLevel": 105,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 437,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 405,
+        "gatheringLevel": 105,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 2920,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 406,
+        "gatheringLevel": 105,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 20,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 407,
+        "gatheringLevel": 106,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 122,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 408,
+        "gatheringLevel": 106,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 478,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 409,
+        "gatheringLevel": 106,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 2990,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 410,
+        "gatheringLevel": 106,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 20,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 411,
+        "gatheringLevel": 107,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 123,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 412,
+        "gatheringLevel": 107,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 487,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 413,
+        "gatheringLevel": 107,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 3061,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 414,
+        "gatheringLevel": 107,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 20,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 415,
+        "gatheringLevel": 108,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 124,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 416,
+        "gatheringLevel": 108,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 492,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 417,
+        "gatheringLevel": 108,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 3133,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 418,
+        "gatheringLevel": 108,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 20,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 419,
+        "gatheringLevel": 109,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 125,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 420,
+        "gatheringLevel": 109,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 500,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 421,
+        "gatheringLevel": 109,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 3205,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 422,
+        "gatheringLevel": 109,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 20,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 423,
+        "gatheringLevel": 110,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 126,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 424,
+        "gatheringLevel": 110,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 527,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 425,
+        "gatheringLevel": 110,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 3278,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 426,
+        "gatheringLevel": 110,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 20,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 427,
+        "gatheringLevel": 111,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 127,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 428,
+        "gatheringLevel": 111,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 534,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 429,
+        "gatheringLevel": 111,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 3352,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 430,
+        "gatheringLevel": 111,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 20,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 431,
+        "gatheringLevel": 112,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 128,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 432,
+        "gatheringLevel": 112,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 543,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 433,
+        "gatheringLevel": 112,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 3427,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 434,
+        "gatheringLevel": 112,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 20,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 435,
+        "gatheringLevel": 113,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 129,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 436,
+        "gatheringLevel": 113,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 550,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 437,
+        "gatheringLevel": 113,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 3502,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 438,
+        "gatheringLevel": 113,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 20,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 439,
+        "gatheringLevel": 114,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 130,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 440,
+        "gatheringLevel": 114,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 603,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 441,
+        "gatheringLevel": 114,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 3579,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 442,
+        "gatheringLevel": 114,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 20,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 443,
+        "gatheringLevel": 115,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 131,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 444,
+        "gatheringLevel": 115,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 609,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 445,
+        "gatheringLevel": 115,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 3656,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 446,
+        "gatheringLevel": 115,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 21,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 447,
+        "gatheringLevel": 116,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 132,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 448,
+        "gatheringLevel": 116,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 665,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 449,
+        "gatheringLevel": 116,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 3734,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 450,
+        "gatheringLevel": 116,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 21,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 451,
+        "gatheringLevel": 117,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 133,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 452,
+        "gatheringLevel": 117,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 676,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 453,
+        "gatheringLevel": 117,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 3813,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 454,
+        "gatheringLevel": 117,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 21,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 455,
+        "gatheringLevel": 118,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 134,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 456,
+        "gatheringLevel": 118,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 728,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 457,
+        "gatheringLevel": 118,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 3892,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 458,
+        "gatheringLevel": 118,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 21,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 459,
+        "gatheringLevel": 119,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 135,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 460,
+        "gatheringLevel": 119,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 740,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 461,
+        "gatheringLevel": 119,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 3973,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 462,
+        "gatheringLevel": 119,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 21,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 463,
+        "gatheringLevel": 120,
+        "objectReceiveType": 18,
+        "objectId": 0,
+        "num": 136,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 464,
+        "gatheringLevel": 120,
+        "objectReceiveType": 10,
+        "objectId": 0,
+        "num": 751,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 465,
+        "gatheringLevel": 120,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 4054,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
+      },
+      {
+        "gatheringRewardMstId": 466,
+        "gatheringLevel": 120,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 21,
+        "startTime": "2025-07-16T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00"
       }
     ]
   }
