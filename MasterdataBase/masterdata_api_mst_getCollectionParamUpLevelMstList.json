@@ -1118,6 +1118,60 @@
         "paramUpText": "",
         "effectGroupId": 0,
         "rewardGroupId": 62320011
+      },
+      {
+        "collectionParamUpLevelMstId": 125,
+        "collectionParamUpMstId": 1,
+        "level": 126,
+        "conditionCount": 1925,
+        "paramUpText": "",
+        "effectGroupId": 0,
+        "rewardGroupId": 62320011
+      },
+      {
+        "collectionParamUpLevelMstId": 126,
+        "collectionParamUpMstId": 1,
+        "level": 127,
+        "conditionCount": 1925,
+        "paramUpText": "",
+        "effectGroupId": 0,
+        "rewardGroupId": 2005
+      },
+      {
+        "collectionParamUpLevelMstId": 127,
+        "collectionParamUpMstId": 1,
+        "level": 128,
+        "conditionCount": 1925,
+        "paramUpText": "",
+        "effectGroupId": 0,
+        "rewardGroupId": 62320011
+      },
+      {
+        "collectionParamUpLevelMstId": 128,
+        "collectionParamUpMstId": 1,
+        "level": 129,
+        "conditionCount": 1925,
+        "paramUpText": "",
+        "effectGroupId": 0,
+        "rewardGroupId": 62320011
+      },
+      {
+        "collectionParamUpLevelMstId": 129,
+        "collectionParamUpMstId": 1,
+        "level": 130,
+        "conditionCount": 1925,
+        "paramUpText": "",
+        "effectGroupId": 0,
+        "rewardGroupId": 2005
+      },
+      {
+        "collectionParamUpLevelMstId": 130,
+        "collectionParamUpMstId": 1,
+        "level": 131,
+        "conditionCount": 1925,
+        "paramUpText": "",
+        "effectGroupId": 0,
+        "rewardGroupId": 62320011
       }
     ]
   }

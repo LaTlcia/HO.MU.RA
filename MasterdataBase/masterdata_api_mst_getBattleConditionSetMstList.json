@@ -7664,6 +7664,11 @@
         "battleConditionMstIdCsv": "893"
       },
       {
+        "battleConditionSetMstId": 1539,
+        "description": "味方が11体以上倒されている場合",
+        "battleConditionMstIdCsv": "894"
+      },
+      {
         "battleConditionSetMstId": 1541,
         "description": "1つ以上の状態異常が付与されている敵",
         "battleConditionMstIdCsv": "896"
@@ -7894,9 +7899,44 @@
         "battleConditionMstIdCsv": "6,916,3"
       },
       {
+        "battleConditionSetMstId": 1597,
+        "description": "自身のターン経過が10ターン未満",
+        "battleConditionMstIdCsv": "3,260"
+      },
+      {
+        "battleConditionSetMstId": 1598,
+        "description": "自身のターン経過が10ターン以上、20ターン未満",
+        "battleConditionMstIdCsv": "3,263,921"
+      },
+      {
+        "battleConditionSetMstId": 1599,
+        "description": "自身のターン経過が20ターン以上、30ターン未満",
+        "battleConditionMstIdCsv": "3,917,922"
+      },
+      {
+        "battleConditionSetMstId": 1600,
+        "description": "自身のターン経過が30ターン以上、40ターン未満",
+        "battleConditionMstIdCsv": "3,918,923"
+      },
+      {
+        "battleConditionSetMstId": 1601,
+        "description": "自身のターン経過が40ターン以上、50ターン未満",
+        "battleConditionMstIdCsv": "3,919,924"
+      },
+      {
+        "battleConditionSetMstId": 1602,
+        "description": "自身のターン経過が50ターン以上",
+        "battleConditionMstIdCsv": "3,920"
+      },
+      {
         "battleConditionSetMstId": 1603,
         "description": "自身のターン開始時に毒状態の敵が2体以上いるとき",
         "battleConditionMstIdCsv": "925,3"
+      },
+      {
+        "battleConditionSetMstId": 1608,
+        "description": "自身のHPが0未満のとき",
+        "battleConditionMstIdCsv": "929"
       }
     ]
   }

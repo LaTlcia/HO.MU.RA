@@ -7124,6 +7124,14 @@
         "compareValue": "SHIELD"
       },
       {
+        "battleConditionMstId": 894,
+        "description": "味方が11体以上倒されている場合",
+        "compareTarget": 5,
+        "compareContent": 203,
+        "compareOperator": 4,
+        "compareValue": "11"
+      },
+      {
         "battleConditionMstId": 896,
         "description": "1つ以上の状態異常が付与されている敵",
         "compareTarget": 8,
@@ -7268,12 +7276,92 @@
         "compareValue": "TRUE"
       },
       {
+        "battleConditionMstId": 917,
+        "description": "20ターン以上",
+        "compareTarget": 1,
+        "compareContent": 7,
+        "compareOperator": 4,
+        "compareValue": "20"
+      },
+      {
+        "battleConditionMstId": 918,
+        "description": "30ターン以上",
+        "compareTarget": 1,
+        "compareContent": 7,
+        "compareOperator": 4,
+        "compareValue": "30"
+      },
+      {
+        "battleConditionMstId": 919,
+        "description": "40ターン以上",
+        "compareTarget": 1,
+        "compareContent": 7,
+        "compareOperator": 4,
+        "compareValue": "40"
+      },
+      {
+        "battleConditionMstId": 920,
+        "description": "50ターン以上",
+        "compareTarget": 1,
+        "compareContent": 7,
+        "compareOperator": 4,
+        "compareValue": "50"
+      },
+      {
+        "battleConditionMstId": 921,
+        "description": "20ターン未満",
+        "compareTarget": 1,
+        "compareContent": 7,
+        "compareOperator": 5,
+        "compareValue": "20"
+      },
+      {
+        "battleConditionMstId": 922,
+        "description": "30ターン未満",
+        "compareTarget": 1,
+        "compareContent": 7,
+        "compareOperator": 5,
+        "compareValue": "30"
+      },
+      {
+        "battleConditionMstId": 923,
+        "description": "40ターン未満",
+        "compareTarget": 1,
+        "compareContent": 7,
+        "compareOperator": 5,
+        "compareValue": "40"
+      },
+      {
+        "battleConditionMstId": 924,
+        "description": "50ターン未満",
+        "compareTarget": 1,
+        "compareContent": 7,
+        "compareOperator": 5,
+        "compareValue": "50"
+      },
+      {
         "battleConditionMstId": 925,
         "description": "対象の毒異常が2のとき",
         "compareTarget": 6,
         "compareContent": 205,
         "compareOperator": 4,
         "compareValue": "POISON,2"
+      },
+      {
+        "battleConditionMstId": 928,
+        "description": "1ターン目",
+        "compareTarget": 1,
+        "compareContent": 7,
+        "compareOperator": 1,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 929,
+        "description": "自身のHPが0未満のとき",
+        "compareTarget": 1,
+        "compareContent": 1,
+        "compareOperator": 5,
+        "compareValue": "0"
       }
     ]
   }

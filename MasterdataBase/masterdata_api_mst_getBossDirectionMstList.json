@@ -858,6 +858,48 @@
         "nextBossDirectionMstId": 0
       },
       {
+        "bossDirectionMstId": 3047,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 120116,
+        "nextBossDirectionMstId": 3048
+      },
+      {
+        "bossDirectionMstId": 3048,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16240062,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3049,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 120216,
+        "nextBossDirectionMstId": 3050
+      },
+      {
+        "bossDirectionMstId": 3050,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 20001715,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3051,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 120316,
+        "nextBossDirectionMstId": 3052
+      },
+      {
+        "bossDirectionMstId": 3052,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 40012303,
+        "nextBossDirectionMstId": 0
+      },
+      {
         "bossDirectionMstId": 5501,
         "resourceName": "",
         "nextSceneType": 1,

@@ -760,6 +760,13 @@
         "bannerLabelMstId": 4
       },
       {
+        "bannerMstId": 114,
+        "name": "",
+        "imageName": "banner_00107",
+        "destination": "MainQuest",
+        "bannerLabelMstId": 4
+      },
+      {
         "bannerMstId": 115,
         "name": "",
         "imageName": "banner_00103",
@@ -786,6 +793,13 @@
         "imageName": "banner_00112",
         "destination": "",
         "bannerLabelMstId": 0
+      },
+      {
+        "bannerMstId": 122,
+        "name": "",
+        "imageName": "banner_00113",
+        "destination": "",
+        "bannerLabelMstId": 4
       }
     ]
   }

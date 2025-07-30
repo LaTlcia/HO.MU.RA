@@ -4864,6 +4864,66 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 408201,
+        "skillUniqueId": 4082,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408202,
+        "skillUniqueId": 4082,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408203,
+        "skillUniqueId": 4082,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408204,
+        "skillUniqueId": 4082,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+8%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408205,
+        "skillUniqueId": 4082,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408206,
+        "skillUniqueId": 4082,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 500101,
         "skillUniqueId": 5001,
         "level": 1,
@@ -7739,6 +7799,186 @@
         "level": 6,
         "name": "【アビリティ】",
         "description": "戦闘スキルで与えるダメージ+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504901,
+        "skillUniqueId": 5049,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+15%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504902,
+        "skillUniqueId": 5049,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+16%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504903,
+        "skillUniqueId": 5049,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+17%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504904,
+        "skillUniqueId": 5049,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+18%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504905,
+        "skillUniqueId": 5049,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+19%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 504906,
+        "skillUniqueId": 5049,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505001,
+        "skillUniqueId": 5050,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505002,
+        "skillUniqueId": 5050,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+11%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505003,
+        "skillUniqueId": 5050,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+12%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505004,
+        "skillUniqueId": 5050,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+13%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505005,
+        "skillUniqueId": 5050,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+14%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505006,
+        "skillUniqueId": 5050,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+15%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505101,
+        "skillUniqueId": 5051,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505102,
+        "skillUniqueId": 5051,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+11%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505103,
+        "skillUniqueId": 5051,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+12%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505104,
+        "skillUniqueId": 5051,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+13%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505105,
+        "skillUniqueId": 5051,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+14%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505106,
+        "skillUniqueId": 5051,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "弱点属性に対して与えるダメージ+15%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -17518,7 +17758,7 @@
         "skillUniqueId": 2004003,
         "level": 1,
         "name": "アビリティⅠ",
-        "description": "水属性耐性が上昇する<br>状態異常が付与された敵が存在する場合、2回行動する",
+        "description": "水属性耐性が上昇する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -17739,6 +17979,36 @@
         "level": 1,
         "name": "アビリティⅠ",
         "description": "自身にデバフが付与されていない場合、被ダメージを軽減する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2005019,
+        "skillUniqueId": 2005019,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "味方が存在している場合、被ダメージを著しく軽減する<br>倒された味方が多いほど与ダメージが上昇する<br><br>敵全体のHP回復効率を著しく減少させる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2005020,
+        "skillUniqueId": 2005020,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "味方が1度もブレイク状態になっていない場合、被ダメージを著しく軽減しブレイクゲージ削減耐性も著しく上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2005021,
+        "skillUniqueId": 2005021,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "被ダメージを大幅に軽減しブレイクゲージ削減耐性も大幅に上昇する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -18119,6 +18389,26 @@
         "level": 1,
         "name": "アビリティⅡ",
         "description": "攻撃対象が呪い状態の場合、1ターンの間、味方全体の攻撃力を上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 3001011,
+        "skillUniqueId": 3001011,
+        "level": 1,
+        "name": "アビリティⅡ",
+        "description": "毒状態の敵からダメージを受けた場合、強威力の木属性ダメージを与える",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 3001012,
+        "skillUniqueId": 3001012,
+        "level": 1,
+        "name": "アビリティⅡ",
+        "description": "火傷状態の敵からダメージを受けた場合、強威力の木属性ダメージを与える",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -18814,6 +19104,26 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 5001067,
+        "skillUniqueId": 5001067,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "10ターン経過するごとに行動回数が増える<br>毒もしくは火傷状態の敵からダメージを受けた場合、ダメージとブレイク削減量を大幅に軽減し敵全体に超威力の木属性ダメージを与える<br><br>敵全体のバリア耐久値を著しく減少させる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001068,
+        "skillUniqueId": 5001068,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>ブレイク後、3回行動する<br><br>敵全体のバリア耐久値とHP回復効率を著しく減少させる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 5001069,
         "skillUniqueId": 5001069,
         "level": 1,
@@ -19079,6 +19389,16 @@
         "level": 1,
         "name": "アビリティⅥ",
         "description": "2回行動し、被ダメージ軽減効果を付与する<br>自身のターン開始時に被ダメージ軽減効果を上昇し、ダメージを受けるたびに被ダメージ軽減効果を減少する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 7001015,
+        "skillUniqueId": 7001015,
+        "level": 1,
+        "name": "アビリティⅥ",
+        "description": "2回行動する<br><br>ターン経過でスピードとブレイクゲージ削減耐性が上昇する<br>ブレイクするたびにスピードとブレイクゲージ上昇効果が減少する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""

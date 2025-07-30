@@ -152,6 +152,21 @@
         "resourceName": "3100",
         "isAutoUnlocked": false,
         "advMstId": 70000103
+      },
+      {
+        "collectionIllustMstId": 5100,
+        "name": "scene0",
+        "illustrator": "",
+        "source": "",
+        "questMapMstId": 5,
+        "completeRewardCardMstId": 5100031,
+        "completeRewardStyleMstId": 0,
+        "completeRewardGemNum": 1000,
+        "completeHomeAppealMstId": 0,
+        "expandCelestialGlobe": false,
+        "resourceName": "5100",
+        "isAutoUnlocked": false,
+        "advMstId": 70000242
       }
     ]
   }

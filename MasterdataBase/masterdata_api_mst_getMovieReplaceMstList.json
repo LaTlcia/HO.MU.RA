@@ -428,6 +428,14 @@
         "bgmOffEnglishPath": "Movie/3DMovie/mv6020_en_bgmoff"
       },
       {
+        "movieReplaceMstId": 54,
+        "path": "Movie/3DMovie/mv4046",
+        "isStreamable": false,
+        "bgmOffPath": "Movie/3DMovie/mv4046_bgmoff",
+        "englishPath": "Movie/3DMovie/mv4046_en",
+        "bgmOffEnglishPath": "Movie/3DMovie/mv4046_en_bgmoff"
+      },
+      {
         "movieReplaceMstId": 55,
         "path": "Movie/2DMovie/mv_r9999",
         "isStreamable": false,

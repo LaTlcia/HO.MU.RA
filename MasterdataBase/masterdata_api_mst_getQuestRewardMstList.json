@@ -948,6 +948,54 @@
         "num": 1
       },
       {
+        "questRewardMstId": 706000,
+        "rewardGroupId": 706000,
+        "sortOrder": 1,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 30
+      },
+      {
+        "questRewardMstId": 706001,
+        "rewardGroupId": 706000,
+        "sortOrder": 2,
+        "objectReceiveType": 15,
+        "objectId": 20104008,
+        "num": 1
+      },
+      {
+        "questRewardMstId": 707000,
+        "rewardGroupId": 707000,
+        "sortOrder": 1,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 30
+      },
+      {
+        "questRewardMstId": 707001,
+        "rewardGroupId": 707000,
+        "sortOrder": 2,
+        "objectReceiveType": 15,
+        "objectId": 20104009,
+        "num": 1
+      },
+      {
+        "questRewardMstId": 708000,
+        "rewardGroupId": 708000,
+        "sortOrder": 1,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 30
+      },
+      {
+        "questRewardMstId": 708001,
+        "rewardGroupId": 708000,
+        "sortOrder": 2,
+        "objectReceiveType": 15,
+        "objectId": 20104010,
+        "num": 1
+      },
+      {
         "questRewardMstId": 1010101,
         "rewardGroupId": 10101,
         "sortOrder": 1,
@@ -3996,6 +4044,14 @@
         "num": 1
       },
       {
+        "questRewardMstId": 4100020,
+        "rewardGroupId": 4100020,
+        "sortOrder": 1,
+        "objectReceiveType": 4,
+        "objectId": 4100020,
+        "num": 1
+      },
+      {
         "questRewardMstId": 5100028,
         "rewardGroupId": 5100028,
         "sortOrder": 1,
@@ -4009,6 +4065,14 @@
         "sortOrder": 1,
         "objectReceiveType": 4,
         "objectId": 5100029,
+        "num": 1
+      },
+      {
+        "questRewardMstId": 5100030,
+        "rewardGroupId": 5100030,
+        "sortOrder": 1,
+        "objectReceiveType": 4,
+        "objectId": 5100030,
         "num": 1
       },
       {
@@ -5473,6 +5537,14 @@
         "sortOrder": 1,
         "objectReceiveType": 4,
         "objectId": 5400019,
+        "num": 1
+      },
+      {
+        "questRewardMstId": 5400020,
+        "rewardGroupId": 5400020,
+        "sortOrder": 1,
+        "objectReceiveType": 4,
+        "objectId": 5400020,
         "num": 1
       },
       {

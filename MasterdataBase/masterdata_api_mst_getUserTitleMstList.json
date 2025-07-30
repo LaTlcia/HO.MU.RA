@@ -460,6 +460,24 @@
         "value1": 0
       },
       {
+        "userTitleMstId": 20104008,
+        "title": "影の魔女 Chaosクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20104009,
+        "title": "犬の魔女 Chaosクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20104010,
+        "title": "人魚の魔女 Chaosクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
         "userTitleMstId": 20201001,
         "title": "砂場の魔女 Mainクリア",
         "titleType": 0,
@@ -546,6 +564,24 @@
       {
         "userTitleMstId": 20303001,
         "title": "針の魔女 Nightmareクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20401001,
+        "title": "scene0前編 Mainクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20402001,
+        "title": "scene0前編 Battleクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20403001,
+        "title": "scene0前編 Nightmareクリア",
         "titleType": 0,
         "value1": 0
       },

@@ -244,6 +244,18 @@
         "advMstId": 70000055
       },
       {
+        "fieldSeriesMstId": 65500,
+        "name": "愛生まばゆの記憶 前編",
+        "questMapMstId": 5,
+        "questGroupMstId": 65500,
+        "styleMstId": 0,
+        "assetbundleName": "65500_01",
+        "startTime": "2025-07-23T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 70000235
+      },
+      {
         "fieldSeriesMstId": 70000,
         "name": "薔薇園の魔女",
         "questMapMstId": 6,
@@ -311,6 +323,42 @@
         "styleMstId": 0,
         "assetbundleName": "60500_01",
         "startTime": "2025-06-26T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 0
+      },
+      {
+        "fieldSeriesMstId": 70600,
+        "name": "影の魔女",
+        "questMapMstId": 6,
+        "questGroupMstId": 70600,
+        "styleMstId": 0,
+        "assetbundleName": "60600_01",
+        "startTime": "2025-07-23T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 0
+      },
+      {
+        "fieldSeriesMstId": 70700,
+        "name": "犬の魔女",
+        "questMapMstId": 6,
+        "questGroupMstId": 70700,
+        "styleMstId": 0,
+        "assetbundleName": "60700_01",
+        "startTime": "2025-07-23T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 0
+      },
+      {
+        "fieldSeriesMstId": 70800,
+        "name": "人魚の魔女",
+        "questMapMstId": 6,
+        "questGroupMstId": 70800,
+        "styleMstId": 0,
+        "assetbundleName": "60800_01",
+        "startTime": "2025-07-23T12:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
         "sortOrder": 1,
         "advMstId": 0

@@ -674,6 +674,78 @@
         "conditionGroupId2": 0,
         "advMstId1": 70000228,
         "advMstId2": 70000096
+      },
+      {
+        "collectionConditionGroupMstId": 94,
+        "fieldSeriesMstId": 65500,
+        "conditionGroupId1": 5014,
+        "conditionGroupId2": 5011,
+        "advMstId1": 70000236,
+        "advMstId2": 70000237
+      },
+      {
+        "collectionConditionGroupMstId": 95,
+        "fieldSeriesMstId": 65500,
+        "conditionGroupId1": 5001,
+        "conditionGroupId2": 5004,
+        "advMstId1": 70000238,
+        "advMstId2": 70000239
+      },
+      {
+        "collectionConditionGroupMstId": 96,
+        "fieldSeriesMstId": 65500,
+        "conditionGroupId1": 5009,
+        "conditionGroupId2": 5018,
+        "advMstId1": 70000240,
+        "advMstId2": 70000241
+      },
+      {
+        "collectionConditionGroupMstId": 97,
+        "fieldSeriesMstId": 0,
+        "conditionGroupId1": 5007,
+        "conditionGroupId2": 5010,
+        "advMstId1": 70000221,
+        "advMstId2": 70000093
+      },
+      {
+        "collectionConditionGroupMstId": 98,
+        "fieldSeriesMstId": 0,
+        "conditionGroupId1": 5012,
+        "conditionGroupId2": 5003,
+        "advMstId1": 70000221,
+        "advMstId2": 70000093
+      },
+      {
+        "collectionConditionGroupMstId": 99,
+        "fieldSeriesMstId": 0,
+        "conditionGroupId1": 5006,
+        "conditionGroupId2": 5015,
+        "advMstId1": 70000221,
+        "advMstId2": 70000093
+      },
+      {
+        "collectionConditionGroupMstId": 100,
+        "fieldSeriesMstId": 0,
+        "conditionGroupId1": 5016,
+        "conditionGroupId2": 5013,
+        "advMstId1": 70000221,
+        "advMstId2": 70000093
+      },
+      {
+        "collectionConditionGroupMstId": 101,
+        "fieldSeriesMstId": 0,
+        "conditionGroupId1": 5017,
+        "conditionGroupId2": 5002,
+        "advMstId1": 70000221,
+        "advMstId2": 70000093
+      },
+      {
+        "collectionConditionGroupMstId": 102,
+        "fieldSeriesMstId": 0,
+        "conditionGroupId1": 5005,
+        "conditionGroupId2": 5008,
+        "advMstId1": 70000221,
+        "advMstId2": 70000093
       }
     ]
   }

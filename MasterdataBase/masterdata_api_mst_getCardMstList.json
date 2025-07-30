@@ -327,6 +327,23 @@
         "releaseTime": "2025-05-16T15:00:00+09:00"
       },
       {
+        "cardMstId": 4100020,
+        "name": "運命共同体",
+        "illustrator": "",
+        "source": "",
+        "rarity": 4,
+        "element": 0,
+        "passiveSkill1": 4082,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_01_03_0001",
+        "characterMstId": 0,
+        "unlockTypeCsv": "1",
+        "unlockIdCsv": "0",
+        "advPosition": 0,
+        "releaseTime": "2025-07-23T12:00:00+09:00"
+      },
+      {
         "cardMstId": 4200001,
         "name": "その背中に目を奪われて",
         "illustrator": "",
@@ -1874,6 +1891,40 @@
         "releaseTime": "2025-05-16T15:00:00+09:00"
       },
       {
+        "cardMstId": 5100030,
+        "name": "まばゆの未来改変オープニング編",
+        "illustrator": "",
+        "source": "",
+        "rarity": 5,
+        "element": 0,
+        "passiveSkill1": 5049,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_00_03_0001",
+        "characterMstId": 0,
+        "unlockTypeCsv": "1",
+        "unlockIdCsv": "0",
+        "advPosition": 0,
+        "releaseTime": "2025-07-23T12:00:00+09:00"
+      },
+      {
+        "cardMstId": 5100031,
+        "name": "歩めぬ未来を見送って",
+        "illustrator": "",
+        "source": "",
+        "rarity": 5,
+        "element": 0,
+        "passiveSkill1": 5050,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_06_03_0001",
+        "characterMstId": 0,
+        "unlockTypeCsv": "6",
+        "unlockIdCsv": "0",
+        "advPosition": 0,
+        "releaseTime": "2025-07-23T12:00:00+09:00"
+      },
+      {
         "cardMstId": 5400001,
         "name": "薔薇園の魔女の手下",
         "illustrator": "",
@@ -2195,6 +2246,23 @@
         "unlockIdCsv": "0",
         "advPosition": 0,
         "releaseTime": "2025-05-16T15:00:00+09:00"
+      },
+      {
+        "cardMstId": 5400020,
+        "name": "牛の魔女",
+        "illustrator": "",
+        "source": "",
+        "rarity": 5,
+        "element": 0,
+        "passiveSkill1": 5051,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_07_03_0001",
+        "characterMstId": 0,
+        "unlockTypeCsv": "1",
+        "unlockIdCsv": "0",
+        "advPosition": 0,
+        "releaseTime": "2025-07-23T12:00:00+09:00"
       },
       {
         "cardMstId": 9900001,

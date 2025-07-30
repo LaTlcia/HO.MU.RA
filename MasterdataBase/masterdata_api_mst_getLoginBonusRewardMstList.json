@@ -1122,6 +1122,86 @@
         "objectReceiveType": 6,
         "objectId": 121003,
         "num": 1
+      },
+      {
+        "loginBonusRewardMstId": 17001,
+        "loginBonusMstId": 17,
+        "dayCount": 1,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 100000
+      },
+      {
+        "loginBonusRewardMstId": 17002,
+        "loginBonusMstId": 17,
+        "dayCount": 2,
+        "objectReceiveType": 5,
+        "objectId": 232001,
+        "num": 2
+      },
+      {
+        "loginBonusRewardMstId": 17003,
+        "loginBonusMstId": 17,
+        "dayCount": 3,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 2500
+      },
+      {
+        "loginBonusRewardMstId": 17004,
+        "loginBonusMstId": 17,
+        "dayCount": 4,
+        "objectReceiveType": 5,
+        "objectId": 232001,
+        "num": 2
+      },
+      {
+        "loginBonusRewardMstId": 17005,
+        "loginBonusMstId": 17,
+        "dayCount": 5,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 100000
+      },
+      {
+        "loginBonusRewardMstId": 17006,
+        "loginBonusMstId": 17,
+        "dayCount": 6,
+        "objectReceiveType": 5,
+        "objectId": 232001,
+        "num": 2
+      },
+      {
+        "loginBonusRewardMstId": 17007,
+        "loginBonusMstId": 17,
+        "dayCount": 7,
+        "objectReceiveType": 6,
+        "objectId": 121001,
+        "num": 2500
+      },
+      {
+        "loginBonusRewardMstId": 17008,
+        "loginBonusMstId": 17,
+        "dayCount": 8,
+        "objectReceiveType": 5,
+        "objectId": 232001,
+        "num": 2
+      },
+      {
+        "loginBonusRewardMstId": 17009,
+        "loginBonusMstId": 17,
+        "dayCount": 9,
+        "objectReceiveType": 6,
+        "objectId": 124001,
+        "num": 100000
+      },
+      {
+        "loginBonusRewardMstId": 17010,
+        "loginBonusMstId": 17,
+        "dayCount": 10,
+        "objectReceiveType": 5,
+        "objectId": 232001,
+        "num": 2
       }
     ]
   }

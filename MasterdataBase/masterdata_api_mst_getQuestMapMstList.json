@@ -28,6 +28,14 @@
         "openEffectFlagMiniTutorialNumber": 33
       },
       {
+        "questMapMstId": 5,
+        "questCategoryMstId": 1,
+        "name": "魔法少女まどか☆マギカ scene0",
+        "conditionGroupId": 0,
+        "openFlagMiniTutorialNumber": 84,
+        "openEffectFlagMiniTutorialNumber": 85
+      },
+      {
         "questMapMstId": 6,
         "questCategoryMstId": 1,
         "name": "Chaos",
