@@ -1780,6 +1780,38 @@
         "isDescriptionHidden": false
       },
       {
+        "questEnemySkillSetMstId": 101500700,
+        "enemySkillSetId": 1015007,
+        "skillMstId": 1015015,
+        "weightValue": -1,
+        "hpGaugeValue": 0,
+        "isDescriptionHidden": false
+      },
+      {
+        "questEnemySkillSetMstId": 101500701,
+        "enemySkillSetId": 1015007,
+        "skillMstId": 1015016,
+        "weightValue": 100,
+        "hpGaugeValue": 0,
+        "isDescriptionHidden": false
+      },
+      {
+        "questEnemySkillSetMstId": 101500800,
+        "enemySkillSetId": 1015008,
+        "skillMstId": 1015017,
+        "weightValue": -1,
+        "hpGaugeValue": 0,
+        "isDescriptionHidden": false
+      },
+      {
+        "questEnemySkillSetMstId": 101500801,
+        "enemySkillSetId": 1015008,
+        "skillMstId": 1015018,
+        "weightValue": 100,
+        "hpGaugeValue": 0,
+        "isDescriptionHidden": false
+      },
+      {
         "questEnemySkillSetMstId": 101600100,
         "enemySkillSetId": 1016001,
         "skillMstId": 1016001,
@@ -1866,6 +1898,14 @@
         "weightValue": -1,
         "hpGaugeValue": 0,
         "isDescriptionHidden": true
+      },
+      {
+        "questEnemySkillSetMstId": 101700300,
+        "enemySkillSetId": 1017003,
+        "skillMstId": 1017008,
+        "weightValue": 100,
+        "hpGaugeValue": 0,
+        "isDescriptionHidden": false
       },
       {
         "questEnemySkillSetMstId": 101800100,
@@ -5676,6 +5716,54 @@
         "isDescriptionHidden": false
       },
       {
+        "questEnemySkillSetMstId": 200500500,
+        "enemySkillSetId": 2005005,
+        "skillMstId": 2005019,
+        "weightValue": -1,
+        "hpGaugeValue": 0,
+        "isDescriptionHidden": false
+      },
+      {
+        "questEnemySkillSetMstId": 200500501,
+        "enemySkillSetId": 2005005,
+        "skillMstId": 2005020,
+        "weightValue": 20,
+        "hpGaugeValue": 0,
+        "isDescriptionHidden": false
+      },
+      {
+        "questEnemySkillSetMstId": 200500502,
+        "enemySkillSetId": 2005005,
+        "skillMstId": 2005021,
+        "weightValue": 20,
+        "hpGaugeValue": 0,
+        "isDescriptionHidden": false
+      },
+      {
+        "questEnemySkillSetMstId": 200500503,
+        "enemySkillSetId": 2005005,
+        "skillMstId": 2005022,
+        "weightValue": 20,
+        "hpGaugeValue": 0,
+        "isDescriptionHidden": false
+      },
+      {
+        "questEnemySkillSetMstId": 200500504,
+        "enemySkillSetId": 2005005,
+        "skillMstId": 2005023,
+        "weightValue": 20,
+        "hpGaugeValue": 0,
+        "isDescriptionHidden": false
+      },
+      {
+        "questEnemySkillSetMstId": 200500505,
+        "enemySkillSetId": 2005005,
+        "skillMstId": 2005024,
+        "weightValue": 20,
+        "hpGaugeValue": 0,
+        "isDescriptionHidden": false
+      },
+      {
         "questEnemySkillSetMstId": 200600100,
         "enemySkillSetId": 2006001,
         "skillMstId": 2006002,
@@ -5871,6 +5959,30 @@
         "questEnemySkillSetMstId": 200700302,
         "enemySkillSetId": 2007003,
         "skillMstId": 2007014,
+        "weightValue": -1,
+        "hpGaugeValue": 0,
+        "isDescriptionHidden": false
+      },
+      {
+        "questEnemySkillSetMstId": 200700400,
+        "enemySkillSetId": 2007004,
+        "skillMstId": 2007015,
+        "weightValue": 100,
+        "hpGaugeValue": 0,
+        "isDescriptionHidden": false
+      },
+      {
+        "questEnemySkillSetMstId": 200700401,
+        "enemySkillSetId": 2007004,
+        "skillMstId": 2007016,
+        "weightValue": -1,
+        "hpGaugeValue": 0,
+        "isDescriptionHidden": false
+      },
+      {
+        "questEnemySkillSetMstId": 200700402,
+        "enemySkillSetId": 2007004,
+        "skillMstId": 2007017,
         "weightValue": -1,
         "hpGaugeValue": 0,
         "isDescriptionHidden": false

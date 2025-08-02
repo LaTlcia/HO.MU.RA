@@ -4924,6 +4924,66 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 408301,
+        "skillUniqueId": 4083,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "HP回復量+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408302,
+        "skillUniqueId": 4083,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "HP回復量+9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408303,
+        "skillUniqueId": 4083,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "HP回復量+10.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408304,
+        "skillUniqueId": 4083,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "HP回復量+12%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408305,
+        "skillUniqueId": 4083,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "HP回復量+13.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408306,
+        "skillUniqueId": 4083,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "HP回復量+15%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 500101,
         "skillUniqueId": 5001,
         "level": 1,
@@ -10739,6 +10799,26 @@
         "level": 1,
         "name": "夏なんだもの、刺激は必要よね",
         "description": "通常攻撃を発動したときシールド(10%/1回)を付与する。<br>魔力が5のとき木属性与ダメージ+25%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1150028,
+        "skillUniqueId": 1150028,
+        "level": 1,
+        "name": "あたしの夏休みはまだまだこれからってね！",
+        "description": "水刃の与えるダメージ+25%<br>通常攻撃を発動したとき行動順+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1150029,
+        "skillUniqueId": 1150029,
+        "level": 1,
+        "name": "夏の思い出を守るためにも",
+        "description": "シールドが付与されている自身または味方の弱点属性に与えるダメージ+15%、HP回復量+20%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -17244,6 +17324,206 @@
         "skillButtonIcon": "battle_icon_passive_additional_attack"
       },
       {
+        "passiveSkillMstId": 1503001,
+        "skillUniqueId": 15030,
+        "level": 1,
+        "name": "アサルトブラスト",
+        "description": "水刃状態の敵がいるとき与えるダメージ+20%。<br>自身が通常攻撃、戦闘スキル、必殺技で敵を攻撃した回数に応じて攻撃力+2%(累積15回/単体の攻撃回数が対象)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503002,
+        "skillUniqueId": 15030,
+        "level": 2,
+        "name": "アサルトブラスト",
+        "description": "水刃状態の敵がいるとき与えるダメージ+21%。<br>自身が通常攻撃、戦闘スキル、必殺技で敵を攻撃した回数に応じて攻撃力+2%(累積15回/単体の攻撃回数が対象)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503003,
+        "skillUniqueId": 15030,
+        "level": 3,
+        "name": "アサルトブラスト",
+        "description": "水刃状態の敵がいるとき与えるダメージ+22%。<br>自身が通常攻撃、戦闘スキル、必殺技で敵を攻撃した回数に応じて攻撃力+2%(累積15回/単体の攻撃回数が対象)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503004,
+        "skillUniqueId": 15030,
+        "level": 4,
+        "name": "アサルトブラスト",
+        "description": "水刃状態の敵がいるとき与えるダメージ+23%。<br>自身が通常攻撃、戦闘スキル、必殺技で敵を攻撃した回数に応じて攻撃力+2%(累積15回/単体の攻撃回数が対象)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503005,
+        "skillUniqueId": 15030,
+        "level": 5,
+        "name": "アサルトブラスト",
+        "description": "水刃状態の敵がいるとき与えるダメージ+24%。<br>自身が通常攻撃、戦闘スキル、必殺技で敵を攻撃した回数に応じて攻撃力+2%(累積15回/単体の攻撃回数が対象)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503006,
+        "skillUniqueId": 15030,
+        "level": 6,
+        "name": "アサルトブラスト",
+        "description": "水刃状態の敵がいるとき与えるダメージ+25%。<br>自身が通常攻撃、戦闘スキル、必殺技で敵を攻撃した回数に応じて攻撃力+2%(累積15回/単体の攻撃回数が対象)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503007,
+        "skillUniqueId": 15030,
+        "level": 7,
+        "name": "アサルトブラスト",
+        "description": "水刃状態の敵がいるとき与えるダメージ+26%。<br>自身が通常攻撃、戦闘スキル、必殺技で敵を攻撃した回数に応じて攻撃力+2%(累積15回/単体の攻撃回数が対象)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503008,
+        "skillUniqueId": 15030,
+        "level": 8,
+        "name": "アサルトブラスト",
+        "description": "水刃状態の敵がいるとき与えるダメージ+27%。<br>自身が通常攻撃、戦闘スキル、必殺技で敵を攻撃した回数に応じて攻撃力+2%(累積15回/単体の攻撃回数が対象)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503009,
+        "skillUniqueId": 15030,
+        "level": 9,
+        "name": "アサルトブラスト",
+        "description": "水刃状態の敵がいるとき与えるダメージ+28%。<br>自身が通常攻撃、戦闘スキル、必殺技で敵を攻撃した回数に応じて攻撃力+2%(累積15回/単体の攻撃回数が対象)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503010,
+        "skillUniqueId": 15030,
+        "level": 10,
+        "name": "アサルトブラスト",
+        "description": "水刃状態の敵がいるとき与えるダメージ+30%。<br>自身が通常攻撃、戦闘スキル、必殺技で敵を攻撃した回数に応じて攻撃力+2%(累積15回/単体の攻撃回数が対象)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503101,
+        "skillUniqueId": 15031,
+        "level": 1,
+        "name": "チェイスシールド",
+        "description": "自身の最初のターン開始時に【援護】を発動する（バトル中1回のみ)。<br>バトル開始時に魔力0。魔力の最大値は5。<br><br>自身または味方が敵から攻撃された後にシールドが付与されているとき魔力+1(1回の行動につき最大1獲得)。<br>魔力が5になったとき【援護】を発動する。<br><br>【援護】<br>味方全体のHPを発動者のHP10%回復し、自身の行動順+5%。<br>味方全体にシールド(20%/3回)を付与する。<br>魔力-5",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503102,
+        "skillUniqueId": 15031,
+        "level": 2,
+        "name": "チェイスシールド",
+        "description": "自身の最初のターン開始時に【援護】を発動する（バトル中1回のみ)。<br>バトル開始時に魔力0。魔力の最大値は5。<br><br>自身または味方が敵から攻撃された後にシールドが付与されているとき魔力+1(1回の行動につき最大1獲得)。<br>魔力が5になったとき【援護】を発動する。<br><br>【援護】<br>味方全体のHPを発動者のHP10%回復し、自身の行動順+6%。<br>味方全体にシールド(20%/3回)を付与する。<br>魔力-5",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503103,
+        "skillUniqueId": 15031,
+        "level": 3,
+        "name": "チェイスシールド",
+        "description": "自身の最初のターン開始時に【援護】を発動する（バトル中1回のみ)。<br>バトル開始時に魔力0。魔力の最大値は5。<br><br>自身または味方が敵から攻撃された後にシールドが付与されているとき魔力+1(1回の行動につき最大1獲得)。<br>魔力が5になったとき【援護】を発動する。<br><br>【援護】<br>味方全体のHPを発動者のHP10%回復し、自身の行動順+7%。<br>味方全体にシールド(20%/3回)を付与する。<br>魔力-5",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503104,
+        "skillUniqueId": 15031,
+        "level": 4,
+        "name": "チェイスシールド",
+        "description": "自身の最初のターン開始時に【援護】を発動する（バトル中1回のみ)。<br>バトル開始時に魔力0。魔力の最大値は5。<br><br>自身または味方が敵から攻撃された後にシールドが付与されているとき魔力+1(1回の行動につき最大1獲得)。<br>魔力が5になったとき【援護】を発動する。<br><br>【援護】<br>味方全体のHPを発動者のHP10%回復し、自身の行動順+8%。<br>味方全体にシールド(20%/3回)を付与する。<br>魔力-5",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503105,
+        "skillUniqueId": 15031,
+        "level": 5,
+        "name": "チェイスシールド",
+        "description": "自身の最初のターン開始時に【援護】を発動する（バトル中1回のみ)。<br>バトル開始時に魔力0。魔力の最大値は5。<br><br>自身または味方が敵から攻撃された後にシールドが付与されているとき魔力+1(1回の行動につき最大1獲得)。<br>魔力が5になったとき【援護】を発動する。<br><br>【援護】<br>味方全体のHPを発動者のHP10%回復し、自身の行動順+9%。<br>味方全体にシールド(20%/3回)を付与する。<br>魔力-5",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503106,
+        "skillUniqueId": 15031,
+        "level": 6,
+        "name": "チェイスシールド",
+        "description": "自身の最初のターン開始時に【援護】を発動する（バトル中1回のみ)。<br>バトル開始時に魔力0。魔力の最大値は5。<br><br>自身または味方が敵から攻撃された後にシールドが付与されているとき魔力+1(1回の行動につき最大1獲得)。<br>魔力が5になったとき【援護】を発動する。<br><br>【援護】<br>味方全体のHPを発動者のHP10%回復し、自身の行動順+10%。<br>味方全体にシールド(20%/3回)を付与する。<br>魔力-5",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503107,
+        "skillUniqueId": 15031,
+        "level": 7,
+        "name": "チェイスシールド",
+        "description": "自身の最初のターン開始時に【援護】を発動する（バトル中1回のみ)。<br>バトル開始時に魔力0。魔力の最大値は5。<br><br>自身または味方が敵から攻撃された後にシールドが付与されているとき魔力+1(1回の行動につき最大1獲得)。<br>魔力が5になったとき【援護】を発動する。<br><br>【援護】<br>味方全体のHPを発動者のHP10%回復し、自身の行動順+11%。<br>味方全体にシールド(20%/3回)を付与する。<br>魔力-5",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503108,
+        "skillUniqueId": 15031,
+        "level": 8,
+        "name": "チェイスシールド",
+        "description": "自身の最初のターン開始時に【援護】を発動する（バトル中1回のみ)。<br>バトル開始時に魔力0。魔力の最大値は5。<br><br>自身または味方が敵から攻撃された後にシールドが付与されているとき魔力+1(1回の行動につき最大1獲得)。<br>魔力が5になったとき【援護】を発動する。<br><br>【援護】<br>味方全体のHPを発動者のHP10%回復し、自身の行動順+12%。<br>味方全体にシールド(20%/3回)を付与する。<br>魔力-5",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503109,
+        "skillUniqueId": 15031,
+        "level": 9,
+        "name": "チェイスシールド",
+        "description": "自身の最初のターン開始時に【援護】を発動する（バトル中1回のみ)。<br>バトル開始時に魔力0。魔力の最大値は5。<br><br>自身または味方が敵から攻撃された後にシールドが付与されているとき魔力+1(1回の行動につき最大1獲得)。<br>魔力が5になったとき【援護】を発動する。<br><br>【援護】<br>味方全体のHPを発動者のHP10%回復し、自身の行動順+13%。<br>味方全体にシールド(20%/3回)を付与する。<br>魔力-5",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503110,
+        "skillUniqueId": 15031,
+        "level": 10,
+        "name": "チェイスシールド",
+        "description": "自身の最初のターン開始時に【援護】を発動する（バトル中1回のみ)。<br>バトル開始時に魔力0。魔力の最大値は5。<br><br>自身または味方が敵から攻撃された後にシールドが付与されているとき魔力+1(1回の行動につき最大1獲得)。<br>魔力が5になったとき【援護】を発動する。<br><br>【援護】<br>味方全体のHPを発動者のHP10%回復し、自身の行動順+15%。<br>味方全体にシールド(20%/3回)を付与する。<br>魔力-5",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
         "passiveSkillMstId": 2001001,
         "skillUniqueId": 2001001,
         "level": 1,
@@ -19134,6 +19414,16 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 5001070,
+        "skillUniqueId": 5001070,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>自身に状態異常が付与されていない場合、3回行動する<br>また、付与された状態異常の数に応じてブレイク中の被ダメージが上昇する<br><br>敵全体のバリア耐久値を著しく減少させる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 5002001,
         "skillUniqueId": 5002001,
         "level": 1,
@@ -19399,6 +19689,26 @@
         "level": 1,
         "name": "アビリティⅥ",
         "description": "2回行動する<br><br>ターン経過でスピードとブレイクゲージ削減耐性が上昇する<br>ブレイクするたびにスピードとブレイクゲージ上昇効果が減少する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 7001016,
+        "skillUniqueId": 7001016,
+        "level": 1,
+        "name": "アビリティⅥ",
+        "description": "ターン経過で防御力が上昇する<br>10ターン経過毎に効果量がさらに上昇する<br>持続ダメージをうけるたびに防御力上昇効果が減少する<br><br>味方が倒されるたびにブレイクゲージ削減耐性が減少する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 7001017,
+        "skillUniqueId": 7001017,
+        "level": 1,
+        "name": "アビリティⅥ",
+        "description": "持続ダメージを受けた次のターンの行動が変化する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -20489,6 +20799,26 @@
         "level": 1,
         "name": "限界突破効果",
         "description": "バトル開始時魔力+3、シールド(20%/2回)を付与する。<br>シールドが付与されているときMP回復効率+15%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 8504401,
+        "skillUniqueId": 85044,
+        "level": 1,
+        "name": "限界突破効果",
+        "description": "自身が通常攻撃、戦闘スキル、必殺技で敵を攻撃した回数に応じた攻撃力上昇の累積数+1<br>敵がブレイクしたとき攻撃力+10%(2ターン)、スピード+10%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 8504501,
+        "skillUniqueId": 85045,
+        "level": 1,
+        "name": "限界突破効果",
+        "description": "バトル開始時に自身の行動順+30%。<br>【援護】を発動したときHP回復量+20%(2ターン)、スピード+20%(2ターン)",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -26991,6 +27321,206 @@
         "description": "【アタッカーに装備時】<br>弱点属性に対して与えるダメージ+25%、戦闘スキルを発動したとき自身にシールド(10%/1回)を付与する。",
         "conditionElement": 0,
         "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502901,
+        "skillUniqueId": 95029,
+        "level": 1,
+        "name": "ブラストヘイスト",
+        "description": "【デバッファーに装備時】<br>持続ダメージで与えるダメージ+5%。<br>敵全体のデバフ効果が3個以上のときスピード+5%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502902,
+        "skillUniqueId": 95029,
+        "level": 2,
+        "name": "ブラストヘイスト",
+        "description": "【デバッファーに装備時】<br>持続ダメージで与えるダメージ+6%。<br>敵全体のデバフ効果が3個以上のときスピード+6%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502903,
+        "skillUniqueId": 95029,
+        "level": 3,
+        "name": "ブラストヘイスト",
+        "description": "【デバッファーに装備時】<br>持続ダメージで与えるダメージ+7%。<br>敵全体のデバフ効果が3個以上のときスピード+7%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502904,
+        "skillUniqueId": 95029,
+        "level": 4,
+        "name": "ブラストヘイスト",
+        "description": "【デバッファーに装備時】<br>持続ダメージで与えるダメージ+8%。<br>敵全体のデバフ効果が3個以上のときスピード+8%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502905,
+        "skillUniqueId": 95029,
+        "level": 5,
+        "name": "ブラストヘイスト",
+        "description": "【デバッファーに装備時】<br>持続ダメージで与えるダメージ+9%。<br>敵全体のデバフ効果が3個以上のときスピード+9%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502906,
+        "skillUniqueId": 95029,
+        "level": 6,
+        "name": "ブラストヘイスト",
+        "description": "【デバッファーに装備時】<br>持続ダメージで与えるダメージ+10%。<br>敵全体のデバフ効果が3個以上のときスピード+10%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502907,
+        "skillUniqueId": 95029,
+        "level": 7,
+        "name": "ブラストヘイスト",
+        "description": "【デバッファーに装備時】<br>持続ダメージで与えるダメージ+11%。<br>敵全体のデバフ効果が3個以上のときスピード+11%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502908,
+        "skillUniqueId": 95029,
+        "level": 8,
+        "name": "ブラストヘイスト",
+        "description": "【デバッファーに装備時】<br>持続ダメージで与えるダメージ+12%。<br>敵全体のデバフ効果が3個以上のときスピード+12%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502909,
+        "skillUniqueId": 95029,
+        "level": 9,
+        "name": "ブラストヘイスト",
+        "description": "【デバッファーに装備時】<br>持続ダメージで与えるダメージ+13%。<br>敵全体のデバフ効果が3個以上のときスピード+13%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9502910,
+        "skillUniqueId": 95029,
+        "level": 10,
+        "name": "ブラストヘイスト",
+        "description": "【デバッファーに装備時】<br>持続ダメージで与えるダメージ+15%。<br>敵全体のデバフ効果が3個以上のときスピード+15%",
+        "conditionElement": 0,
+        "conditionRole": 5,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503001,
+        "skillUniqueId": 95030,
+        "level": 1,
+        "name": "ヘイストタフネス",
+        "description": "【ヒーラーに装備時】<br>最大HP+5%、スピード+5%。<br>戦闘スキルを発動したとき弱点属性に与えるダメージ+8%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503002,
+        "skillUniqueId": 95030,
+        "level": 2,
+        "name": "ヘイストタフネス",
+        "description": "【ヒーラーに装備時】<br>最大HP+6%、スピード+5%。<br>戦闘スキルを発動したとき弱点属性に与えるダメージ+8%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503003,
+        "skillUniqueId": 95030,
+        "level": 3,
+        "name": "ヘイストタフネス",
+        "description": "【ヒーラーに装備時】<br>最大HP+6%、スピード+7%。<br>戦闘スキルを発動したとき弱点属性に与えるダメージ+8%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503004,
+        "skillUniqueId": 95030,
+        "level": 4,
+        "name": "ヘイストタフネス",
+        "description": "【ヒーラーに装備時】<br>最大HP+6%、スピード+7%。<br>戦闘スキルを発動したとき弱点属性に与えるダメージ+9%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503005,
+        "skillUniqueId": 95030,
+        "level": 5,
+        "name": "ヘイストタフネス",
+        "description": "【ヒーラーに装備時】<br>最大HP+7%、スピード+7%。<br>戦闘スキルを発動したとき弱点属性に与えるダメージ+9%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503006,
+        "skillUniqueId": 95030,
+        "level": 6,
+        "name": "ヘイストタフネス",
+        "description": "【ヒーラーに装備時】<br>最大HP+7%、スピード+8%。<br>戦闘スキルを発動したとき弱点属性に与えるダメージ+10%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503007,
+        "skillUniqueId": 95030,
+        "level": 7,
+        "name": "ヘイストタフネス",
+        "description": "【ヒーラーに装備時】<br>最大HP+7%、スピード+8%。<br>戦闘スキルを発動したとき弱点属性に与えるダメージ+11%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503008,
+        "skillUniqueId": 95030,
+        "level": 8,
+        "name": "ヘイストタフネス",
+        "description": "【ヒーラーに装備時】<br>最大HP+8%、スピード+9%。<br>戦闘スキルを発動したとき弱点属性に与えるダメージ+12%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503009,
+        "skillUniqueId": 95030,
+        "level": 9,
+        "name": "ヘイストタフネス",
+        "description": "【ヒーラーに装備時】<br>最大HP+9%、スピード+10%。<br>戦闘スキルを発動したとき弱点属性に与えるダメージ+13%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503010,
+        "skillUniqueId": 95030,
+        "level": 10,
+        "name": "ヘイストタフネス",
+        "description": "【ヒーラーに装備時】<br>最大HP+10%、スピード+12%。<br>戦闘スキルを発動したとき弱点属性に与えるダメージ+15%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 3,
         "skillButtonIcon": "battle_icon_supportpassive_buff"
       }
     ]

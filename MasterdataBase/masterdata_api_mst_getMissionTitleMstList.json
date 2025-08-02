@@ -79,6 +79,20 @@
         "title": "能力晶花実装記念ミッション",
         "priority": 12,
         "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5030,
+        "prevMissionTitleMstId": 0,
+        "title": "エターナルサマーデイズ 後編イベントミッション",
+        "priority": 25,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5031,
+        "prevMissionTitleMstId": 0,
+        "title": "サマーキャンペーンミッション",
+        "priority": 26,
+        "featuredRewardResourceName": ""
       }
     ]
   }

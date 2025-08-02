@@ -693,7 +693,7 @@
         "name": "???",
         "subTitle": "???",
         "difficulty": 1,
-        "prevFieldStageMstId": 620001,
+        "prevFieldStageMstId": 655001,
         "prevFieldStageMstId2": 0,
         "firstClearRewardGroupId": 102,
         "stageAssetbundleName": "",
@@ -706,7 +706,7 @@
         "subTitle": "???",
         "difficulty": 2,
         "prevFieldStageMstId": 621001,
-        "prevFieldStageMstId2": 620002,
+        "prevFieldStageMstId2": 655002,
         "firstClearRewardGroupId": 102,
         "stageAssetbundleName": "",
         "backgroundCardMstId": 4100019
@@ -718,7 +718,7 @@
         "subTitle": "???",
         "difficulty": 3,
         "prevFieldStageMstId": 621001,
-        "prevFieldStageMstId2": 620003,
+        "prevFieldStageMstId2": 655003,
         "firstClearRewardGroupId": 102,
         "stageAssetbundleName": "",
         "backgroundCardMstId": 5100029

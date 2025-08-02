@@ -289,6 +289,25 @@
         "soundMstId": 3000423
       },
       {
+        "storyEventMstId": 17,
+        "name": "エターナルサマーデイズ 後編",
+        "storyQuestGroupId": 1022,
+        "scoreAttackMstId": 6,
+        "maxPlayCountPerDay": 5,
+        "eventItemId": 201026,
+        "shopSeriesMstId": 3975,
+        "bonusStyleIds": "0",
+        "isEndPlayable": true,
+        "endDisplayTime": "2050-12-31T23:59:59+09:00",
+        "sortOrder": 9984,
+        "eventStartDirection": 1,
+        "topImageName": "18",
+        "bannerImageName": "banner_00108",
+        "bossCameraAssetName": "0",
+        "description": "楽しい夏休みを過ごしていたはずのまどかたち\nしかし、異変は気づかぬうちに彼女たちへと忍び寄っていた\nはたして、何が本当で何がウソなのか…\nそんなどうでもいいことは忘れて夏休みを楽しもう！",
+        "soundMstId": 3000423
+      },
+      {
         "storyEventMstId": 10000,
         "name": "焦らずゆっくり未来へ ～魔法少女に夢を見て～",
         "storyQuestGroupId": 1004,

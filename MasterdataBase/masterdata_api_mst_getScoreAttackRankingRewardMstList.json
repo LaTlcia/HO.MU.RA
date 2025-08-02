@@ -146,6 +146,30 @@
         "objectReceiveType": 5,
         "objectId": 370019,
         "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 19,
+        "groupId": 6,
+        "ranking": 10,
+        "objectReceiveType": 5,
+        "objectId": 370021,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 20,
+        "groupId": 6,
+        "ranking": 50,
+        "objectReceiveType": 5,
+        "objectId": 370022,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 21,
+        "groupId": 6,
+        "ranking": 100,
+        "objectReceiveType": 5,
+        "objectId": 370023,
+        "num": 1
       }
     ]
   }

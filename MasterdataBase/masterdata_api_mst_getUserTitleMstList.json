@@ -10,6 +10,12 @@
         "value1": 10010101
       },
       {
+        "userTitleMstId": 10010601,
+        "title": "プルウィア☆クララ",
+        "titleType": 1,
+        "value1": 10010601
+      },
+      {
         "userTitleMstId": 10010701,
         "title": "プルウィア☆マギカ",
         "titleType": 1,
@@ -44,6 +50,12 @@
         "title": "バルダメンテ・フォルティッシモ",
         "titleType": 1,
         "value1": 10040101
+      },
+      {
+        "userTitleMstId": 10040201,
+        "title": "メロディア・アパッショナータ",
+        "titleType": 1,
+        "value1": 10040201
       },
       {
         "userTitleMstId": 10050101,
@@ -776,6 +788,12 @@
         "title": "エターナルサマーデイズ 前編クリア",
         "titleType": 2,
         "value1": 4200026
+      },
+      {
+        "userTitleMstId": 60000014,
+        "title": "エターナルサマーデイズ 後編クリア",
+        "titleType": 2,
+        "value1": 4200027
       },
       {
         "userTitleMstId": 70000001,

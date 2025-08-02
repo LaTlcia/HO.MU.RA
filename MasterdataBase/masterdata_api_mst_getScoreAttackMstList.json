@@ -62,6 +62,18 @@
         "totalScoreRewardGroupId": 4,
         "rankingRewardGroupId": 5,
         "dioramaBackgroundMstId": 111411
+      },
+      {
+        "scoreAttackMstId": 6,
+        "name": "",
+        "startTime": "2025-08-01T12:00:00+09:00",
+        "endTime": "2025-08-19T11:59:59+09:00",
+        "comment": "ボスは3回行動ですが、状態異常を付与することで2回行動となります。<br>また、付与された状態異常の数に応じて最大3回までブレイク中に与えられるダメージが上昇します。<br>最大ダメージを狙うタイミングに合わせて状態異常を複数付与できるよう立ち回ると良いでしょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 6,
+        "totalScoreRewardGroupId": 5,
+        "rankingRewardGroupId": 6,
+        "dioramaBackgroundMstId": 110419
       }
     ]
   }

@@ -752,6 +752,23 @@
         "releaseTime": "2025-07-16T12:00:00+09:00"
       },
       {
+        "cardMstId": 4200027,
+        "name": "いずれは色あせる思い出",
+        "illustrator": "",
+        "source": "",
+        "rarity": 5,
+        "element": 0,
+        "passiveSkill1": 4083,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_04_00_0024",
+        "characterMstId": 0,
+        "unlockTypeCsv": "2",
+        "unlockIdCsv": "17",
+        "advPosition": 0,
+        "releaseTime": "2025-08-01T12:00:00+09:00"
+      },
+      {
         "cardMstId": 4300001,
         "name": "またね、ほむらちゃん",
         "illustrator": "",

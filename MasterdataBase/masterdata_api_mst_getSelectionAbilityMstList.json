@@ -3692,6 +3692,36 @@
         "styleMstId": 10030301,
         "resourceIconName": "battle_icon_selection_ability_ex",
         "sortOrder": 0
+      },
+      {
+        "selectionAbilityMstId": 7028,
+        "selectionAbilityType": 1,
+        "selectionAbilityEffectId": 112,
+        "rarity": 4,
+        "targetType": 2,
+        "name": "あたしの夏休みはまだまだこれからってね！",
+        "description": "水刃の与えるダメージ+25%<br>通常攻撃を発動したとき行動順+10%",
+        "abilityEffectType": "",
+        "value1": 1150028,
+        "value2": 0,
+        "styleMstId": 10040201,
+        "resourceIconName": "battle_icon_selection_ability_ex",
+        "sortOrder": 0
+      },
+      {
+        "selectionAbilityMstId": 7029,
+        "selectionAbilityType": 1,
+        "selectionAbilityEffectId": 113,
+        "rarity": 4,
+        "targetType": 2,
+        "name": "夏の思い出を守るためにも",
+        "description": "シールドが付与されている自身または味方の弱点属性に与えるダメージ+15%、HP回復量+20%",
+        "abilityEffectType": "",
+        "value1": 1150029,
+        "value2": 0,
+        "styleMstId": 10010601,
+        "resourceIconName": "battle_icon_selection_ability_ex",
+        "sortOrder": 0
       }
     ]
   }

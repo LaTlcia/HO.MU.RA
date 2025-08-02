@@ -7260,6 +7260,22 @@
         "compareValue": "40"
       },
       {
+        "battleConditionMstId": 913,
+        "description": "自分の状態異常数は1以上",
+        "compareTarget": 1,
+        "compareContent": 23,
+        "compareOperator": 4,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 914,
+        "description": "自分の状態異常数は2未満",
+        "compareTarget": 1,
+        "compareContent": 23,
+        "compareOperator": 5,
+        "compareValue": "2"
+      },
+      {
         "battleConditionMstId": 915,
         "description": "バトル開始から自分の行動が1回目",
         "compareTarget": 1,
@@ -7348,6 +7364,22 @@
         "compareValue": "POISON,2"
       },
       {
+        "battleConditionMstId": 926,
+        "description": "水刃の敵が1体以上いるとき",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 4,
+        "compareValue": "VORTEX,1"
+      },
+      {
+        "battleConditionMstId": 927,
+        "description": "味方にシールドが付与されているとき",
+        "compareTarget": 5,
+        "compareContent": 309,
+        "compareOperator": 4,
+        "compareValue": "SHIELD,1"
+      },
+      {
         "battleConditionMstId": 928,
         "description": "1ターン目",
         "compareTarget": 1,
@@ -7362,6 +7394,54 @@
         "compareContent": 1,
         "compareOperator": 5,
         "compareValue": "0"
+      },
+      {
+        "battleConditionMstId": 952,
+        "description": "自身に持続ダメージが発生したとき",
+        "compareTarget": 1,
+        "compareContent": 111,
+        "compareOperator": 1,
+        "compareValue": "TRUE"
+      },
+      {
+        "battleConditionMstId": 953,
+        "description": "自身のデバフ数が4以上",
+        "compareTarget": 1,
+        "compareContent": 25,
+        "compareOperator": 4,
+        "compareValue": "4"
+      },
+      {
+        "battleConditionMstId": 954,
+        "description": "自身のデバフ数が5以上",
+        "compareTarget": 1,
+        "compareContent": 25,
+        "compareOperator": 4,
+        "compareValue": "5"
+      },
+      {
+        "battleConditionMstId": 955,
+        "description": "自身のデバフ数が6以上",
+        "compareTarget": 1,
+        "compareContent": 25,
+        "compareOperator": 4,
+        "compareValue": "6"
+      },
+      {
+        "battleConditionMstId": 956,
+        "description": "自身のデバフ数が7以上",
+        "compareTarget": 1,
+        "compareContent": 25,
+        "compareOperator": 4,
+        "compareValue": "7"
+      },
+      {
+        "battleConditionMstId": 957,
+        "description": "自身のデバフ数が8以上",
+        "compareTarget": 1,
+        "compareContent": 25,
+        "compareOperator": 4,
+        "compareValue": "8"
       }
     ]
   }

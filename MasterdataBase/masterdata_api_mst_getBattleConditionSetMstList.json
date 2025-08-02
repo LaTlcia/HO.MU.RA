@@ -7889,6 +7889,56 @@
         "battleConditionMstIdCsv": "912"
       },
       {
+        "battleConditionSetMstId": 1585,
+        "description": "6ターンごと（1ターン目から） AND 連続行動の3回目",
+        "battleConditionMstIdCsv": "69,275"
+      },
+      {
+        "battleConditionSetMstId": 1586,
+        "description": "6ターンごと（2ターン目から） AND 連続行動の3回目",
+        "battleConditionMstIdCsv": "70,275"
+      },
+      {
+        "battleConditionSetMstId": 1587,
+        "description": "6ターンごと（3ターン目から） AND 連続行動の3回目",
+        "battleConditionMstIdCsv": "71,275"
+      },
+      {
+        "battleConditionSetMstId": 1588,
+        "description": "6ターンごと（4ターン目から） AND 連続行動の3回目",
+        "battleConditionMstIdCsv": "72,275"
+      },
+      {
+        "battleConditionSetMstId": 1589,
+        "description": "6ターンごと（5ターン目から） AND 連続行動の3回目",
+        "battleConditionMstIdCsv": "73,275"
+      },
+      {
+        "battleConditionSetMstId": 1590,
+        "description": "6ターンごと（6ターン目から） AND 連続行動の3回目",
+        "battleConditionMstIdCsv": "74,275"
+      },
+      {
+        "battleConditionSetMstId": 1591,
+        "description": "自身に状態異常が2つ付与されている場合 AND 自身がブレイク状態の場合",
+        "battleConditionMstIdCsv": "591,419"
+      },
+      {
+        "battleConditionSetMstId": 1592,
+        "description": "自分の状態異常数は1以上",
+        "battleConditionMstIdCsv": "913"
+      },
+      {
+        "battleConditionSetMstId": 1593,
+        "description": "自身に状態異常が1つ付与されている場合 AND 自身がブレイク状態の場合",
+        "battleConditionMstIdCsv": "590,419"
+      },
+      {
+        "battleConditionSetMstId": 1594,
+        "description": "自分の状態異常数は1以上 AND 自身がブレイク状態の場合",
+        "battleConditionMstIdCsv": "913,419"
+      },
+      {
         "battleConditionSetMstId": 1595,
         "description": "バトル開始から自分の行動が1回目",
         "battleConditionMstIdCsv": "915,3"
@@ -7934,9 +7984,64 @@
         "battleConditionMstIdCsv": "925,3"
       },
       {
+        "battleConditionSetMstId": 1604,
+        "description": "水刃の敵が1体以上いるとき",
+        "battleConditionMstIdCsv": "926"
+      },
+      {
+        "battleConditionSetMstId": 1605,
+        "description": "HPが100％のとき",
+        "battleConditionMstIdCsv": "898"
+      },
+      {
+        "battleConditionSetMstId": 1606,
+        "description": "攻撃された時+行動者は敵+自分にシールドが付与されているとき+味方にシールドが付与されているとき",
+        "battleConditionMstIdCsv": "927"
+      },
+      {
+        "battleConditionSetMstId": 1607,
+        "description": "1ターン目",
+        "battleConditionMstIdCsv": "928,3"
+      },
+      {
         "battleConditionSetMstId": 1608,
         "description": "自身のHPが0未満のとき",
         "battleConditionMstIdCsv": "929"
+      },
+      {
+        "battleConditionSetMstId": 1609,
+        "description": "自分の状態異常数は3以上 AND 自身がブレイク状態の場合",
+        "battleConditionMstIdCsv": "307,419"
+      },
+      {
+        "battleConditionSetMstId": 1633,
+        "description": "自身に持続ダメージが発生したとき",
+        "battleConditionMstIdCsv": "952"
+      },
+      {
+        "battleConditionSetMstId": 1634,
+        "description": "自身のデバフ数が4以上",
+        "battleConditionMstIdCsv": "953"
+      },
+      {
+        "battleConditionSetMstId": 1635,
+        "description": "自身のデバフ数が5以上",
+        "battleConditionMstIdCsv": "954"
+      },
+      {
+        "battleConditionSetMstId": 1636,
+        "description": "自身のデバフ数が6以上",
+        "battleConditionMstIdCsv": "955"
+      },
+      {
+        "battleConditionSetMstId": 1637,
+        "description": "自身のデバフ数が7以上",
+        "battleConditionMstIdCsv": "956"
+      },
+      {
+        "battleConditionSetMstId": 1638,
+        "description": "自身のデバフ数が8以上",
+        "battleConditionMstIdCsv": "957"
       }
     ]
   }
