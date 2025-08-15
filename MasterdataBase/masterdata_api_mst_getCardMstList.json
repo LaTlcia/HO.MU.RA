@@ -344,6 +344,23 @@
         "releaseTime": "2025-07-23T12:00:00+09:00"
       },
       {
+        "cardMstId": 4100021,
+        "name": "暗い砂の底に",
+        "illustrator": "",
+        "source": "",
+        "rarity": 4,
+        "element": 0,
+        "passiveSkill1": 4084,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_01_01_0005",
+        "characterMstId": 0,
+        "unlockTypeCsv": "1",
+        "unlockIdCsv": "0",
+        "advPosition": 0,
+        "releaseTime": "2025-08-15T12:00:00+09:00"
+      },
+      {
         "cardMstId": 4200001,
         "name": "その背中に目を奪われて",
         "illustrator": "",
@@ -767,6 +784,40 @@
         "unlockIdCsv": "17",
         "advPosition": 0,
         "releaseTime": "2025-08-01T12:00:00+09:00"
+      },
+      {
+        "cardMstId": 4200028,
+        "name": "ほっと☆コーナーは大繁盛！",
+        "illustrator": "",
+        "source": "",
+        "rarity": 5,
+        "element": 0,
+        "passiveSkill1": 4085,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_02_01_0005",
+        "characterMstId": 0,
+        "unlockTypeCsv": "2",
+        "unlockIdCsv": "18",
+        "advPosition": 0,
+        "releaseTime": "2025-08-15T12:00:00+09:00"
+      },
+      {
+        "cardMstId": 4200029,
+        "name": "戻らないあの頃",
+        "illustrator": "",
+        "source": "",
+        "rarity": 5,
+        "element": 0,
+        "passiveSkill1": 4086,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_02_01_0007",
+        "characterMstId": 0,
+        "unlockTypeCsv": "2",
+        "unlockIdCsv": "18",
+        "advPosition": 0,
+        "releaseTime": "2025-08-15T12:00:00+09:00"
       },
       {
         "cardMstId": 4300001,
@@ -1942,6 +1993,23 @@
         "releaseTime": "2025-07-23T12:00:00+09:00"
       },
       {
+        "cardMstId": 5100032,
+        "name": "束の間のご褒美",
+        "illustrator": "",
+        "source": "",
+        "rarity": 5,
+        "element": 0,
+        "passiveSkill1": 5052,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_00_01_0005",
+        "characterMstId": 0,
+        "unlockTypeCsv": "1",
+        "unlockIdCsv": "0",
+        "advPosition": 0,
+        "releaseTime": "2025-08-15T12:00:00+09:00"
+      },
+      {
         "cardMstId": 5400001,
         "name": "薔薇園の魔女の手下",
         "illustrator": "",
@@ -2280,6 +2348,23 @@
         "unlockIdCsv": "0",
         "advPosition": 0,
         "releaseTime": "2025-07-23T12:00:00+09:00"
+      },
+      {
+        "cardMstId": 5400021,
+        "name": "幸福な魔女",
+        "illustrator": "",
+        "source": "",
+        "rarity": 5,
+        "element": 0,
+        "passiveSkill1": 5053,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_07_01_0010",
+        "characterMstId": 0,
+        "unlockTypeCsv": "1",
+        "unlockIdCsv": "0",
+        "advPosition": 0,
+        "releaseTime": "2025-08-15T12:00:00+09:00"
       },
       {
         "cardMstId": 9900001,

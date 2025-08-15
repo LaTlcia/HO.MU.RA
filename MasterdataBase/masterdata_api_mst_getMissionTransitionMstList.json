@@ -448,6 +448,42 @@
         "transitionSceneParam": 0
       },
       {
+        "missionTransitionMstId": 3012026,
+        "missionMstId": 3012026,
+        "transitionSceneName": "MainQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 3012027,
+        "missionMstId": 3012027,
+        "transitionSceneName": "MainQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 3012028,
+        "missionMstId": 3012028,
+        "transitionSceneName": "MainQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 3012029,
+        "missionMstId": 3012029,
+        "transitionSceneName": "MainQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 3012030,
+        "missionMstId": 3012030,
+        "transitionSceneName": "MainQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 3012031,
+        "missionMstId": 3012031,
+        "transitionSceneName": "MainQuest",
+        "transitionSceneParam": 0
+      },
+      {
         "missionTransitionMstId": 3061001,
         "missionMstId": 3061001,
         "transitionSceneName": "PvP",
@@ -808,48 +844,6 @@
         "transitionSceneParam": 0
       },
       {
-        "missionTransitionMstId": 5026001,
-        "missionMstId": 5026001,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5026002,
-        "missionMstId": 5026002,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5026003,
-        "missionMstId": 5026003,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5026004,
-        "missionMstId": 5026004,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5026005,
-        "missionMstId": 5026005,
-        "transitionSceneName": "EnhanceQuest",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5026009,
-        "missionMstId": 5026009,
-        "transitionSceneName": "PvP",
-        "transitionSceneParam": 0
-      },
-      {
-        "missionTransitionMstId": 5026010,
-        "missionMstId": 5026010,
-        "transitionSceneName": "PvP",
-        "transitionSceneParam": 0
-      },
-      {
         "missionTransitionMstId": 5028005,
         "missionMstId": 5028005,
         "transitionSceneName": "MainQuest",
@@ -1111,6 +1105,90 @@
         "missionTransitionMstId": 5031019,
         "missionMstId": 5031019,
         "transitionSceneName": "PvP",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 5033005,
+        "missionMstId": 5033005,
+        "transitionSceneName": "EnhanceQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 5033006,
+        "missionMstId": 5033006,
+        "transitionSceneName": "EnhanceQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 5033007,
+        "missionMstId": 5033007,
+        "transitionSceneName": "EnhanceQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 5033008,
+        "missionMstId": 5033008,
+        "transitionSceneName": "EnhanceQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 5033009,
+        "missionMstId": 5033009,
+        "transitionSceneName": "EnhanceQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 5033010,
+        "missionMstId": 5033010,
+        "transitionSceneName": "EnhanceQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 5033011,
+        "missionMstId": 5033011,
+        "transitionSceneName": "EnhanceQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 5033012,
+        "missionMstId": 5033012,
+        "transitionSceneName": "EnhanceQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 5033013,
+        "missionMstId": 5033013,
+        "transitionSceneName": "EnhanceQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 5033014,
+        "missionMstId": 5033014,
+        "transitionSceneName": "EnhanceQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 5033015,
+        "missionMstId": 5033015,
+        "transitionSceneName": "EnhanceQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 5033016,
+        "missionMstId": 5033016,
+        "transitionSceneName": "MainQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 5033017,
+        "missionMstId": 5033017,
+        "transitionSceneName": "MainQuest",
+        "transitionSceneParam": 0
+      },
+      {
+        "missionTransitionMstId": 5033018,
+        "missionMstId": 5033018,
+        "transitionSceneName": "MainQuest",
         "transitionSceneParam": 0
       }
     ]

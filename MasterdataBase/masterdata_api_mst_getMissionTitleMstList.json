@@ -53,13 +53,6 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5026,
-        "prevMissionTitleMstId": 0,
-        "title": "100日感謝祭第2弾 ミッション第2弾",
-        "priority": 6,
-        "featuredRewardResourceName": ""
-      },
-      {
         "missionTitleMstId": 5027,
         "prevMissionTitleMstId": 0,
         "title": "エターナルサマーデイズ 前編イベントミッション",
@@ -91,6 +84,20 @@
         "missionTitleMstId": 5031,
         "prevMissionTitleMstId": 0,
         "title": "サマーキャンペーンミッション",
+        "priority": 26,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5032,
+        "prevMissionTitleMstId": 0,
+        "title": "調整屋さんの事件簿４イベントミッション",
+        "priority": 27,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5033,
+        "prevMissionTitleMstId": 0,
+        "title": "「マギアレコード編 第1部」終章開幕記念ミッション",
         "priority": 26,
         "featuredRewardResourceName": ""
       }

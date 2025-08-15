@@ -7396,6 +7396,182 @@
         "compareValue": "0"
       },
       {
+        "battleConditionMstId": 930,
+        "description": "対象のバフ数が0",
+        "compareTarget": 8,
+        "compareContent": 24,
+        "compareOperator": 1,
+        "compareValue": "0"
+      },
+      {
+        "battleConditionMstId": 931,
+        "description": "対象のバフ数が1",
+        "compareTarget": 8,
+        "compareContent": 24,
+        "compareOperator": 1,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 932,
+        "description": "対象のバフ数が2",
+        "compareTarget": 8,
+        "compareContent": 24,
+        "compareOperator": 1,
+        "compareValue": "2"
+      },
+      {
+        "battleConditionMstId": 933,
+        "description": "対象のバフ数が3",
+        "compareTarget": 8,
+        "compareContent": 24,
+        "compareOperator": 1,
+        "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 934,
+        "description": "対象のバフ数が4",
+        "compareTarget": 8,
+        "compareContent": 24,
+        "compareOperator": 1,
+        "compareValue": "4"
+      },
+      {
+        "battleConditionMstId": 935,
+        "description": "対象のバフ数が5",
+        "compareTarget": 8,
+        "compareContent": 24,
+        "compareOperator": 1,
+        "compareValue": "5"
+      },
+      {
+        "battleConditionMstId": 936,
+        "description": "対象のバフ数が6",
+        "compareTarget": 8,
+        "compareContent": 24,
+        "compareOperator": 1,
+        "compareValue": "6"
+      },
+      {
+        "battleConditionMstId": 937,
+        "description": "対象のバフ数が7",
+        "compareTarget": 8,
+        "compareContent": 24,
+        "compareOperator": 1,
+        "compareValue": "7"
+      },
+      {
+        "battleConditionMstId": 938,
+        "description": "対象のバフ数が8",
+        "compareTarget": 8,
+        "compareContent": 24,
+        "compareOperator": 1,
+        "compareValue": "8"
+      },
+      {
+        "battleConditionMstId": 939,
+        "description": "対象のバフ数が9",
+        "compareTarget": 8,
+        "compareContent": 24,
+        "compareOperator": 1,
+        "compareValue": "9"
+      },
+      {
+        "battleConditionMstId": 940,
+        "description": "対象のバフ数が10以上",
+        "compareTarget": 8,
+        "compareContent": 24,
+        "compareOperator": 4,
+        "compareValue": "10"
+      },
+      {
+        "battleConditionMstId": 941,
+        "description": "対象の状態異常数が0",
+        "compareTarget": 8,
+        "compareContent": 23,
+        "compareOperator": 1,
+        "compareValue": "0"
+      },
+      {
+        "battleConditionMstId": 942,
+        "description": "対象の状態異常数が1",
+        "compareTarget": 8,
+        "compareContent": 23,
+        "compareOperator": 1,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 943,
+        "description": "対象の状態異常数が2",
+        "compareTarget": 8,
+        "compareContent": 23,
+        "compareOperator": 1,
+        "compareValue": "2"
+      },
+      {
+        "battleConditionMstId": 944,
+        "description": "対象の状態異常数が3",
+        "compareTarget": 8,
+        "compareContent": 23,
+        "compareOperator": 1,
+        "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 945,
+        "description": "対象の状態異常数が4",
+        "compareTarget": 8,
+        "compareContent": 23,
+        "compareOperator": 1,
+        "compareValue": "4"
+      },
+      {
+        "battleConditionMstId": 946,
+        "description": "対象の状態異常数が5以上",
+        "compareTarget": 8,
+        "compareContent": 23,
+        "compareOperator": 4,
+        "compareValue": "5"
+      },
+      {
+        "battleConditionMstId": 947,
+        "description": "火傷状態の敵が5体以上存在する場合",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 4,
+        "compareValue": "BURN,5"
+      },
+      {
+        "battleConditionMstId": 948,
+        "description": "呪い状態の敵が5体以上存在する場合",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 4,
+        "compareValue": "CURSE,5"
+      },
+      {
+        "battleConditionMstId": 949,
+        "description": "裂傷状態の敵が5体以上存在する場合",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 4,
+        "compareValue": "BLEED,5"
+      },
+      {
+        "battleConditionMstId": 950,
+        "description": "毒状態の敵が5体以上存在する場合",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 4,
+        "compareValue": "POISON,5"
+      },
+      {
+        "battleConditionMstId": 951,
+        "description": "衰弱状態の敵が5体以上存在する場合",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 4,
+        "compareValue": "WEAKNESS,5"
+      },
+      {
         "battleConditionMstId": 952,
         "description": "自身に持続ダメージが発生したとき",
         "compareTarget": 1,
@@ -7442,6 +7618,38 @@
         "compareContent": 25,
         "compareOperator": 4,
         "compareValue": "8"
+      },
+      {
+        "battleConditionMstId": 958,
+        "description": "自分のブレイク補正倍率は500%未満",
+        "compareTarget": 1,
+        "compareContent": 21,
+        "compareOperator": 5,
+        "compareValue": "500"
+      },
+      {
+        "battleConditionMstId": 959,
+        "description": "呪い状態が付与されている敵に攻撃したとき",
+        "compareTarget": 6,
+        "compareContent": 309,
+        "compareOperator": 4,
+        "compareValue": "CURSE,1"
+      },
+      {
+        "battleConditionMstId": 960,
+        "description": "バリアが付与されている敵に攻撃したとき",
+        "compareTarget": 6,
+        "compareContent": 309,
+        "compareOperator": 4,
+        "compareValue": "BARRIER,1"
+      },
+      {
+        "battleConditionMstId": 961,
+        "description": "シールドが付与されている敵に攻撃したとき",
+        "compareTarget": 6,
+        "compareContent": 309,
+        "compareOperator": 4,
+        "compareValue": "SHIELD,1"
       }
     ]
   }

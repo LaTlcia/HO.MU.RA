@@ -74,6 +74,18 @@
         "totalScoreRewardGroupId": 5,
         "rankingRewardGroupId": 6,
         "dioramaBackgroundMstId": 110419
+      },
+      {
+        "scoreAttackMstId": 7,
+        "name": "",
+        "startTime": "2025-08-15T12:00:00+09:00",
+        "endTime": "2025-08-29T11:59:59+09:00",
+        "comment": "ボスは毎ターン攻撃力とスピードが上昇します。<br>ブレイクボーナスが最大値に到達すると防御力が減少するため、ブレイクボーナスの上昇を積極的に狙っていくとよいでしょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 7,
+        "totalScoreRewardGroupId": 6,
+        "rankingRewardGroupId": 7,
+        "dioramaBackgroundMstId": 210319
       }
     ]
   }

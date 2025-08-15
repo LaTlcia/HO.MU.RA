@@ -660,6 +660,34 @@
         "unlockType": 1,
         "unlockId": 0,
         "releaseTime": "2025-05-16T15:00:00+09:00"
+      },
+      {
+        "enemyProfileMstId": 621001,
+        "enemyUniqueId": 621001,
+        "enemyMstId": 621001,
+        "name": "幸福な魔女",
+        "runesName": "shitori egumo",
+        "seriesId": 2,
+        "description": "幸福な魔女。その性質は、受難。<br>被膜に包まれた胎の中で、魔法少女が魔女化する時の穢れや人々が放つ感情を栄養源にして静かに成長を続けている“半魔女”。<br>自身が持つ捻れた力を安定させるため、成長と共に宝石を体に散らしている。<br>いずれ殻を破って成熟した時、鎖から解かれた魔女はあらゆるエネルギーを根こそぎ吸い尽くし、星を呑み込めば自身が宇宙の塊になるまで食事を止めることはないだろう。",
+        "sortOrder": 0,
+        "isCollectionDisp": true,
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2025-08-15T12:00:00+09:00"
+      },
+      {
+        "enemyProfileMstId": 621003,
+        "enemyUniqueId": 621003,
+        "enemyMstId": 621003,
+        "name": "幸福な魔女の手下",
+        "runesName": "Oscar",
+        "seriesId": 2,
+        "description": "幸福な魔女の手下。その役割は献呈。<br>主への献呈品として魔力を集めている、ツバメの姿をした魔女の手下。何匹もの個体が集まって竜巻を起こし、勢いで周りの物を寄せ集めて巣作りをすると、そこに魔力を蓄えて主に献げる準備を整える。その目的は、あらゆる面で主を救うためである。本来は主を失うと役割を果たせなくなって消える存在だが、どこかではまだ姿を変えて尽くしているらしい。",
+        "sortOrder": 0,
+        "isCollectionDisp": true,
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2025-08-15T12:00:00+09:00"
       }
     ]
   }

@@ -282,6 +282,11 @@
         "streamableBgmMstId": 56,
         "cueSheetName": "bgm_battle_summer",
         "cueName": "bgm01_battle_summer_majo"
+      },
+      {
+        "streamableBgmMstId": 57,
+        "cueSheetName": "bgm_battle_magireco",
+        "cueName": "bgm02_battle_magireco_shitori_egumo"
       }
     ]
   }

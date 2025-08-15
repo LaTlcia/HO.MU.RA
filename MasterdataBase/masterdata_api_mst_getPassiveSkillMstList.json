@@ -4984,6 +4984,186 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 408401,
+        "skillUniqueId": 4084,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408402,
+        "skillUniqueId": 4084,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408403,
+        "skillUniqueId": 4084,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408404,
+        "skillUniqueId": 4084,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+8%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408405,
+        "skillUniqueId": 4084,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408406,
+        "skillUniqueId": 4084,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408501,
+        "skillUniqueId": 4085,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "闇属性で攻撃したとき、与えるダメージ+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408502,
+        "skillUniqueId": 4085,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "闇属性で攻撃したとき、与えるダメージ+8.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408503,
+        "skillUniqueId": 4085,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "闇属性で攻撃したとき、与えるダメージ+9.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408504,
+        "skillUniqueId": 4085,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "闇属性で攻撃したとき、与えるダメージ+10.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408505,
+        "skillUniqueId": 4085,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "闇属性で攻撃したとき、与えるダメージ+11.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408506,
+        "skillUniqueId": 4085,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "闇属性で攻撃したとき、与えるダメージ+12.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408601,
+        "skillUniqueId": 4086,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "スピード+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408602,
+        "skillUniqueId": 4086,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "スピード+8.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408603,
+        "skillUniqueId": 4086,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "スピード+9.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408604,
+        "skillUniqueId": 4086,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "スピード+10.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408605,
+        "skillUniqueId": 4086,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "スピード+11.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408606,
+        "skillUniqueId": 4086,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "スピード+12.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 500101,
         "skillUniqueId": 5001,
         "level": 1,
@@ -8044,6 +8224,126 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 505201,
+        "skillUniqueId": 5052,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+15%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505202,
+        "skillUniqueId": 5052,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+16%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505203,
+        "skillUniqueId": 5052,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+17%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505204,
+        "skillUniqueId": 5052,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+18%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505205,
+        "skillUniqueId": 5052,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+19%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505206,
+        "skillUniqueId": 5052,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505301,
+        "skillUniqueId": 5053,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505302,
+        "skillUniqueId": 5053,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+11%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505303,
+        "skillUniqueId": 5053,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+12%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505304,
+        "skillUniqueId": 5053,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+13%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505305,
+        "skillUniqueId": 5053,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+14%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505306,
+        "skillUniqueId": 5053,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+15%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 900101,
         "skillUniqueId": 9001,
         "level": 1,
@@ -10819,6 +11119,16 @@
         "level": 1,
         "name": "夏の思い出を守るためにも",
         "description": "シールドが付与されている自身または味方の弱点属性に与えるダメージ+15%、HP回復量+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1150030,
+        "skillUniqueId": 1150030,
+        "level": 1,
+        "name": "私が導いてあげる！",
+        "description": "必殺技の与えるダメージ+25%。<br>通常攻撃を発動したとき受けるダメージ-10%(1ターン)",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -17524,6 +17834,106 @@
         "skillButtonIcon": "battle_icon_passive_additional_attack"
       },
       {
+        "passiveSkillMstId": 1503201,
+        "skillUniqueId": 15032,
+        "level": 1,
+        "name": "アサルトブラスト",
+        "description": "必殺技で与えるダメージ+10%。<br>敵の数が1体以上のとき攻撃力+5%、敵が1体増えるごとに+5%(最大25%)。<br><br>【敵がブレイクしたとき】<br>弱点属性に対して与えるダメージ+20%(2ターン)。<br>スピード+35%(2ターン)。<br>MP回復効率+10%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503202,
+        "skillUniqueId": 15032,
+        "level": 2,
+        "name": "アサルトブラスト",
+        "description": "必殺技で与えるダメージ+11%。<br>敵の数が1体以上のとき攻撃力+5%、敵が1体増えるごとに+5%(最大25%)。<br><br>【敵がブレイクしたとき】<br>弱点属性に対して与えるダメージ+21%(2ターン)。<br>スピード+35%(2ターン)。<br>MP回復効率+10%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503203,
+        "skillUniqueId": 15032,
+        "level": 3,
+        "name": "アサルトブラスト",
+        "description": "必殺技で与えるダメージ+12%。<br>敵の数が1体以上のとき攻撃力+5%、敵が1体増えるごとに+5%(最大25%)。<br><br>【敵がブレイクしたとき】<br>弱点属性に対して与えるダメージ+22%(2ターン)。<br>スピード+35%(2ターン)。<br>MP回復効率+10%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503204,
+        "skillUniqueId": 15032,
+        "level": 4,
+        "name": "アサルトブラスト",
+        "description": "必殺技で与えるダメージ+13%。<br>敵の数が1体以上のとき攻撃力+5%、敵が1体増えるごとに+5%(最大25%)。<br><br>【敵がブレイクしたとき】<br>弱点属性に対して与えるダメージ+23%(2ターン)。<br>スピード+35%(2ターン)。<br>MP回復効率+10%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503205,
+        "skillUniqueId": 15032,
+        "level": 5,
+        "name": "アサルトブラスト",
+        "description": "必殺技で与えるダメージ+14%。<br>敵の数が1体以上のとき攻撃力+5%、敵が1体増えるごとに+5%(最大25%)。<br><br>【敵がブレイクしたとき】<br>弱点属性に対して与えるダメージ+24%(2ターン)。<br>スピード+35%(2ターン)。<br>MP回復効率+10%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503206,
+        "skillUniqueId": 15032,
+        "level": 6,
+        "name": "アサルトブラスト",
+        "description": "必殺技で与えるダメージ+15%。<br>敵の数が1体以上のとき攻撃力+5%、敵が1体増えるごとに+5%(最大25%)。<br><br>【敵がブレイクしたとき】<br>弱点属性に対して与えるダメージ+25%(2ターン)。<br>スピード+35%(2ターン)。<br>MP回復効率+10%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503207,
+        "skillUniqueId": 15032,
+        "level": 7,
+        "name": "アサルトブラスト",
+        "description": "必殺技で与えるダメージ+16%。<br>敵の数が1体以上のとき攻撃力+5%、敵が1体増えるごとに+5%(最大25%)。<br><br>【敵がブレイクしたとき】<br>弱点属性に対して与えるダメージ+26%(2ターン)。<br>スピード+35%(2ターン)。<br>MP回復効率+10%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503208,
+        "skillUniqueId": 15032,
+        "level": 8,
+        "name": "アサルトブラスト",
+        "description": "必殺技で与えるダメージ+17%。<br>敵の数が1体以上のとき攻撃力+5%、敵が1体増えるごとに+5%(最大25%)。<br><br>【敵がブレイクしたとき】<br>弱点属性に対して与えるダメージ+27%(2ターン)。<br>スピード+35%(2ターン)。<br>MP回復効率+10%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503209,
+        "skillUniqueId": 15032,
+        "level": 9,
+        "name": "アサルトブラスト",
+        "description": "必殺技で与えるダメージ+18%。<br>敵の数が1体以上のとき攻撃力+5%、敵が1体増えるごとに+5%(最大25%)。<br><br>【敵がブレイクしたとき】<br>弱点属性に対して与えるダメージ+28%(2ターン)。<br>スピード+35%(2ターン)。<br>MP回復効率+10%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503210,
+        "skillUniqueId": 15032,
+        "level": 10,
+        "name": "アサルトブラスト",
+        "description": "必殺技で与えるダメージ+20%。<br>敵の数が1体以上のとき攻撃力+5%、敵が1体増えるごとに+5%(最大25%)。<br><br>【敵がブレイクしたとき】<br>弱点属性に対して与えるダメージ+30%(2ターン)。<br>スピード+35%(2ターン)。<br>MP回復効率+10%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
         "passiveSkillMstId": 2001001,
         "skillUniqueId": 2001001,
         "level": 1,
@@ -17874,6 +18284,26 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 2001036,
+        "skillUniqueId": 2001036,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "ターンが経過するほど攻撃力と防御力とスピードが上昇する<br>3ターンごとに敵全体のMPを減少させる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2001037,
+        "skillUniqueId": 2001037,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "5ターンごとに攻撃力とスピードが上昇する<br>敵全体の使用するデバフ効果を大幅に低下させる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 2002001,
         "skillUniqueId": 2002001,
         "level": 1,
@@ -18009,6 +18439,106 @@
         "level": 1,
         "name": "アビリティⅠ",
         "description": "クリティカルダメージを受けるとスピードが減少する<br>15ターンごとに減少したスピードが戻り、攻撃力が大幅に上昇する<br><br>敵全体のHP回復効果量を著しく減少させる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2003010,
+        "skillUniqueId": 2003010,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "火傷状態の敵が多いほどスピードが上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2003011,
+        "skillUniqueId": 2003011,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "火傷状態の敵が多いほどスピードが上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2003012,
+        "skillUniqueId": 2003012,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "衰弱状態の敵が多いほどスピードが上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2003013,
+        "skillUniqueId": 2003013,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "衰弱状態の敵が多いほどスピードが上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2003014,
+        "skillUniqueId": 2003014,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "毒状態の敵が多いほどスピードが上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2003015,
+        "skillUniqueId": 2003015,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "毒状態の敵が多いほどスピードが上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2003016,
+        "skillUniqueId": 2003016,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "呪い状態の敵が多いほどスピードが上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2003017,
+        "skillUniqueId": 2003017,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "呪い状態の敵が多いほどスピードが上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2003018,
+        "skillUniqueId": 2003018,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "裂傷状態の敵が多いほどスピードが上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2003019,
+        "skillUniqueId": 2003019,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "裂傷状態の敵が多いほどスピードが上昇する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -18608,7 +19138,7 @@
         "skillUniqueId": 3001004,
         "level": 1,
         "name": "アビリティⅡ",
-        "description": "敵の攻撃で1以上のダメージを受け場合、1ターンの間、自身の攻撃力が上昇する<br>ダメージを受けるたび効果が上昇する<br>さらに攻撃者が火傷状態の場合、中威力の火属性ダメージを与える",
+        "description": "敵の攻撃で1以上のダメージを受けた場合、1ターンの間、自身の攻撃力が上昇する<br>ダメージを受けるたび効果が上昇する<br>さらに攻撃者が火傷状態の場合、中威力の火属性ダメージを与える",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -18689,6 +19219,16 @@
         "level": 1,
         "name": "アビリティⅡ",
         "description": "火傷状態の敵からダメージを受けた場合、強威力の木属性ダメージを与える",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 3001013,
+        "skillUniqueId": 3001013,
+        "level": 1,
+        "name": "アビリティⅡ",
+        "description": "呪い状態の敵を攻撃したとき、1ターンの間、味方全体の攻撃力を上昇する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -19424,6 +19964,56 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 5001071,
+        "skillUniqueId": 5001071,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br><br>ターンが経過するほど攻撃力と防御力とスピードが上昇する<br>3ターンごとに敵全体のMPを減少させる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001072,
+        "skillUniqueId": 5001072,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>5ターンごとに攻撃力とスピードが大幅に上昇する<br><br>敵全体の使用するデバフ効果を大幅に低下させる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001073,
+        "skillUniqueId": 5001073,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>一定ターンごとに敵全体のMPを減少させる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001074,
+        "skillUniqueId": 5001074,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>ターン経過ごとに攻撃力とスピードが上昇する<br>ブレイクボーナスが500％の時、防御力が低下する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001075,
+        "skillUniqueId": 5001075,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "自身に状態異常が付与されている場合、2回行動する<br>ブレイクボーナスが500％の時、防御力が低下する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 5002001,
         "skillUniqueId": 5002001,
         "level": 1,
@@ -19469,6 +20059,26 @@
         "level": 1,
         "name": "アビリティⅣ",
         "description": "偶数ターンに3回行動する<br>攻撃対象が呪い状態の場合、もう1度攻撃する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5002006,
+        "skillUniqueId": 5002006,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "呪い状態の敵を攻撃したとき、もう1度行動する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5002007,
+        "skillUniqueId": 5002007,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "攻撃終了時、攻撃対象にバリアかシールドが付与されている場合、もう1度行動する<br>バリアが付与された敵の数に応じて、状態異常命中率が上昇する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -19539,6 +20149,16 @@
         "level": 1,
         "name": "アビリティⅤ",
         "description": "攻撃対象が呪い状態の場合、味方全体のHPを回復する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 6001008,
+        "skillUniqueId": 6001008,
+        "level": 1,
+        "name": "アビリティⅤ",
+        "description": "呪い状態の敵を攻撃したとき、味方全体のHPを回復する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -19709,6 +20329,16 @@
         "level": 1,
         "name": "アビリティⅥ",
         "description": "持続ダメージを受けた次のターンの行動が変化する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 7002001,
+        "skillUniqueId": 7002001,
+        "level": 1,
+        "name": "アビリティⅥ",
+        "description": "一定ターンごとに敵全体のMPを減少させる",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -20819,6 +21449,16 @@
         "level": 1,
         "name": "限界突破効果",
         "description": "バトル開始時に自身の行動順+30%。<br>【援護】を発動したときHP回復量+20%(2ターン)、スピード+20%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 8504601,
+        "skillUniqueId": 85046,
+        "level": 1,
+        "name": "限界突破効果",
+        "description": "敵の数が1体以上のとき与えるダメージ+10%、敵が1体増えるごとに+10%(最大50%)。<br>敵がブレイクしたとき行動順+20%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -27521,6 +28161,106 @@
         "description": "【ヒーラーに装備時】<br>最大HP+10%、スピード+12%。<br>戦闘スキルを発動したとき弱点属性に与えるダメージ+15%(2ターン)",
         "conditionElement": 0,
         "conditionRole": 3,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503101,
+        "skillUniqueId": 95031,
+        "level": 1,
+        "name": "アサルトブラスト",
+        "description": "【闇属性に装備時】<br>敵の数が1体以上のとき攻撃力+3%、敵が1体増えるごとに+3%(最大15%)。<br>戦闘スキルを発動したとき弱点属性に対して与えるダメージ+10%(2ターン)",
+        "conditionElement": 5,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503102,
+        "skillUniqueId": 95031,
+        "level": 2,
+        "name": "アサルトブラスト",
+        "description": "【闇属性に装備時】<br>敵の数が1体以上のとき攻撃力+3%、敵が1体増えるごとに+3%(最大15%)。<br>戦闘スキルを発動したとき弱点属性に対して与えるダメージ+11.7%(2ターン)",
+        "conditionElement": 5,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503103,
+        "skillUniqueId": 95031,
+        "level": 3,
+        "name": "アサルトブラスト",
+        "description": "【闇属性に装備時】<br>敵の数が1体以上のとき攻撃力+3%、敵が1体増えるごとに+3%(最大15%)。<br>戦闘スキルを発動したとき弱点属性に対して与えるダメージ+13.3%(2ターン)",
+        "conditionElement": 5,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503104,
+        "skillUniqueId": 95031,
+        "level": 4,
+        "name": "アサルトブラスト",
+        "description": "【闇属性に装備時】<br>敵の数が1体以上のとき攻撃力+3%、敵が1体増えるごとに+3%(最大15%)。<br>戦闘スキルを発動したとき弱点属性に対して与えるダメージ+15%(2ターン)",
+        "conditionElement": 5,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503105,
+        "skillUniqueId": 95031,
+        "level": 5,
+        "name": "アサルトブラスト",
+        "description": "【闇属性に装備時】<br>敵の数が1体以上のとき攻撃力+3%、敵が1体増えるごとに+3%(最大15%)。<br>戦闘スキルを発動したとき弱点属性に対して与えるダメージ+16.7%(2ターン)",
+        "conditionElement": 5,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503106,
+        "skillUniqueId": 95031,
+        "level": 6,
+        "name": "アサルトブラスト",
+        "description": "【闇属性に装備時】<br>敵の数が1体以上のとき攻撃力+3%、敵が1体増えるごとに+3%(最大15%)。<br>戦闘スキルを発動したとき弱点属性に対して与えるダメージ+18.3%(2ターン)",
+        "conditionElement": 5,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503107,
+        "skillUniqueId": 95031,
+        "level": 7,
+        "name": "アサルトブラスト",
+        "description": "【闇属性に装備時】<br>敵の数が1体以上のとき攻撃力+3%、敵が1体増えるごとに+3%(最大15%)。<br>戦闘スキルを発動したとき弱点属性に対して与えるダメージ+20%(2ターン)",
+        "conditionElement": 5,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503108,
+        "skillUniqueId": 95031,
+        "level": 8,
+        "name": "アサルトブラスト",
+        "description": "【闇属性に装備時】<br>敵の数が1体以上のとき攻撃力+3%、敵が1体増えるごとに+3%(最大15%)。<br>戦闘スキルを発動したとき弱点属性に対して与えるダメージ+21.7%(2ターン)",
+        "conditionElement": 5,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503109,
+        "skillUniqueId": 95031,
+        "level": 9,
+        "name": "アサルトブラスト",
+        "description": "【闇属性に装備時】<br>敵の数が1体以上のとき攻撃力+3%、敵が1体増えるごとに+3%(最大15%)。<br>戦闘スキルを発動したとき弱点属性に対して与えるダメージ+23.3%(2ターン)",
+        "conditionElement": 5,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503110,
+        "skillUniqueId": 95031,
+        "level": 10,
+        "name": "アサルトブラスト",
+        "description": "【闇属性に装備時】<br>敵の数が1体以上のとき攻撃力+3%、敵が1体増えるごとに+3%(最大15%)。<br>戦闘スキルを発動したとき弱点属性に対して与えるダメージ+25%(2ターン)",
+        "conditionElement": 5,
+        "conditionRole": 0,
         "skillButtonIcon": "battle_icon_supportpassive_buff"
       }
     ]

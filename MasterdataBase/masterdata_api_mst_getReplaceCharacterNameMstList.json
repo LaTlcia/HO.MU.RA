@@ -7,6 +7,11 @@
         "replaceCharacterNameMstId": 1,
         "styleMstId": 11370101,
         "overrideCharacterName": "アルティメットまどか"
+      },
+      {
+        "replaceCharacterNameMstId": 2,
+        "styleMstId": 11390101,
+        "overrideCharacterName": "ホーリーマミ"
       }
     ]
   }

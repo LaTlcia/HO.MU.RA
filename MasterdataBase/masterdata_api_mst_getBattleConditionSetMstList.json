@@ -8014,6 +8014,121 @@
         "battleConditionMstIdCsv": "307,419"
       },
       {
+        "battleConditionSetMstId": 1610,
+        "description": "対象のバフ数が0",
+        "battleConditionMstIdCsv": "930"
+      },
+      {
+        "battleConditionSetMstId": 1611,
+        "description": "対象のバフ数が1",
+        "battleConditionMstIdCsv": "931"
+      },
+      {
+        "battleConditionSetMstId": 1612,
+        "description": "対象のバフ数が2",
+        "battleConditionMstIdCsv": "932"
+      },
+      {
+        "battleConditionSetMstId": 1613,
+        "description": "対象のバフ数が3",
+        "battleConditionMstIdCsv": "933"
+      },
+      {
+        "battleConditionSetMstId": 1614,
+        "description": "対象のバフ数が4",
+        "battleConditionMstIdCsv": "934"
+      },
+      {
+        "battleConditionSetMstId": 1615,
+        "description": "対象のバフ数が5",
+        "battleConditionMstIdCsv": "935"
+      },
+      {
+        "battleConditionSetMstId": 1616,
+        "description": "対象のバフ数が6",
+        "battleConditionMstIdCsv": "936"
+      },
+      {
+        "battleConditionSetMstId": 1617,
+        "description": "対象のバフ数が7",
+        "battleConditionMstIdCsv": "937"
+      },
+      {
+        "battleConditionSetMstId": 1618,
+        "description": "対象のバフ数が8",
+        "battleConditionMstIdCsv": "938"
+      },
+      {
+        "battleConditionSetMstId": 1619,
+        "description": "対象のバフ数が9",
+        "battleConditionMstIdCsv": "939"
+      },
+      {
+        "battleConditionSetMstId": 1620,
+        "description": "対象のバフ数が10以上",
+        "battleConditionMstIdCsv": "940"
+      },
+      {
+        "battleConditionSetMstId": 1621,
+        "description": "対象のデバフ数が1以上",
+        "battleConditionMstIdCsv": "803"
+      },
+      {
+        "battleConditionSetMstId": 1622,
+        "description": "対象の状態異常数が0",
+        "battleConditionMstIdCsv": "941"
+      },
+      {
+        "battleConditionSetMstId": 1623,
+        "description": "対象の状態異常数が1",
+        "battleConditionMstIdCsv": "942"
+      },
+      {
+        "battleConditionSetMstId": 1624,
+        "description": "対象の状態異常数が2",
+        "battleConditionMstIdCsv": "943"
+      },
+      {
+        "battleConditionSetMstId": 1625,
+        "description": "対象の状態異常数が3",
+        "battleConditionMstIdCsv": "944"
+      },
+      {
+        "battleConditionSetMstId": 1626,
+        "description": "対象の状態異常数が4",
+        "battleConditionMstIdCsv": "945"
+      },
+      {
+        "battleConditionSetMstId": 1627,
+        "description": "対象の状態異常数が5以上",
+        "battleConditionMstIdCsv": "946"
+      },
+      {
+        "battleConditionSetMstId": 1628,
+        "description": "火傷状態の敵が5体以上存在する場合",
+        "battleConditionMstIdCsv": "947"
+      },
+      {
+        "battleConditionSetMstId": 1629,
+        "description": "呪い状態の敵が5体以上存在する場合",
+        "battleConditionMstIdCsv": "948"
+      },
+      {
+        "battleConditionSetMstId": 1630,
+        "description": "裂傷状態の敵が5体以上存在する場合",
+        "battleConditionMstIdCsv": "949"
+      },
+      {
+        "battleConditionSetMstId": 1631,
+        "description": "毒状態の敵が5体以上存在する場合",
+        "battleConditionMstIdCsv": "950"
+      },
+      {
+        "battleConditionSetMstId": 1632,
+        "description": "衰弱状態の敵が5体以上存在する場合",
+        "battleConditionMstIdCsv": "951"
+      },
+      {
         "battleConditionSetMstId": 1633,
         "description": "自身に持続ダメージが発生したとき",
         "battleConditionMstIdCsv": "952"
@@ -8042,6 +8157,136 @@
         "battleConditionSetMstId": 1638,
         "description": "自身のデバフ数が8以上",
         "battleConditionMstIdCsv": "957"
+      },
+      {
+        "battleConditionSetMstId": 1639,
+        "description": "自分のブレイク補正倍率は500%未満",
+        "battleConditionMstIdCsv": "958"
+      },
+      {
+        "battleConditionSetMstId": 1640,
+        "description": "自分が8ターンごとに（ターン1から） AND 連続行動の1回目",
+        "battleConditionMstIdCsv": "82,273"
+      },
+      {
+        "battleConditionSetMstId": 1641,
+        "description": "自分が8ターンごとに（ターン1から） AND 連続行動の2回目",
+        "battleConditionMstIdCsv": "82,274"
+      },
+      {
+        "battleConditionSetMstId": 1642,
+        "description": "自分が8ターンごとに（ターン2から） AND 連続行動の1回目",
+        "battleConditionMstIdCsv": "83,273"
+      },
+      {
+        "battleConditionSetMstId": 1643,
+        "description": "自分が8ターンごとに（ターン2から） AND 連続行動の2回目",
+        "battleConditionMstIdCsv": "83,274"
+      },
+      {
+        "battleConditionSetMstId": 1644,
+        "description": "自分が8ターンごとに（ターン3から） AND 連続行動の1回目",
+        "battleConditionMstIdCsv": "84,273"
+      },
+      {
+        "battleConditionSetMstId": 1645,
+        "description": "自分が8ターンごとに（ターン3から） AND 連続行動の2回目",
+        "battleConditionMstIdCsv": "84,274"
+      },
+      {
+        "battleConditionSetMstId": 1646,
+        "description": "自分が8ターンごとに（ターン4から） AND 連続行動の1回目",
+        "battleConditionMstIdCsv": "85,273"
+      },
+      {
+        "battleConditionSetMstId": 1647,
+        "description": "自分が8ターンごとに（ターン4から） AND 連続行動の2回目",
+        "battleConditionMstIdCsv": "85,274"
+      },
+      {
+        "battleConditionSetMstId": 1648,
+        "description": "自分が8ターンごとに（ターン5から） AND 連続行動の1回目",
+        "battleConditionMstIdCsv": "86,273"
+      },
+      {
+        "battleConditionSetMstId": 1649,
+        "description": "自分が8ターンごとに（ターン5から） AND 連続行動の2回目",
+        "battleConditionMstIdCsv": "86,274"
+      },
+      {
+        "battleConditionSetMstId": 1650,
+        "description": "自分が8ターンごとに（ターン6から） AND 連続行動の1回目",
+        "battleConditionMstIdCsv": "87,273"
+      },
+      {
+        "battleConditionSetMstId": 1651,
+        "description": "自分が8ターンごとに（ターン6から） AND 連続行動の2回目",
+        "battleConditionMstIdCsv": "87,274"
+      },
+      {
+        "battleConditionSetMstId": 1652,
+        "description": "自分が8ターンごとに（ターン7から） AND 連続行動の1回目",
+        "battleConditionMstIdCsv": "88,273"
+      },
+      {
+        "battleConditionSetMstId": 1653,
+        "description": "自分が8ターンごとに（ターン7から） AND 連続行動の2回目",
+        "battleConditionMstIdCsv": "88,274"
+      },
+      {
+        "battleConditionSetMstId": 1654,
+        "description": "自分が8ターンごとに（ターン8から） AND 連続行動の1回目",
+        "battleConditionMstIdCsv": "89,273"
+      },
+      {
+        "battleConditionSetMstId": 1655,
+        "description": "自分が8ターンごとに（ターン8から） AND 連続行動の2回目",
+        "battleConditionMstIdCsv": "89,274"
+      },
+      {
+        "battleConditionSetMstId": 1656,
+        "description": "呪い状態が付与されている敵に攻撃したとき",
+        "battleConditionMstIdCsv": "3,959"
+      },
+      {
+        "battleConditionSetMstId": 1657,
+        "description": "自分のターン、3ターンごとに（ターン1から）、呪い状態が付与されている敵に攻撃したとき",
+        "battleConditionMstIdCsv": "3,57,959"
+      },
+      {
+        "battleConditionSetMstId": 1658,
+        "description": "自分のターン、3ターンごとに（ターン2から）、呪い状態が付与されている敵に攻撃したとき",
+        "battleConditionMstIdCsv": "3,58,959"
+      },
+      {
+        "battleConditionSetMstId": 1659,
+        "description": "バリアが付与されている敵に攻撃したとき",
+        "battleConditionMstIdCsv": "3,960"
+      },
+      {
+        "battleConditionSetMstId": 1660,
+        "description": "シールドが付与されている敵に攻撃したとき",
+        "battleConditionMstIdCsv": "3,961"
+      },
+      {
+        "battleConditionSetMstId": 1663,
+        "description": "敵が2体以上のとき(自ターン問わず)",
+        "battleConditionMstIdCsv": "318"
+      },
+      {
+        "battleConditionSetMstId": 1664,
+        "description": "敵が3体以上のとき(自ターン問わず)",
+        "battleConditionMstIdCsv": "408"
+      },
+      {
+        "battleConditionSetMstId": 1665,
+        "description": "敵が4体以上のとき(自ターン問わず)",
+        "battleConditionMstIdCsv": "409"
+      },
+      {
+        "battleConditionSetMstId": 1666,
+        "description": "敵が5体以上のとき(自ターン問わず)",
+        "battleConditionMstIdCsv": "410"
       }
     ]
   }

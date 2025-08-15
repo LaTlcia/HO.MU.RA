@@ -429,6 +429,11 @@
         "isViewCollection": true
       },
       {
+        "advTitleMstId": 88,
+        "title": "第8章 偽りに彩られ神浜",
+        "isViewCollection": true
+      },
+      {
         "advTitleMstId": 89,
         "title": "犠牲の上に成り立つ希望",
         "isViewCollection": true
@@ -459,8 +464,18 @@
         "isViewCollection": true
       },
       {
+        "advTitleMstId": 95,
+        "title": "調整屋さんの事件簿４ 誤配のモラトリアム",
+        "isViewCollection": true
+      },
+      {
         "advTitleMstId": 97,
         "title": "逃れられないもの",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 98,
+        "title": "第9章 サラウンド・フェントホープ",
         "isViewCollection": true
       },
       {
@@ -486,6 +501,11 @@
       {
         "advTitleMstId": 106,
         "title": "これは、ウチらが幸せになる物語",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 110,
+        "title": "束の間のご褒美",
         "isViewCollection": true
       },
       {

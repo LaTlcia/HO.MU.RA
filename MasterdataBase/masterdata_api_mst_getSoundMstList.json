@@ -7034,7 +7034,7 @@
         "cueName": "music_01_01_017_be_terrified",
         "unlockType": 1,
         "unlockId": 0,
-        "releaseTime": "2999-01-01T00:00:00+09:00"
+        "releaseTime": "2025-08-15T12:00:00+09:00"
       },
       {
         "soundMstId": 3000141,
@@ -7047,7 +7047,7 @@
         "cueName": "music_01_01_018_creation",
         "unlockType": 1,
         "unlockId": 0,
-        "releaseTime": "2999-01-01T00:00:00+09:00"
+        "releaseTime": "2025-08-15T12:00:00+09:00"
       },
       {
         "soundMstId": 3000142,
@@ -7060,7 +7060,7 @@
         "cueName": "music_01_01_019_wings_of_magius",
         "unlockType": 1,
         "unlockId": 0,
-        "releaseTime": "2999-01-01T00:00:00+09:00"
+        "releaseTime": "2025-08-15T12:00:00+09:00"
       },
       {
         "soundMstId": 3000143,
@@ -7073,7 +7073,7 @@
         "cueName": "music_01_01_020_full_moon",
         "unlockType": 1,
         "unlockId": 0,
-        "releaseTime": "2999-01-01T00:00:00+09:00"
+        "releaseTime": "2025-08-15T12:00:00+09:00"
       },
       {
         "soundMstId": 3000144,
@@ -7086,7 +7086,7 @@
         "cueName": "music_01_01_021_the_imaginator",
         "unlockType": 1,
         "unlockId": 0,
-        "releaseTime": "2999-01-01T00:00:00+09:00"
+        "releaseTime": "2025-08-15T12:00:00+09:00"
       },
       {
         "soundMstId": 3000145,
@@ -7346,7 +7346,7 @@
         "cueName": "music_01_01_041_farewell",
         "unlockType": 1,
         "unlockId": 0,
-        "releaseTime": "2999-01-01T00:00:00+09:00"
+        "releaseTime": "2025-08-15T12:00:00+09:00"
       },
       {
         "soundMstId": 3000165,
@@ -7359,7 +7359,7 @@
         "cueName": "music_01_01_042_complex_home",
         "unlockType": 1,
         "unlockId": 0,
-        "releaseTime": "2999-01-01T00:00:00+09:00"
+        "releaseTime": "2025-08-15T12:00:00+09:00"
       },
       {
         "soundMstId": 3000166,
@@ -7372,7 +7372,7 @@
         "cueName": "music_01_01_043_painful_memories",
         "unlockType": 1,
         "unlockId": 0,
-        "releaseTime": "2999-01-01T00:00:00+09:00"
+        "releaseTime": "2025-08-15T12:00:00+09:00"
       },
       {
         "soundMstId": 3000167,
@@ -7385,7 +7385,7 @@
         "cueName": "music_01_01_044_inerasable",
         "unlockType": 1,
         "unlockId": 0,
-        "releaseTime": "2999-01-01T00:00:00+09:00"
+        "releaseTime": "2025-08-15T12:00:00+09:00"
       },
       {
         "soundMstId": 3000168,
@@ -7398,7 +7398,7 @@
         "cueName": "music_01_01_045_this_morning",
         "unlockType": 1,
         "unlockId": 0,
-        "releaseTime": "2999-01-01T00:00:00+09:00"
+        "releaseTime": "2025-08-15T12:00:00+09:00"
       },
       {
         "soundMstId": 3000169,
@@ -9830,6 +9830,19 @@
         "unlockType": 1,
         "unlockId": 0,
         "releaseTime": "2999-01-01T00:00:00+09:00"
+      },
+      {
+        "soundMstId": 3000425,
+        "seriesId": 4,
+        "soundType": 2,
+        "name": "Oblivion",
+        "songWriter": "",
+        "songComposer": "",
+        "cueSheetName": "bgm_battle_magireco",
+        "cueName": "bgm02_battle_magireco_shitori_egumo",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2025-08-28T12:00:00+09:00"
       }
     ]
   }

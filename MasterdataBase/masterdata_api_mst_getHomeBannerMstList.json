@@ -458,6 +458,30 @@
         "endTime": "2025-08-21T11:59:59+09:00",
         "sortOrder": 214,
         "osType": 0
+      },
+      {
+        "homeBannerMstId": 116,
+        "bannerMstId": 123,
+        "startTime": "2025-08-15T12:00:00+09:00",
+        "endTime": "2025-08-28T11:59:59+09:00",
+        "sortOrder": 224,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 117,
+        "bannerMstId": 124,
+        "startTime": "2025-08-15T12:00:00+09:00",
+        "endTime": "2025-08-28T11:59:59+09:00",
+        "sortOrder": 222,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 119,
+        "bannerMstId": 129,
+        "startTime": "2025-08-15T12:00:00+09:00",
+        "endTime": "2025-08-31T11:59:59+09:00",
+        "sortOrder": 220,
+        "osType": 0
       }
     ]
   }

@@ -690,38 +690,38 @@
       {
         "fieldStageMstId": 621001,
         "fieldSeriesMstId": 62100,
-        "name": "???",
-        "subTitle": "???",
+        "name": "幸福な魔女",
+        "subTitle": "第五章",
         "difficulty": 1,
         "prevFieldStageMstId": 655001,
         "prevFieldStageMstId2": 0,
         "firstClearRewardGroupId": 102,
         "stageAssetbundleName": "",
-        "backgroundCardMstId": 4100019
+        "backgroundCardMstId": 4100021
       },
       {
         "fieldStageMstId": 621002,
         "fieldSeriesMstId": 62100,
-        "name": "???",
-        "subTitle": "???",
+        "name": "幸福な魔女",
+        "subTitle": "第五章",
         "difficulty": 2,
         "prevFieldStageMstId": 621001,
         "prevFieldStageMstId2": 655002,
         "firstClearRewardGroupId": 102,
         "stageAssetbundleName": "",
-        "backgroundCardMstId": 4100019
+        "backgroundCardMstId": 4100021
       },
       {
         "fieldStageMstId": 621003,
         "fieldSeriesMstId": 62100,
-        "name": "???",
-        "subTitle": "???",
+        "name": "幸福な魔女",
+        "subTitle": "第五章",
         "difficulty": 3,
         "prevFieldStageMstId": 621001,
         "prevFieldStageMstId2": 655003,
         "firstClearRewardGroupId": 102,
         "stageAssetbundleName": "",
-        "backgroundCardMstId": 5100029
+        "backgroundCardMstId": 5100032
       },
       {
         "fieldStageMstId": 655001,

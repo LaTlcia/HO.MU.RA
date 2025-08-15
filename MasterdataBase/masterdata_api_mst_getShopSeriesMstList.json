@@ -43,6 +43,19 @@
         "resourceName": ""
       },
       {
+        "shopSeriesMstId": 2977,
+        "title": "ホーリーマミピックアップガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2025-08-15T12:00:00+09:00",
+        "endTime": "2025-08-30T11:59:59+09:00",
+        "shopGroupId1": 2977,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231023,
+        "resourceName": ""
+      },
+      {
         "shopSeriesMstId": 2978,
         "title": "鹿目まどか＆美樹さやかピックアップガチャ交換所",
         "description": "",
@@ -326,6 +339,19 @@
         "shopGroupId2": 0,
         "payType": 3,
         "payId": 231004,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 3973,
+        "title": "調整屋さんの事件簿４イベント交換所",
+        "description": "",
+        "category": 3,
+        "startTime": "2025-08-15T12:00:00+09:00",
+        "endTime": "2025-08-30T11:59:59+09:00",
+        "shopGroupId1": 3973,
+        "shopGroupId2": 3972,
+        "payType": 3,
+        "payId": 201027,
         "resourceName": ""
       },
       {

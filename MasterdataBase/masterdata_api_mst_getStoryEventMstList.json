@@ -308,6 +308,25 @@
         "soundMstId": 3000423
       },
       {
+        "storyEventMstId": 18,
+        "name": "調整屋さんの事件簿４ 誤配のモラトリアム",
+        "storyQuestGroupId": 1024,
+        "scoreAttackMstId": 7,
+        "maxPlayCountPerDay": 5,
+        "eventItemId": 201027,
+        "shopSeriesMstId": 3973,
+        "bonusStyleIds": "0",
+        "isEndPlayable": true,
+        "endDisplayTime": "2050-12-31T23:59:59+09:00",
+        "sortOrder": 9983,
+        "eventStartDirection": 1,
+        "topImageName": "19",
+        "bannerImageName": "banner_00117",
+        "bossCameraAssetName": "0",
+        "description": "調整屋の一角に、カフェスペースを作ったみたま\n魔法少女たちが集まり、おしゃべりに花が咲くなか\nとある３つの封筒がシャッフルされたことで\n３つの選択が生まれた――これはまさか、あの“問題”…？",
+        "soundMstId": 0
+      },
+      {
         "storyEventMstId": 10000,
         "name": "焦らずゆっくり未来へ ～魔法少女に夢を見て～",
         "storyQuestGroupId": 1004,

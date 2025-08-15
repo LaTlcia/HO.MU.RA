@@ -178,6 +178,12 @@
         "value1": 11370101
       },
       {
+        "userTitleMstId": 11390101,
+        "title": "ティロフィナーレリベレーション",
+        "titleType": 1,
+        "value1": 11390101
+      },
+      {
         "userTitleMstId": 20000000,
         "title": "名前のない少女",
         "titleType": 0,
@@ -514,6 +520,12 @@
         "value1": 0
       },
       {
+        "userTitleMstId": 20201005,
+        "title": "幸福な魔女 Mainクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
         "userTitleMstId": 20202001,
         "title": "砂場の魔女 Battleクリア",
         "titleType": 0,
@@ -538,6 +550,12 @@
         "value1": 0
       },
       {
+        "userTitleMstId": 20202005,
+        "title": "幸福な魔女 Battleクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
         "userTitleMstId": 20203001,
         "title": "砂場の魔女 Nightmareクリア",
         "titleType": 0,
@@ -558,6 +576,12 @@
       {
         "userTitleMstId": 20203004,
         "title": "キレートビッグフェリスのうわさ Nightmareクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20203005,
+        "title": "幸福な魔女 Nightmareクリア",
         "titleType": 0,
         "value1": 0
       },
@@ -794,6 +818,12 @@
         "title": "エターナルサマーデイズ 後編クリア",
         "titleType": 2,
         "value1": 4200027
+      },
+      {
+        "userTitleMstId": 60000015,
+        "title": "調整屋さんの事件簿４ 誤配のモラトリアムクリア",
+        "titleType": 2,
+        "value1": 4200029
       },
       {
         "userTitleMstId": 70000001,

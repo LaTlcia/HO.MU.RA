@@ -3722,6 +3722,21 @@
         "styleMstId": 10010601,
         "resourceIconName": "battle_icon_selection_ability_ex",
         "sortOrder": 0
+      },
+      {
+        "selectionAbilityMstId": 7030,
+        "selectionAbilityType": 1,
+        "selectionAbilityEffectId": 114,
+        "rarity": 4,
+        "targetType": 2,
+        "name": "私が導いてあげる！",
+        "description": "必殺技の与えるダメージ+25%。<br>通常攻撃を発動したとき受けるダメージ-10%(1ターン)",
+        "abilityEffectType": "",
+        "value1": 1150030,
+        "value2": 0,
+        "styleMstId": 11390101,
+        "resourceIconName": "battle_icon_selection_ability_ex",
+        "sortOrder": 0
       }
     ]
   }

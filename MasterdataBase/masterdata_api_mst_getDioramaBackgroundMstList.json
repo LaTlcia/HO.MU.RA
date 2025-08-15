@@ -940,6 +940,32 @@
         "enemyType": 5
       },
       {
+        "dioramaBackgroundMstId": 210511,
+        "seriesId": 2,
+        "fieldSeriesMstId": 62100,
+        "stageThumbnailName": "bg_3d_621_00_01_001",
+        "backgroundResourceName": "bg_3d_621_00_01_001",
+        "stageName": "幸福な魔女 第1階層",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2025-08-15T12:00:00+09:00",
+        "sortOrder": 76,
+        "enemyType": 1
+      },
+      {
+        "dioramaBackgroundMstId": 210519,
+        "seriesId": 2,
+        "fieldSeriesMstId": 62100,
+        "stageThumbnailName": "bg_3d_621_00_00_001",
+        "backgroundResourceName": "bg_3d_621_00_00_001",
+        "stageName": "幸福な魔女 ボス階層",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2025-08-15T12:00:00+09:00",
+        "sortOrder": 77,
+        "enemyType": 2
+      },
+      {
         "dioramaBackgroundMstId": 310111,
         "seriesId": 3,
         "fieldSeriesMstId": 61500,
