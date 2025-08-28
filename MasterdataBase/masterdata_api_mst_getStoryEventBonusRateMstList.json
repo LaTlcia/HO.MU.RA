@@ -892,6 +892,66 @@
         "limitBreakCount5Rate": 250
       },
       {
+        "storyEventBonusRateMstId": 2000,
+        "storyEventMstId": 20,
+        "bonusType": 1,
+        "bonusMstId": 10220101,
+        "limitBreakCount0Rate": 1000,
+        "limitBreakCount1Rate": 1400,
+        "limitBreakCount2Rate": 1800,
+        "limitBreakCount3Rate": 2200,
+        "limitBreakCount4Rate": 2600,
+        "limitBreakCount5Rate": 3000
+      },
+      {
+        "storyEventBonusRateMstId": 2001,
+        "storyEventMstId": 20,
+        "bonusType": 1,
+        "bonusMstId": 11070101,
+        "limitBreakCount0Rate": 200,
+        "limitBreakCount1Rate": 250,
+        "limitBreakCount2Rate": 300,
+        "limitBreakCount3Rate": 350,
+        "limitBreakCount4Rate": 400,
+        "limitBreakCount5Rate": 500
+      },
+      {
+        "storyEventBonusRateMstId": 2002,
+        "storyEventMstId": 20,
+        "bonusType": 1,
+        "bonusMstId": 10900101,
+        "limitBreakCount0Rate": 200,
+        "limitBreakCount1Rate": 250,
+        "limitBreakCount2Rate": 300,
+        "limitBreakCount3Rate": 350,
+        "limitBreakCount4Rate": 400,
+        "limitBreakCount5Rate": 500
+      },
+      {
+        "storyEventBonusRateMstId": 2003,
+        "storyEventMstId": 20,
+        "bonusType": 2,
+        "bonusMstId": 4200031,
+        "limitBreakCount0Rate": 100,
+        "limitBreakCount1Rate": 130,
+        "limitBreakCount2Rate": 160,
+        "limitBreakCount3Rate": 190,
+        "limitBreakCount4Rate": 220,
+        "limitBreakCount5Rate": 250
+      },
+      {
+        "storyEventBonusRateMstId": 2004,
+        "storyEventMstId": 20,
+        "bonusType": 2,
+        "bonusMstId": 4200032,
+        "limitBreakCount0Rate": 100,
+        "limitBreakCount1Rate": 130,
+        "limitBreakCount2Rate": 160,
+        "limitBreakCount3Rate": 190,
+        "limitBreakCount4Rate": 220,
+        "limitBreakCount5Rate": 250
+      },
+      {
         "storyEventBonusRateMstId": 1000000,
         "storyEventMstId": 10000,
         "bonusType": 1,

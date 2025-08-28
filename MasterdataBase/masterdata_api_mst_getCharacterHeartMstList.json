@@ -124,6 +124,12 @@
         "objectRewardGroupId": 1021
       },
       {
+        "characterHeartMstId": 1022,
+        "characterMstId": 1022,
+        "paramUpGroupId": 1,
+        "objectRewardGroupId": 1022
+      },
+      {
         "characterHeartMstId": 1025,
         "characterMstId": 1025,
         "paramUpGroupId": 1,

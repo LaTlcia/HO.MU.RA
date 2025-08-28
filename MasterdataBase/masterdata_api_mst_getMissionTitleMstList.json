@@ -46,45 +46,17 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5000,
+        "missionTitleMstId": 1001,
         "prevMissionTitleMstId": 0,
-        "title": "焦らずゆっくり未来へ ～魔法少女に夢を見て～イベントミッション",
+        "title": "シーズンミッション",
         "priority": 1,
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5027,
+        "missionTitleMstId": 5000,
         "prevMissionTitleMstId": 0,
-        "title": "エターナルサマーデイズ 前編イベントミッション",
-        "priority": 24,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5028,
-        "prevMissionTitleMstId": 0,
-        "title": "100日感謝祭第2弾 メインクエスト攻略応援ミッション",
-        "priority": 10,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5029,
-        "prevMissionTitleMstId": 0,
-        "title": "能力晶花実装記念ミッション",
-        "priority": 12,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5030,
-        "prevMissionTitleMstId": 0,
-        "title": "エターナルサマーデイズ 後編イベントミッション",
-        "priority": 25,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5031,
-        "prevMissionTitleMstId": 0,
-        "title": "サマーキャンペーンミッション",
-        "priority": 26,
+        "title": "焦らずゆっくり未来へ ～魔法少女に夢を見て～イベントミッション",
+        "priority": 1,
         "featuredRewardResourceName": ""
       },
       {
@@ -99,6 +71,20 @@
         "prevMissionTitleMstId": 0,
         "title": "「マギアレコード編 第1部」終章開幕記念ミッション",
         "priority": 26,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5034,
+        "prevMissionTitleMstId": 0,
+        "title": "調整屋さんの事件簿５イベントミッション",
+        "priority": 28,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5035,
+        "prevMissionTitleMstId": 0,
+        "title": "「マギアレコード編 第1部」完結記念ミッション",
+        "priority": 6,
         "featuredRewardResourceName": ""
       }
     ]

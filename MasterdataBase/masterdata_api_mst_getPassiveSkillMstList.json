@@ -4,6 +4,206 @@
   "payload": {
     "mstList": [
       {
+        "passiveSkillMstId": 1000,
+        "skillUniqueId": 1000,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "火属性攻撃で与えるダメージ+20%",
+        "conditionElement": 1,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1001,
+        "skillUniqueId": 1001,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "水属性攻撃で与えるダメージ+20%",
+        "conditionElement": 2,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1002,
+        "skillUniqueId": 1002,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "木属性攻撃で与えるダメージ+20%",
+        "conditionElement": 3,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1003,
+        "skillUniqueId": 1003,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "光属性攻撃で与えるダメージ+20%",
+        "conditionElement": 4,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1004,
+        "skillUniqueId": 1004,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "闇属性攻撃で与えるダメージ+20%",
+        "conditionElement": 5,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1005,
+        "skillUniqueId": 1005,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "無属性攻撃で与えるダメージ+20%",
+        "conditionElement": 6,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1006,
+        "skillUniqueId": 1006,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "火属性攻撃のブレイクゲージ削減量+20%",
+        "conditionElement": 1,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1007,
+        "skillUniqueId": 1007,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "水属性攻撃のブレイクゲージ削減量+20%",
+        "conditionElement": 2,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1008,
+        "skillUniqueId": 1008,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "木属性攻撃のブレイクゲージ削減量+20%",
+        "conditionElement": 3,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1009,
+        "skillUniqueId": 1009,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "光属性攻撃のブレイクゲージ削減量+20%",
+        "conditionElement": 4,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1010,
+        "skillUniqueId": 1010,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "闇属性攻撃のブレイクゲージ削減量+20%",
+        "conditionElement": 5,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1011,
+        "skillUniqueId": 1011,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "無属性攻撃のブレイクゲージ削減量+20%",
+        "conditionElement": 6,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1012,
+        "skillUniqueId": 1012,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "必殺技で与えるダメージ+10％",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1013,
+        "skillUniqueId": 1013,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "戦闘スキル発動時、MP+10",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1016,
+        "skillUniqueId": 1016,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "【火属性】与えるダメージ+20%・ブレイクゲージ削減量+20%",
+        "conditionElement": 1,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1017,
+        "skillUniqueId": 1017,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "【水属性】与えるダメージ+20%・ブレイクゲージ削減量+20%",
+        "conditionElement": 2,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1018,
+        "skillUniqueId": 1018,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "【木属性】与えるダメージ+20%・ブレイクゲージ削減量+20%",
+        "conditionElement": 3,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1019,
+        "skillUniqueId": 1019,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "【光属性】与えるダメージ+20%・ブレイクゲージ削減量+20%",
+        "conditionElement": 4,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1020,
+        "skillUniqueId": 1020,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "【闇属性】与えるダメージ+20%・ブレイクゲージ削減量+20%",
+        "conditionElement": 5,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1021,
+        "skillUniqueId": 1021,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "【無属性】与えるダメージ+20%・ブレイクゲージ削減量+20%",
+        "conditionElement": 6,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 400101,
         "skillUniqueId": 4001,
         "level": 1,
@@ -5164,6 +5364,366 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 408701,
+        "skillUniqueId": 4087,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "スピード+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408702,
+        "skillUniqueId": 4087,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "スピード+6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408703,
+        "skillUniqueId": 4087,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "スピード+7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408704,
+        "skillUniqueId": 4087,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "スピード+8%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408705,
+        "skillUniqueId": 4087,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "スピード+9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408706,
+        "skillUniqueId": 4087,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "スピード+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408801,
+        "skillUniqueId": 4088,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+1.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408802,
+        "skillUniqueId": 4088,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+2.7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408803,
+        "skillUniqueId": 4088,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+3.9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408804,
+        "skillUniqueId": 4088,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+5.1%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408805,
+        "skillUniqueId": 4088,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+6.3%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408806,
+        "skillUniqueId": 4088,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408901,
+        "skillUniqueId": 4089,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "攻撃力+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408902,
+        "skillUniqueId": 4089,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "攻撃力+6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408903,
+        "skillUniqueId": 4089,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "攻撃力+7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408904,
+        "skillUniqueId": 4089,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "攻撃力+8%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408905,
+        "skillUniqueId": 4089,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "攻撃力+9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 408906,
+        "skillUniqueId": 4089,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "攻撃力+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409001,
+        "skillUniqueId": 4090,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "MP回復効率+1%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409002,
+        "skillUniqueId": 4090,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "MP回復効率+1.8%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409003,
+        "skillUniqueId": 4090,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "MP回復効率+2.6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409004,
+        "skillUniqueId": 4090,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "MP回復効率+3.4%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409005,
+        "skillUniqueId": 4090,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "MP回復効率+4.2%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409006,
+        "skillUniqueId": 4090,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "MP回復効率+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409101,
+        "skillUniqueId": 4091,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "防御力+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409102,
+        "skillUniqueId": 4091,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "防御力+8.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409103,
+        "skillUniqueId": 4091,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "防御力+9.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409104,
+        "skillUniqueId": 4091,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "防御力+10.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409105,
+        "skillUniqueId": 4091,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "防御力+11.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409106,
+        "skillUniqueId": 4091,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "防御力+12.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409201,
+        "skillUniqueId": 4092,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "攻撃力+5%<br>【環ういに装備時に追加】<br>MP回復効率+1%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409202,
+        "skillUniqueId": 4092,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "攻撃力+6%<br>【環ういに装備時に追加】<br>MP回復効率+1.8%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409203,
+        "skillUniqueId": 4092,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "攻撃力+7%<br>【環ういに装備時に追加】<br>MP回復効率+2.6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409204,
+        "skillUniqueId": 4092,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "攻撃力+8%<br>【環ういに装備時に追加】<br>MP回復効率+3.4%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409205,
+        "skillUniqueId": 4092,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "攻撃力+9%<br>【環ういに装備時に追加】<br>MP回復効率+4.2%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409206,
+        "skillUniqueId": 4092,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "攻撃力+10%<br>【環ういに装備時に追加】<br>MP回復効率+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 500101,
         "skillUniqueId": 5001,
         "level": 1,
@@ -8344,6 +8904,186 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 505401,
+        "skillUniqueId": 5054,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505402,
+        "skillUniqueId": 5054,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505403,
+        "skillUniqueId": 5054,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+10.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505404,
+        "skillUniqueId": 5054,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+12%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505405,
+        "skillUniqueId": 5054,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+13.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505406,
+        "skillUniqueId": 5054,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+15%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505501,
+        "skillUniqueId": 5055,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+15%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505502,
+        "skillUniqueId": 5055,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+16.8%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505503,
+        "skillUniqueId": 5055,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+18.6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505504,
+        "skillUniqueId": 5055,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+20.4%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505505,
+        "skillUniqueId": 5055,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+22.2%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505506,
+        "skillUniqueId": 5055,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "クリティカルダメージ+24%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505601,
+        "skillUniqueId": 5056,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "攻撃力+15%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505602,
+        "skillUniqueId": 5056,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "攻撃力+16%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505603,
+        "skillUniqueId": 5056,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "攻撃力+17%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505604,
+        "skillUniqueId": 5056,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "攻撃力+18%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505605,
+        "skillUniqueId": 5056,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "攻撃力+19%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 505606,
+        "skillUniqueId": 5056,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "攻撃力+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 900101,
         "skillUniqueId": 9001,
         "level": 1,
@@ -11129,6 +11869,16 @@
         "level": 1,
         "name": "私が導いてあげる！",
         "description": "必殺技の与えるダメージ+25%。<br>通常攻撃を発動したとき受けるダメージ-10%(1ターン)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1150031,
+        "skillUniqueId": 1150031,
+        "level": 1,
+        "name": "誰かの役に立てるような人になれたらいいな",
+        "description": "MP回復効率+10%。<br>自身に【ツバメの加護】が付与されているとき受けるダメージ-10%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -17934,6 +18684,106 @@
         "skillButtonIcon": "battle_icon_passive_additional_attack"
       },
       {
+        "passiveSkillMstId": 1503301,
+        "skillUniqueId": 15033,
+        "level": 1,
+        "name": "ブラストアクセル",
+        "description": "自身以外の味方がダメージを与えたとき自身のMP+5。<br>味方全体の【追撃/反撃】で与えるダメージ+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1503302,
+        "skillUniqueId": 15033,
+        "level": 2,
+        "name": "ブラストアクセル",
+        "description": "自身以外の味方がダメージを与えたとき自身のMP+5。<br>味方全体の【追撃/反撃】で与えるダメージ+21%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1503303,
+        "skillUniqueId": 15033,
+        "level": 3,
+        "name": "ブラストアクセル",
+        "description": "自身以外の味方がダメージを与えたとき自身のMP+5。<br>味方全体の【追撃/反撃】で与えるダメージ+22%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1503304,
+        "skillUniqueId": 15033,
+        "level": 4,
+        "name": "ブラストアクセル",
+        "description": "自身以外の味方がダメージを与えたとき自身のMP+5。<br>味方全体の【追撃/反撃】で与えるダメージ+23%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1503305,
+        "skillUniqueId": 15033,
+        "level": 5,
+        "name": "ブラストアクセル",
+        "description": "自身以外の味方がダメージを与えたとき自身のMP+5。<br>味方全体の【追撃/反撃】で与えるダメージ+24%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1503306,
+        "skillUniqueId": 15033,
+        "level": 6,
+        "name": "ブラストアクセル",
+        "description": "自身以外の味方がダメージを与えたとき自身のMP+5。<br>味方全体の【追撃/反撃】で与えるダメージ+25%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1503307,
+        "skillUniqueId": 15033,
+        "level": 7,
+        "name": "ブラストアクセル",
+        "description": "自身以外の味方がダメージを与えたとき自身のMP+5。<br>味方全体の【追撃/反撃】で与えるダメージ+26%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1503308,
+        "skillUniqueId": 15033,
+        "level": 8,
+        "name": "ブラストアクセル",
+        "description": "自身以外の味方がダメージを与えたとき自身のMP+5。<br>味方全体の【追撃/反撃】で与えるダメージ+27%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1503309,
+        "skillUniqueId": 15033,
+        "level": 9,
+        "name": "ブラストアクセル",
+        "description": "自身以外の味方がダメージを与えたとき自身のMP+5。<br>味方全体の【追撃/反撃】で与えるダメージ+28%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1503310,
+        "skillUniqueId": 15033,
+        "level": 10,
+        "name": "ブラストアクセル",
+        "description": "自身以外の味方がダメージを与えたとき自身のMP+5。<br>味方全体の【追撃/反撃】で与えるダメージ+30%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
         "passiveSkillMstId": 2001001,
         "skillUniqueId": 2001001,
         "level": 1,
@@ -18299,6 +19149,26 @@
         "level": 1,
         "name": "アビリティⅠ",
         "description": "5ターンごとに攻撃力とスピードが上昇する<br>敵全体の使用するデバフ効果を大幅に低下させる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2001038,
+        "skillUniqueId": 2001038,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "ターンが経過するほど攻撃力と防御力とスピードが上昇する<br>3ターンごとに敵全体のMPを減少させる<br><br>被ダメージを大幅に軽減する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2001039,
+        "skillUniqueId": 2001039,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "ターンが経過するほど攻撃力と防御力とスピードが上昇する<br>3ターンごとに敵全体のMPを減少させる<br><br>被ダメージを軽減する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -20014,6 +20884,126 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 5001076,
+        "skillUniqueId": 5001076,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br><br>毎ターン、攻撃力が少量上昇する<br>上昇効果は必殺技でダメージを受けると減少する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001077,
+        "skillUniqueId": 5001077,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br><br>毎ターン、攻撃力とスピードが上昇する<br>上昇効果は必殺技でダメージを受けると減少する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001078,
+        "skillUniqueId": 5001078,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br><br>毎ターン、攻撃力とスピードが上昇する<br>上昇効果は必殺技で[15,000]以上のダメージを受けると減少する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001079,
+        "skillUniqueId": 5001079,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br><br>毎ターン、攻撃力とスピードとブレイクゲージ削減耐性が上昇する<br>上昇効果は必殺技で[20,000]以上のダメージを受けると減少する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001080,
+        "skillUniqueId": 5001080,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br><br>毎ターン、攻撃力とスピードとブレイクゲージ削減耐性が大幅に上昇する<br>上昇効果は必殺技で[30,000]以上のダメージを受けると減少する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001081,
+        "skillUniqueId": 5001081,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>追撃/反撃で1以上のダメージを受けるたびに被ダメージが上昇する<br>ターンが経過するごとに攻撃力とスピードが上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001082,
+        "skillUniqueId": 5001082,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "偶数ターンに2回行動する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001083,
+        "skillUniqueId": 5001083,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br><br>敵のターンが経過するほど敵の防御力、スピード、MP獲得効率を減少させる<br><br>ブレイク状態ではない場合、被ダメージを大幅に軽減する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001084,
+        "skillUniqueId": 5001084,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br><br>ターンが経過するほど防御力が減少し、攻撃力とスピードが上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001085,
+        "skillUniqueId": 5001085,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br><br>ターンが経過するほど攻撃力と防御力とスピードが上昇する<br>3ターンごとに敵全体のMPを減少させる<br><br>被ダメージを大幅に軽減する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001086,
+        "skillUniqueId": 5001086,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br><br>ターンが経過するほど攻撃力と防御力とスピードが上昇する<br>3ターンごとに敵全体のMPを減少させる<br><br>被ダメージを軽減する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001092,
+        "skillUniqueId": 5001092,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br><br>ブレイク状態ではない場合に1以上のダメージを一定回数受けるたびに一部スキル効果が上昇する<br>この効果はブレイクすると減少する<br><br>ターン経過ごとに攻撃力が上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 5002001,
         "skillUniqueId": 5002001,
         "level": 1,
@@ -21459,6 +22449,16 @@
         "level": 1,
         "name": "限界突破効果",
         "description": "敵の数が1体以上のとき与えるダメージ+10%、敵が1体増えるごとに+10%(最大50%)。<br>敵がブレイクしたとき行動順+20%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 8504701,
+        "skillUniqueId": 85047,
+        "level": 1,
+        "name": "限界突破効果",
+        "description": "戦闘スキルを発動したとき味方全体の行動順+10%。<br>自身に【ツバメの加護】が付与されているとき味方全体が弱点属性に対して与えるダメージ+15%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -28261,6 +29261,106 @@
         "description": "【闇属性に装備時】<br>敵の数が1体以上のとき攻撃力+3%、敵が1体増えるごとに+3%(最大15%)。<br>戦闘スキルを発動したとき弱点属性に対して与えるダメージ+25%(2ターン)",
         "conditionElement": 5,
         "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503201,
+        "skillUniqueId": 95032,
+        "level": 1,
+        "name": "ブラストアクセル",
+        "description": "【バッファーに装備時】<br>味方全体の【追撃/反撃】で与えるダメージ+5%。<br>自身以外の味方がダメージを与えたとき自身のMP+1",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503202,
+        "skillUniqueId": 95032,
+        "level": 2,
+        "name": "ブラストアクセル",
+        "description": "【バッファーに装備時】<br>味方全体の【追撃/反撃】で与えるダメージ+6.1%。<br>自身以外の味方がダメージを与えたとき自身のMP+1",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503203,
+        "skillUniqueId": 95032,
+        "level": 3,
+        "name": "ブラストアクセル",
+        "description": "【バッファーに装備時】<br>味方全体の【追撃/反撃】で与えるダメージ+7.2%。<br>自身以外の味方がダメージを与えたとき自身のMP+1",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503204,
+        "skillUniqueId": 95032,
+        "level": 4,
+        "name": "ブラストアクセル",
+        "description": "【バッファーに装備時】<br>味方全体の【追撃/反撃】で与えるダメージ+8.3%。<br>自身以外の味方がダメージを与えたとき自身のMP+1",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503205,
+        "skillUniqueId": 95032,
+        "level": 5,
+        "name": "ブラストアクセル",
+        "description": "【バッファーに装備時】<br>味方全体の【追撃/反撃】で与えるダメージ+9.4%。<br>自身以外の味方がダメージを与えたとき自身のMP+1",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503206,
+        "skillUniqueId": 95032,
+        "level": 6,
+        "name": "ブラストアクセル",
+        "description": "【バッファーに装備時】<br>味方全体の【追撃/反撃】で与えるダメージ+10.6%。<br>自身以外の味方がダメージを与えたとき自身のMP+1",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503207,
+        "skillUniqueId": 95032,
+        "level": 7,
+        "name": "ブラストアクセル",
+        "description": "【バッファーに装備時】<br>味方全体の【追撃/反撃】で与えるダメージ+11.7%。<br>自身以外の味方がダメージを与えたとき自身のMP+1",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503208,
+        "skillUniqueId": 95032,
+        "level": 8,
+        "name": "ブラストアクセル",
+        "description": "【バッファーに装備時】<br>味方全体の【追撃/反撃】で与えるダメージ+12.8%。<br>自身以外の味方がダメージを与えたとき自身のMP+1",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503209,
+        "skillUniqueId": 95032,
+        "level": 9,
+        "name": "ブラストアクセル",
+        "description": "【バッファーに装備時】<br>味方全体の【追撃/反撃】で与えるダメージ+13.9%。<br>自身以外の味方がダメージを与えたとき自身のMP+1",
+        "conditionElement": 0,
+        "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503210,
+        "skillUniqueId": 95032,
+        "level": 10,
+        "name": "ブラストアクセル",
+        "description": "【バッファーに装備時】<br>味方全体の【追撃/反撃】で与えるダメージ+15%。<br>自身以外の味方がダメージを与えたとき自身のMP+1",
+        "conditionElement": 0,
+        "conditionRole": 4,
         "skillButtonIcon": "battle_icon_supportpassive_buff"
       }
     ]

@@ -1,0 +1,92 @@
+{
+  "url": "/api/mst/getMultiRaidDailyBonusRewardMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "multiRaidDailyBonusRewardMstId": 10101,
+        "groupId": 101,
+        "objectReceiveType": 6,
+        "objectId": 121003,
+        "num": 1
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10102,
+        "groupId": 101,
+        "objectReceiveType": 6,
+        "objectId": 121003,
+        "num": 2
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10103,
+        "groupId": 101,
+        "objectReceiveType": 6,
+        "objectId": 121022,
+        "num": 1
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10104,
+        "groupId": 101,
+        "objectReceiveType": 6,
+        "objectId": 232030,
+        "num": 5
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10201,
+        "groupId": 102,
+        "objectReceiveType": 6,
+        "objectId": 121002,
+        "num": 100
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10202,
+        "groupId": 102,
+        "objectReceiveType": 6,
+        "objectId": 121003,
+        "num": 1
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10203,
+        "groupId": 102,
+        "objectReceiveType": 6,
+        "objectId": 121022,
+        "num": 1
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10204,
+        "groupId": 102,
+        "objectReceiveType": 6,
+        "objectId": 232030,
+        "num": 5
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10301,
+        "groupId": 103,
+        "objectReceiveType": 6,
+        "objectId": 121002,
+        "num": 50
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10302,
+        "groupId": 103,
+        "objectReceiveType": 6,
+        "objectId": 121003,
+        "num": 1
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10303,
+        "groupId": 103,
+        "objectReceiveType": 6,
+        "objectId": 121022,
+        "num": 1
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10304,
+        "groupId": 103,
+        "objectReceiveType": 6,
+        "objectId": 232030,
+        "num": 5
+      }
+    ]
+  }
+}

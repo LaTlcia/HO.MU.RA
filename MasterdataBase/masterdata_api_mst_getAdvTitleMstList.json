@@ -479,6 +479,16 @@
         "isViewCollection": true
       },
       {
+        "advTitleMstId": 99,
+        "title": "第10章 浅き夢の暁",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 100,
+        "title": "調整屋さんの事件簿５ 不可視のエピファニー",
+        "isViewCollection": true
+      },
+      {
         "advTitleMstId": 102,
         "title": "心から頑張りたいと思えたこと",
         "isViewCollection": true
@@ -539,6 +549,16 @@
         "isViewCollection": true
       },
       {
+        "advTitleMstId": 123,
+        "title": "ふたりはマジカルでKAWAII",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 124,
+        "title": "これからも、みんなで",
+        "isViewCollection": true
+      },
+      {
         "advTitleMstId": 125,
         "title": "素敵なプールで素敵な１日を！",
         "isViewCollection": true
@@ -546,6 +566,16 @@
       {
         "advTitleMstId": 126,
         "title": "ホットな夏にホットな話題",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 133,
+        "title": "いろはBirthday 2025 ～とびきり特別な日～",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 134,
+        "title": "誰かの役に立てる人になれたら",
         "isViewCollection": true
       }
     ]

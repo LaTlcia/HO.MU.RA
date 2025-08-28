@@ -2446,6 +2446,39 @@
         "displayType": 2
       },
       {
+        "abilityEffectTypeMstId": 226,
+        "name": "ツバメの加護",
+        "effectType": "TSUBAME_CORE",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "BuffIconL",
+        "stateFlipName": "ツバメの加護",
+        "displayType": 1
+      },
+      {
+        "abilityEffectTypeMstId": 227,
+        "name": "ツバメの加護",
+        "effectType": "TSUBAME_LINK",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "BuffIconL",
+        "stateFlipName": "ツバメの加護",
+        "displayType": 1
+      },
+      {
+        "abilityEffectTypeMstId": 228,
+        "name": "ブレイクゲージ削減量上昇",
+        "effectType": "UP_GIV_BREAK_POINT_DMG_RATIO",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 1,
+        "iconName": "BuffIconL",
+        "stateFlipName": "ブレイクゲージ削減量UP",
+        "displayType": 1
+      },
+      {
         "abilityEffectTypeMstId": 1001,
         "name": "HP・攻撃力・防御力上昇",
         "effectType": "UP_HP_ATK_DEF_RATIO",

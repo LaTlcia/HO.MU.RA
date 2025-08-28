@@ -7099,7 +7099,7 @@
         "cueName": "music_01_01_022_uwasa_san",
         "unlockType": 1,
         "unlockId": 0,
-        "releaseTime": "2999-01-01T00:00:00+09:00"
+        "releaseTime": "2025-08-28T12:00:00+09:00"
       },
       {
         "soundMstId": 3000146,
@@ -7411,7 +7411,7 @@
         "cueName": "music_01_01_046_there_is",
         "unlockType": 1,
         "unlockId": 0,
-        "releaseTime": "2999-01-01T00:00:00+09:00"
+        "releaseTime": "2025-08-28T12:00:00+09:00"
       },
       {
         "soundMstId": 3000170,
@@ -7424,7 +7424,7 @@
         "cueName": "music_01_01_047_little_trick",
         "unlockType": 1,
         "unlockId": 0,
-        "releaseTime": "2999-01-01T00:00:00+09:00"
+        "releaseTime": "2025-08-28T12:00:00+09:00"
       },
       {
         "soundMstId": 3000171,
@@ -7437,7 +7437,7 @@
         "cueName": "music_01_01_048_hot_summer_day",
         "unlockType": 1,
         "unlockId": 0,
-        "releaseTime": "2999-01-01T00:00:00+09:00"
+        "releaseTime": "2025-08-28T12:00:00+09:00"
       },
       {
         "soundMstId": 3000227,
@@ -9841,6 +9841,188 @@
         "cueSheetName": "bgm_battle_magireco",
         "cueName": "bgm02_battle_magireco_shitori_egumo",
         "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2025-08-28T12:00:00+09:00"
+      },
+      {
+        "soundMstId": 3000426,
+        "seriesId": 2,
+        "soundType": 3,
+        "name": "環ういボイス1",
+        "songWriter": "",
+        "songComposer": "",
+        "cueSheetName": "cv_102201_outgame",
+        "cueName": "cv_102201_other_evo_fee_01",
+        "unlockType": 0,
+        "unlockId": 0,
+        "releaseTime": "2025-08-28T12:00:00+09:00"
+      },
+      {
+        "soundMstId": 3000427,
+        "seriesId": 2,
+        "soundType": 3,
+        "name": "環ういボイス2",
+        "songWriter": "",
+        "songComposer": "",
+        "cueSheetName": "cv_102201_outgame",
+        "cueName": "cv_102201_other_story_01",
+        "unlockType": 0,
+        "unlockId": 0,
+        "releaseTime": "2025-08-28T12:00:00+09:00"
+      },
+      {
+        "soundMstId": 3000428,
+        "seriesId": 2,
+        "soundType": 3,
+        "name": "環ういボイス3",
+        "songWriter": "",
+        "songComposer": "",
+        "cueSheetName": "cv_102201_outgame",
+        "cueName": "cv_102201_other_evo_fee_02",
+        "unlockType": 0,
+        "unlockId": 0,
+        "releaseTime": "2025-08-28T12:00:00+09:00"
+      },
+      {
+        "soundMstId": 3000429,
+        "seriesId": 2,
+        "soundType": 3,
+        "name": "環ういボイス4",
+        "songWriter": "",
+        "songComposer": "",
+        "cueSheetName": "cv_102201_outgame",
+        "cueName": "cv_102201_other_story_02",
+        "unlockType": 0,
+        "unlockId": 0,
+        "releaseTime": "2025-08-28T12:00:00+09:00"
+      },
+      {
+        "soundMstId": 3000430,
+        "seriesId": 2,
+        "soundType": 3,
+        "name": "環ういボイス5",
+        "songWriter": "",
+        "songComposer": "",
+        "cueSheetName": "cv_102201_outgame",
+        "cueName": "cv_102201_other_evo_fee_03",
+        "unlockType": 0,
+        "unlockId": 0,
+        "releaseTime": "2025-08-28T12:00:00+09:00"
+      },
+      {
+        "soundMstId": 3000431,
+        "seriesId": 2,
+        "soundType": 3,
+        "name": "環ういボイス6",
+        "songWriter": "",
+        "songComposer": "",
+        "cueSheetName": "cv_102201_outgame",
+        "cueName": "cv_102201_other_story_03",
+        "unlockType": 0,
+        "unlockId": 0,
+        "releaseTime": "2025-08-28T12:00:00+09:00"
+      },
+      {
+        "soundMstId": 3000432,
+        "seriesId": 2,
+        "soundType": 3,
+        "name": "環ういボイス7",
+        "songWriter": "",
+        "songComposer": "",
+        "cueSheetName": "cv_102201_outgame",
+        "cueName": "cv_102201_other_evo_fee_04",
+        "unlockType": 0,
+        "unlockId": 0,
+        "releaseTime": "2025-08-28T12:00:00+09:00"
+      },
+      {
+        "soundMstId": 3000433,
+        "seriesId": 2,
+        "soundType": 3,
+        "name": "環ういボイス8",
+        "songWriter": "",
+        "songComposer": "",
+        "cueSheetName": "cv_102201_outgame",
+        "cueName": "cv_102201_other_story_04",
+        "unlockType": 0,
+        "unlockId": 0,
+        "releaseTime": "2025-08-28T12:00:00+09:00"
+      },
+      {
+        "soundMstId": 3000434,
+        "seriesId": 2,
+        "soundType": 3,
+        "name": "環ういボイス9",
+        "songWriter": "",
+        "songComposer": "",
+        "cueSheetName": "cv_102201_outgame",
+        "cueName": "cv_102201_other_evo_fee_05",
+        "unlockType": 0,
+        "unlockId": 0,
+        "releaseTime": "2025-08-28T12:00:00+09:00"
+      },
+      {
+        "soundMstId": 3000435,
+        "seriesId": 2,
+        "soundType": 3,
+        "name": "環ういボイス10",
+        "songWriter": "",
+        "songComposer": "",
+        "cueSheetName": "cv_102201_outgame",
+        "cueName": "cv_102201_other_story_05",
+        "unlockType": 0,
+        "unlockId": 0,
+        "releaseTime": "2025-08-28T12:00:00+09:00"
+      },
+      {
+        "soundMstId": 3000436,
+        "seriesId": 2,
+        "soundType": 3,
+        "name": "環ういボイス11",
+        "songWriter": "",
+        "songComposer": "",
+        "cueSheetName": "cv_102201_outgame",
+        "cueName": "cv_102201_other_evo_fee_06",
+        "unlockType": 0,
+        "unlockId": 0,
+        "releaseTime": "2025-08-28T12:00:00+09:00"
+      },
+      {
+        "soundMstId": 3000437,
+        "seriesId": 2,
+        "soundType": 3,
+        "name": "環ういボイス12",
+        "songWriter": "",
+        "songComposer": "",
+        "cueSheetName": "cv_102201_outgame",
+        "cueName": "cv_102201_other_story_06",
+        "unlockType": 0,
+        "unlockId": 0,
+        "releaseTime": "2025-08-28T12:00:00+09:00"
+      },
+      {
+        "soundMstId": 3000438,
+        "seriesId": 2,
+        "soundType": 3,
+        "name": "環ういボイス13",
+        "songWriter": "",
+        "songComposer": "",
+        "cueSheetName": "cv_102201_outgame",
+        "cueName": "cv_102201_other_evo_fee_07",
+        "unlockType": 0,
+        "unlockId": 0,
+        "releaseTime": "2025-08-28T12:00:00+09:00"
+      },
+      {
+        "soundMstId": 3000439,
+        "seriesId": 2,
+        "soundType": 3,
+        "name": "環ういボイス14",
+        "songWriter": "",
+        "songComposer": "",
+        "cueSheetName": "cv_102201_outgame",
+        "cueName": "cv_102201_other_story_07",
+        "unlockType": 0,
         "unlockId": 0,
         "releaseTime": "2025-08-28T12:00:00+09:00"
       }

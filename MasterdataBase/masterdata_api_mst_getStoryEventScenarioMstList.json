@@ -2514,6 +2514,216 @@
         "viewType": 0
       },
       {
+        "storyEventScenarioMstId": 101901,
+        "storyEventMstId": 19,
+        "advMstId": 20002201,
+        "conditionQuestStageMstId": 0,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 1,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102001,
+        "storyEventMstId": 20,
+        "advMstId": 20001221,
+        "conditionQuestStageMstId": 927101,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 1,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102002,
+        "storyEventMstId": 20,
+        "advMstId": 20001222,
+        "conditionQuestStageMstId": 927101,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 2,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102003,
+        "storyEventMstId": 20,
+        "advMstId": 20001223,
+        "conditionQuestStageMstId": 927102,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 3,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102004,
+        "storyEventMstId": 20,
+        "advMstId": 20001224,
+        "conditionQuestStageMstId": 927102,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 4,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102005,
+        "storyEventMstId": 20,
+        "advMstId": 20001225,
+        "conditionQuestStageMstId": 927103,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 5,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102006,
+        "storyEventMstId": 20,
+        "advMstId": 20001226,
+        "conditionQuestStageMstId": 927103,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 6,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102007,
+        "storyEventMstId": 20,
+        "advMstId": 20001227,
+        "conditionQuestStageMstId": 927104,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 7,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102008,
+        "storyEventMstId": 20,
+        "advMstId": 20001228,
+        "conditionQuestStageMstId": 927104,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 8,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102009,
+        "storyEventMstId": 20,
+        "advMstId": 20001229,
+        "conditionQuestStageMstId": 927105,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 9,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102010,
+        "storyEventMstId": 20,
+        "advMstId": 20001230,
+        "conditionQuestStageMstId": 927105,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 10,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102011,
+        "storyEventMstId": 20,
+        "advMstId": 20001331,
+        "conditionQuestStageMstId": 927106,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 11,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102012,
+        "storyEventMstId": 20,
+        "advMstId": 20001332,
+        "conditionQuestStageMstId": 927106,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 12,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102013,
+        "storyEventMstId": 20,
+        "advMstId": 20001333,
+        "conditionQuestStageMstId": 927107,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 13,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102014,
+        "storyEventMstId": 20,
+        "advMstId": 20001334,
+        "conditionQuestStageMstId": 927107,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 14,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102015,
+        "storyEventMstId": 20,
+        "advMstId": 20001335,
+        "conditionQuestStageMstId": 927108,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 15,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102016,
+        "storyEventMstId": 20,
+        "advMstId": 20001336,
+        "conditionQuestStageMstId": 927108,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 16,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102017,
+        "storyEventMstId": 20,
+        "advMstId": 20001337,
+        "conditionQuestStageMstId": 927109,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 17,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102018,
+        "storyEventMstId": 20,
+        "advMstId": 20001338,
+        "conditionQuestStageMstId": 927109,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 18,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102019,
+        "storyEventMstId": 20,
+        "advMstId": 20001339,
+        "conditionQuestStageMstId": 927110,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 19,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
+        "storyEventScenarioMstId": 102020,
+        "storyEventMstId": 20,
+        "advMstId": 20001341,
+        "conditionQuestStageMstId": 927110,
+        "conditionScenarioMstId": 0,
+        "sortOrder": 20,
+        "filmNo": 0,
+        "viewType": 0
+      },
+      {
         "storyEventScenarioMstId": 1100001,
         "storyEventMstId": 10000,
         "advMstId": 20000801,

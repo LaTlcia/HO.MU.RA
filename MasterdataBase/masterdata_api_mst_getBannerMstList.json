@@ -851,6 +851,13 @@
         "bannerLabelMstId": 0
       },
       {
+        "bannerMstId": 127,
+        "name": "",
+        "imageName": "banner_00120",
+        "destination": "StoryEvent",
+        "bannerLabelMstId": 2
+      },
+      {
         "bannerMstId": 128,
         "name": "",
         "imageName": "banner_00118",
@@ -870,6 +877,90 @@
         "imageName": "banner_00119",
         "destination": "",
         "bannerLabelMstId": 0
+      },
+      {
+        "bannerMstId": 131,
+        "name": "",
+        "imageName": "banner_00121",
+        "destination": "StoryEvent",
+        "bannerLabelMstId": 2
+      },
+      {
+        "bannerMstId": 132,
+        "name": "",
+        "imageName": "banner_00122",
+        "destination": "Gacha",
+        "bannerLabelMstId": 8
+      },
+      {
+        "bannerMstId": 133,
+        "name": "",
+        "imageName": "banner_00124",
+        "destination": "Gacha",
+        "bannerLabelMstId": 8
+      },
+      {
+        "bannerMstId": 134,
+        "name": "",
+        "imageName": "banner_00124",
+        "destination": "Gacha",
+        "bannerLabelMstId": 14
+      },
+      {
+        "bannerMstId": 135,
+        "name": "",
+        "imageName": "banner_00126",
+        "destination": "Gacha",
+        "bannerLabelMstId": 14
+      },
+      {
+        "bannerMstId": 138,
+        "name": "",
+        "imageName": "banner_00127",
+        "destination": "",
+        "bannerLabelMstId": 4
+      },
+      {
+        "bannerMstId": 139,
+        "name": "",
+        "imageName": "banner_00128",
+        "destination": "",
+        "bannerLabelMstId": 0
+      },
+      {
+        "bannerMstId": 140,
+        "name": "",
+        "imageName": "banner_00131",
+        "destination": "Gacha",
+        "bannerLabelMstId": 19
+      },
+      {
+        "bannerMstId": 141,
+        "name": "",
+        "imageName": "banner_00132",
+        "destination": "Gacha",
+        "bannerLabelMstId": 19
+      },
+      {
+        "bannerMstId": 142,
+        "name": "",
+        "imageName": "banner_00133",
+        "destination": "Gacha",
+        "bannerLabelMstId": 19
+      },
+      {
+        "bannerMstId": 146,
+        "name": "",
+        "imageName": "banner_00138",
+        "destination": "",
+        "bannerLabelMstId": 2
+      },
+      {
+        "bannerMstId": 147,
+        "name": "",
+        "imageName": "banner_00137",
+        "destination": "StoneItemList",
+        "bannerLabelMstId": 5
       }
     ]
   }

@@ -144,6 +144,13 @@
         "colorCode": "#CCF02A"
       },
       {
+        "characterMstId": 1022,
+        "name": "環うい",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1022",
+        "colorCode": "#d14c69"
+      },
+      {
         "characterMstId": 1025,
         "name": "天音月夜",
         "awakeItemMstId": 0,

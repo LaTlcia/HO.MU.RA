@@ -152,6 +152,21 @@
         "selectionAbilityLotteryMstId": 605,
         "selectionAbilityLotteryGroupId": 605,
         "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 701,
+        "selectionAbilityLotteryGroupId": 701,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 702,
+        "selectionAbilityLotteryGroupId": 702,
+        "selectionAbilityType": 1
+      },
+      {
+        "selectionAbilityLotteryMstId": 703,
+        "selectionAbilityLotteryGroupId": 703,
+        "selectionAbilityType": 1
       }
     ]
   }

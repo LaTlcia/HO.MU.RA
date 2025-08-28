@@ -676,6 +676,20 @@
         "releaseTime": "2025-08-15T12:00:00+09:00"
       },
       {
+        "enemyProfileMstId": 621002,
+        "enemyUniqueId": 621002,
+        "enemyMstId": 621002,
+        "name": "幸福の魔女",
+        "runesName": "shitori egumo",
+        "seriesId": 2,
+        "description": "幸福の魔女。その性質は受難。<br>収縮した被膜に包まれて、自身のエネルギーを安定させた\"半魔女\"。<br>大切な者を失ってからは、胸の虚ろを埋めるために見境なく大地を揺るがしている。<br>恐らく、ひとりの少女が犠牲になるまで、その暴走は止まることを知らないだろう。<br>また、肉体を維持させる被膜を失えば、この\"半魔女\"もまた肉体を維持できなくなり、大気に溶けていく。<br>その散った穢れがどのような作用を引き起こすかは、誰も知り得ない。",
+        "sortOrder": 0,
+        "isCollectionDisp": true,
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2025-08-28T12:00:00+09:00"
+      },
+      {
         "enemyProfileMstId": 621003,
         "enemyUniqueId": 621003,
         "enemyMstId": 621003,

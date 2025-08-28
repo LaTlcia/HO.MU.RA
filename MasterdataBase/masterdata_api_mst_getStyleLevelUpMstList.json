@@ -564,6 +564,22 @@
         "maxDef": 3192
       },
       {
+        "styleLevelUpMstId": 10220101120,
+        "styleMstId": 10220101,
+        "level": 120,
+        "maxHp": 5535,
+        "maxAtk": 1791,
+        "maxDef": 1872
+      },
+      {
+        "styleLevelUpMstId": 10220101300,
+        "styleMstId": 10220101,
+        "level": 300,
+        "maxHp": 9225,
+        "maxAtk": 2985,
+        "maxDef": 3120
+      },
+      {
         "styleLevelUpMstId": 10250101120,
         "styleMstId": 10250101,
         "level": 120,

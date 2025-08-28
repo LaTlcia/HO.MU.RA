@@ -304,6 +304,21 @@
         "sortOrder": 0
       },
       {
+        "characterMstId": 1022,
+        "description": "幸せのために何ができるのか迷い続ける魔法少女。<br>外を知らずに育ち、魔法少女としても初心者なので、周りに負けないように努力を続けている。<br>相手の良い面を見つけるのが上手で、人を嫌いになることがない。<br>灯花＆ねむの幼馴染でいろはの妹。",
+        "characterVoice": "石見舞菜香",
+        "schoolName": "神浜市立大附属学校",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 2,
+        "regionId": 1,
+        "teamId1": 1,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
         "characterMstId": 1025,
         "description": "月咲の双子の姉にあたる、解放を望む魔法少女。<br>普段から箏曲、毛筆、舞踊などの稽古に勤しみ、優れた腕前を持つ。<br>後輩や同期からの信頼も厚いが、気を許せる仲の人は居ないため、妹の月咲と一緒にいるのが最も心が安らぐ。",
         "characterVoice": "内田真礼",

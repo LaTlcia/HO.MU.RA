@@ -3474,6 +3474,806 @@
         "priority": 3
       },
       {
+        "enemyConditionSetsAndActionMstId": 6004001,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "785",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004002,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "786",
+        "skillMstIdCsv": "2011027",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004003,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "787",
+        "skillMstIdCsv": "2011021",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004004,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "788",
+        "skillMstIdCsv": "2011024,2011025",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004005,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "789",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004006,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "790",
+        "skillMstIdCsv": "2011027",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004007,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "791",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004008,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "792",
+        "skillMstIdCsv": "2011024,2011025",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004009,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "793",
+        "skillMstIdCsv": "2011021",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004010,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "794",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004011,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "795",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004012,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "796",
+        "skillMstIdCsv": "2011024,2011025",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004013,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "797",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004014,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "798",
+        "skillMstIdCsv": "2011027",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004015,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "799",
+        "skillMstIdCsv": "2011021",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004016,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "800",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004017,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "801",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004018,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "802",
+        "skillMstIdCsv": "2011027",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004019,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "803",
+        "skillMstIdCsv": "2011021",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6004020,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6004,
+        "conditionSetMstIdCsv": "804",
+        "skillMstIdCsv": "2011024,2011025",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005001,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "785",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005002,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "786",
+        "skillMstIdCsv": "2011028",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005003,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "787",
+        "skillMstIdCsv": "2011021",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005004,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "788",
+        "skillMstIdCsv": "2011025",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005005,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "789",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005006,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "790",
+        "skillMstIdCsv": "2011027",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005007,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "791",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005008,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "792",
+        "skillMstIdCsv": "2011024",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005009,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "793",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005010,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "794",
+        "skillMstIdCsv": "2011027",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005011,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "795",
+        "skillMstIdCsv": "2011021",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005012,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "796",
+        "skillMstIdCsv": "2011028",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005013,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "797",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005014,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "798",
+        "skillMstIdCsv": "2011025",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005015,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "799",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005016,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "800",
+        "skillMstIdCsv": "2011027",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005017,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "801",
+        "skillMstIdCsv": "2011021",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005018,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "802",
+        "skillMstIdCsv": "2011024",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005019,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "803",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6005020,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6005,
+        "conditionSetMstIdCsv": "804",
+        "skillMstIdCsv": "2011025",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006001,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "785",
+        "skillMstIdCsv": "2011022",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006002,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "786",
+        "skillMstIdCsv": "2011024",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006003,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "787",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006004,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "788",
+        "skillMstIdCsv": "2011028",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006005,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "789",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006006,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "790",
+        "skillMstIdCsv": "2011026",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006007,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "791",
+        "skillMstIdCsv": "2011022",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006008,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "792",
+        "skillMstIdCsv": "2011025",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006009,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "793",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006010,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "794",
+        "skillMstIdCsv": "2011028",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006011,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "795",
+        "skillMstIdCsv": "2011022",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006012,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "796",
+        "skillMstIdCsv": "2011024",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006013,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "797",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006014,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "798",
+        "skillMstIdCsv": "2011026",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006015,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "799",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006016,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "800",
+        "skillMstIdCsv": "2011025",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006017,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "801",
+        "skillMstIdCsv": "2011022",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006018,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "802",
+        "skillMstIdCsv": "2011028",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006019,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "803",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6006020,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6006,
+        "conditionSetMstIdCsv": "804",
+        "skillMstIdCsv": "2011024",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007001,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "785",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007002,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "786",
+        "skillMstIdCsv": "2011028",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007003,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "787",
+        "skillMstIdCsv": "2011022",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007004,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "788",
+        "skillMstIdCsv": "2011024",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007005,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "789",
+        "skillMstIdCsv": "2011025",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007006,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "790",
+        "skillMstIdCsv": "2011026",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007007,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "791",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007008,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "792",
+        "skillMstIdCsv": "2011028",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007009,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "793",
+        "skillMstIdCsv": "2011022",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007010,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "794",
+        "skillMstIdCsv": "2011025",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007011,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "795",
+        "skillMstIdCsv": "2011024",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007012,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "796",
+        "skillMstIdCsv": "2011026",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007013,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "797",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007014,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "798",
+        "skillMstIdCsv": "2011028",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007015,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "799",
+        "skillMstIdCsv": "2011022",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007016,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "800",
+        "skillMstIdCsv": "2011025",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007017,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "801",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007018,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "802",
+        "skillMstIdCsv": "2011024",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007019,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "803",
+        "skillMstIdCsv": "2011023",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 6007020,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 6007,
+        "conditionSetMstIdCsv": "804",
+        "skillMstIdCsv": "2011028",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 3
+      },
+      {
         "enemyConditionSetsAndActionMstId": 7001001,
         "questEnemyAppearanceMstId": 1,
         "enemyConditionSkillSetId": 7001,
@@ -9954,6 +10754,66 @@
         "priority": 3
       },
       {
+        "enemyConditionSetsAndActionMstId": 22004001,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 22004,
+        "conditionSetMstIdCsv": "323",
+        "skillMstIdCsv": "2012012",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 22004002,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 22004,
+        "conditionSetMstIdCsv": "324",
+        "skillMstIdCsv": "2012013",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 22004003,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 22004,
+        "conditionSetMstIdCsv": "325",
+        "skillMstIdCsv": "2012014",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 22004004,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 22004,
+        "conditionSetMstIdCsv": "326",
+        "skillMstIdCsv": "2012015",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 22004005,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 22004,
+        "conditionSetMstIdCsv": "327",
+        "skillMstIdCsv": "2012016",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 22004006,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 22004,
+        "conditionSetMstIdCsv": "328",
+        "skillMstIdCsv": "2012017",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
         "enemyConditionSetsAndActionMstId": 23001001,
         "questEnemyAppearanceMstId": 1,
         "enemyConditionSkillSetId": 23001,
@@ -12404,6 +13264,326 @@
         "priority": 3
       },
       {
+        "enemyConditionSetsAndActionMstId": 23012001,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23012,
+        "conditionSetMstIdCsv": "676",
+        "skillMstIdCsv": "2016077",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23012002,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23012,
+        "conditionSetMstIdCsv": "677",
+        "skillMstIdCsv": "2016044",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23012003,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23012,
+        "conditionSetMstIdCsv": "678",
+        "skillMstIdCsv": "2016071",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23012004,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23012,
+        "conditionSetMstIdCsv": "679",
+        "skillMstIdCsv": "2016067",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23012005,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23012,
+        "conditionSetMstIdCsv": "680",
+        "skillMstIdCsv": "2016069",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23012006,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23012,
+        "conditionSetMstIdCsv": "681",
+        "skillMstIdCsv": "2016073",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23012007,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23012,
+        "conditionSetMstIdCsv": "682",
+        "skillMstIdCsv": "2016075",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23012008,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23012,
+        "conditionSetMstIdCsv": "683",
+        "skillMstIdCsv": "2016067",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23013001,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23013,
+        "conditionSetMstIdCsv": "676",
+        "skillMstIdCsv": "2016077",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23013002,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23013,
+        "conditionSetMstIdCsv": "677",
+        "skillMstIdCsv": "2016044",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23013003,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23013,
+        "conditionSetMstIdCsv": "678",
+        "skillMstIdCsv": "2016071",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23013004,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23013,
+        "conditionSetMstIdCsv": "679",
+        "skillMstIdCsv": "2016067",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23013005,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23013,
+        "conditionSetMstIdCsv": "680",
+        "skillMstIdCsv": "2016069",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23013006,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23013,
+        "conditionSetMstIdCsv": "681",
+        "skillMstIdCsv": "2016073",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23013007,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23013,
+        "conditionSetMstIdCsv": "682",
+        "skillMstIdCsv": "2016075",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23013008,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23013,
+        "conditionSetMstIdCsv": "683",
+        "skillMstIdCsv": "2016065",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23014001,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23014,
+        "conditionSetMstIdCsv": "676",
+        "skillMstIdCsv": "2016078",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23014002,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23014,
+        "conditionSetMstIdCsv": "677",
+        "skillMstIdCsv": "2016044",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23014003,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23014,
+        "conditionSetMstIdCsv": "678",
+        "skillMstIdCsv": "2016072",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23014004,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23014,
+        "conditionSetMstIdCsv": "679",
+        "skillMstIdCsv": "2016068",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23014005,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23014,
+        "conditionSetMstIdCsv": "680",
+        "skillMstIdCsv": "2016070",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23014006,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23014,
+        "conditionSetMstIdCsv": "681",
+        "skillMstIdCsv": "2016074",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23014007,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23014,
+        "conditionSetMstIdCsv": "682",
+        "skillMstIdCsv": "2016076",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23014008,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23014,
+        "conditionSetMstIdCsv": "683",
+        "skillMstIdCsv": "2016068",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23015001,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23015,
+        "conditionSetMstIdCsv": "676",
+        "skillMstIdCsv": "2016078",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23015002,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23015,
+        "conditionSetMstIdCsv": "677",
+        "skillMstIdCsv": "2016044",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23015003,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23015,
+        "conditionSetMstIdCsv": "678",
+        "skillMstIdCsv": "2016072",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23015004,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23015,
+        "conditionSetMstIdCsv": "679",
+        "skillMstIdCsv": "2016068",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23015005,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23015,
+        "conditionSetMstIdCsv": "680",
+        "skillMstIdCsv": "2016070",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23015006,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23015,
+        "conditionSetMstIdCsv": "681",
+        "skillMstIdCsv": "2016074",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23015007,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23015,
+        "conditionSetMstIdCsv": "682",
+        "skillMstIdCsv": "2016076",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 23015008,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 23015,
+        "conditionSetMstIdCsv": "683",
+        "skillMstIdCsv": "2016066",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
         "enemyConditionSetsAndActionMstId": 24001001,
         "questEnemyAppearanceMstId": 1,
         "enemyConditionSkillSetId": 24001,
@@ -14789,6 +15969,86 @@
         "enemyConditionSkillSetId": 44002,
         "conditionSetMstIdCsv": "804",
         "skillMstIdCsv": "5006005",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 2
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 44003001,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 44003,
+        "conditionSetMstIdCsv": "676",
+        "skillMstIdCsv": "5006009",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 2
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 44003002,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 44003,
+        "conditionSetMstIdCsv": "677",
+        "skillMstIdCsv": "5006012",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 2
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 44003003,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 44003,
+        "conditionSetMstIdCsv": "678",
+        "skillMstIdCsv": "5006013",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 2
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 44003004,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 44003,
+        "conditionSetMstIdCsv": "679",
+        "skillMstIdCsv": "5006011",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 2
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 44003005,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 44003,
+        "conditionSetMstIdCsv": "680",
+        "skillMstIdCsv": "5006009",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 2
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 44003006,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 44003,
+        "conditionSetMstIdCsv": "681",
+        "skillMstIdCsv": "5006012",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 2
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 44003007,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 44003,
+        "conditionSetMstIdCsv": "682",
+        "skillMstIdCsv": "5006010",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 2
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 44003008,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 44003,
+        "conditionSetMstIdCsv": "683",
+        "skillMstIdCsv": "5006011",
         "isSkillBundle": false,
         "isSkillReusable": true,
         "priority": 2
@@ -17962,6 +19222,166 @@
         "isSkillBundle": false,
         "isSkillReusable": true,
         "priority": 3
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 56001001,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 56001,
+        "conditionSetMstIdCsv": "676",
+        "skillMstIdCsv": "2019015",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 56001002,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 56001,
+        "conditionSetMstIdCsv": "677",
+        "skillMstIdCsv": "2019007",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 56001003,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 56001,
+        "conditionSetMstIdCsv": "678",
+        "skillMstIdCsv": "2019013",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 56001004,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 56001,
+        "conditionSetMstIdCsv": "679",
+        "skillMstIdCsv": "2019005",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 56001005,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 56001,
+        "conditionSetMstIdCsv": "680",
+        "skillMstIdCsv": "2019011",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 56001006,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 56001,
+        "conditionSetMstIdCsv": "681",
+        "skillMstIdCsv": "2019003",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 56001007,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 56001,
+        "conditionSetMstIdCsv": "682",
+        "skillMstIdCsv": "2019009",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 56001008,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 56001,
+        "conditionSetMstIdCsv": "683",
+        "skillMstIdCsv": "2019001",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 56002001,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 56002,
+        "conditionSetMstIdCsv": "676",
+        "skillMstIdCsv": "2019016",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 56002002,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 56002,
+        "conditionSetMstIdCsv": "677",
+        "skillMstIdCsv": "2019008",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 56002003,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 56002,
+        "conditionSetMstIdCsv": "678",
+        "skillMstIdCsv": "2019014",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 56002004,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 56002,
+        "conditionSetMstIdCsv": "679",
+        "skillMstIdCsv": "2019006",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 56002005,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 56002,
+        "conditionSetMstIdCsv": "680",
+        "skillMstIdCsv": "2019012",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 56002006,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 56002,
+        "conditionSetMstIdCsv": "681",
+        "skillMstIdCsv": "2019004",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 56002007,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 56002,
+        "conditionSetMstIdCsv": "682",
+        "skillMstIdCsv": "2019010",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
+      },
+      {
+        "enemyConditionSetsAndActionMstId": 56002008,
+        "questEnemyAppearanceMstId": 1,
+        "enemyConditionSkillSetId": 56002,
+        "conditionSetMstIdCsv": "683",
+        "skillMstIdCsv": "2019002",
+        "isSkillBundle": false,
+        "isSkillReusable": true,
+        "priority": 1
       }
     ]
   }

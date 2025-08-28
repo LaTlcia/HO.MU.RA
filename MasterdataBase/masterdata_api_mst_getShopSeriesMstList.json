@@ -4,6 +4,32 @@
   "payload": {
     "mstList": [
       {
+        "shopSeriesMstId": 990,
+        "title": "ゴールドリンクメダル交換所",
+        "description": "",
+        "category": 1,
+        "startTime": "2025-08-28T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00",
+        "shopGroupId1": 990,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 201029,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 991,
+        "title": "シルバーリンクメダル交換所",
+        "description": "",
+        "category": 1,
+        "startTime": "2025-08-28T12:00:00+09:00",
+        "endTime": "2050-12-31T23:59:59+09:00",
+        "shopGroupId1": 991,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 201030,
+        "resourceName": ""
+      },
+      {
         "shopSeriesMstId": 1002,
         "title": "対戦メダル交換所",
         "description": "",
@@ -40,6 +66,58 @@
         "shopGroupId2": 0,
         "payType": 3,
         "payId": 201017,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 2973,
+        "title": "属性フィーチャーガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2025-08-28T12:00:00+09:00",
+        "endTime": "2025-09-22T11:59:59+09:00",
+        "shopGroupId1": 2973,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231027,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 2974,
+        "title": "「マギアレコード編  第1部」完結記念！1日1回無料ガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2025-08-28T12:00:00+09:00",
+        "endTime": "2025-09-29T11:59:59+09:00",
+        "shopGroupId1": 2974,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231025,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 2975,
+        "title": "マギウスピックアップガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2025-08-28T12:00:00+09:00",
+        "endTime": "2025-09-19T11:59:59+09:00",
+        "shopGroupId1": 2975,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231026,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 2976,
+        "title": "環ういピックアップガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2025-08-28T12:00:00+09:00",
+        "endTime": "2025-09-12T11:59:59+09:00",
+        "shopGroupId1": 2976,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231024,
         "resourceName": ""
       },
       {
@@ -339,6 +417,19 @@
         "shopGroupId2": 0,
         "payType": 3,
         "payId": 231004,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 3971,
+        "title": "調整屋さんの事件簿５イベント交換所",
+        "description": "",
+        "category": 3,
+        "startTime": "2025-08-28T12:00:00+09:00",
+        "endTime": "2025-09-12T11:59:59+09:00",
+        "shopGroupId1": 3971,
+        "shopGroupId2": 3970,
+        "payType": 3,
+        "payId": 201028,
         "resourceName": ""
       },
       {

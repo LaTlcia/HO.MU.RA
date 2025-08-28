@@ -3737,6 +3737,21 @@
         "styleMstId": 11390101,
         "resourceIconName": "battle_icon_selection_ability_ex",
         "sortOrder": 0
+      },
+      {
+        "selectionAbilityMstId": 7031,
+        "selectionAbilityType": 1,
+        "selectionAbilityEffectId": 115,
+        "rarity": 4,
+        "targetType": 2,
+        "name": "誰かの役に立てるような人になれたらいいな",
+        "description": "MP回復効率+10%。<br>自身に【ツバメの加護】が付与されているとき受けるダメージ-10%",
+        "abilityEffectType": "",
+        "value1": 1150031,
+        "value2": 0,
+        "styleMstId": 10220101,
+        "resourceIconName": "battle_icon_selection_ability_ex",
+        "sortOrder": 0
       }
     ]
   }

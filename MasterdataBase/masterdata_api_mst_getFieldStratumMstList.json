@@ -1780,6 +1780,102 @@
         "stratumName": ""
       },
       {
+        "fieldStratumMstId": 6210111,
+        "fieldStageMstId": 621011,
+        "stratumNum": 1,
+        "isWholeFieldVisible": true,
+        "soundMstId": 3000143,
+        "stratumName": ""
+      },
+      {
+        "fieldStratumMstId": 6210112,
+        "fieldStageMstId": 621011,
+        "stratumNum": 2,
+        "isWholeFieldVisible": false,
+        "soundMstId": 3000143,
+        "stratumName": ""
+      },
+      {
+        "fieldStratumMstId": 6210113,
+        "fieldStageMstId": 621011,
+        "stratumNum": 3,
+        "isWholeFieldVisible": false,
+        "soundMstId": 3000080,
+        "stratumName": ""
+      },
+      {
+        "fieldStratumMstId": 6210114,
+        "fieldStageMstId": 621011,
+        "stratumNum": 4,
+        "isWholeFieldVisible": false,
+        "soundMstId": 3000080,
+        "stratumName": ""
+      },
+      {
+        "fieldStratumMstId": 6210121,
+        "fieldStageMstId": 621012,
+        "stratumNum": 1,
+        "isWholeFieldVisible": true,
+        "soundMstId": 3000143,
+        "stratumName": ""
+      },
+      {
+        "fieldStratumMstId": 6210122,
+        "fieldStageMstId": 621012,
+        "stratumNum": 2,
+        "isWholeFieldVisible": false,
+        "soundMstId": 3000143,
+        "stratumName": ""
+      },
+      {
+        "fieldStratumMstId": 6210123,
+        "fieldStageMstId": 621012,
+        "stratumNum": 3,
+        "isWholeFieldVisible": false,
+        "soundMstId": 3000080,
+        "stratumName": ""
+      },
+      {
+        "fieldStratumMstId": 6210124,
+        "fieldStageMstId": 621012,
+        "stratumNum": 4,
+        "isWholeFieldVisible": false,
+        "soundMstId": 3000080,
+        "stratumName": ""
+      },
+      {
+        "fieldStratumMstId": 6210131,
+        "fieldStageMstId": 621013,
+        "stratumNum": 1,
+        "isWholeFieldVisible": true,
+        "soundMstId": 3000143,
+        "stratumName": ""
+      },
+      {
+        "fieldStratumMstId": 6210132,
+        "fieldStageMstId": 621013,
+        "stratumNum": 2,
+        "isWholeFieldVisible": false,
+        "soundMstId": 3000143,
+        "stratumName": ""
+      },
+      {
+        "fieldStratumMstId": 6210133,
+        "fieldStageMstId": 621013,
+        "stratumNum": 3,
+        "isWholeFieldVisible": false,
+        "soundMstId": 3000080,
+        "stratumName": ""
+      },
+      {
+        "fieldStratumMstId": 6210134,
+        "fieldStageMstId": 621013,
+        "stratumNum": 4,
+        "isWholeFieldVisible": false,
+        "soundMstId": 3000080,
+        "stratumName": ""
+      },
+      {
         "fieldStratumMstId": 6550011,
         "fieldStageMstId": 655001,
         "stratumNum": 1,

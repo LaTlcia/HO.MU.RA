@@ -607,6 +607,78 @@
         "advMstId": 0
       },
       {
+        "miniTutorialMstId": 9101,
+        "miniTutorialNumber": 91,
+        "sortOrder": 1,
+        "title": "リンクレイドとは",
+        "description": "強力な敵に最大10人で挑む協力型バトルコンテンツです。\n一定の期間開催され、シーズンごとに異なる敵が登場します。\nバトルを行うにはLPを消費します。\nまた、自分でバトルを出現させることができるのは1日6回までとなります。",
+        "resourceName": "multi_raid_01",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9102,
+        "miniTutorialNumber": 91,
+        "sortOrder": 2,
+        "title": "バトルの遊び方",
+        "description": "リンクレイドのバトルには制限時間とラウンド制限があります。\n限られた状況で効率的にダメージを与えていきましょう。\n敵のHPは参加しているプレイヤー間でリンクしています。",
+        "resourceName": "multi_raid_02",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9103,
+        "miniTutorialNumber": 91,
+        "sortOrder": 3,
+        "title": "救援",
+        "description": "出撃前とバトル終了後に、他プレイヤーに対して救援依頼を行うことができます。\n自身を含めて最大10人までバトルに参加することができます。\n救援で参加する際にはLPを消費します。",
+        "resourceName": "multi_raid_04",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9104,
+        "miniTutorialNumber": 91,
+        "sortOrder": 4,
+        "title": "シーズンボーナス",
+        "description": "シーズン毎に、特定属性に対するボーナス効果や特定のスキル・行動に対するボーナス効果が発生します。",
+        "resourceName": "multi_raid_03",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9105,
+        "miniTutorialNumber": 91,
+        "sortOrder": 5,
+        "title": "デイリーボーナス",
+        "description": "自分で出現させたバトルを1日3回クリアすると、デイリーボーナスが獲得できます。\nクリアしたバトルの難易度が高いほど、よりよいアイテムを獲得しやすくなります。\nさらにユニオンに所属していると、獲得できる報酬が1つ増えます。",
+        "resourceName": "multi_raid_05",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9106,
+        "miniTutorialNumber": 91,
+        "sortOrder": 6,
+        "title": "バトルクリア報酬について",
+        "description": "リンクレイドでは挑戦報酬、貢献度報酬が存在します。\n挑戦報酬は自分で出現させたバトルをクリアすると獲得できます。\n貢献度報酬はクリア時の貢献度順位が高いほど報酬が増加します。\nまた、貢献度が一定以下の場合、貢献度報酬を受け取ることができません。",
+        "resourceName": "multi_raid_06",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9107,
+        "miniTutorialNumber": 91,
+        "sortOrder": 7,
+        "title": "交換所",
+        "description": "バトルをクリアすると、ゴールドリンクメダルとシルバーリンクメダルを獲得できます。\n集めたメダルを使って交換所で様々な報酬と交換することができます。\n交換所は毎月1日に交換上限がリセットされます。\nシーズンが変わってもメダルは引き継がれます。",
+        "resourceName": "multi_raid_07",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9108,
+        "miniTutorialNumber": 91,
+        "sortOrder": 8,
+        "title": "シーズンミッション",
+        "description": "シーズン毎にミッションが存在し、達成するとマギカストーンやゴールドリンクメダル・シルバーリンクメダルが獲得できます。\nシーズンが変わるとミッション進捗がリセットされ、再度達成することができるようになります。",
+        "resourceName": "multi_raid_08",
+        "advMstId": 0
+      },
+      {
         "miniTutorialMstId": 10401,
         "miniTutorialNumber": 104,
         "sortOrder": 1,

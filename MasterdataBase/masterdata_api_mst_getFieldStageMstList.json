@@ -724,6 +724,42 @@
         "backgroundCardMstId": 5100032
       },
       {
+        "fieldStageMstId": 621011,
+        "fieldSeriesMstId": 62101,
+        "name": "幸福の魔女",
+        "subTitle": "第六章",
+        "difficulty": 1,
+        "prevFieldStageMstId": 621001,
+        "prevFieldStageMstId2": 0,
+        "firstClearRewardGroupId": 102,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 4100022
+      },
+      {
+        "fieldStageMstId": 621012,
+        "fieldSeriesMstId": 62101,
+        "name": "幸福の魔女",
+        "subTitle": "第六章",
+        "difficulty": 2,
+        "prevFieldStageMstId": 621011,
+        "prevFieldStageMstId2": 621002,
+        "firstClearRewardGroupId": 102,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 4100022
+      },
+      {
+        "fieldStageMstId": 621013,
+        "fieldSeriesMstId": 62101,
+        "name": "幸福の魔女",
+        "subTitle": "第六章",
+        "difficulty": 3,
+        "prevFieldStageMstId": 621011,
+        "prevFieldStageMstId2": 621003,
+        "firstClearRewardGroupId": 102,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 5100033
+      },
+      {
         "fieldStageMstId": 655001,
         "fieldSeriesMstId": 65500,
         "name": "愛生まばゆの記憶 前編",

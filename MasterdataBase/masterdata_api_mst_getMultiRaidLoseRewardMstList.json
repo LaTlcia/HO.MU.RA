@@ -1,0 +1,80 @@
+{
+  "url": "/api/mst/getMultiRaidLoseRewardMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "multiRaidLoseRewardMstId": 10101,
+        "groupId": 101,
+        "rank": 0,
+        "objectReceiveType": 5,
+        "objectId": 201030,
+        "num": 10
+      },
+      {
+        "multiRaidLoseRewardMstId": 10102,
+        "groupId": 102,
+        "rank": 0,
+        "objectReceiveType": 5,
+        "objectId": 201030,
+        "num": 20
+      },
+      {
+        "multiRaidLoseRewardMstId": 10103,
+        "groupId": 103,
+        "rank": 0,
+        "objectReceiveType": 5,
+        "objectId": 201030,
+        "num": 40
+      },
+      {
+        "multiRaidLoseRewardMstId": 10104,
+        "groupId": 104,
+        "rank": 0,
+        "objectReceiveType": 5,
+        "objectId": 201030,
+        "num": 50
+      },
+      {
+        "multiRaidLoseRewardMstId": 10105,
+        "groupId": 105,
+        "rank": 0,
+        "objectReceiveType": 5,
+        "objectId": 201030,
+        "num": 60
+      },
+      {
+        "multiRaidLoseRewardMstId": 10106,
+        "groupId": 106,
+        "rank": 0,
+        "objectReceiveType": 5,
+        "objectId": 201030,
+        "num": 70
+      },
+      {
+        "multiRaidLoseRewardMstId": 10107,
+        "groupId": 107,
+        "rank": 0,
+        "objectReceiveType": 5,
+        "objectId": 201030,
+        "num": 90
+      },
+      {
+        "multiRaidLoseRewardMstId": 10108,
+        "groupId": 108,
+        "rank": 0,
+        "objectReceiveType": 5,
+        "objectId": 201030,
+        "num": 100
+      },
+      {
+        "multiRaidLoseRewardMstId": 10109,
+        "groupId": 109,
+        "rank": 0,
+        "objectReceiveType": 5,
+        "objectId": 201030,
+        "num": 120
+      }
+    ]
+  }
+}

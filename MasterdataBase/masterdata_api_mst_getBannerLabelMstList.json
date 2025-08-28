@@ -87,6 +87,11 @@
         "bannerLabelMstId": 18,
         "labelContent": "★5提供割合2倍",
         "labelBgColor": "#5f8f7f"
+      },
+      {
+        "bannerLabelMstId": 19,
+        "labelContent": "フィーチャーガチャ",
+        "labelBgColor": "#bc758c"
       }
     ]
   }

@@ -1,0 +1,33 @@
+{
+  "url": "/api/mst/getMultiRaidBattleBonusMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "multiRaidBattleBonusMstId": 105,
+        "passiveSkillMstId": 1013,
+        "groupId": 1
+      },
+      {
+        "multiRaidBattleBonusMstId": 104,
+        "passiveSkillMstId": 1012,
+        "groupId": 1
+      },
+      {
+        "multiRaidBattleBonusMstId": 103,
+        "passiveSkillMstId": 1021,
+        "groupId": 1
+      },
+      {
+        "multiRaidBattleBonusMstId": 102,
+        "passiveSkillMstId": 1020,
+        "groupId": 1
+      },
+      {
+        "multiRaidBattleBonusMstId": 101,
+        "passiveSkillMstId": 1017,
+        "groupId": 1
+      }
+    ]
+  }
+}

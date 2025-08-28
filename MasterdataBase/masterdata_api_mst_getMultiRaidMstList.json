@@ -1,0 +1,16 @@
+{
+  "url": "/api/mst/getMultiRaidMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "multiRaidMstId": 1,
+        "seasonId": 1,
+        "startTime": "2025-08-28T12:00:00+09:00",
+        "endTime": "2025-09-11T11:59:59+09:00",
+        "multiRaidBattleBonusGroupId": 1,
+        "dailyBonusLotteryRarityGroupId": 101
+      }
+    ]
+  }
+}

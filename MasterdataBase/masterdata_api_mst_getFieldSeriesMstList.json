@@ -244,6 +244,18 @@
         "advMstId": 70000057
       },
       {
+        "fieldSeriesMstId": 62101,
+        "name": "幸福の魔女",
+        "questMapMstId": 2,
+        "questGroupMstId": 62101,
+        "styleMstId": 0,
+        "assetbundleName": "62101_01",
+        "startTime": "2025-08-28T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 70000058
+      },
+      {
         "fieldSeriesMstId": 65500,
         "name": "愛生まばゆの記憶 前編",
         "questMapMstId": 5,

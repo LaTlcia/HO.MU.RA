@@ -319,6 +319,13 @@
         "value2": 0
       },
       {
+        "questConditionMstId": 1101580,
+        "conditionGroupId": 1101580,
+        "conditionType": 4,
+        "value1": 122131,
+        "value2": 0
+      },
+      {
         "questConditionMstId": 1123010,
         "conditionGroupId": 1123010,
         "conditionType": 4,
@@ -449,6 +456,13 @@
         "conditionGroupId": 1123550,
         "conditionType": 4,
         "value1": 121318,
+        "value2": 0
+      },
+      {
+        "questConditionMstId": 1123580,
+        "conditionGroupId": 1123580,
+        "conditionType": 4,
+        "value1": 122324,
         "value2": 0
       }
     ]

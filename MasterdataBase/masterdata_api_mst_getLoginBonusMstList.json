@@ -154,6 +154,22 @@
         "sortOrder": 1009,
         "startTime": "2025-08-15T12:00:00+09:00",
         "endTime": "2025-08-28T11:59:59+09:00"
+      },
+      {
+        "loginBonusMstId": 20,
+        "title": "環いろは誕生日記念ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1010,
+        "startTime": "2025-08-22T00:00:00+09:00",
+        "endTime": "2025-08-29T23:59:59+09:00"
+      },
+      {
+        "loginBonusMstId": 21,
+        "title": "完結記念ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1012,
+        "startTime": "2025-08-28T12:00:00+09:00",
+        "endTime": "2025-09-18T11:59:59+09:00"
       }
     ]
   }

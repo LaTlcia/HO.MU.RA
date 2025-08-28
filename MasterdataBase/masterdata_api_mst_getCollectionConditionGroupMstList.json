@@ -413,7 +413,7 @@
       },
       {
         "collectionConditionGroupMstId": 61,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 62101,
         "conditionGroupId1": 2008,
         "conditionGroupId2": 2016,
         "advMstId1": 70000083,
@@ -493,7 +493,7 @@
       },
       {
         "collectionConditionGroupMstId": 71,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 62101,
         "conditionGroupId1": 0,
         "conditionGroupId2": 2106,
         "advMstId1": 0,
@@ -573,7 +573,7 @@
       },
       {
         "collectionConditionGroupMstId": 81,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 62101,
         "conditionGroupId1": 2215,
         "conditionGroupId2": 2208,
         "advMstId1": 70000226,
