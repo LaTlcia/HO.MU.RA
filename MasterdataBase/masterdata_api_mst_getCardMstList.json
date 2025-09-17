@@ -905,6 +905,23 @@
         "releaseTime": "2025-08-28T12:00:00+09:00"
       },
       {
+        "cardMstId": 4200033,
+        "name": "ちょっと変わったお悩み相談員",
+        "illustrator": "",
+        "source": "",
+        "rarity": 5,
+        "element": 0,
+        "passiveSkill1": 4093,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_04_01_0007",
+        "characterMstId": 0,
+        "unlockTypeCsv": "2",
+        "unlockIdCsv": "21",
+        "advPosition": 0,
+        "releaseTime": "2025-09-08T12:00:00+09:00"
+      },
+      {
         "cardMstId": 4300001,
         "name": "またね、ほむらちゃん",
         "illustrator": "",
@@ -1566,6 +1583,23 @@
         "unlockIdCsv": "0",
         "advPosition": 0,
         "releaseTime": "2025-08-28T12:00:00+09:00"
+      },
+      {
+        "cardMstId": 4300040,
+        "name": "幸せな未来を夢見て",
+        "illustrator": "",
+        "source": "",
+        "rarity": 4,
+        "element": 0,
+        "passiveSkill1": 4094,
+        "passiveSkill2": 0,
+        "passiveSkill3": 0,
+        "resourceName": "art_03_01_1098",
+        "characterMstId": 0,
+        "unlockTypeCsv": "7",
+        "unlockIdCsv": "0",
+        "advPosition": 0,
+        "releaseTime": "2025-09-08T12:00:00+09:00"
       },
       {
         "cardMstId": 5100001,

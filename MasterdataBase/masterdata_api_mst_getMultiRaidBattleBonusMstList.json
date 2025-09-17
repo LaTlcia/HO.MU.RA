@@ -4,6 +4,31 @@
   "payload": {
     "mstList": [
       {
+        "multiRaidBattleBonusMstId": 205,
+        "passiveSkillMstId": 1015,
+        "groupId": 2
+      },
+      {
+        "multiRaidBattleBonusMstId": 204,
+        "passiveSkillMstId": 1014,
+        "groupId": 2
+      },
+      {
+        "multiRaidBattleBonusMstId": 203,
+        "passiveSkillMstId": 1019,
+        "groupId": 2
+      },
+      {
+        "multiRaidBattleBonusMstId": 202,
+        "passiveSkillMstId": 1018,
+        "groupId": 2
+      },
+      {
+        "multiRaidBattleBonusMstId": 201,
+        "passiveSkillMstId": 1016,
+        "groupId": 2
+      },
+      {
         "multiRaidBattleBonusMstId": 105,
         "passiveSkillMstId": 1013,
         "groupId": 1

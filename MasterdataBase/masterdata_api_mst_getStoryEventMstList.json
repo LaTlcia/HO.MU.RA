@@ -365,6 +365,25 @@
         "soundMstId": 0
       },
       {
+        "storyEventMstId": 21,
+        "name": "ウワサのあの子は臨時相談員!?",
+        "storyQuestGroupId": 1029,
+        "scoreAttackMstId": 9,
+        "maxPlayCountPerDay": 5,
+        "eventItemId": 201031,
+        "shopSeriesMstId": 3969,
+        "bonusStyleIds": "0",
+        "isEndPlayable": true,
+        "endDisplayTime": "2050-12-31T23:59:59+09:00",
+        "sortOrder": 9979,
+        "eventStartDirection": 1,
+        "topImageName": "22",
+        "bannerImageName": "banner_00130",
+        "bossCameraAssetName": "0",
+        "description": "「留学しに来た」という謎の言葉と共に\nエミリーの相談所へ現れたのは万年桜のウワサこと柊桜子\n彼女の目的は人間社会に適応すること\n人々の悩みと向き合う中で桜子は何を見出すのか",
+        "soundMstId": 0
+      },
+      {
         "storyEventMstId": 10000,
         "name": "焦らずゆっくり未来へ ～魔法少女に夢を見て～",
         "storyQuestGroupId": 1004,

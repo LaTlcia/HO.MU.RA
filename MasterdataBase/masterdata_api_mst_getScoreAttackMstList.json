@@ -98,6 +98,18 @@
         "totalScoreRewardGroupId": 7,
         "rankingRewardGroupId": 8,
         "dioramaBackgroundMstId": 210419
+      },
+      {
+        "scoreAttackMstId": 9,
+        "name": "",
+        "startTime": "2025-09-08T12:00:00+09:00",
+        "endTime": "2025-09-22T11:59:59+09:00",
+        "comment": "ボスは味方が受けたクリティカルダメージの回数に応じて被ダメージが上昇します。<br>また、味方がブレイクするほど自身のブレイクゲージ削減耐性が減少します。<br><br>手下はブレイク状態になると行動順が著しく減少するので、手下のブレイクを優先して狙いながらクリティカルダメージの発生回数を積み上げると良いでしょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 9,
+        "totalScoreRewardGroupId": 8,
+        "rankingRewardGroupId": 9,
+        "dioramaBackgroundMstId": 210119
       }
     ]
   }

@@ -7361,6 +7361,202 @@
         "objectId": 2001351
       },
       {
+        "characterHeartObjectRewardMstId": 109804001,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 4,
+        "objectReceiveType": 4,
+        "objectId": 4300040
+      },
+      {
+        "characterHeartObjectRewardMstId": 109804002,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 8,
+        "objectReceiveType": 4,
+        "objectId": 4300040
+      },
+      {
+        "characterHeartObjectRewardMstId": 109804003,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 12,
+        "objectReceiveType": 4,
+        "objectId": 4300040
+      },
+      {
+        "characterHeartObjectRewardMstId": 109804004,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 16,
+        "objectReceiveType": 4,
+        "objectId": 4300040
+      },
+      {
+        "characterHeartObjectRewardMstId": 109804005,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 22,
+        "objectReceiveType": 4,
+        "objectId": 4300040
+      },
+      {
+        "characterHeartObjectRewardMstId": 109804006,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 28,
+        "objectReceiveType": 4,
+        "objectId": 4300040
+      },
+      {
+        "characterHeartObjectRewardMstId": 109809001,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 1,
+        "objectReceiveType": 9,
+        "objectId": 30109800
+      },
+      {
+        "characterHeartObjectRewardMstId": 109809002,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 2,
+        "objectReceiveType": 9,
+        "objectId": 30109801
+      },
+      {
+        "characterHeartObjectRewardMstId": 109809005,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 5,
+        "objectReceiveType": 9,
+        "objectId": 30109802
+      },
+      {
+        "characterHeartObjectRewardMstId": 109809010,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 10,
+        "objectReceiveType": 9,
+        "objectId": 30109803
+      },
+      {
+        "characterHeartObjectRewardMstId": 109809020,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 20,
+        "objectReceiveType": 9,
+        "objectId": 30109804
+      },
+      {
+        "characterHeartObjectRewardMstId": 109809030,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 30,
+        "objectReceiveType": 9,
+        "objectId": 30109805
+      },
+      {
+        "characterHeartObjectRewardMstId": 109809040,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 40,
+        "objectReceiveType": 9,
+        "objectId": 30109806
+      },
+      {
+        "characterHeartObjectRewardMstId": 109809050,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 50,
+        "objectReceiveType": 9,
+        "objectId": 30109807
+      },
+      {
+        "characterHeartObjectRewardMstId": 109816003,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 3,
+        "objectReceiveType": 16,
+        "objectId": 3000440
+      },
+      {
+        "characterHeartObjectRewardMstId": 109816007,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 7,
+        "objectReceiveType": 16,
+        "objectId": 3000441
+      },
+      {
+        "characterHeartObjectRewardMstId": 109816014,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 14,
+        "objectReceiveType": 16,
+        "objectId": 3000442
+      },
+      {
+        "characterHeartObjectRewardMstId": 109816018,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 18,
+        "objectReceiveType": 16,
+        "objectId": 3000443
+      },
+      {
+        "characterHeartObjectRewardMstId": 109816024,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 24,
+        "objectReceiveType": 16,
+        "objectId": 3000444
+      },
+      {
+        "characterHeartObjectRewardMstId": 109816026,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 26,
+        "objectReceiveType": 16,
+        "objectId": 3000445
+      },
+      {
+        "characterHeartObjectRewardMstId": 109816032,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 32,
+        "objectReceiveType": 16,
+        "objectId": 3000446
+      },
+      {
+        "characterHeartObjectRewardMstId": 109816034,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 34,
+        "objectReceiveType": 16,
+        "objectId": 3000447
+      },
+      {
+        "characterHeartObjectRewardMstId": 109816036,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 36,
+        "objectReceiveType": 16,
+        "objectId": 3000448
+      },
+      {
+        "characterHeartObjectRewardMstId": 109816038,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 38,
+        "objectReceiveType": 16,
+        "objectId": 3000449
+      },
+      {
+        "characterHeartObjectRewardMstId": 109816042,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 42,
+        "objectReceiveType": 16,
+        "objectId": 3000450
+      },
+      {
+        "characterHeartObjectRewardMstId": 109816044,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 44,
+        "objectReceiveType": 16,
+        "objectId": 3000451
+      },
+      {
+        "characterHeartObjectRewardMstId": 109816046,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 46,
+        "objectReceiveType": 16,
+        "objectId": 3000452
+      },
+      {
+        "characterHeartObjectRewardMstId": 109816048,
+        "objectRewardGroupId": 1098,
+        "heartLevel": 48,
+        "objectReceiveType": 16,
+        "objectId": 3000453
+      },
+      {
         "characterHeartObjectRewardMstId": 110704001,
         "objectRewardGroupId": 1107,
         "heartLevel": 4,

@@ -166,6 +166,12 @@
         "value1": 10800101
       },
       {
+        "userTitleMstId": 10980101,
+        "title": "刻み込む桜の物語",
+        "titleType": 1,
+        "value1": 10980101
+      },
+      {
         "userTitleMstId": 11240101,
         "title": "オラクルレイ",
         "titleType": 1,
@@ -854,6 +860,12 @@
         "title": "調整屋さんの事件簿５ 不可視のエピファニークリア",
         "titleType": 2,
         "value1": 4200031
+      },
+      {
+        "userTitleMstId": 60000017,
+        "title": "ウワサのあの子は臨時相談員!?クリア",
+        "titleType": 2,
+        "value1": 4200033
       },
       {
         "userTitleMstId": 70000001,

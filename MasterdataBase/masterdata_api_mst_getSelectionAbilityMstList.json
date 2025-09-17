@@ -3752,6 +3752,21 @@
         "styleMstId": 10220101,
         "resourceIconName": "battle_icon_selection_ability_ex",
         "sortOrder": 0
+      },
+      {
+        "selectionAbilityMstId": 7032,
+        "selectionAbilityType": 1,
+        "selectionAbilityEffectId": 116,
+        "rarity": 4,
+        "targetType": 2,
+        "name": "｜絶対に守らないといけない存在だから｜",
+        "description": "自身のクリティカル率+10%、【追撃】で発生するクリティカルダメージ+20%",
+        "abilityEffectType": "",
+        "value1": 1150032,
+        "value2": 0,
+        "styleMstId": 10980101,
+        "resourceIconName": "battle_icon_selection_ability_ex",
+        "sortOrder": 0
       }
     ]
   }

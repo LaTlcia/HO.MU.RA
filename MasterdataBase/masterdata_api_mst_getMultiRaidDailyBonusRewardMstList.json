@@ -86,6 +86,90 @@
         "objectReceiveType": 6,
         "objectId": 232030,
         "num": 5
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10401,
+        "groupId": 104,
+        "objectReceiveType": 5,
+        "objectId": 121003,
+        "num": 1
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10402,
+        "groupId": 104,
+        "objectReceiveType": 5,
+        "objectId": 121003,
+        "num": 2
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10403,
+        "groupId": 104,
+        "objectReceiveType": 5,
+        "objectId": 121022,
+        "num": 1
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10404,
+        "groupId": 104,
+        "objectReceiveType": 5,
+        "objectId": 232030,
+        "num": 5
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10501,
+        "groupId": 105,
+        "objectReceiveType": 5,
+        "objectId": 121002,
+        "num": 100
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10502,
+        "groupId": 105,
+        "objectReceiveType": 5,
+        "objectId": 121003,
+        "num": 1
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10503,
+        "groupId": 105,
+        "objectReceiveType": 5,
+        "objectId": 121022,
+        "num": 1
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10504,
+        "groupId": 105,
+        "objectReceiveType": 5,
+        "objectId": 232030,
+        "num": 5
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10601,
+        "groupId": 106,
+        "objectReceiveType": 5,
+        "objectId": 121002,
+        "num": 50
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10602,
+        "groupId": 106,
+        "objectReceiveType": 5,
+        "objectId": 121003,
+        "num": 1
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10603,
+        "groupId": 106,
+        "objectReceiveType": 5,
+        "objectId": 121022,
+        "num": 1
+      },
+      {
+        "multiRaidDailyBonusRewardMstId": 10604,
+        "groupId": 106,
+        "objectReceiveType": 5,
+        "objectId": 232030,
+        "num": 5
       }
     ]
   }

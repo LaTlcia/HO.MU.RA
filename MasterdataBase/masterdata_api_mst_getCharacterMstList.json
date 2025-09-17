@@ -284,6 +284,13 @@
         "colorCode": "#39ADE1"
       },
       {
+        "characterMstId": 1098,
+        "name": "万年桜のウワサ",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1098",
+        "colorCode": "#FFAEDC"
+      },
+      {
         "characterMstId": 1107,
         "name": "アシュリー・テイラー",
         "awakeItemMstId": 0,

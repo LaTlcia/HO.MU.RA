@@ -46,7 +46,7 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 1001,
+        "missionTitleMstId": 1002,
         "prevMissionTitleMstId": 0,
         "title": "シーズンミッション",
         "priority": 1,
@@ -60,31 +60,17 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5032,
-        "prevMissionTitleMstId": 0,
-        "title": "調整屋さんの事件簿４イベントミッション",
-        "priority": 27,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5033,
-        "prevMissionTitleMstId": 0,
-        "title": "「マギアレコード編 第1部」終章開幕記念ミッション",
-        "priority": 26,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5034,
-        "prevMissionTitleMstId": 0,
-        "title": "調整屋さんの事件簿５イベントミッション",
-        "priority": 28,
-        "featuredRewardResourceName": ""
-      },
-      {
         "missionTitleMstId": 5035,
         "prevMissionTitleMstId": 0,
         "title": "「マギアレコード編 第1部」完結記念ミッション",
         "priority": 6,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5036,
+        "prevMissionTitleMstId": 0,
+        "title": "ウワサのあの子は臨時相談員!?イベントミッション",
+        "priority": 28,
         "featuredRewardResourceName": ""
       }
     ]

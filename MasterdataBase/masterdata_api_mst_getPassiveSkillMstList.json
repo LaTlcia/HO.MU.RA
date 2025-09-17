@@ -144,6 +144,26 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 1014,
+        "skillUniqueId": 1014,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "戦闘スキルで与えるダメージ+10％",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1015,
+        "skillUniqueId": 1015,
+        "level": 1,
+        "name": "シーズンバフ",
+        "description": "バフの効果量+10％ (※MP回復系/行動順上昇効果は除く)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 1016,
         "skillUniqueId": 1016,
         "level": 1,
@@ -5719,6 +5739,126 @@
         "level": 6,
         "name": "【アビリティ】",
         "description": "攻撃力+10%<br>【環ういに装備時に追加】<br>MP回復効率+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409301,
+        "skillUniqueId": 4093,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+2.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409302,
+        "skillUniqueId": 4093,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+3.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409303,
+        "skillUniqueId": 4093,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+4.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409304,
+        "skillUniqueId": 4093,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+5.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409305,
+        "skillUniqueId": 4093,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+6.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409306,
+        "skillUniqueId": 4093,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "クリティカル率+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409401,
+        "skillUniqueId": 4094,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "【追撃/反撃】で与えるダメージ+5%<br>【万年桜のウワサに装備時に追加】<br>クリティカルダメージ+1.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409402,
+        "skillUniqueId": 4094,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "【追撃/反撃】で与えるダメージ+6%<br>【万年桜のウワサに装備時に追加】<br>クリティカルダメージ+2.7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409403,
+        "skillUniqueId": 4094,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "【追撃/反撃】で与えるダメージ+7%<br>【万年桜のウワサに装備時に追加】<br>クリティカルダメージ+3.9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409404,
+        "skillUniqueId": 4094,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "【追撃/反撃】で与えるダメージ+8%<br>【万年桜のウワサに装備時に追加】<br>クリティカルダメージ+5.1%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409405,
+        "skillUniqueId": 4094,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "【追撃/反撃】で与えるダメージ+9%<br>【万年桜のウワサに装備時に追加】<br>クリティカルダメージ+6.3%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 409406,
+        "skillUniqueId": 4094,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "【追撃/反撃】で与えるダメージ+10%<br>【万年桜のウワサに装備時に追加】<br>クリティカルダメージ+7.5%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -11879,6 +12019,16 @@
         "level": 1,
         "name": "誰かの役に立てるような人になれたらいいな",
         "description": "MP回復効率+10%。<br>自身に【ツバメの加護】が付与されているとき受けるダメージ-10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1150032,
+        "skillUniqueId": 1150032,
+        "level": 1,
+        "name": "絶対に守らないといけない存在だから",
+        "description": "自身のクリティカル率+10%、【追撃】で発生するクリティカルダメージ+20%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -18784,6 +18934,106 @@
         "skillButtonIcon": "battle_icon_passive_buff"
       },
       {
+        "passiveSkillMstId": 1503401,
+        "skillUniqueId": 15034,
+        "level": 1,
+        "name": "シャープチェイス",
+        "description": "バトル開始時に魔力0。魔力の最大値は6。<br>【自身以外の味方が追撃/反撃/援護/クリティカルダメージを与えた時】<br>魔力+1(1回の行動につき最大1獲得)。<br>魔力が6溜まったとき【追撃】を発動する。<br><br>【追撃】<br>敵全体に40%の水属性ダメージを与える。<br>さらに、自身にクリティカル率+10%(累積3回)、クリティカルダメージ+10%(累積3回)、MP+5。<br>魔力-6",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503402,
+        "skillUniqueId": 15034,
+        "level": 2,
+        "name": "シャープチェイス",
+        "description": "バトル開始時に魔力0。魔力の最大値は6。<br>【自身以外の味方が追撃/反撃/援護/クリティカルダメージを与えた時】<br>魔力+1(1回の行動につき最大1獲得)。<br>魔力が6溜まったとき【追撃】を発動する。<br><br>【追撃】<br>敵全体に41%の水属性ダメージを与える。<br>さらに、自身にクリティカル率+10%(累積3回)、クリティカルダメージ+10%(累積3回)、MP+5。<br>魔力-6",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503403,
+        "skillUniqueId": 15034,
+        "level": 3,
+        "name": "シャープチェイス",
+        "description": "バトル開始時に魔力0。魔力の最大値は6。<br>【自身以外の味方が追撃/反撃/援護/クリティカルダメージを与えた時】<br>魔力+1(1回の行動につき最大1獲得)。<br>魔力が6溜まったとき【追撃】を発動する。<br><br>【追撃】<br>敵全体に43%の水属性ダメージを与える。<br>さらに、自身にクリティカル率+10%(累積3回)、クリティカルダメージ+10%(累積3回)、MP+5。<br>魔力-6",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503404,
+        "skillUniqueId": 15034,
+        "level": 4,
+        "name": "シャープチェイス",
+        "description": "バトル開始時に魔力0。魔力の最大値は6。<br>【自身以外の味方が追撃/反撃/援護/クリティカルダメージを与えた時】<br>魔力+1(1回の行動につき最大1獲得)。<br>魔力が6溜まったとき【追撃】を発動する。<br><br>【追撃】<br>敵全体に45%の水属性ダメージを与える。<br>さらに、自身にクリティカル率+10%(累積3回)、クリティカルダメージ+10%(累積3回)、MP+5。<br>魔力-6",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503405,
+        "skillUniqueId": 15034,
+        "level": 5,
+        "name": "シャープチェイス",
+        "description": "バトル開始時に魔力0。魔力の最大値は6。<br>【自身以外の味方が追撃/反撃/援護/クリティカルダメージを与えた時】<br>魔力+1(1回の行動につき最大1獲得)。<br>魔力が6溜まったとき【追撃】を発動する。<br><br>【追撃】<br>敵全体に47%の水属性ダメージを与える。<br>さらに、自身にクリティカル率+10%(累積3回)、クリティカルダメージ+10%(累積3回)、MP+5。<br>魔力-6",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503406,
+        "skillUniqueId": 15034,
+        "level": 6,
+        "name": "シャープチェイス",
+        "description": "バトル開始時に魔力0。魔力の最大値は6。<br>【自身以外の味方が追撃/反撃/援護/クリティカルダメージを与えた時】<br>魔力+1(1回の行動につき最大1獲得)。<br>魔力が6溜まったとき【追撃】を発動する。<br><br>【追撃】<br>敵全体に50%の水属性ダメージを与える。<br>さらに、自身にクリティカル率+10%(累積3回)、クリティカルダメージ+10%(累積3回)、MP+5。<br>魔力-6",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503407,
+        "skillUniqueId": 15034,
+        "level": 7,
+        "name": "シャープチェイス",
+        "description": "バトル開始時に魔力0。魔力の最大値は6。<br>【自身以外の味方が追撃/反撃/援護/クリティカルダメージを与えた時】<br>魔力+1(1回の行動につき最大1獲得)。<br>魔力が6溜まったとき【追撃】を発動する。<br><br>【追撃】<br>敵全体に52%の水属性ダメージを与える。<br>さらに、自身にクリティカル率+10%(累積3回)、クリティカルダメージ+10%(累積3回)、MP+5。<br>魔力-6",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503408,
+        "skillUniqueId": 15034,
+        "level": 8,
+        "name": "シャープチェイス",
+        "description": "バトル開始時に魔力0。魔力の最大値は6。<br>【自身以外の味方が追撃/反撃/援護/クリティカルダメージを与えた時】<br>魔力+1(1回の行動につき最大1獲得)。<br>魔力が6溜まったとき【追撃】を発動する。<br><br>【追撃】<br>敵全体に54%の水属性ダメージを与える。<br>さらに、自身にクリティカル率+10%(累積3回)、クリティカルダメージ+10%(累積3回)、MP+5。<br>魔力-6",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503409,
+        "skillUniqueId": 15034,
+        "level": 9,
+        "name": "シャープチェイス",
+        "description": "バトル開始時に魔力0。魔力の最大値は6。<br>【自身以外の味方が追撃/反撃/援護/クリティカルダメージを与えた時】<br>魔力+1(1回の行動につき最大1獲得)。<br>魔力が6溜まったとき【追撃】を発動する。<br><br>【追撃】<br>敵全体に57%の水属性ダメージを与える。<br>さらに、自身にクリティカル率+10%(累積3回)、クリティカルダメージ+10%(累積3回)、MP+5。<br>魔力-6",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
+        "passiveSkillMstId": 1503410,
+        "skillUniqueId": 15034,
+        "level": 10,
+        "name": "シャープチェイス",
+        "description": "バトル開始時に魔力0。魔力の最大値は6。<br>【自身以外の味方が追撃/反撃/援護/クリティカルダメージを与えた時】<br>魔力+1(1回の行動につき最大1獲得)。<br>魔力が6溜まったとき【追撃】を発動する。<br><br>【追撃】<br>敵全体に60%の水属性ダメージを与える。<br>さらに、自身にクリティカル率+10%(累積3回)、クリティカルダメージ+10%(累積3回)、MP+5。<br>魔力-6",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_additional_attack"
+      },
+      {
         "passiveSkillMstId": 2001001,
         "skillUniqueId": 2001001,
         "level": 1,
@@ -19169,6 +19419,16 @@
         "level": 1,
         "name": "アビリティⅠ",
         "description": "ターンが経過するほど攻撃力と防御力とスピードが上昇する<br>3ターンごとに敵全体のMPを減少させる<br><br>被ダメージを軽減する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2001040,
+        "skillUniqueId": 2001040,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "ターンが経過するほど攻撃力と防御力が上昇する<br>ブレイク状態になると行動順が著しく減少する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -20994,11 +21254,71 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 5001087,
+        "skillUniqueId": 5001087,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>ターン終了時、バリアを付与する<br>バリアが付与されている場合、ブレイク削減耐性を上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001088,
+        "skillUniqueId": 5001088,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>ターン終了時、バリアを付与する<br>バリアが付与されている場合、攻撃力とブレイク削減耐性を上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001089,
+        "skillUniqueId": 5001089,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>ターン終了時、バリアを付与する<br>バリアが付与されている場合、攻撃力とブレイク削減耐性を上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001090,
+        "skillUniqueId": 5001090,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>ターン終了時、バリアを付与する<br>バリアが付与されている場合、攻撃力とブレイク削減耐性を大幅に上昇する<br><br>ターン開始時、自身にバリアが付与されている場合、スピードを上昇する<br>すでに効果が付与されている場合は効果が上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001091,
+        "skillUniqueId": 5001091,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "3回行動する<br>ターン終了時、バリアを付与する<br>バリアが付与されている場合、攻撃力とブレイク削減耐性を大幅に上昇する<br><br>ターン開始時、自身にバリアが付与されている場合、スピードを上昇する<br>すでに効果が付与されている場合は効果が上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 5001092,
         "skillUniqueId": 5001092,
         "level": 1,
         "name": "アビリティⅣ",
         "description": "2回行動する<br><br>ブレイク状態ではない場合に1以上のダメージを一定回数受けるたびに一部スキル効果が上昇する<br>この効果はブレイクすると減少する<br><br>ターン経過ごとに攻撃力が上昇する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 5001093,
+        "skillUniqueId": 5001093,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>味方がクリティカルダメージを一定回数受けるごとに被ダメージが上昇する<br><br>味方がブレイクするたびにブレイクゲージ削減耐性が減少し、攻撃力が上昇する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -22459,6 +22779,16 @@
         "level": 1,
         "name": "限界突破効果",
         "description": "戦闘スキルを発動したとき味方全体の行動順+10%。<br>自身に【ツバメの加護】が付与されているとき味方全体が弱点属性に対して与えるダメージ+15%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 8504801,
+        "skillUniqueId": 85048,
+        "level": 1,
+        "name": "限界突破効果",
+        "description": "【追撃】で与えるダメージ+30%、必殺技で発生するクリティカルダメージ+30%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -29361,6 +29691,106 @@
         "description": "【バッファーに装備時】<br>味方全体の【追撃/反撃】で与えるダメージ+15%。<br>自身以外の味方がダメージを与えたとき自身のMP+1",
         "conditionElement": 0,
         "conditionRole": 4,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503301,
+        "skillUniqueId": 95033,
+        "level": 1,
+        "name": "シャープストライク",
+        "description": "【アタッカーに装備時】<br>クリティカル率+5%。<br>戦闘スキルを発動したときクリティカルダメージ+5%(累積5回)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503302,
+        "skillUniqueId": 95033,
+        "level": 2,
+        "name": "シャープストライク",
+        "description": "【アタッカーに装備時】<br>クリティカル率+6%。<br>戦闘スキルを発動したときクリティカルダメージ+5%(累積5回)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503303,
+        "skillUniqueId": 95033,
+        "level": 3,
+        "name": "シャープストライク",
+        "description": "【アタッカーに装備時】<br>クリティカル率+7%。<br>戦闘スキルを発動したときクリティカルダメージ+5%(累積5回)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503304,
+        "skillUniqueId": 95033,
+        "level": 4,
+        "name": "シャープストライク",
+        "description": "【アタッカーに装備時】<br>クリティカル率+8%。<br>戦闘スキルを発動したときクリティカルダメージ+5%(累積5回)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503305,
+        "skillUniqueId": 95033,
+        "level": 5,
+        "name": "シャープストライク",
+        "description": "【アタッカーに装備時】<br>クリティカル率+9%。<br>戦闘スキルを発動したときクリティカルダメージ+5%(累積5回)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503306,
+        "skillUniqueId": 95033,
+        "level": 6,
+        "name": "シャープストライク",
+        "description": "【アタッカーに装備時】<br>クリティカル率+10%。<br>戦闘スキルを発動したときクリティカルダメージ+5%(累積5回)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503307,
+        "skillUniqueId": 95033,
+        "level": 7,
+        "name": "シャープストライク",
+        "description": "【アタッカーに装備時】<br>クリティカル率+11%。<br>戦闘スキルを発動したときクリティカルダメージ+5%(累積5回)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503308,
+        "skillUniqueId": 95033,
+        "level": 8,
+        "name": "シャープストライク",
+        "description": "【アタッカーに装備時】<br>クリティカル率+12%。<br>戦闘スキルを発動したときクリティカルダメージ+5%(累積5回)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503309,
+        "skillUniqueId": 95033,
+        "level": 9,
+        "name": "シャープストライク",
+        "description": "【アタッカーに装備時】<br>クリティカル率+13%。<br>戦闘スキルを発動したときクリティカルダメージ+5%(累積5回)",
+        "conditionElement": 0,
+        "conditionRole": 1,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9503310,
+        "skillUniqueId": 95033,
+        "level": 10,
+        "name": "シャープストライク",
+        "description": "【アタッカーに装備時】<br>クリティカル率+15%。<br>戦闘スキルを発動したときクリティカルダメージ+5%(累積5回)",
+        "conditionElement": 0,
+        "conditionRole": 1,
         "skillButtonIcon": "battle_icon_supportpassive_buff"
       }
     ]

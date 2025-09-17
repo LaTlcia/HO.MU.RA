@@ -604,6 +604,21 @@
         "sortOrder": 0
       },
       {
+        "characterMstId": 1098,
+        "description": "４人の少女が自分の所に訪れて、<br>満開の花を咲かせることを待ち望んでいたウワサ。<br>現在は内容の調整と現代技術の応用によって外でも活動しているが、常識が欠けており特異な人物として見られている。<br>いつも山か大好きな人の所に帰りたい。",
+        "characterVoice": "鈴木みのり",
+        "schoolName": "南凪自由学園",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 2,
+        "regionId": 1,
+        "teamId1": 900,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
         "characterMstId": 1107,
         "description": "日本のKAWAIIを求めてカリフォルニアからやって来た魔法少女。<br>原宿系ファッションからアニメ・マンガまでKAWAIIなら、なんでも大好き。<br>KAWAIIを広めるために故郷アメリカへ動画を配信している。<br>ダディからもらったクマのぬいぐるみ\"熊乃介\"は宝物。",
         "characterVoice": "天城サリー",
