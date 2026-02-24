@@ -1194,6 +1194,475 @@
         "nextBossDirectionMstId": 0
       },
       {
+        "bossDirectionMstId": 3096,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 123120,
+        "nextBossDirectionMstId": 3097
+      },
+      {
+        "bossDirectionMstId": 3097,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16260018,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3098,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 123215,
+        "nextBossDirectionMstId": 3099
+      },
+      {
+        "bossDirectionMstId": 3099,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 20002306,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3100,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 123320,
+        "nextBossDirectionMstId": 3101
+      },
+      {
+        "bossDirectionMstId": 3101,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 40016003,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3102,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16280010,
+        "nextBossDirectionMstId": 3103
+      },
+      {
+        "bossDirectionMstId": 3103,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 124111,
+        "nextBossDirectionMstId": 3104
+      },
+      {
+        "bossDirectionMstId": 3104,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16280011,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3105,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 124311,
+        "nextBossDirectionMstId": 3106
+      },
+      {
+        "bossDirectionMstId": 3106,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 40018002,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3107,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16250015,
+        "nextBossDirectionMstId": 3108
+      },
+      {
+        "bossDirectionMstId": 3108,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 125112,
+        "nextBossDirectionMstId": 3109
+      },
+      {
+        "bossDirectionMstId": 3109,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16250016,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3110,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 125315,
+        "nextBossDirectionMstId": 3111
+      },
+      {
+        "bossDirectionMstId": 3111,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 40012902,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3112,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16300029,
+        "nextBossDirectionMstId": 3113
+      },
+      {
+        "bossDirectionMstId": 3113,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 126116,
+        "nextBossDirectionMstId": 3114
+      },
+      {
+        "bossDirectionMstId": 3114,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16300030,
+        "nextBossDirectionMstId": 3115
+      },
+      {
+        "bossDirectionMstId": 3115,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16300031,
+        "nextBossDirectionMstId": 3116
+      },
+      {
+        "bossDirectionMstId": 3116,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16300032,
+        "nextBossDirectionMstId": 3117
+      },
+      {
+        "bossDirectionMstId": 3117,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16300034,
+        "nextBossDirectionMstId": 3118
+      },
+      {
+        "bossDirectionMstId": 3118,
+        "resourceName": "",
+        "nextSceneType": 3,
+        "objectId": 16300033,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3119,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 126213,
+        "nextBossDirectionMstId": 3120
+      },
+      {
+        "bossDirectionMstId": 3120,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 20002808,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3121,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 126320,
+        "nextBossDirectionMstId": 3122
+      },
+      {
+        "bossDirectionMstId": 3122,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 40020008,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3123,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 127112,
+        "nextBossDirectionMstId": 3124
+      },
+      {
+        "bossDirectionMstId": 3124,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16310016,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3125,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 127316,
+        "nextBossDirectionMstId": 3126
+      },
+      {
+        "bossDirectionMstId": 3126,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16310018,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3201,
+        "resourceName": "65000/subboss1/bossappeardirectiondata",
+        "nextSceneType": 2,
+        "objectId": 128129,
+        "nextBossDirectionMstId": 3202
+      },
+      {
+        "bossDirectionMstId": 3202,
+        "resourceName": "65000/subboss1/bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16320002,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3211,
+        "resourceName": "65000/subboss2/notbossbattledirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16320007,
+        "nextBossDirectionMstId": 3212
+      },
+      {
+        "bossDirectionMstId": 3212,
+        "resourceName": "65000/subboss2/startsecondbattledirectiondata",
+        "nextSceneType": 2,
+        "objectId": 128130,
+        "nextBossDirectionMstId": 3213
+      },
+      {
+        "bossDirectionMstId": 3213,
+        "resourceName": "65000/subboss2/bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16320008,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3221,
+        "resourceName": "65000/subboss3/bossappeardirectiondata",
+        "nextSceneType": 2,
+        "objectId": 128131,
+        "nextBossDirectionMstId": 3222
+      },
+      {
+        "bossDirectionMstId": 3222,
+        "resourceName": "65000/subboss3/bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16320010,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3231,
+        "resourceName": "65000/subboss4/notbossbattledirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16320013,
+        "nextBossDirectionMstId": 3232
+      },
+      {
+        "bossDirectionMstId": 3232,
+        "resourceName": "65000/subboss4/startsecondbattledirectiondata",
+        "nextSceneType": 2,
+        "objectId": 128132,
+        "nextBossDirectionMstId": 3233
+      },
+      {
+        "bossDirectionMstId": 3233,
+        "resourceName": "65000/subboss4/bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16320014,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3234,
+        "resourceName": "65000/boss/bossappeardirectiondata",
+        "nextSceneType": 2,
+        "objectId": 128133,
+        "nextBossDirectionMstId": 3235
+      },
+      {
+        "bossDirectionMstId": 3235,
+        "resourceName": "65000/boss/bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16320015,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3241,
+        "resourceName": "65000/subboss1/bossappeardirectiondata",
+        "nextSceneType": 2,
+        "objectId": 128321,
+        "nextBossDirectionMstId": 3242
+      },
+      {
+        "bossDirectionMstId": 3242,
+        "resourceName": "65000/subboss1/bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16320019,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3251,
+        "resourceName": "65000/subboss2/bossappeardirectiondata",
+        "nextSceneType": 2,
+        "objectId": 128322,
+        "nextBossDirectionMstId": 3252
+      },
+      {
+        "bossDirectionMstId": 3252,
+        "resourceName": "65000/subboss2/bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16320021,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3271,
+        "resourceName": "65000/boss/bossappeardirectiondata",
+        "nextSceneType": 2,
+        "objectId": 128325,
+        "nextBossDirectionMstId": 3272
+      },
+      {
+        "bossDirectionMstId": 3272,
+        "resourceName": "65000/boss/bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16320017,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3301,
+        "resourceName": "65200/subboss1/bossappeardirectiondata",
+        "nextSceneType": 2,
+        "objectId": 129139,
+        "nextBossDirectionMstId": 3302
+      },
+      {
+        "bossDirectionMstId": 3302,
+        "resourceName": "65200/subboss1/bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16330006,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3311,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 129140,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3321,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16330008,
+        "nextBossDirectionMstId": 3322
+      },
+      {
+        "bossDirectionMstId": 3322,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 129141,
+        "nextBossDirectionMstId": 3323
+      },
+      {
+        "bossDirectionMstId": 3323,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16330009,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3331,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16330013,
+        "nextBossDirectionMstId": 3332
+      },
+      {
+        "bossDirectionMstId": 3332,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 129142,
+        "nextBossDirectionMstId": 3333
+      },
+      {
+        "bossDirectionMstId": 3333,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16330014,
+        "nextBossDirectionMstId": 3334
+      },
+      {
+        "bossDirectionMstId": 3334,
+        "resourceName": "",
+        "nextSceneType": 1,
+        "objectId": 16330019,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3341,
+        "resourceName": "65200/subboss1/bossappeardirectiondata",
+        "nextSceneType": 2,
+        "objectId": 129323,
+        "nextBossDirectionMstId": 3342
+      },
+      {
+        "bossDirectionMstId": 3342,
+        "resourceName": "65200/subboss1/bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16330018,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3351,
+        "resourceName": "",
+        "nextSceneType": 2,
+        "objectId": 129324,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3352,
+        "resourceName": "bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 40020001,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3361,
+        "resourceName": "65200/subboss2/bossappeardirectiondata",
+        "nextSceneType": 2,
+        "objectId": 129325,
+        "nextBossDirectionMstId": 3362
+      },
+      {
+        "bossDirectionMstId": 3362,
+        "resourceName": "65200/subboss2/bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16330015,
+        "nextBossDirectionMstId": 0
+      },
+      {
+        "bossDirectionMstId": 3371,
+        "resourceName": "65200/boss/bossappeardirectiondata",
+        "nextSceneType": 2,
+        "objectId": 129326,
+        "nextBossDirectionMstId": 3372
+      },
+      {
+        "bossDirectionMstId": 3372,
+        "resourceName": "65200/boss/bossbattleenddirectiondata",
+        "nextSceneType": 1,
+        "objectId": 16330016,
+        "nextBossDirectionMstId": 0
+      },
+      {
         "bossDirectionMstId": 5501,
         "resourceName": "",
         "nextSceneType": 1,

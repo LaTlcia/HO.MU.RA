@@ -287,6 +287,91 @@
         "streamableBgmMstId": 57,
         "cueSheetName": "bgm_battle_magireco",
         "cueName": "bgm02_battle_magireco_shitori_egumo"
+      },
+      {
+        "streamableBgmMstId": 58,
+        "cueSheetName": "bgm_battle_majyu",
+        "cueName": "bgm02_battle_majyu_teshita"
+      },
+      {
+        "streamableBgmMstId": 59,
+        "cueSheetName": "bgm_battle_majyu",
+        "cueName": "bgm02_battle_majyu_boss"
+      },
+      {
+        "streamableBgmMstId": 60,
+        "cueSheetName": "bgm_magireco0",
+        "cueName": "bgm_magireco0_main_theme"
+      },
+      {
+        "streamableBgmMstId": 61,
+        "cueSheetName": "bgm_magireco0",
+        "cueName": "bgm_magireco0_114501"
+      },
+      {
+        "streamableBgmMstId": 62,
+        "cueSheetName": "bgm_battle_magireco0_01",
+        "cueName": "bgm_battle_magireco0_01_teshita_625002"
+      },
+      {
+        "streamableBgmMstId": 63,
+        "cueSheetName": "bgm_battle_magireco0_01",
+        "cueName": "bgm_battle_magireco0_01_majo_625001"
+      },
+      {
+        "streamableBgmMstId": 64,
+        "cueSheetName": "bgm_battle_halloween",
+        "cueName": "bgm_battle_halloween_teshita"
+      },
+      {
+        "streamableBgmMstId": 65,
+        "cueSheetName": "bgm_battle_halloween",
+        "cueName": "bgm_battle_halloween_majo"
+      },
+      {
+        "streamableBgmMstId": 66,
+        "cueSheetName": "bgm_battle_christma",
+        "cueName": "bgm_battle_christmas_teshita"
+      },
+      {
+        "streamableBgmMstId": 67,
+        "cueSheetName": "bgm_battle_christma",
+        "cueName": "bgm_battle_christmas_majo"
+      },
+      {
+        "streamableBgmMstId": 68,
+        "cueSheetName": "bgm_adv_christmas",
+        "cueName": "bgm_adv_christmas_01"
+      },
+      {
+        "streamableBgmMstId": 69,
+        "cueSheetName": "bgm_battle_newyear",
+        "cueName": "bgm_battle_newyear_teshita"
+      },
+      {
+        "streamableBgmMstId": 70,
+        "cueSheetName": "bgm_battle_newyear",
+        "cueName": "bgm_battle_newyear_majo"
+      },
+      {
+        "streamableBgmMstId": 71,
+        "cueSheetName": "bgm_adv_newyear",
+        "cueName": "bgm_adv_newyear_01"
+      },
+      {
+        "streamableBgmMstId": 72,
+        "cueSheetName": "bgm_magireco0",
+        "cueName": "bgm_magireco0_114601"
+      },
+      {
+        "streamableBgmMstId": 73,
+        "cueSheetName": "bgm_battle_magireco0_02",
+        "cueName": "bgm_battle_magireco0_02_teshita_656004"
+      },
+      {
+        "streamableBgmMstId": 74,
+        "cueSheetName": "bgm_battle_magireco0_02",
+        "cueName": "bgm_battle_magireco0_02_majo_656001"
       }
     ]
   }

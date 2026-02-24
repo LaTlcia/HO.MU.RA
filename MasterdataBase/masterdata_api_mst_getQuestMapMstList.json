@@ -44,6 +44,30 @@
         "openEffectFlagMiniTutorialNumber": 79
       },
       {
+        "questMapMstId": 7,
+        "questCategoryMstId": 1,
+        "name": "魔法少女まどか☆マギカ[魔獣編]",
+        "conditionGroupId": 0,
+        "openFlagMiniTutorialNumber": 150,
+        "openEffectFlagMiniTutorialNumber": 151
+      },
+      {
+        "questMapMstId": 8,
+        "questCategoryMstId": 1,
+        "name": "マギアレコード 魔法少女まどか☆マギカ外伝 Crescent Memoria",
+        "conditionGroupId": 0,
+        "openFlagMiniTutorialNumber": 158,
+        "openEffectFlagMiniTutorialNumber": 159
+      },
+      {
+        "questMapMstId": 9,
+        "questCategoryMstId": 1,
+        "name": "魔法少女まどか☆マギカ [新編]叛逆の物語",
+        "conditionGroupId": 0,
+        "openFlagMiniTutorialNumber": 168,
+        "openEffectFlagMiniTutorialNumber": 169
+      },
+      {
         "questMapMstId": 41,
         "questCategoryMstId": 4,
         "name": "キオク強化素材クエスト",

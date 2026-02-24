@@ -155,7 +155,7 @@
       },
       {
         "collectionIllustMstId": 5100,
-        "name": "scene0",
+        "name": "歩めぬ未来を見送って",
         "illustrator": "",
         "source": "",
         "questMapMstId": 5,
@@ -167,6 +167,51 @@
         "resourceName": "5100",
         "isAutoUnlocked": false,
         "advMstId": 70000242
+      },
+      {
+        "collectionIllustMstId": 7100,
+        "name": "いつかまた出会えると信じて",
+        "illustrator": "",
+        "source": "",
+        "questMapMstId": 7,
+        "completeRewardCardMstId": 5100039,
+        "completeRewardStyleMstId": 0,
+        "completeRewardGemNum": 1000,
+        "completeHomeAppealMstId": 0,
+        "expandCelestialGlobe": false,
+        "resourceName": "art_06_00_0008",
+        "isAutoUnlocked": false,
+        "advMstId": 70000259
+      },
+      {
+        "collectionIllustMstId": 8100,
+        "name": "夜明け前の魔法少女たち",
+        "illustrator": "",
+        "source": "",
+        "questMapMstId": 8,
+        "completeRewardCardMstId": 5100041,
+        "completeRewardStyleMstId": 0,
+        "completeRewardGemNum": 1000,
+        "completeHomeAppealMstId": 0,
+        "expandCelestialGlobe": false,
+        "resourceName": "art_06_01_0004",
+        "isAutoUnlocked": false,
+        "advMstId": 70000266
+      },
+      {
+        "collectionIllustMstId": 9100,
+        "name": "アルティメットまどか＆悪魔ほむら",
+        "illustrator": "",
+        "source": "",
+        "questMapMstId": 9,
+        "completeRewardCardMstId": 5100049,
+        "completeRewardStyleMstId": 0,
+        "completeRewardGemNum": 1000,
+        "completeHomeAppealMstId": 0,
+        "expandCelestialGlobe": false,
+        "resourceName": "art_06_00_0007",
+        "isAutoUnlocked": false,
+        "advMstId": 70000296
       }
     ]
   }

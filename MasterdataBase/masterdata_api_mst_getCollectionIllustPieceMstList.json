@@ -467,6 +467,96 @@
         "collectionIllustPieceMstId": 50109,
         "collectionIllustMstId": 5100,
         "collectionConditionGroupMstId": 102
+      },
+      {
+        "collectionIllustPieceMstId": 70101,
+        "collectionIllustMstId": 7100,
+        "collectionConditionGroupMstId": 103
+      },
+      {
+        "collectionIllustPieceMstId": 70102,
+        "collectionIllustMstId": 7100,
+        "collectionConditionGroupMstId": 104
+      },
+      {
+        "collectionIllustPieceMstId": 70103,
+        "collectionIllustMstId": 7100,
+        "collectionConditionGroupMstId": 105
+      },
+      {
+        "collectionIllustPieceMstId": 80101,
+        "collectionIllustMstId": 8100,
+        "collectionConditionGroupMstId": 106
+      },
+      {
+        "collectionIllustPieceMstId": 80102,
+        "collectionIllustMstId": 8100,
+        "collectionConditionGroupMstId": 107
+      },
+      {
+        "collectionIllustPieceMstId": 80103,
+        "collectionIllustMstId": 8100,
+        "collectionConditionGroupMstId": 108
+      },
+      {
+        "collectionIllustPieceMstId": 80104,
+        "collectionIllustMstId": 8100,
+        "collectionConditionGroupMstId": 109
+      },
+      {
+        "collectionIllustPieceMstId": 80105,
+        "collectionIllustMstId": 8100,
+        "collectionConditionGroupMstId": 110
+      },
+      {
+        "collectionIllustPieceMstId": 80106,
+        "collectionIllustMstId": 8100,
+        "collectionConditionGroupMstId": 111
+      },
+      {
+        "collectionIllustPieceMstId": 80107,
+        "collectionIllustMstId": 8100,
+        "collectionConditionGroupMstId": 112
+      },
+      {
+        "collectionIllustPieceMstId": 80108,
+        "collectionIllustMstId": 8100,
+        "collectionConditionGroupMstId": 113
+      },
+      {
+        "collectionIllustPieceMstId": 80109,
+        "collectionIllustMstId": 8100,
+        "collectionConditionGroupMstId": 114
+      },
+      {
+        "collectionIllustPieceMstId": 90101,
+        "collectionIllustMstId": 9100,
+        "collectionConditionGroupMstId": 115
+      },
+      {
+        "collectionIllustPieceMstId": 90102,
+        "collectionIllustMstId": 9100,
+        "collectionConditionGroupMstId": 116
+      },
+      {
+        "collectionIllustPieceMstId": 90103,
+        "collectionIllustMstId": 9100,
+        "collectionConditionGroupMstId": 117
+      },
+      {
+        "collectionIllustPieceMstId": 90104,
+        "collectionIllustMstId": 9100,
+        "collectionConditionGroupMstId": 118
+      },
+      {
+        "collectionIllustPieceMstId": 90105,
+        "collectionIllustMstId": 9100,
+        "collectionConditionGroupMstId": 119
+      },
+      {
+        "collectionIllustPieceMstId": 90106,
+        "collectionIllustMstId": 9100,
+        "collectionConditionGroupMstId": 120
       }
     ]
   }

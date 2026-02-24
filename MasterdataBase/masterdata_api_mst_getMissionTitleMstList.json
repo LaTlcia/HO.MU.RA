@@ -46,7 +46,14 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 1002,
+        "missionTitleMstId": 1013,
+        "prevMissionTitleMstId": 0,
+        "title": "シーズンミッション",
+        "priority": 1,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 1014,
         "prevMissionTitleMstId": 0,
         "title": "シーズンミッション",
         "priority": 1,
@@ -60,17 +67,87 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5035,
+        "missionTitleMstId": 5044,
         "prevMissionTitleMstId": 0,
-        "title": "「マギアレコード編 第1部」完結記念ミッション",
-        "priority": 6,
+        "title": "ドールハウスミッション",
+        "priority": 1,
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5036,
+        "missionTitleMstId": 5069,
         "prevMissionTitleMstId": 0,
-        "title": "ウワサのあの子は臨時相談員!?イベントミッション",
-        "priority": 28,
+        "title": "魔法少女まどか☆マギカ [新編]叛逆の物語 前編イベントミッション",
+        "priority": 45,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5070,
+        "prevMissionTitleMstId": 0,
+        "title": "魔法少女まどか☆マギカ [新編]叛逆の物語 前編イベントメダル獲得ミッション",
+        "priority": 46,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5073,
+        "prevMissionTitleMstId": 0,
+        "title": "キオク超育成キャンペーンミッション 第3弾",
+        "priority": 15,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5074,
+        "prevMissionTitleMstId": 0,
+        "title": "Chaosモードチャレンジミッション",
+        "priority": 10,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5075,
+        "prevMissionTitleMstId": 0,
+        "title": "メインクエスト全クリア応援キャンペーンミッション",
+        "priority": 13,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5076,
+        "prevMissionTitleMstId": 0,
+        "title": "カムバックミッション",
+        "priority": 1,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5077,
+        "prevMissionTitleMstId": 0,
+        "title": "魔法少女まどか☆マギカ [新編]叛逆の物語 後編イベントミッション",
+        "priority": 47,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5078,
+        "prevMissionTitleMstId": 0,
+        "title": "魔法少女まどか☆マギカ [新編]叛逆の物語 後編イベントメダル獲得ミッション",
+        "priority": 48,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5079,
+        "prevMissionTitleMstId": 0,
+        "title": "スイート・パティシエールキャンペーンミッション 第1弾",
+        "priority": 17,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5081,
+        "prevMissionTitleMstId": 0,
+        "title": "想い伝わる甘い魔法 前編イベントミッション",
+        "priority": 49,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5082,
+        "prevMissionTitleMstId": 0,
+        "title": "想い伝わる甘い魔法 前編イベントメモリアルメダル獲得ミッション",
+        "priority": 50,
         "featuredRewardResourceName": ""
       }
     ]

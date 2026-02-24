@@ -242,6 +242,246 @@
         "objectReceiveType": 5,
         "objectId": 370035,
         "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 31,
+        "groupId": 10,
+        "ranking": 10,
+        "objectReceiveType": 5,
+        "objectId": 370037,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 32,
+        "groupId": 10,
+        "ranking": 50,
+        "objectReceiveType": 5,
+        "objectId": 370038,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 33,
+        "groupId": 10,
+        "ranking": 100,
+        "objectReceiveType": 5,
+        "objectId": 370039,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 34,
+        "groupId": 11,
+        "ranking": 10,
+        "objectReceiveType": 5,
+        "objectId": 370041,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 35,
+        "groupId": 11,
+        "ranking": 50,
+        "objectReceiveType": 5,
+        "objectId": 370042,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 36,
+        "groupId": 11,
+        "ranking": 100,
+        "objectReceiveType": 5,
+        "objectId": 370043,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 37,
+        "groupId": 12,
+        "ranking": 10,
+        "objectReceiveType": 5,
+        "objectId": 370045,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 38,
+        "groupId": 12,
+        "ranking": 50,
+        "objectReceiveType": 5,
+        "objectId": 370046,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 39,
+        "groupId": 12,
+        "ranking": 100,
+        "objectReceiveType": 5,
+        "objectId": 370047,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 40,
+        "groupId": 13,
+        "ranking": 10,
+        "objectReceiveType": 5,
+        "objectId": 370049,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 41,
+        "groupId": 13,
+        "ranking": 50,
+        "objectReceiveType": 5,
+        "objectId": 370050,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 42,
+        "groupId": 13,
+        "ranking": 100,
+        "objectReceiveType": 5,
+        "objectId": 370051,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 43,
+        "groupId": 14,
+        "ranking": 10,
+        "objectReceiveType": 5,
+        "objectId": 370053,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 44,
+        "groupId": 14,
+        "ranking": 50,
+        "objectReceiveType": 5,
+        "objectId": 370054,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 45,
+        "groupId": 14,
+        "ranking": 100,
+        "objectReceiveType": 5,
+        "objectId": 370055,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 46,
+        "groupId": 15,
+        "ranking": 10,
+        "objectReceiveType": 5,
+        "objectId": 370057,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 47,
+        "groupId": 15,
+        "ranking": 50,
+        "objectReceiveType": 5,
+        "objectId": 370058,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 48,
+        "groupId": 15,
+        "ranking": 100,
+        "objectReceiveType": 5,
+        "objectId": 370059,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 49,
+        "groupId": 16,
+        "ranking": 10,
+        "objectReceiveType": 5,
+        "objectId": 370061,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 50,
+        "groupId": 16,
+        "ranking": 50,
+        "objectReceiveType": 5,
+        "objectId": 370062,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 51,
+        "groupId": 16,
+        "ranking": 100,
+        "objectReceiveType": 5,
+        "objectId": 370063,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 52,
+        "groupId": 17,
+        "ranking": 10,
+        "objectReceiveType": 5,
+        "objectId": 370065,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 53,
+        "groupId": 17,
+        "ranking": 50,
+        "objectReceiveType": 5,
+        "objectId": 370066,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 54,
+        "groupId": 17,
+        "ranking": 100,
+        "objectReceiveType": 5,
+        "objectId": 370067,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 55,
+        "groupId": 18,
+        "ranking": 10,
+        "objectReceiveType": 5,
+        "objectId": 370069,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 56,
+        "groupId": 18,
+        "ranking": 50,
+        "objectReceiveType": 5,
+        "objectId": 370070,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 57,
+        "groupId": 18,
+        "ranking": 100,
+        "objectReceiveType": 5,
+        "objectId": 370071,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 58,
+        "groupId": 19,
+        "ranking": 10,
+        "objectReceiveType": 5,
+        "objectId": 370073,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 59,
+        "groupId": 19,
+        "ranking": 50,
+        "objectReceiveType": 5,
+        "objectId": 370074,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 60,
+        "groupId": 19,
+        "ranking": 100,
+        "objectReceiveType": 5,
+        "objectId": 370075,
+        "num": 1
       }
     ]
   }

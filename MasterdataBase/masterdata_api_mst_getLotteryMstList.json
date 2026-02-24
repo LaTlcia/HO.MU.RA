@@ -1,0 +1,17 @@
+{
+  "url": "/api/mst/getLotteryMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "lotteryMstId": 1,
+        "name": "まどドラくじ",
+        "backgroundImagePath": "",
+        "startTime": "2025-12-22T12:00:00+09:00",
+        "lotteryReceivableEndTime": "2026-01-07T11:59:59+09:00",
+        "rewardReceivableStartTime": "2026-01-09T12:00:00+09:00",
+        "endTime": "2026-01-15T11:59:59+09:00"
+      }
+    ]
+  }
+}

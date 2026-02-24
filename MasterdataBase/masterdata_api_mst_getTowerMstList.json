@@ -44,6 +44,41 @@
         "startTime": "2025-09-04T12:00:00+09:00",
         "endTime": "2025-09-18T11:59:59+09:00",
         "reprintNum": 20250904
+      },
+      {
+        "towerMstId": 7,
+        "eventType": 1,
+        "startTime": "2025-10-03T12:00:00+09:00",
+        "endTime": "2025-10-17T11:59:59+09:00",
+        "reprintNum": 20251003
+      },
+      {
+        "towerMstId": 8,
+        "eventType": 1,
+        "startTime": "2025-11-06T12:00:00+09:00",
+        "endTime": "2025-11-20T11:59:59+09:00",
+        "reprintNum": 20251106
+      },
+      {
+        "towerMstId": 9,
+        "eventType": 1,
+        "startTime": "2025-12-11T12:00:00+09:00",
+        "endTime": "2025-12-25T11:59:59+09:00",
+        "reprintNum": 20251211
+      },
+      {
+        "towerMstId": 10,
+        "eventType": 1,
+        "startTime": "2026-01-09T12:00:00+09:00",
+        "endTime": "2026-01-23T11:59:59+09:00",
+        "reprintNum": 20260109
+      },
+      {
+        "towerMstId": 11,
+        "eventType": 1,
+        "startTime": "2026-02-06T12:00:00+09:00",
+        "endTime": "2026-02-20T11:59:59+09:00",
+        "reprintNum": 20260206
       }
     ]
   }

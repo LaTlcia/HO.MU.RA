@@ -12,6 +12,11 @@
         "replaceCharacterNameMstId": 2,
         "styleMstId": 11390101,
         "overrideCharacterName": "ホーリーマミ"
+      },
+      {
+        "replaceCharacterNameMstId": 3,
+        "styleMstId": 11380101,
+        "overrideCharacterName": "悪魔ほむら"
       }
     ]
   }

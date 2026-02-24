@@ -2,6 +2,87 @@
   "url": "/api/mst/getChatStampMstList",
   "status": 200,
   "payload": {
-    "mstList": []
+    "mstList": [
+      {
+        "chatStampMstId": 1001,
+        "description": "よろしくな"
+      },
+      {
+        "chatStampMstId": 1002,
+        "description": "お疲れさま"
+      },
+      {
+        "chatStampMstId": 1003,
+        "description": "おやすみ～"
+      },
+      {
+        "chatStampMstId": 1004,
+        "description": "わからない"
+      },
+      {
+        "chatStampMstId": 1005,
+        "description": "ｷﾞｮｴｯ!?"
+      },
+      {
+        "chatStampMstId": 1006,
+        "description": "ありがとう！"
+      },
+      {
+        "chatStampMstId": 1007,
+        "description": "おめでとう"
+      },
+      {
+        "chatStampMstId": 1008,
+        "description": "どういたしまして"
+      },
+      {
+        "chatStampMstId": 1009,
+        "description": "ユニオンメンバーになってくれないかい？"
+      },
+      {
+        "chatStampMstId": 1010,
+        "description": "手伝ってくれない？"
+      },
+      {
+        "chatStampMstId": 1011,
+        "description": "頑張るよ！"
+      },
+      {
+        "chatStampMstId": 1012,
+        "description": "ごめんなさいっ…"
+      },
+      {
+        "chatStampMstId": 1013,
+        "description": "わかったわ"
+      },
+      {
+        "chatStampMstId": 1014,
+        "description": "いいね！"
+      },
+      {
+        "chatStampMstId": 1015,
+        "description": "ﾋﾟｯﾁｭﾍﾟﾁｮｰ♪"
+      },
+      {
+        "chatStampMstId": 1016,
+        "description": "怒るA-Q"
+      },
+      {
+        "chatStampMstId": 1017,
+        "description": "いっしょにがんばろう"
+      },
+      {
+        "chatStampMstId": 1018,
+        "description": "行くわよ"
+      },
+      {
+        "chatStampMstId": 1019,
+        "description": "大丈夫？"
+      },
+      {
+        "chatStampMstId": 1020,
+        "description": "またね"
+      }
+    ]
   }
 }

@@ -1,0 +1,80 @@
+{
+  "url": "/api/mst/getUniqueStatePatternMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "uniqueStatePatternMstId": 1,
+        "name": "キャンディホリック",
+        "stateFlipName": "キャンディホリック",
+        "iconName": "battle_icon_unique_004"
+      },
+      {
+        "uniqueStatePatternMstId": 2,
+        "name": "ファントムトリック",
+        "stateFlipName": "ファントムトリック",
+        "iconName": "battle_icon_unique_006"
+      },
+      {
+        "uniqueStatePatternMstId": 3,
+        "name": "インビジブル",
+        "stateFlipName": "インビジブル",
+        "iconName": "battle_icon_unique_005"
+      },
+      {
+        "uniqueStatePatternMstId": 4,
+        "name": "聖夜の輝き",
+        "stateFlipName": "聖夜の輝き",
+        "iconName": "battle_icon_unique_008"
+      },
+      {
+        "uniqueStatePatternMstId": 5,
+        "name": "聖夜の試練",
+        "stateFlipName": "聖夜の試練",
+        "iconName": "battle_icon_unique_009"
+      },
+      {
+        "uniqueStatePatternMstId": 6,
+        "name": "真冬の祝福",
+        "stateFlipName": "真冬の祝福",
+        "iconName": "battle_icon_unique_010"
+      },
+      {
+        "uniqueStatePatternMstId": 7,
+        "name": "真冬の幻想",
+        "stateFlipName": "真冬の幻想",
+        "iconName": "battle_icon_unique_011"
+      },
+      {
+        "uniqueStatePatternMstId": 8,
+        "name": "謹賀新年",
+        "stateFlipName": "謹賀新年",
+        "iconName": "battle_icon_unique_012"
+      },
+      {
+        "uniqueStatePatternMstId": 9,
+        "name": "悪魔の刻印",
+        "stateFlipName": "悪魔の刻印",
+        "iconName": "battle_icon_unique_014"
+      },
+      {
+        "uniqueStatePatternMstId": 10,
+        "name": "おかしなチーズ",
+        "stateFlipName": "おかしなチーズ",
+        "iconName": "battle_icon_unique_015"
+      },
+      {
+        "uniqueStatePatternMstId": 11,
+        "name": "勇気のマドレーヌ",
+        "stateFlipName": "勇気のマドレーヌ",
+        "iconName": "battle_icon_unique_016"
+      },
+      {
+        "uniqueStatePatternMstId": 10001,
+        "name": "フィールド",
+        "stateFlipName": "フィールド",
+        "iconName": "battle_icon_unique_013"
+      }
+    ]
+  }
+}

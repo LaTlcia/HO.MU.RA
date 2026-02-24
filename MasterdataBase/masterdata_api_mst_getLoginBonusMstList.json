@@ -9,7 +9,11 @@
         "cycleType": 1,
         "sortOrder": 100,
         "startTime": "2025-03-26T17:00:00+09:00",
-        "endTime": "2050-01-01T00:00:00+09:00"
+        "endTime": "2050-01-01T00:00:00+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 2,
@@ -17,7 +21,11 @@
         "cycleType": 2,
         "sortOrder": 900,
         "startTime": "2025-03-26T17:00:00+09:00",
-        "endTime": "2050-01-01T00:00:00+09:00"
+        "endTime": "2050-01-01T00:00:00+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 3,
@@ -25,7 +33,11 @@
         "cycleType": 3,
         "sortOrder": 500,
         "startTime": "2025-03-26T17:00:00+09:00",
-        "endTime": "2025-04-28T14:59:59+09:00"
+        "endTime": "2025-04-28T14:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 4,
@@ -33,7 +45,11 @@
         "cycleType": 2,
         "sortOrder": 1000,
         "startTime": "2025-03-26T17:00:00+09:00",
-        "endTime": "2025-04-11T04:59:59+09:00"
+        "endTime": "2025-04-11T04:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 5,
@@ -41,7 +57,11 @@
         "cycleType": 2,
         "sortOrder": 1000,
         "startTime": "2025-04-01T00:00:00+09:00",
-        "endTime": "2025-04-08T04:59:59+09:00"
+        "endTime": "2025-04-08T04:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 6,
@@ -49,7 +69,11 @@
         "cycleType": 2,
         "sortOrder": 1000,
         "startTime": "2025-04-12T05:00:00+09:00",
-        "endTime": "2025-04-25T04:59:59+09:00"
+        "endTime": "2025-04-25T04:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 7,
@@ -57,7 +81,11 @@
         "cycleType": 2,
         "sortOrder": 1000,
         "startTime": "2025-04-19T05:00:00+09:00",
-        "endTime": "2025-05-02T04:59:59+09:00"
+        "endTime": "2025-05-02T04:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 8,
@@ -65,7 +93,11 @@
         "cycleType": 2,
         "sortOrder": 1001,
         "startTime": "2025-04-26T05:00:00+09:00",
-        "endTime": "2025-05-12T04:59:59+09:00"
+        "endTime": "2025-05-12T04:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 9,
@@ -73,7 +105,11 @@
         "cycleType": 2,
         "sortOrder": 1002,
         "startTime": "2025-04-30T12:00:00+09:00",
-        "endTime": "2025-05-03T04:59:59+09:00"
+        "endTime": "2025-05-03T04:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 10,
@@ -81,7 +117,11 @@
         "cycleType": 2,
         "sortOrder": 1003,
         "startTime": "2025-05-02T12:00:00+09:00",
-        "endTime": "2025-05-19T04:59:59+09:00"
+        "endTime": "2025-05-19T04:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 11,
@@ -89,7 +129,11 @@
         "cycleType": 2,
         "sortOrder": 1000,
         "startTime": "2025-05-17T05:00:00+09:00",
-        "endTime": "2025-05-31T04:59:59+09:00"
+        "endTime": "2025-05-31T04:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 12,
@@ -97,7 +141,11 @@
         "cycleType": 2,
         "sortOrder": 1001,
         "startTime": "2025-05-27T12:00:00+09:00",
-        "endTime": "2025-05-31T04:59:59+09:00"
+        "endTime": "2025-05-31T04:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 13,
@@ -105,7 +153,11 @@
         "cycleType": 2,
         "sortOrder": 1002,
         "startTime": "2025-05-30T12:00:00+09:00",
-        "endTime": "2025-06-30T04:59:59+09:00"
+        "endTime": "2025-06-30T04:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 14,
@@ -113,7 +165,11 @@
         "cycleType": 2,
         "sortOrder": 1003,
         "startTime": "2025-06-26T12:00:00+09:00",
-        "endTime": "2025-07-16T11:59:59+09:00"
+        "endTime": "2025-07-16T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 15,
@@ -121,7 +177,11 @@
         "cycleType": 2,
         "sortOrder": 1010,
         "startTime": "2025-07-16T12:00:00+09:00",
-        "endTime": "2025-07-31T11:59:59+09:00"
+        "endTime": "2025-07-31T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 16,
@@ -129,7 +189,11 @@
         "cycleType": 2,
         "sortOrder": 1005,
         "startTime": "2025-07-16T12:00:00+09:00",
-        "endTime": "2025-08-19T11:59:59+09:00"
+        "endTime": "2025-08-19T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 17,
@@ -137,7 +201,11 @@
         "cycleType": 2,
         "sortOrder": 1003,
         "startTime": "2025-07-23T12:00:00+09:00",
-        "endTime": "2025-08-06T11:59:59+09:00"
+        "endTime": "2025-08-06T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 18,
@@ -145,7 +213,11 @@
         "cycleType": 2,
         "sortOrder": 1008,
         "startTime": "2025-08-01T12:00:00+09:00",
-        "endTime": "2025-08-19T11:59:59+09:00"
+        "endTime": "2025-08-19T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 19,
@@ -153,7 +225,11 @@
         "cycleType": 2,
         "sortOrder": 1009,
         "startTime": "2025-08-15T12:00:00+09:00",
-        "endTime": "2025-08-28T11:59:59+09:00"
+        "endTime": "2025-08-28T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 20,
@@ -161,7 +237,11 @@
         "cycleType": 2,
         "sortOrder": 1010,
         "startTime": "2025-08-22T00:00:00+09:00",
-        "endTime": "2025-08-29T23:59:59+09:00"
+        "endTime": "2025-08-29T23:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
       },
       {
         "loginBonusMstId": 21,
@@ -169,7 +249,287 @@
         "cycleType": 2,
         "sortOrder": 1012,
         "startTime": "2025-08-28T12:00:00+09:00",
-        "endTime": "2025-09-18T11:59:59+09:00"
+        "endTime": "2025-09-18T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 22,
+        "title": "scene0 中編 追加記念ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1003,
+        "startTime": "2025-09-18T12:00:00+09:00",
+        "endTime": "2025-10-02T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 23,
+        "title": "ハーフアニバーサリーカウントダウンログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1005,
+        "startTime": "2025-09-18T12:00:00+09:00",
+        "endTime": "2025-09-28T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 24,
+        "title": "カムバックログインボーナス",
+        "cycleType": 3,
+        "sortOrder": 500,
+        "startTime": "2025-09-28T20:00:00+09:00",
+        "endTime": "2025-11-30T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 25,
+        "title": "Half Anniversary マギカストーン3000個プレゼント",
+        "cycleType": 2,
+        "sortOrder": 1010,
+        "startTime": "2025-09-28T20:00:00+09:00",
+        "endTime": "2025-10-31T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 26,
+        "title": "育成素材ドバッとログインボーナス 第1弾",
+        "cycleType": 2,
+        "sortOrder": 1001,
+        "startTime": "2025-09-28T20:00:00+09:00",
+        "endTime": "2025-10-09T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 27,
+        "title": "鹿目まどか誕生日記念ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1020,
+        "startTime": "2025-10-03T00:00:00+09:00",
+        "endTime": "2025-10-10T23:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 28,
+        "title": "Half Anniversary ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1009,
+        "startTime": "2025-10-09T05:00:00+09:00",
+        "endTime": "2025-10-31T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 29,
+        "title": "育成素材ドバッとログインボーナス 第2弾",
+        "cycleType": 2,
+        "sortOrder": 1001,
+        "startTime": "2025-10-09T12:00:00+09:00",
+        "endTime": "2025-10-20T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 30,
+        "title": "育成素材ドバッとログインボーナス 第3弾",
+        "cycleType": 2,
+        "sortOrder": 1001,
+        "startTime": "2025-10-20T12:00:00+09:00",
+        "endTime": "2025-10-31T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 31,
+        "title": "Crescent Memoria リリース記念ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1005,
+        "startTime": "2025-10-20T12:00:00+09:00",
+        "endTime": "2025-11-03T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 32,
+        "title": "ハロウィンログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1007,
+        "startTime": "2025-10-30T12:00:00+09:00",
+        "endTime": "2025-11-25T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 33,
+        "title": "scene0完結カウントダウンログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1010,
+        "startTime": "2025-11-08T12:00:00+09:00",
+        "endTime": "2025-11-18T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 34,
+        "title": "scene0完結記念ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1010,
+        "startTime": "2025-11-18T12:00:00+09:00",
+        "endTime": "2025-12-03T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 35,
+        "title": "クリスマスログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1012,
+        "startTime": "2025-11-29T12:00:00+09:00",
+        "endTime": "2025-12-26T11:59:59+09:00",
+        "conditionDescription": "",
+        "appealDescription": "",
+        "appealIconObjectReceiveType": 0,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 36,
+        "title": "アルティメットまどかポートレイトプレゼントログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1015,
+        "startTime": "2025-12-21T18:30:00+09:00",
+        "endTime": "2026-01-05T11:59:59+09:00",
+        "conditionDescription": "<color=#ecd19c>5日</color>ログインして",
+        "appealDescription": "<color=#ecd19c>ポートレイト</color>を獲得！",
+        "appealIconObjectReceiveType": 4,
+        "appealIconObjectId": 4200048
+      },
+      {
+        "loginBonusMstId": 37,
+        "title": "年越祭-2025- ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1013,
+        "startTime": "2025-12-22T12:00:00+09:00",
+        "endTime": "2026-01-01T04:59:59+09:00",
+        "conditionDescription": "ログインして",
+        "appealDescription": "<color=#ecd19c>年越メダル</color>を獲得！",
+        "appealIconObjectReceiveType": 5,
+        "appealIconObjectId": 201049
+      },
+      {
+        "loginBonusMstId": 38,
+        "title": "年越祭-2025- まどドラくじ抽選チケット獲得ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1010,
+        "startTime": "2025-12-22T12:00:00+09:00",
+        "endTime": "2026-01-01T04:59:59+09:00",
+        "conditionDescription": "<color=#ecd19c>10日</color>ログインして",
+        "appealDescription": "<color=#ecd19c>まどドラくじ抽選チケット</color>を獲得！",
+        "appealIconObjectReceiveType": 5,
+        "appealIconObjectId": 2100001
+      },
+      {
+        "loginBonusMstId": 39,
+        "title": "新春祭-2026- まどドラくじ抽選チケット獲得ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1010,
+        "startTime": "2026-01-01T05:00:00+09:00",
+        "endTime": "2026-01-07T11:59:59+09:00",
+        "conditionDescription": "<color=#ecd19c>5日</color>ログインして",
+        "appealDescription": "<color=#ecd19c>まどドラくじ抽選チケット</color>を獲得！",
+        "appealIconObjectReceiveType": 5,
+        "appealIconObjectId": 2100001
+      },
+      {
+        "loginBonusMstId": 40,
+        "title": "新春祭-2026- ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1013,
+        "startTime": "2026-01-01T05:00:00+09:00",
+        "endTime": "2026-01-15T11:59:59+09:00",
+        "conditionDescription": "ログインして",
+        "appealDescription": "<color=#ecd19c>新春メダル</color>を獲得！",
+        "appealIconObjectReceiveType": 5,
+        "appealIconObjectId": 201048
+      },
+      {
+        "loginBonusMstId": 41,
+        "title": "第2弾リリース記念 マギアキーザクザク！ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1015,
+        "startTime": "2026-01-09T12:00:00+09:00",
+        "endTime": "2026-01-29T11:59:59+09:00",
+        "conditionDescription": "<color=#ecd19c>ログイン16日目</color>で",
+        "appealDescription": "<color=#ecd19c>★5キオク確定マギアキー</color>を獲得！",
+        "appealIconObjectReceiveType": 5,
+        "appealIconObjectId": 232003
+      },
+      {
+        "loginBonusMstId": 42,
+        "title": "カムバックログインボーナス",
+        "cycleType": 3,
+        "sortOrder": 500,
+        "startTime": "2026-01-28T12:00:00+09:00",
+        "endTime": "2026-03-31T11:59:59+09:00",
+        "conditionDescription": "<color=#ecd19c>10日</color>ログインして",
+        "appealDescription": "<color=#ecd19c>マギカストーン合計3,000個</color>を獲得！",
+        "appealIconObjectReceiveType": 2,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 43,
+        "title": "[新編]叛逆の物語リリース記念 ログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1000,
+        "startTime": "2026-02-06T12:00:00+09:00",
+        "endTime": "2026-02-28T11:59:59+09:00",
+        "conditionDescription": "ログインで",
+        "appealDescription": "<color=#ecd19c>マギカストーン合計3,000個</color>を獲得！",
+        "appealIconObjectReceiveType": 2,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 44,
+        "title": "スイート・パティシエールキャンペーンログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1005,
+        "startTime": "2026-02-17T12:00:00+09:00",
+        "endTime": "2026-03-10T11:59:59+09:00",
+        "conditionDescription": "ログインで",
+        "appealDescription": "<color=#ecd19c>マギカストーン合計2,000個</color>を獲得！",
+        "appealIconObjectReceiveType": 2,
+        "appealIconObjectId": 0
       }
     ]
   }

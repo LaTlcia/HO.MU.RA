@@ -77,6 +77,26 @@
         "objectReceiveType": 18,
         "objectType": 14,
         "expireDate": 0
+      },
+      {
+        "objectReceiveType": 19,
+        "objectType": 15,
+        "expireDate": 0
+      },
+      {
+        "objectReceiveType": 20,
+        "objectType": 16,
+        "expireDate": 0
+      },
+      {
+        "objectReceiveType": 21,
+        "objectType": 17,
+        "expireDate": 0
+      },
+      {
+        "objectReceiveType": 22,
+        "objectType": 18,
+        "expireDate": 0
       }
     ]
   }

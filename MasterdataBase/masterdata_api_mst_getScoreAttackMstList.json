@@ -110,6 +110,126 @@
         "totalScoreRewardGroupId": 8,
         "rankingRewardGroupId": 9,
         "dioramaBackgroundMstId": 210119
+      },
+      {
+        "scoreAttackMstId": 10,
+        "name": "",
+        "startTime": "2025-09-28T20:00:00+09:00",
+        "endTime": "2025-10-14T11:59:59+09:00",
+        "comment": "ボスはブレイクゲージを毎ターン一定量回復し、さらに特定ターンごとに防御力を上昇します。<br><br>通常攻撃、スキル、必殺技によるダメージを受けた回数やブレイクが発生した回数に応じて被ダメージが上昇し、よりダメージが与えやすい状態になります。<br>特にブレイクが発生した際の被ダメージ上昇効果は非常に大きいため積極的に狙いましょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 10,
+        "totalScoreRewardGroupId": 9,
+        "rankingRewardGroupId": 10,
+        "dioramaBackgroundMstId": 710119
+      },
+      {
+        "scoreAttackMstId": 11,
+        "name": "",
+        "startTime": "2025-10-09T12:00:00+09:00",
+        "endTime": "2025-10-23T11:59:59+09:00",
+        "comment": "ボスと手下は弱点属性の通常攻撃、スキル、必殺技により3体同時にダメージを受けた回数に応じて被ダメージが上昇し、よりダメージが与えやすい状態になります。<br><br>また、累積バフやデバフ効果で長期戦はダメージが抑えられてしまうため注意しましょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 11,
+        "totalScoreRewardGroupId": 10,
+        "rankingRewardGroupId": 11,
+        "dioramaBackgroundMstId": 210219
+      },
+      {
+        "scoreAttackMstId": 12,
+        "name": "",
+        "startTime": "2025-10-30T12:00:00+09:00",
+        "endTime": "2025-11-25T11:59:59+09:00",
+        "comment": "ボスは持続ダメージを受けるごとに被ダメージが上昇し、ブレイクゲージ削減耐性が減少します。<br>この効果は、複数の種類の持続ダメージを同時に与えると効率よく上昇させることができます。<br>そのため、できるだけ複数の種類の状態異常を付与するよう意識すると良いでしょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 12,
+        "totalScoreRewardGroupId": 11,
+        "rankingRewardGroupId": 12,
+        "dioramaBackgroundMstId": 410119
+      },
+      {
+        "scoreAttackMstId": 13,
+        "name": "",
+        "startTime": "2025-11-18T12:00:00+09:00",
+        "endTime": "2025-12-03T11:59:59+09:00",
+        "comment": "ボスはブレイクボーナスの最大値が非常に高くまで上昇します。<br>ブレイクボーナスをしっかりあげてダメージを伸ばしましょう。<br><br>また、攻撃力が高くターン経過で威力が上昇するスキルも持っています。<br>受けるダメージが多い場合は、回復やバリアを扱えるキオクを編成するのも良いでしょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 13,
+        "totalScoreRewardGroupId": 12,
+        "rankingRewardGroupId": 13,
+        "dioramaBackgroundMstId": 111019
+      },
+      {
+        "scoreAttackMstId": 14,
+        "name": "",
+        "startTime": "2025-11-29T12:00:00+09:00",
+        "endTime": "2025-12-31T11:59:59+09:00",
+        "comment": "ボスは2ターンごとに強力な攻撃を行います。<br>弱点属性で3体同時にダメージを与えると、その回数に応じて威力を減少させることができます。<br>複数の敵を同時に攻撃できるキオクを優先的に編成すると良いでしょう。<br><br>また、ターンが経過するごとに攻撃力とスピードが上昇します。<br>長期戦になると受けるダメージが増加するため注意しましょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 14,
+        "totalScoreRewardGroupId": 13,
+        "rankingRewardGroupId": 14,
+        "dioramaBackgroundMstId": 410219
+      },
+      {
+        "scoreAttackMstId": 15,
+        "name": "",
+        "startTime": "2025-12-22T12:00:00+09:00",
+        "endTime": "2026-01-09T11:59:59+09:00",
+        "comment": "ボスは呪いが付与されている敵に対して攻撃を行うと自身の攻撃力と防御力を上昇します。<br>呪いは一部の手下が特定のターンごとに付与するため、ボスの行動前に全て解除できるよう意識して立ち回ると良いでしょう。<br><br>また、ボスと手下はブレイクボーナスの最大値が高くまで上昇します。<br>ブレイクボーナスをしっかりあげてダメージを伸ばしましょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 15,
+        "totalScoreRewardGroupId": 14,
+        "rankingRewardGroupId": 15,
+        "dioramaBackgroundMstId": 210319
+      },
+      {
+        "scoreAttackMstId": 16,
+        "name": "",
+        "startTime": "2026-01-01T00:00:00+09:00",
+        "endTime": "2026-01-15T11:59:59+09:00",
+        "comment": "ボスは自身の魔力数が多いほど防御力が上昇します。<br>魔力はクリティカルダメージを受けるごとに減少するため、クリティカル率を上昇できるキオクやポートレートなどを編成すると良いでしょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 16,
+        "totalScoreRewardGroupId": 15,
+        "rankingRewardGroupId": 16,
+        "dioramaBackgroundMstId": 410419
+      },
+      {
+        "scoreAttackMstId": 17,
+        "name": "",
+        "startTime": "2026-01-19T12:00:00+09:00",
+        "endTime": "2026-02-02T11:59:59+09:00",
+        "comment": "ボスは残りHPが40％未満の敵から攻撃を受けた時に攻撃力と防御力が少量ずつ上昇します。<br>回復やバリアなどで味方のHPを一定以上に保つよう気を付けましょう。<br><br>また、バリアが付与されている敵が存在しない場合は与ダメージが著しく上昇するため、バリアを付与できるキオクは特に有効でしょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 17,
+        "totalScoreRewardGroupId": 16,
+        "rankingRewardGroupId": 17,
+        "dioramaBackgroundMstId": 310119
+      },
+      {
+        "scoreAttackMstId": 18,
+        "name": "",
+        "startTime": "2026-01-30T12:00:00+09:00",
+        "endTime": "2026-02-28T11:59:59+09:00",
+        "comment": "ボスと手下は自身の魔力が多いほど被ダメージが減少します。<br>魔力は敵のターン経過ごとに上昇し、弱点属性の攻撃を受けるごとに減少します。<br><br>複数の敵を同時に攻撃できる弱点属性のキオクを優先的に編成すると良いでしょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 18,
+        "totalScoreRewardGroupId": 17,
+        "rankingRewardGroupId": 18,
+        "dioramaBackgroundMstId": 910114
+      },
+      {
+        "scoreAttackMstId": 19,
+        "name": "",
+        "startTime": "2026-02-17T12:00:00+09:00",
+        "endTime": "2026-03-18T11:59:59+09:00",
+        "comment": "ボスは自身の魔力が多いほど被ダメージが減少します。<br>魔力は敵の攻撃でクリティカルダメージが発生した味方の数に応じて減少します。<br><br>1回の攻撃で複数体にダメージを与えられるキオクは効率的に魔力を減少させることができるため、優先して編成すると良いでしょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 19,
+        "totalScoreRewardGroupId": 18,
+        "rankingRewardGroupId": 19,
+        "dioramaBackgroundMstId": 210719
       }
     ]
   }

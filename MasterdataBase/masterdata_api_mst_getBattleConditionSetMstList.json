@@ -8819,6 +8819,11 @@
         "battleConditionMstIdCsv": "882,874"
       },
       {
+        "battleConditionSetMstId": 1772,
+        "description": "自身にバリアとシールドが貼られている時に1以上のダメージを受けた",
+        "battleConditionMstIdCsv": "420,286,314,407"
+      },
+      {
         "battleConditionSetMstId": 1773,
         "description": "味方が4人以上ブレイクされた",
         "battleConditionMstIdCsv": "1108"
@@ -8827,6 +8832,4041 @@
         "battleConditionSetMstId": 1774,
         "description": "味方が3人以上ブレイクされた AND  味方が4体未満の場合（自分を除く）",
         "battleConditionMstIdCsv": "1110,350"
+      },
+      {
+        "battleConditionSetMstId": 1775,
+        "description": "トークンが3未満",
+        "battleConditionMstIdCsv": "1111"
+      },
+      {
+        "battleConditionSetMstId": 1776,
+        "description": "自分のキャラクターが「安名メル」",
+        "battleConditionMstIdCsv": "1199"
+      },
+      {
+        "battleConditionSetMstId": 1777,
+        "description": "自分のHPが0％以上",
+        "battleConditionMstIdCsv": "1112"
+      },
+      {
+        "battleConditionSetMstId": 1778,
+        "description": "自分のHPが10％以上",
+        "battleConditionMstIdCsv": "1113"
+      },
+      {
+        "battleConditionSetMstId": 1779,
+        "description": "自分のHPが20％以上",
+        "battleConditionMstIdCsv": "1114"
+      },
+      {
+        "battleConditionSetMstId": 1780,
+        "description": "自分のHPが30％以上",
+        "battleConditionMstIdCsv": "1115"
+      },
+      {
+        "battleConditionSetMstId": 1781,
+        "description": "自分のHPが40％以上",
+        "battleConditionMstIdCsv": "1116"
+      },
+      {
+        "battleConditionSetMstId": 1782,
+        "description": "自分のHPが50％以上",
+        "battleConditionMstIdCsv": "1117"
+      },
+      {
+        "battleConditionSetMstId": 1783,
+        "description": "自分のHPが60％以上",
+        "battleConditionMstIdCsv": "1118"
+      },
+      {
+        "battleConditionSetMstId": 1784,
+        "description": "自分のHPが70％以上",
+        "battleConditionMstIdCsv": "1119"
+      },
+      {
+        "battleConditionSetMstId": 1785,
+        "description": "自分のHPが80％以上",
+        "battleConditionMstIdCsv": "1120"
+      },
+      {
+        "battleConditionSetMstId": 1786,
+        "description": "自分のHPが90％以上",
+        "battleConditionMstIdCsv": "1121"
+      },
+      {
+        "battleConditionSetMstId": 1787,
+        "description": "自分のHPが100％以上",
+        "battleConditionMstIdCsv": "1122"
+      },
+      {
+        "battleConditionSetMstId": 1788,
+        "description": "自分のHPが10％未満",
+        "battleConditionMstIdCsv": "1123"
+      },
+      {
+        "battleConditionSetMstId": 1789,
+        "description": "自分のHPが20％未満",
+        "battleConditionMstIdCsv": "1124"
+      },
+      {
+        "battleConditionSetMstId": 1790,
+        "description": "自分のHPが30％未満",
+        "battleConditionMstIdCsv": "1125"
+      },
+      {
+        "battleConditionSetMstId": 1791,
+        "description": "自分のHPが40％未満",
+        "battleConditionMstIdCsv": "1126"
+      },
+      {
+        "battleConditionSetMstId": 1792,
+        "description": "自分のHPが50％未満",
+        "battleConditionMstIdCsv": "1127"
+      },
+      {
+        "battleConditionSetMstId": 1793,
+        "description": "自分のHPが60％未満",
+        "battleConditionMstIdCsv": "1128"
+      },
+      {
+        "battleConditionSetMstId": 1794,
+        "description": "自分のHPが70％未満",
+        "battleConditionMstIdCsv": "1129"
+      },
+      {
+        "battleConditionSetMstId": 1795,
+        "description": "自分のHPが80％未満",
+        "battleConditionMstIdCsv": "1130"
+      },
+      {
+        "battleConditionSetMstId": 1796,
+        "description": "自分のHPが90％未満",
+        "battleConditionMstIdCsv": "1131"
+      },
+      {
+        "battleConditionSetMstId": 1797,
+        "description": "自分のHPが100％未満",
+        "battleConditionMstIdCsv": "1132"
+      },
+      {
+        "battleConditionSetMstId": 1798,
+        "description": "自分のHPが10％以上、20％未満",
+        "battleConditionMstIdCsv": "1113,1124"
+      },
+      {
+        "battleConditionSetMstId": 1799,
+        "description": "自分のHPが20％以上、30％未満",
+        "battleConditionMstIdCsv": "1114,1125"
+      },
+      {
+        "battleConditionSetMstId": 1800,
+        "description": "自分のHPが30％以上、40％未満",
+        "battleConditionMstIdCsv": "1115,1126"
+      },
+      {
+        "battleConditionSetMstId": 1801,
+        "description": "自分のHPが40％以上、50％未満",
+        "battleConditionMstIdCsv": "1116,1127"
+      },
+      {
+        "battleConditionSetMstId": 1802,
+        "description": "自分のHPが50％以上、60％未満",
+        "battleConditionMstIdCsv": "1117,1128"
+      },
+      {
+        "battleConditionSetMstId": 1803,
+        "description": "自分のHPが60％以上、70％未満",
+        "battleConditionMstIdCsv": "1118,1129"
+      },
+      {
+        "battleConditionSetMstId": 1804,
+        "description": "自分のHPが70％以上、80％未満",
+        "battleConditionMstIdCsv": "1119,1130"
+      },
+      {
+        "battleConditionSetMstId": 1805,
+        "description": "自分のHPが80％以上、90％未満",
+        "battleConditionMstIdCsv": "1120,1131"
+      },
+      {
+        "battleConditionSetMstId": 1806,
+        "description": "対象のバフ数が0以上",
+        "battleConditionMstIdCsv": "1133"
+      },
+      {
+        "battleConditionSetMstId": 1807,
+        "description": "対象のバフ数が1以上",
+        "battleConditionMstIdCsv": "1134"
+      },
+      {
+        "battleConditionSetMstId": 1808,
+        "description": "対象のバフ数が2以上",
+        "battleConditionMstIdCsv": "1135"
+      },
+      {
+        "battleConditionSetMstId": 1809,
+        "description": "対象のバフ数が3以上",
+        "battleConditionMstIdCsv": "1136"
+      },
+      {
+        "battleConditionSetMstId": 1810,
+        "description": "対象のバフ数が4以上",
+        "battleConditionMstIdCsv": "1137"
+      },
+      {
+        "battleConditionSetMstId": 1811,
+        "description": "対象のバフ数が5以上",
+        "battleConditionMstIdCsv": "1138"
+      },
+      {
+        "battleConditionSetMstId": 1812,
+        "description": "対象のバフ数が6以上",
+        "battleConditionMstIdCsv": "1139"
+      },
+      {
+        "battleConditionSetMstId": 1813,
+        "description": "対象のバフ数が7以上",
+        "battleConditionMstIdCsv": "1140"
+      },
+      {
+        "battleConditionSetMstId": 1814,
+        "description": "対象のバフ数が8以上",
+        "battleConditionMstIdCsv": "1141"
+      },
+      {
+        "battleConditionSetMstId": 1815,
+        "description": "対象のバフ数が9以上",
+        "battleConditionMstIdCsv": "1142"
+      },
+      {
+        "battleConditionSetMstId": 1816,
+        "description": "対象のバフ数が10以上",
+        "battleConditionMstIdCsv": "1143"
+      },
+      {
+        "battleConditionSetMstId": 1817,
+        "description": "自身のバフ数が0",
+        "battleConditionMstIdCsv": "1144"
+      },
+      {
+        "battleConditionSetMstId": 1818,
+        "description": "自身のバフ数が1",
+        "battleConditionMstIdCsv": "1145"
+      },
+      {
+        "battleConditionSetMstId": 1819,
+        "description": "自身のバフ数が2",
+        "battleConditionMstIdCsv": "1146"
+      },
+      {
+        "battleConditionSetMstId": 1820,
+        "description": "自身のバフ数が3",
+        "battleConditionMstIdCsv": "1147"
+      },
+      {
+        "battleConditionSetMstId": 1821,
+        "description": "自身のバフ数が4",
+        "battleConditionMstIdCsv": "1148"
+      },
+      {
+        "battleConditionSetMstId": 1822,
+        "description": "自身のバフ数が5",
+        "battleConditionMstIdCsv": "1149"
+      },
+      {
+        "battleConditionSetMstId": 1823,
+        "description": "自身のバフ数が6",
+        "battleConditionMstIdCsv": "1150"
+      },
+      {
+        "battleConditionSetMstId": 1824,
+        "description": "自身のバフ数が7",
+        "battleConditionMstIdCsv": "1151"
+      },
+      {
+        "battleConditionSetMstId": 1825,
+        "description": "自身のバフ数が8",
+        "battleConditionMstIdCsv": "1152"
+      },
+      {
+        "battleConditionSetMstId": 1826,
+        "description": "自身のバフ数が9",
+        "battleConditionMstIdCsv": "1153"
+      },
+      {
+        "battleConditionSetMstId": 1827,
+        "description": "自身のバフ数が10",
+        "battleConditionMstIdCsv": "1154"
+      },
+      {
+        "battleConditionSetMstId": 1828,
+        "description": "自身のバフ数が0以上",
+        "battleConditionMstIdCsv": "1155"
+      },
+      {
+        "battleConditionSetMstId": 1829,
+        "description": "自身のバフ数が1以上",
+        "battleConditionMstIdCsv": "1156"
+      },
+      {
+        "battleConditionSetMstId": 1830,
+        "description": "自身のバフ数が2以上",
+        "battleConditionMstIdCsv": "1157"
+      },
+      {
+        "battleConditionSetMstId": 1831,
+        "description": "自身のバフ数が3以上",
+        "battleConditionMstIdCsv": "1158"
+      },
+      {
+        "battleConditionSetMstId": 1832,
+        "description": "自身のバフ数が4以上",
+        "battleConditionMstIdCsv": "1159"
+      },
+      {
+        "battleConditionSetMstId": 1833,
+        "description": "自身のバフ数が5以上",
+        "battleConditionMstIdCsv": "1160"
+      },
+      {
+        "battleConditionSetMstId": 1834,
+        "description": "自身のバフ数が6以上",
+        "battleConditionMstIdCsv": "1161"
+      },
+      {
+        "battleConditionSetMstId": 1835,
+        "description": "自身のバフ数が7以上",
+        "battleConditionMstIdCsv": "1162"
+      },
+      {
+        "battleConditionSetMstId": 1836,
+        "description": "自身のバフ数が8以上",
+        "battleConditionMstIdCsv": "1163"
+      },
+      {
+        "battleConditionSetMstId": 1837,
+        "description": "自身のバフ数が9以上",
+        "battleConditionMstIdCsv": "1164"
+      },
+      {
+        "battleConditionSetMstId": 1838,
+        "description": "自身のバフ数が10以上",
+        "battleConditionMstIdCsv": "1165"
+      },
+      {
+        "battleConditionSetMstId": 1839,
+        "description": "自分の状態異常数が1",
+        "battleConditionMstIdCsv": "1166"
+      },
+      {
+        "battleConditionSetMstId": 1840,
+        "description": "自分の状態異常数が2",
+        "battleConditionMstIdCsv": "1167"
+      },
+      {
+        "battleConditionSetMstId": 1841,
+        "description": "自分の状態異常数が3",
+        "battleConditionMstIdCsv": "1168"
+      },
+      {
+        "battleConditionSetMstId": 1842,
+        "description": "自分の状態異常数が4",
+        "battleConditionMstIdCsv": "1169"
+      },
+      {
+        "battleConditionSetMstId": 1843,
+        "description": "自分の状態異常数が5",
+        "battleConditionMstIdCsv": "1170"
+      },
+      {
+        "battleConditionSetMstId": 1844,
+        "description": "自分の状態異常数が0以上",
+        "battleConditionMstIdCsv": "1171"
+      },
+      {
+        "battleConditionSetMstId": 1845,
+        "description": "自分の状態異常数が1以上",
+        "battleConditionMstIdCsv": "1172"
+      },
+      {
+        "battleConditionSetMstId": 1846,
+        "description": "自分の状態異常数が2以上",
+        "battleConditionMstIdCsv": "1173"
+      },
+      {
+        "battleConditionSetMstId": 1847,
+        "description": "自分の状態異常数が3以上",
+        "battleConditionMstIdCsv": "1174"
+      },
+      {
+        "battleConditionSetMstId": 1848,
+        "description": "自分の状態異常数が4以上",
+        "battleConditionMstIdCsv": "1175"
+      },
+      {
+        "battleConditionSetMstId": 1849,
+        "description": "自分の状態異常数が5以上",
+        "battleConditionMstIdCsv": "1176"
+      },
+      {
+        "battleConditionSetMstId": 1850,
+        "description": "自身のデバフ数が0",
+        "battleConditionMstIdCsv": "1177"
+      },
+      {
+        "battleConditionSetMstId": 1851,
+        "description": "自身のデバフ数が1",
+        "battleConditionMstIdCsv": "1178"
+      },
+      {
+        "battleConditionSetMstId": 1852,
+        "description": "自身のデバフ数が2",
+        "battleConditionMstIdCsv": "1179"
+      },
+      {
+        "battleConditionSetMstId": 1853,
+        "description": "自身のデバフ数が3",
+        "battleConditionMstIdCsv": "1180"
+      },
+      {
+        "battleConditionSetMstId": 1854,
+        "description": "自身のデバフ数が4",
+        "battleConditionMstIdCsv": "1181"
+      },
+      {
+        "battleConditionSetMstId": 1855,
+        "description": "自身のデバフ数が5",
+        "battleConditionMstIdCsv": "1182"
+      },
+      {
+        "battleConditionSetMstId": 1856,
+        "description": "自身のデバフ数が6",
+        "battleConditionMstIdCsv": "1183"
+      },
+      {
+        "battleConditionSetMstId": 1857,
+        "description": "自身のデバフ数が7",
+        "battleConditionMstIdCsv": "1184"
+      },
+      {
+        "battleConditionSetMstId": 1858,
+        "description": "自身のデバフ数が8",
+        "battleConditionMstIdCsv": "1185"
+      },
+      {
+        "battleConditionSetMstId": 1859,
+        "description": "自身のデバフ数が9",
+        "battleConditionMstIdCsv": "1186"
+      },
+      {
+        "battleConditionSetMstId": 1860,
+        "description": "自身のデバフ数が10",
+        "battleConditionMstIdCsv": "1187"
+      },
+      {
+        "battleConditionSetMstId": 1861,
+        "description": "自身のデバフ数が0以上",
+        "battleConditionMstIdCsv": "1188"
+      },
+      {
+        "battleConditionSetMstId": 1862,
+        "description": "自身のデバフ数が1以上",
+        "battleConditionMstIdCsv": "1189"
+      },
+      {
+        "battleConditionSetMstId": 1863,
+        "description": "自身のデバフ数が2以上",
+        "battleConditionMstIdCsv": "1190"
+      },
+      {
+        "battleConditionSetMstId": 1864,
+        "description": "自身のデバフ数が3以上",
+        "battleConditionMstIdCsv": "1191"
+      },
+      {
+        "battleConditionSetMstId": 1865,
+        "description": "自身のデバフ数が4以上",
+        "battleConditionMstIdCsv": "1192"
+      },
+      {
+        "battleConditionSetMstId": 1866,
+        "description": "自身のデバフ数が5以上",
+        "battleConditionMstIdCsv": "1193"
+      },
+      {
+        "battleConditionSetMstId": 1867,
+        "description": "自身のデバフ数が6以上",
+        "battleConditionMstIdCsv": "1194"
+      },
+      {
+        "battleConditionSetMstId": 1868,
+        "description": "自身のデバフ数が7以上",
+        "battleConditionMstIdCsv": "1195"
+      },
+      {
+        "battleConditionSetMstId": 1869,
+        "description": "自身のデバフ数が8以上",
+        "battleConditionMstIdCsv": "1196"
+      },
+      {
+        "battleConditionSetMstId": 1870,
+        "description": "自身のデバフ数が9以上",
+        "battleConditionMstIdCsv": "1197"
+      },
+      {
+        "battleConditionSetMstId": 1871,
+        "description": "自身のデバフ数が10以上",
+        "battleConditionMstIdCsv": "1198"
+      },
+      {
+        "battleConditionSetMstId": 1872,
+        "description": "自身のターン開始時にSPが0のとき",
+        "battleConditionMstIdCsv": "3,906"
+      },
+      {
+        "battleConditionSetMstId": 1873,
+        "description": "自身のターン経過が1ターン以上、5ターン未満",
+        "battleConditionMstIdCsv": "3,1001,1055"
+      },
+      {
+        "battleConditionSetMstId": 1874,
+        "description": "自身のターン経過が5ターン以上、10ターン未満",
+        "battleConditionMstIdCsv": "3,1005,1060"
+      },
+      {
+        "battleConditionSetMstId": 1875,
+        "description": "自身のターン経過が10ターン以上、15ターン未満",
+        "battleConditionMstIdCsv": "3,1010,1065"
+      },
+      {
+        "battleConditionSetMstId": 1876,
+        "description": "自身のターン経過が15ターン以上、20ターン未満",
+        "battleConditionMstIdCsv": "3,1015,1070"
+      },
+      {
+        "battleConditionSetMstId": 1877,
+        "description": "自身のターン経過が20ターン以上、25ターン未満",
+        "battleConditionMstIdCsv": "3,1020,1075"
+      },
+      {
+        "battleConditionSetMstId": 1878,
+        "description": "自身のターン経過が25ターン以上、30ターン未満",
+        "battleConditionMstIdCsv": "3,1025,1080"
+      },
+      {
+        "battleConditionSetMstId": 1879,
+        "description": "自身のターン経過が30ターン以上、35ターン未満",
+        "battleConditionMstIdCsv": "3,1030,1085"
+      },
+      {
+        "battleConditionSetMstId": 1880,
+        "description": "自身のターン経過が35ターン以上、40ターン未満",
+        "battleConditionMstIdCsv": "3,1035,1090"
+      },
+      {
+        "battleConditionSetMstId": 1881,
+        "description": "自身のターン経過が40ターン以上、45ターン未満",
+        "battleConditionMstIdCsv": "3,1040,1095"
+      },
+      {
+        "battleConditionSetMstId": 1882,
+        "description": "自身のターン経過が45ターン以上、50ターン未満",
+        "battleConditionMstIdCsv": "3,1045,1100"
+      },
+      {
+        "battleConditionSetMstId": 1883,
+        "description": "自身のターン経過が50ターン以上",
+        "battleConditionMstIdCsv": "3,1050"
+      },
+      {
+        "battleConditionSetMstId": 1884,
+        "description": "魔力が1のときに通常攻撃を発動したとき",
+        "battleConditionMstIdCsv": "393,5,3"
+      },
+      {
+        "battleConditionSetMstId": 1885,
+        "description": "魔力が2のときに通常攻撃を発動したとき",
+        "battleConditionMstIdCsv": "394,5,3"
+      },
+      {
+        "battleConditionSetMstId": 1889,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、攻撃で味方が2人殺された場合",
+        "battleConditionMstIdCsv": "420,812,286"
+      },
+      {
+        "battleConditionSetMstId": 1890,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、攻撃で味方が3人殺された場合",
+        "battleConditionMstIdCsv": "420,813,286"
+      },
+      {
+        "battleConditionSetMstId": 1891,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、攻撃で味方が4人殺された場合",
+        "battleConditionMstIdCsv": "420,814,286"
+      },
+      {
+        "battleConditionSetMstId": 1892,
+        "description": "倒されている味方が1体以上、10体未満の場合",
+        "battleConditionMstIdCsv": "354,372"
+      },
+      {
+        "battleConditionSetMstId": 1893,
+        "description": "倒されている味方が10体以上、20体未満の場合",
+        "battleConditionMstIdCsv": "363,1204"
+      },
+      {
+        "battleConditionSetMstId": 1894,
+        "description": "倒されている味方が20体以上、30体未満の場合",
+        "battleConditionMstIdCsv": "1200,1205"
+      },
+      {
+        "battleConditionSetMstId": 1895,
+        "description": "倒されている味方が30体以上、40体未満の場合",
+        "battleConditionMstIdCsv": "1201,1206"
+      },
+      {
+        "battleConditionSetMstId": 1896,
+        "description": "倒されている味方が40体以上、50体未満の場合",
+        "battleConditionMstIdCsv": "1202,1207"
+      },
+      {
+        "battleConditionSetMstId": 1897,
+        "description": "倒されている味方が50体以上の場合",
+        "battleConditionMstIdCsv": "1203"
+      },
+      {
+        "battleConditionSetMstId": 1904,
+        "description": "魔力が3のときに通常攻撃を発動したとき",
+        "battleConditionMstIdCsv": "395,5,3"
+      },
+      {
+        "battleConditionSetMstId": 1905,
+        "description": "刻印の合計が15以上のとき",
+        "battleConditionMstIdCsv": "1208,3"
+      },
+      {
+        "battleConditionSetMstId": 1906,
+        "description": "刻印の合計が6以上のとき",
+        "battleConditionMstIdCsv": "1209,3"
+      },
+      {
+        "battleConditionSetMstId": 1907,
+        "description": "刻印の合計が1以上のときにダメージを与えたとき",
+        "battleConditionMstIdCsv": "1210,3,655"
+      },
+      {
+        "battleConditionSetMstId": 1908,
+        "description": "刻印の合計が10以上のときにダメージを与えたとき",
+        "battleConditionMstIdCsv": "1211,3,655"
+      },
+      {
+        "battleConditionSetMstId": 1909,
+        "description": "自軍のターン中に敵が倒されたとき",
+        "battleConditionMstIdCsv": "1212,1"
+      },
+      {
+        "battleConditionSetMstId": 1910,
+        "description": "敵の生存者数が1体",
+        "battleConditionMstIdCsv": "1213,630,3,916"
+      },
+      {
+        "battleConditionSetMstId": 1911,
+        "description": "刻印の合計が9以上のとき",
+        "battleConditionMstIdCsv": "1214,3"
+      },
+      {
+        "battleConditionSetMstId": 1912,
+        "description": "刻印の合計が10以上のとき",
+        "battleConditionMstIdCsv": "1211"
+      },
+      {
+        "battleConditionSetMstId": 1913,
+        "description": "刻印の合計が15以上のとき",
+        "battleConditionMstIdCsv": "1215,3"
+      },
+      {
+        "battleConditionSetMstId": 1914,
+        "description": "トークンが80以上90未満のとき",
+        "battleConditionMstIdCsv": "883,875"
+      },
+      {
+        "battleConditionSetMstId": 1915,
+        "description": "トークンが90以上100未満のとき",
+        "battleConditionMstIdCsv": "1217,1216"
+      },
+      {
+        "battleConditionSetMstId": 1916,
+        "description": "行動タイプが通常 AND 攻撃されたとき",
+        "battleConditionMstIdCsv": "5,916"
+      },
+      {
+        "battleConditionSetMstId": 1917,
+        "description": "行動タイプがスキル AND 攻撃されたとき",
+        "battleConditionMstIdCsv": "6,916"
+      },
+      {
+        "battleConditionSetMstId": 1918,
+        "description": "行動タイプが必殺技 AND 攻撃されたとき",
+        "battleConditionMstIdCsv": "7,916"
+      },
+      {
+        "battleConditionSetMstId": 1919,
+        "description": "トークンが1以上10未満のとき",
+        "battleConditionMstIdCsv": "467,868"
+      },
+      {
+        "battleConditionSetMstId": 1920,
+        "description": "刻印が付与されている敵に1ダメージ以上",
+        "battleConditionMstIdCsv": "1218,3,655"
+      },
+      {
+        "battleConditionSetMstId": 1921,
+        "description": "自軍のターン中に敵が倒されたとき",
+        "battleConditionMstIdCsv": "1212"
+      },
+      {
+        "battleConditionSetMstId": 1922,
+        "description": "敵軍のSPが6の場合",
+        "battleConditionMstIdCsv": "1219"
+      },
+      {
+        "battleConditionSetMstId": 1923,
+        "description": "敵軍のSPが6の未満",
+        "battleConditionMstIdCsv": "1220"
+      },
+      {
+        "battleConditionSetMstId": 1924,
+        "description": "敵軍のSPが5以上の場合",
+        "battleConditionMstIdCsv": "1221"
+      },
+      {
+        "battleConditionSetMstId": 1925,
+        "description": "敵軍のSPが6以上の場合",
+        "battleConditionMstIdCsv": "1222"
+      },
+      {
+        "battleConditionSetMstId": 1926,
+        "description": "対象のバフ数が1未満",
+        "battleConditionMstIdCsv": "1223"
+      },
+      {
+        "battleConditionSetMstId": 1927,
+        "description": "対象のバフ数が2未満",
+        "battleConditionMstIdCsv": "1224"
+      },
+      {
+        "battleConditionSetMstId": 1928,
+        "description": "対象のバフ数が3未満",
+        "battleConditionMstIdCsv": "1225"
+      },
+      {
+        "battleConditionSetMstId": 1929,
+        "description": "対象のバフ数が4未満",
+        "battleConditionMstIdCsv": "1226"
+      },
+      {
+        "battleConditionSetMstId": 1930,
+        "description": "対象のバフ数が5未満",
+        "battleConditionMstIdCsv": "1227"
+      },
+      {
+        "battleConditionSetMstId": 1931,
+        "description": "対象のバフ数が6未満",
+        "battleConditionMstIdCsv": "1228"
+      },
+      {
+        "battleConditionSetMstId": 1932,
+        "description": "対象のバフ数が7未満",
+        "battleConditionMstIdCsv": "1229"
+      },
+      {
+        "battleConditionSetMstId": 1933,
+        "description": "対象のバフ数が8未満",
+        "battleConditionMstIdCsv": "1230"
+      },
+      {
+        "battleConditionSetMstId": 1934,
+        "description": "対象のバフ数が9未満",
+        "battleConditionMstIdCsv": "1231"
+      },
+      {
+        "battleConditionSetMstId": 1935,
+        "description": "対象のバフ数が10未満",
+        "battleConditionMstIdCsv": "1232"
+      },
+      {
+        "battleConditionSetMstId": 1936,
+        "description": "対象のバフ数が2以上、4未満",
+        "battleConditionMstIdCsv": "1135,1226"
+      },
+      {
+        "battleConditionSetMstId": 1937,
+        "description": "対象のバフ数が4以上、6未満",
+        "battleConditionMstIdCsv": "1137,1228"
+      },
+      {
+        "battleConditionSetMstId": 1938,
+        "description": "対象のバフ数が6以上、8未満",
+        "battleConditionMstIdCsv": "1139,1230"
+      },
+      {
+        "battleConditionSetMstId": 1939,
+        "description": "対象のバフ数が8以上、10未満",
+        "battleConditionMstIdCsv": "1141,1232"
+      },
+      {
+        "battleConditionSetMstId": 1940,
+        "description": "自軍の生存者が4体未満,自分が3ターンごとに（ターン1から）",
+        "battleConditionMstIdCsv": "1244,57"
+      },
+      {
+        "battleConditionSetMstId": 1941,
+        "description": "自軍の生存者が4体未満,自分が4ターンごとに（ターン1から）",
+        "battleConditionMstIdCsv": "1244,60"
+      },
+      {
+        "battleConditionSetMstId": 1942,
+        "description": "自軍の生存者が3体未満、自分が3ターンごとに（ターン1から）",
+        "battleConditionMstIdCsv": "1243,57"
+      },
+      {
+        "battleConditionSetMstId": 1943,
+        "description": "自軍の生存者が3体未満、自分が4ターンごとに（ターン1から）",
+        "battleConditionMstIdCsv": "1243,60"
+      },
+      {
+        "battleConditionSetMstId": 1944,
+        "description": "自軍の生存者が3体未満、自分が4ターンごとに（ターン2から）",
+        "battleConditionMstIdCsv": "1243,61"
+      },
+      {
+        "battleConditionSetMstId": 1945,
+        "description": "自軍の生存者が1体",
+        "battleConditionMstIdCsv": "1233"
+      },
+      {
+        "battleConditionSetMstId": 1946,
+        "description": "自軍の生存者が2体",
+        "battleConditionMstIdCsv": "1234"
+      },
+      {
+        "battleConditionSetMstId": 1947,
+        "description": "自軍の生存者が3体",
+        "battleConditionMstIdCsv": "1235"
+      },
+      {
+        "battleConditionSetMstId": 1948,
+        "description": "自軍の生存者が4体",
+        "battleConditionMstIdCsv": "1236"
+      },
+      {
+        "battleConditionSetMstId": 1949,
+        "description": "自軍の生存者が5体",
+        "battleConditionMstIdCsv": "1237"
+      },
+      {
+        "battleConditionSetMstId": 1950,
+        "description": "自軍の生存者が1体以上",
+        "battleConditionMstIdCsv": "1238"
+      },
+      {
+        "battleConditionSetMstId": 1951,
+        "description": "自軍の生存者が2体以上",
+        "battleConditionMstIdCsv": "1239"
+      },
+      {
+        "battleConditionSetMstId": 1952,
+        "description": "自軍の生存者が3体以上",
+        "battleConditionMstIdCsv": "1240"
+      },
+      {
+        "battleConditionSetMstId": 1953,
+        "description": "自軍の生存者が4体以上",
+        "battleConditionMstIdCsv": "1241"
+      },
+      {
+        "battleConditionSetMstId": 1954,
+        "description": "自軍の生存者が2体未満",
+        "battleConditionMstIdCsv": "1242"
+      },
+      {
+        "battleConditionSetMstId": 1955,
+        "description": "自軍の生存者が3体未満",
+        "battleConditionMstIdCsv": "1243"
+      },
+      {
+        "battleConditionSetMstId": 1956,
+        "description": "自軍の生存者が4体未満",
+        "battleConditionMstIdCsv": "1244"
+      },
+      {
+        "battleConditionSetMstId": 1957,
+        "description": "自軍の生存者が5体未満",
+        "battleConditionMstIdCsv": "1245"
+      },
+      {
+        "battleConditionSetMstId": 1958,
+        "description": "自分のキャラクターが「八雲みたま」",
+        "battleConditionMstIdCsv": "1246"
+      },
+      {
+        "battleConditionSetMstId": 1959,
+        "description": "刻印の合計が3以上のとき +行動者は仲間",
+        "battleConditionMstIdCsv": "1248,1"
+      },
+      {
+        "battleConditionSetMstId": 1960,
+        "description": "刻印の合計が6以上のとき +行動者は仲間",
+        "battleConditionMstIdCsv": "1209,1"
+      },
+      {
+        "battleConditionSetMstId": 1961,
+        "description": "刻印の合計9以上のとき   +行動者は仲間",
+        "battleConditionMstIdCsv": "1214,1"
+      },
+      {
+        "battleConditionSetMstId": 1962,
+        "description": "刻印の合計が12以上のとき+行動者は仲間",
+        "battleConditionMstIdCsv": "1251,1"
+      },
+      {
+        "battleConditionSetMstId": 1963,
+        "description": "刻印の合計が15以上のとき+行動者は仲間",
+        "battleConditionMstIdCsv": "1208,1"
+      },
+      {
+        "battleConditionSetMstId": 1964,
+        "description": "刻印の合計が2以上のとき+自分は行動者+行動タイプが通常攻撃",
+        "battleConditionMstIdCsv": "1247,3,5"
+      },
+      {
+        "battleConditionSetMstId": 1965,
+        "description": "刻印の合計が4以上のとき+自分は行動者+行動タイプが通常攻撃",
+        "battleConditionMstIdCsv": "1249,3,5"
+      },
+      {
+        "battleConditionSetMstId": 1966,
+        "description": "刻印の合計が6以上のとき+自分は行動者+行動タイプが通常攻撃",
+        "battleConditionMstIdCsv": "1209,3,5"
+      },
+      {
+        "battleConditionSetMstId": 1967,
+        "description": "刻印の合計が8以上のとき+自分は行動者+行動タイプが通常攻撃",
+        "battleConditionMstIdCsv": "1250,3,5"
+      },
+      {
+        "battleConditionSetMstId": 1968,
+        "description": "刻印の合計が10以上のとき+自分は行動者+行動タイプが通常攻撃",
+        "battleConditionMstIdCsv": "1211,3,5"
+      },
+      {
+        "battleConditionSetMstId": 1969,
+        "description": "攻撃した対象、通常、自身",
+        "battleConditionMstIdCsv": "1252,3,5"
+      },
+      {
+        "battleConditionSetMstId": 1970,
+        "description": "刻印の合計が2以上のとき+自分は行動者+行動タイプがスキル攻撃",
+        "battleConditionMstIdCsv": "1247,3,6"
+      },
+      {
+        "battleConditionSetMstId": 1971,
+        "description": "刻印の合計が4以上のとき+自分は行動者+行動タイプがスキル攻撃",
+        "battleConditionMstIdCsv": "1249,3,6"
+      },
+      {
+        "battleConditionSetMstId": 1972,
+        "description": "刻印の合計が6以上のとき+自分は行動者+行動タイプがスキル攻撃",
+        "battleConditionMstIdCsv": "1209,3,6"
+      },
+      {
+        "battleConditionSetMstId": 1973,
+        "description": "刻印の合計が8以上のとき+自分は行動者+行動タイプがスキル攻撃",
+        "battleConditionMstIdCsv": "1250,3,6"
+      },
+      {
+        "battleConditionSetMstId": 1974,
+        "description": "刻印の合計が10以上のとき+自分は行動者+行動タイプがスキル攻撃",
+        "battleConditionMstIdCsv": "1211,3,6"
+      },
+      {
+        "battleConditionSetMstId": 1975,
+        "description": "トークンが10のとき",
+        "battleConditionMstIdCsv": "401"
+      },
+      {
+        "battleConditionSetMstId": 1976,
+        "description": "トークンが51のとき",
+        "battleConditionMstIdCsv": "687"
+      },
+      {
+        "battleConditionSetMstId": 1977,
+        "description": "トークンが52のとき",
+        "battleConditionMstIdCsv": "688"
+      },
+      {
+        "battleConditionSetMstId": 1978,
+        "description": "トークンが53のとき",
+        "battleConditionMstIdCsv": "689"
+      },
+      {
+        "battleConditionSetMstId": 1979,
+        "description": "トークンが54のとき",
+        "battleConditionMstIdCsv": "690"
+      },
+      {
+        "battleConditionSetMstId": 1980,
+        "description": "トークンが55のとき",
+        "battleConditionMstIdCsv": "691"
+      },
+      {
+        "battleConditionSetMstId": 1981,
+        "description": "トークンが56のとき",
+        "battleConditionMstIdCsv": "692"
+      },
+      {
+        "battleConditionSetMstId": 1982,
+        "description": "トークンが57のとき",
+        "battleConditionMstIdCsv": "693"
+      },
+      {
+        "battleConditionSetMstId": 1983,
+        "description": "トークンが58のとき",
+        "battleConditionMstIdCsv": "694"
+      },
+      {
+        "battleConditionSetMstId": 1984,
+        "description": "トークンが59のとき",
+        "battleConditionMstIdCsv": "695"
+      },
+      {
+        "battleConditionSetMstId": 1985,
+        "description": "トークンが60のとき",
+        "battleConditionMstIdCsv": "696"
+      },
+      {
+        "battleConditionSetMstId": 1986,
+        "description": "トークンが61のとき",
+        "battleConditionMstIdCsv": "697"
+      },
+      {
+        "battleConditionSetMstId": 1987,
+        "description": "トークンが62のとき",
+        "battleConditionMstIdCsv": "698"
+      },
+      {
+        "battleConditionSetMstId": 1988,
+        "description": "トークンが63のとき",
+        "battleConditionMstIdCsv": "699"
+      },
+      {
+        "battleConditionSetMstId": 1989,
+        "description": "トークンが64のとき",
+        "battleConditionMstIdCsv": "700"
+      },
+      {
+        "battleConditionSetMstId": 1990,
+        "description": "トークンが65のとき",
+        "battleConditionMstIdCsv": "701"
+      },
+      {
+        "battleConditionSetMstId": 1991,
+        "description": "トークンが66のとき",
+        "battleConditionMstIdCsv": "702"
+      },
+      {
+        "battleConditionSetMstId": 1992,
+        "description": "トークンが67のとき",
+        "battleConditionMstIdCsv": "703"
+      },
+      {
+        "battleConditionSetMstId": 1993,
+        "description": "トークンが68のとき",
+        "battleConditionMstIdCsv": "704"
+      },
+      {
+        "battleConditionSetMstId": 1994,
+        "description": "トークンが69のとき",
+        "battleConditionMstIdCsv": "705"
+      },
+      {
+        "battleConditionSetMstId": 1995,
+        "description": "トークンが70のとき",
+        "battleConditionMstIdCsv": "706"
+      },
+      {
+        "battleConditionSetMstId": 1996,
+        "description": "トークンが71のとき",
+        "battleConditionMstIdCsv": "707"
+      },
+      {
+        "battleConditionSetMstId": 1997,
+        "description": "トークンが72のとき",
+        "battleConditionMstIdCsv": "708"
+      },
+      {
+        "battleConditionSetMstId": 1998,
+        "description": "トークンが73のとき",
+        "battleConditionMstIdCsv": "709"
+      },
+      {
+        "battleConditionSetMstId": 1999,
+        "description": "トークンが74のとき",
+        "battleConditionMstIdCsv": "710"
+      },
+      {
+        "battleConditionSetMstId": 2000,
+        "description": "トークンが75のとき",
+        "battleConditionMstIdCsv": "711"
+      },
+      {
+        "battleConditionSetMstId": 2001,
+        "description": "トークンが76のとき",
+        "battleConditionMstIdCsv": "712"
+      },
+      {
+        "battleConditionSetMstId": 2002,
+        "description": "トークンが77のとき",
+        "battleConditionMstIdCsv": "713"
+      },
+      {
+        "battleConditionSetMstId": 2003,
+        "description": "トークンが78のとき",
+        "battleConditionMstIdCsv": "714"
+      },
+      {
+        "battleConditionSetMstId": 2004,
+        "description": "トークンが79のとき",
+        "battleConditionMstIdCsv": "715"
+      },
+      {
+        "battleConditionSetMstId": 2005,
+        "description": "トークンが80のとき",
+        "battleConditionMstIdCsv": "716"
+      },
+      {
+        "battleConditionSetMstId": 2008,
+        "description": "自身が弱点属性以外で攻撃されたとき",
+        "battleConditionMstIdCsv": "1264,916"
+      },
+      {
+        "battleConditionSetMstId": 2009,
+        "description": "対象は無属性、行動者は自分、戦闘スキルを発動したとき",
+        "battleConditionMstIdCsv": "990,3,6"
+      },
+      {
+        "battleConditionSetMstId": 2010,
+        "description": "自軍に対して弱点属性で攻撃されたユニット数が3以上の時 AND 行動タイプが通常 AND 攻撃されたとき",
+        "battleConditionMstIdCsv": "1255,5,916"
+      },
+      {
+        "battleConditionSetMstId": 2011,
+        "description": "自軍に対して弱点属性で攻撃されたユニット数が3以上の時 AND 行動タイプがスキル AND 攻撃されたとき",
+        "battleConditionMstIdCsv": "1255,6,916"
+      },
+      {
+        "battleConditionSetMstId": 2012,
+        "description": "自軍に対して弱点属性で攻撃されたユニット数が3以上の時 AND 行動タイプが必殺技 AND 攻撃されたとき",
+        "battleConditionMstIdCsv": "1255,7,916"
+      },
+      {
+        "battleConditionSetMstId": 2013,
+        "description": "自身のターンに攻撃したとき（0ダメージ含む）",
+        "battleConditionMstIdCsv": "1252,3"
+      },
+      {
+        "battleConditionSetMstId": 2014,
+        "description": "自身が攻撃されたとき（0ダメージ含む）",
+        "battleConditionMstIdCsv": "892"
+      },
+      {
+        "battleConditionSetMstId": 2015,
+        "description": "敵全体のデバフ数が1未満のとき",
+        "battleConditionMstIdCsv": "1265"
+      },
+      {
+        "battleConditionSetMstId": 2016,
+        "description": "敵全体のデバフ数が1のとき",
+        "battleConditionMstIdCsv": "1266"
+      },
+      {
+        "battleConditionSetMstId": 2017,
+        "description": "敵全体のデバフ数が2のとき",
+        "battleConditionMstIdCsv": "1267"
+      },
+      {
+        "battleConditionSetMstId": 2018,
+        "description": "敵全体のデバフ数が3のとき",
+        "battleConditionMstIdCsv": "1268"
+      },
+      {
+        "battleConditionSetMstId": 2019,
+        "description": "敵全体のデバフ数が4のとき",
+        "battleConditionMstIdCsv": "1269"
+      },
+      {
+        "battleConditionSetMstId": 2020,
+        "description": "敵全体のデバフ数が5のとき",
+        "battleConditionMstIdCsv": "1270"
+      },
+      {
+        "battleConditionSetMstId": 2021,
+        "description": "敵全体のデバフ数が6のとき",
+        "battleConditionMstIdCsv": "1271"
+      },
+      {
+        "battleConditionSetMstId": 2022,
+        "description": "敵全体のデバフ数が7のとき",
+        "battleConditionMstIdCsv": "1272"
+      },
+      {
+        "battleConditionSetMstId": 2023,
+        "description": "敵全体のデバフ数が8のとき",
+        "battleConditionMstIdCsv": "1273"
+      },
+      {
+        "battleConditionSetMstId": 2024,
+        "description": "敵全体のデバフ数が9のとき",
+        "battleConditionMstIdCsv": "1274"
+      },
+      {
+        "battleConditionSetMstId": 2025,
+        "description": "敵全体のデバフ数が10のとき",
+        "battleConditionMstIdCsv": "1275"
+      },
+      {
+        "battleConditionSetMstId": 2026,
+        "description": "敵全体のデバフ数が8以上のとき",
+        "battleConditionMstIdCsv": "818"
+      },
+      {
+        "battleConditionSetMstId": 2027,
+        "description": "自身以外の味方が戦闘スキル発動時",
+        "battleConditionMstIdCsv": "962,1,6"
+      },
+      {
+        "battleConditionSetMstId": 2028,
+        "description": "敵全体のデバフ数が11",
+        "battleConditionMstIdCsv": "1276"
+      },
+      {
+        "battleConditionSetMstId": 2029,
+        "description": "敵全体のデバフ数が12",
+        "battleConditionMstIdCsv": "1277"
+      },
+      {
+        "battleConditionSetMstId": 2030,
+        "description": "敵全体のデバフ数が13",
+        "battleConditionMstIdCsv": "1278"
+      },
+      {
+        "battleConditionSetMstId": 2031,
+        "description": "敵全体のデバフ数が14",
+        "battleConditionMstIdCsv": "1279"
+      },
+      {
+        "battleConditionSetMstId": 2032,
+        "description": "敵全体のデバフ数が25以上",
+        "battleConditionMstIdCsv": "1280"
+      },
+      {
+        "battleConditionSetMstId": 2033,
+        "description": "味方の誰かがブレイクしたとき、敵全体のデバフ数が11未満",
+        "battleConditionMstIdCsv": "649,1284"
+      },
+      {
+        "battleConditionSetMstId": 2034,
+        "description": "味方の誰かがブレイクしたとき、敵全体のデバフ数が11",
+        "battleConditionMstIdCsv": "649,1276"
+      },
+      {
+        "battleConditionSetMstId": 2035,
+        "description": "味方の誰かがブレイクしたとき、敵全体のデバフ数が12",
+        "battleConditionMstIdCsv": "649,1277"
+      },
+      {
+        "battleConditionSetMstId": 2036,
+        "description": "味方の誰かがブレイクしたとき、敵全体のデバフ数が13",
+        "battleConditionMstIdCsv": "649,1278"
+      },
+      {
+        "battleConditionSetMstId": 2037,
+        "description": "味方の誰かがブレイクしたとき、敵全体のデバフ数が14",
+        "battleConditionMstIdCsv": "649,1279"
+      },
+      {
+        "battleConditionSetMstId": 2038,
+        "description": "味方の誰かがブレイクしたとき、敵全体のデバフ数が15",
+        "battleConditionMstIdCsv": "649,1285"
+      },
+      {
+        "battleConditionSetMstId": 2039,
+        "description": "味方の誰かがブレイクしたとき、敵全体のデバフ数が16",
+        "battleConditionMstIdCsv": "649,1286"
+      },
+      {
+        "battleConditionSetMstId": 2040,
+        "description": "味方の誰かがブレイクしたとき、敵全体のデバフ数が17",
+        "battleConditionMstIdCsv": "649,1287"
+      },
+      {
+        "battleConditionSetMstId": 2041,
+        "description": "味方の誰かがブレイクしたとき、敵全体のデバフ数が18",
+        "battleConditionMstIdCsv": "649,1288"
+      },
+      {
+        "battleConditionSetMstId": 2042,
+        "description": "味方の誰かがブレイクしたとき、敵全体のデバフ数が19",
+        "battleConditionMstIdCsv": "649,1289"
+      },
+      {
+        "battleConditionSetMstId": 2043,
+        "description": "味方の誰かがブレイクしたとき、敵全体のデバフ数が20",
+        "battleConditionMstIdCsv": "649,1290"
+      },
+      {
+        "battleConditionSetMstId": 2044,
+        "description": "味方の誰かがブレイクしたとき、敵全体のデバフ数が21",
+        "battleConditionMstIdCsv": "649,1291"
+      },
+      {
+        "battleConditionSetMstId": 2045,
+        "description": "味方の誰かがブレイクしたとき、敵全体のデバフ数が22",
+        "battleConditionMstIdCsv": "649,1292"
+      },
+      {
+        "battleConditionSetMstId": 2046,
+        "description": "味方の誰かがブレイクしたとき、敵全体のデバフ数が23",
+        "battleConditionMstIdCsv": "649,1293"
+      },
+      {
+        "battleConditionSetMstId": 2047,
+        "description": "味方の誰かがブレイクしたとき、敵全体のデバフ数が24",
+        "battleConditionMstIdCsv": "649,1294"
+      },
+      {
+        "battleConditionSetMstId": 2048,
+        "description": "味方の誰かがブレイクしたとき、敵全体のデバフ数が25以上",
+        "battleConditionMstIdCsv": "649,1280"
+      },
+      {
+        "battleConditionSetMstId": 2049,
+        "description": "自身のターン、6ターンごと（1ターン目から）",
+        "battleConditionMstIdCsv": "3,69"
+      },
+      {
+        "battleConditionSetMstId": 2050,
+        "description": "自身のターン、6ターンごと（3ターン目から）",
+        "battleConditionMstIdCsv": "3,71"
+      },
+      {
+        "battleConditionSetMstId": 2051,
+        "description": "自身のターン、6ターンごと（5ターン目から）",
+        "battleConditionMstIdCsv": "3,73"
+      },
+      {
+        "battleConditionSetMstId": 2052,
+        "description": "敵軍のデバフ数が1以上のとき",
+        "battleConditionMstIdCsv": "1281"
+      },
+      {
+        "battleConditionSetMstId": 2054,
+        "description": "魔力が1個で必殺技を使ったとき",
+        "battleConditionMstIdCsv": "393,3,7"
+      },
+      {
+        "battleConditionSetMstId": 2055,
+        "description": "魔力が2個で必殺技を使ったとき",
+        "battleConditionMstIdCsv": "394,3,7"
+      },
+      {
+        "battleConditionSetMstId": 2056,
+        "description": "魔力が3個で必殺技を使ったとき",
+        "battleConditionMstIdCsv": "395,3,7"
+      },
+      {
+        "battleConditionSetMstId": 2057,
+        "description": "魔力が4個で必殺技を使ったとき",
+        "battleConditionMstIdCsv": "396,3,7"
+      },
+      {
+        "battleConditionSetMstId": 2058,
+        "description": "魔力が5個で必殺技を使ったとき",
+        "battleConditionMstIdCsv": "285,3,7"
+      },
+      {
+        "battleConditionSetMstId": 2059,
+        "description": "魔力が6個で必殺技を使ったとき",
+        "battleConditionMstIdCsv": "397,3,7"
+      },
+      {
+        "battleConditionSetMstId": 2060,
+        "description": "魔力が7個で必殺技を使ったとき",
+        "battleConditionMstIdCsv": "398,3,7"
+      },
+      {
+        "battleConditionSetMstId": 2061,
+        "description": "魔力が8個で必殺技を使ったとき",
+        "battleConditionMstIdCsv": "399,3,7"
+      },
+      {
+        "battleConditionSetMstId": 2062,
+        "description": "魔力が9個で必殺技を使ったとき",
+        "battleConditionMstIdCsv": "400,3,7"
+      },
+      {
+        "battleConditionSetMstId": 2063,
+        "description": "魔力が10個で必殺技を使ったとき",
+        "battleConditionMstIdCsv": "401,3,7"
+      },
+      {
+        "battleConditionSetMstId": 2064,
+        "description": "6ターンごと（1ターン目から） AND 連続行動の1回目 AND 味方が誰もいない（自分だけ）",
+        "battleConditionMstIdCsv": "69,273,389"
+      },
+      {
+        "battleConditionSetMstId": 2065,
+        "description": "6ターンごと（4ターン目から） AND 連続行動の1回目 AND 味方が誰もいない（自分だけ）",
+        "battleConditionMstIdCsv": "72,273,389"
+      },
+      {
+        "battleConditionSetMstId": 2066,
+        "description": "6ターンごと（1ターン目から） AND 連続行動の1回目 AND 味方が2体未満の場合（自分を除く）",
+        "battleConditionMstIdCsv": "69,273,333"
+      },
+      {
+        "battleConditionSetMstId": 2067,
+        "description": "6ターンごと（4ターン目から） AND 連続行動の1回目 AND 味方が2体未満の場合（自分を除く）",
+        "battleConditionMstIdCsv": "72,273,333"
+      },
+      {
+        "battleConditionSetMstId": 2068,
+        "description": "自分のキャラクターが「梓みふゆ」",
+        "battleConditionMstIdCsv": "1283"
+      },
+      {
+        "battleConditionSetMstId": 2069,
+        "description": "自身のターンに、敵全体のデバフ数が1未満のとき",
+        "battleConditionMstIdCsv": "3,1265"
+      },
+      {
+        "battleConditionSetMstId": 2070,
+        "description": "自身のターンに、敵全体のデバフ数が1のとき",
+        "battleConditionMstIdCsv": "3,1266"
+      },
+      {
+        "battleConditionSetMstId": 2071,
+        "description": "自身のターンに、敵全体のデバフ数が2のとき",
+        "battleConditionMstIdCsv": "3,1267"
+      },
+      {
+        "battleConditionSetMstId": 2072,
+        "description": "自身のターンに、敵全体のデバフ数が3のとき",
+        "battleConditionMstIdCsv": "3,1268"
+      },
+      {
+        "battleConditionSetMstId": 2073,
+        "description": "自身のターンに、敵全体のデバフ数が4のとき",
+        "battleConditionMstIdCsv": "3,1269"
+      },
+      {
+        "battleConditionSetMstId": 2074,
+        "description": "自身のターンに、敵全体のデバフ数が5のとき",
+        "battleConditionMstIdCsv": "3,1270"
+      },
+      {
+        "battleConditionSetMstId": 2075,
+        "description": "自身のターンに、敵全体のデバフ数が6のとき",
+        "battleConditionMstIdCsv": "3,1271"
+      },
+      {
+        "battleConditionSetMstId": 2076,
+        "description": "自身のターンに、敵全体のデバフ数が7のとき",
+        "battleConditionMstIdCsv": "3,1272"
+      },
+      {
+        "battleConditionSetMstId": 2077,
+        "description": "自身のターンに、敵全体のデバフ数が8のとき",
+        "battleConditionMstIdCsv": "3,1273"
+      },
+      {
+        "battleConditionSetMstId": 2078,
+        "description": "自身のターンに、敵全体のデバフ数が9のとき",
+        "battleConditionMstIdCsv": "3,1274"
+      },
+      {
+        "battleConditionSetMstId": 2079,
+        "description": "自身のターンに、敵全体のデバフ数が10のとき",
+        "battleConditionMstIdCsv": "3,1275"
+      },
+      {
+        "battleConditionSetMstId": 2080,
+        "description": "自身のターンに、敵全体のデバフ数が11",
+        "battleConditionMstIdCsv": "3,1276"
+      },
+      {
+        "battleConditionSetMstId": 2081,
+        "description": "自身のターンに、敵全体のデバフ数が12",
+        "battleConditionMstIdCsv": "3,1277"
+      },
+      {
+        "battleConditionSetMstId": 2082,
+        "description": "自身のターンに、敵全体のデバフ数が13",
+        "battleConditionMstIdCsv": "3,1278"
+      },
+      {
+        "battleConditionSetMstId": 2083,
+        "description": "自身のターンに、敵全体のデバフ数が14",
+        "battleConditionMstIdCsv": "3,1279"
+      },
+      {
+        "battleConditionSetMstId": 2084,
+        "description": "自身のターンに、敵全体のデバフ数が15以上",
+        "battleConditionMstIdCsv": "3,1280"
+      },
+      {
+        "battleConditionSetMstId": 2085,
+        "description": "自身のターンに、敵全体のデバフ数が11未満",
+        "battleConditionMstIdCsv": "3,1284"
+      },
+      {
+        "battleConditionSetMstId": 2086,
+        "description": "自身のターンに、敵全体のデバフ数が15",
+        "battleConditionMstIdCsv": "3,1285"
+      },
+      {
+        "battleConditionSetMstId": 2087,
+        "description": "自身のターンに、敵全体のデバフ数が16",
+        "battleConditionMstIdCsv": "3,1286"
+      },
+      {
+        "battleConditionSetMstId": 2088,
+        "description": "自身のターンに、敵全体のデバフ数が17",
+        "battleConditionMstIdCsv": "3,1287"
+      },
+      {
+        "battleConditionSetMstId": 2089,
+        "description": "自身のターンに、敵全体のデバフ数が18",
+        "battleConditionMstIdCsv": "3,1288"
+      },
+      {
+        "battleConditionSetMstId": 2090,
+        "description": "自身のターンに、敵全体のデバフ数が19",
+        "battleConditionMstIdCsv": "3,1289"
+      },
+      {
+        "battleConditionSetMstId": 2091,
+        "description": "自身のターンに、敵全体のデバフ数が20",
+        "battleConditionMstIdCsv": "3,1290"
+      },
+      {
+        "battleConditionSetMstId": 2092,
+        "description": "自身のターンに、敵全体のデバフ数が21",
+        "battleConditionMstIdCsv": "3,1291"
+      },
+      {
+        "battleConditionSetMstId": 2093,
+        "description": "自身のターンに、敵全体のデバフ数が22",
+        "battleConditionMstIdCsv": "3,1292"
+      },
+      {
+        "battleConditionSetMstId": 2094,
+        "description": "自身のターンに、敵全体のデバフ数が23",
+        "battleConditionMstIdCsv": "3,1293"
+      },
+      {
+        "battleConditionSetMstId": 2095,
+        "description": "自身のターンに、敵全体のデバフ数が24",
+        "battleConditionMstIdCsv": "3,1294"
+      },
+      {
+        "battleConditionSetMstId": 2096,
+        "description": "自身のターンに、敵全体のデバフ数が25以上",
+        "battleConditionMstIdCsv": "3,1280"
+      },
+      {
+        "battleConditionSetMstId": 2097,
+        "description": "自身が弱点属性以外で、1以上のダメージを受けたとき",
+        "battleConditionMstIdCsv": "1264,25"
+      },
+      {
+        "battleConditionSetMstId": 2098,
+        "description": "3ターン目の連続行動の1回目",
+        "battleConditionMstIdCsv": "149,273"
+      },
+      {
+        "battleConditionSetMstId": 2099,
+        "description": "3ターン目の連続行動の2回目",
+        "battleConditionMstIdCsv": "149,274"
+      },
+      {
+        "battleConditionSetMstId": 2100,
+        "description": "4ターンごと（5ターン目から） AND 連続行動の1回目",
+        "battleConditionMstIdCsv": "1295,273"
+      },
+      {
+        "battleConditionSetMstId": 2101,
+        "description": "4ターンごと（5ターン目から） AND 連続行動の2回目",
+        "battleConditionMstIdCsv": "1295,274"
+      },
+      {
+        "battleConditionSetMstId": 2102,
+        "description": "4ターンごと（6ターン目から） AND 連続行動の1回目",
+        "battleConditionMstIdCsv": "1296,273"
+      },
+      {
+        "battleConditionSetMstId": 2103,
+        "description": "4ターンごと（6ターン目から） AND 連続行動の2回目",
+        "battleConditionMstIdCsv": "1296,274"
+      },
+      {
+        "battleConditionSetMstId": 2104,
+        "description": "4ターンごと（7ターン目から） AND 連続行動の1回目",
+        "battleConditionMstIdCsv": "1297,273"
+      },
+      {
+        "battleConditionSetMstId": 2105,
+        "description": "4ターンごと（7ターン目から） AND 連続行動の2回目",
+        "battleConditionMstIdCsv": "1297,274"
+      },
+      {
+        "battleConditionSetMstId": 2106,
+        "description": "トークンが16以上21未満のとき",
+        "battleConditionMstIdCsv": "1298,849"
+      },
+      {
+        "battleConditionSetMstId": 2107,
+        "description": "トークンが11以上16未満のとき",
+        "battleConditionMstIdCsv": "1299,850"
+      },
+      {
+        "battleConditionSetMstId": 2108,
+        "description": "トークンが6以上11未満のとき",
+        "battleConditionMstIdCsv": "291,1300"
+      },
+      {
+        "battleConditionSetMstId": 2109,
+        "description": "トークンが1以上6未満のとき",
+        "battleConditionMstIdCsv": "467,807"
+      },
+      {
+        "battleConditionSetMstId": 2110,
+        "description": "自身がキャンディホリックが付与されている敵に攻撃したとき",
+        "battleConditionMstIdCsv": "3,1331,1332"
+      },
+      {
+        "battleConditionSetMstId": 2111,
+        "description": "敵全体で状態異常が付与されている敵が1体以上いる",
+        "battleConditionMstIdCsv": "1302"
+      },
+      {
+        "battleConditionSetMstId": 2112,
+        "description": "自身に持続ダメージ(呪い)が発生したとき",
+        "battleConditionMstIdCsv": "1303"
+      },
+      {
+        "battleConditionSetMstId": 2113,
+        "description": "自身に持続ダメージ(毒)が発生したとき",
+        "battleConditionMstIdCsv": "1304"
+      },
+      {
+        "battleConditionSetMstId": 2114,
+        "description": "自身に持続ダメージ(火傷)が発生したとき",
+        "battleConditionMstIdCsv": "1305"
+      },
+      {
+        "battleConditionSetMstId": 2115,
+        "description": "自身に持続ダメージ(裂傷)が発生したとき",
+        "battleConditionMstIdCsv": "1306"
+      },
+      {
+        "battleConditionSetMstId": 2116,
+        "description": "自身に持続ダメージ(水刃)が発生したとき",
+        "battleConditionMstIdCsv": "1307"
+      },
+      {
+        "battleConditionSetMstId": 2117,
+        "description": "対象がキャンディホリック付与されているとき",
+        "battleConditionMstIdCsv": "1310"
+      },
+      {
+        "battleConditionSetMstId": 2118,
+        "description": "4ターン目の連続行動の1回目",
+        "battleConditionMstIdCsv": "150,273"
+      },
+      {
+        "battleConditionSetMstId": 2119,
+        "description": "4ターン目の連続行動の2回目",
+        "battleConditionMstIdCsv": "150,274"
+      },
+      {
+        "battleConditionSetMstId": 2120,
+        "description": "4ターンごと（8ターン目から） AND 連続行動の1回目",
+        "battleConditionMstIdCsv": "1309,273"
+      },
+      {
+        "battleConditionSetMstId": 2121,
+        "description": "4ターンごと（8ターン目から） AND 連続行動の2回目",
+        "battleConditionMstIdCsv": "1309,274"
+      },
+      {
+        "battleConditionSetMstId": 2122,
+        "description": "キャンディホリック+呪いが付与されている",
+        "battleConditionMstIdCsv": "1308,1340"
+      },
+      {
+        "battleConditionSetMstId": 2123,
+        "description": "敵全体でキャンディホリックが付与されている敵が1体以上いる",
+        "battleConditionMstIdCsv": "1310"
+      },
+      {
+        "battleConditionSetMstId": 2124,
+        "description": "自分の状態異常数が6",
+        "battleConditionMstIdCsv": "1311"
+      },
+      {
+        "battleConditionSetMstId": 2125,
+        "description": "自分の状態異常数が7",
+        "battleConditionMstIdCsv": "1312"
+      },
+      {
+        "battleConditionSetMstId": 2126,
+        "description": "自分の状態異常数が8",
+        "battleConditionMstIdCsv": "1313"
+      },
+      {
+        "battleConditionSetMstId": 2127,
+        "description": "自分の状態異常数が9",
+        "battleConditionMstIdCsv": "1314"
+      },
+      {
+        "battleConditionSetMstId": 2128,
+        "description": "自分の状態異常数が10",
+        "battleConditionMstIdCsv": "1315"
+      },
+      {
+        "battleConditionSetMstId": 2129,
+        "description": "自分の状態異常数が6以上",
+        "battleConditionMstIdCsv": "1316"
+      },
+      {
+        "battleConditionSetMstId": 2130,
+        "description": "自分の状態異常数が7以上",
+        "battleConditionMstIdCsv": "1317"
+      },
+      {
+        "battleConditionSetMstId": 2131,
+        "description": "自分の状態異常数が8以上",
+        "battleConditionMstIdCsv": "1318"
+      },
+      {
+        "battleConditionSetMstId": 2132,
+        "description": "自分の状態異常数が9以上",
+        "battleConditionMstIdCsv": "1319"
+      },
+      {
+        "battleConditionSetMstId": 2133,
+        "description": "自分の状態異常数が10以上",
+        "battleConditionMstIdCsv": "1320"
+      },
+      {
+        "battleConditionSetMstId": 2134,
+        "description": "自分の状態異常数が1未満",
+        "battleConditionMstIdCsv": "1321"
+      },
+      {
+        "battleConditionSetMstId": 2135,
+        "description": "自分の状態異常数が2未満",
+        "battleConditionMstIdCsv": "1322"
+      },
+      {
+        "battleConditionSetMstId": 2136,
+        "description": "自分の状態異常数が3未満",
+        "battleConditionMstIdCsv": "1323"
+      },
+      {
+        "battleConditionSetMstId": 2137,
+        "description": "自分の状態異常数が4未満",
+        "battleConditionMstIdCsv": "1324"
+      },
+      {
+        "battleConditionSetMstId": 2138,
+        "description": "自分の状態異常数が5未満",
+        "battleConditionMstIdCsv": "1325"
+      },
+      {
+        "battleConditionSetMstId": 2139,
+        "description": "自分の状態異常数が6未満",
+        "battleConditionMstIdCsv": "1326"
+      },
+      {
+        "battleConditionSetMstId": 2140,
+        "description": "自分の状態異常数が7未満",
+        "battleConditionMstIdCsv": "1327"
+      },
+      {
+        "battleConditionSetMstId": 2141,
+        "description": "自分の状態異常数が8未満",
+        "battleConditionMstIdCsv": "1328"
+      },
+      {
+        "battleConditionSetMstId": 2142,
+        "description": "自分の状態異常数が9未満",
+        "battleConditionMstIdCsv": "1329"
+      },
+      {
+        "battleConditionSetMstId": 2143,
+        "description": "自分の状態異常数が10未満",
+        "battleConditionMstIdCsv": "1330"
+      },
+      {
+        "battleConditionSetMstId": 2144,
+        "description": "対象の状態異常数が1以上",
+        "battleConditionMstIdCsv": "1333"
+      },
+      {
+        "battleConditionSetMstId": 2145,
+        "description": "対象の状態異常数が2以上",
+        "battleConditionMstIdCsv": "1334"
+      },
+      {
+        "battleConditionSetMstId": 2146,
+        "description": "対象の状態異常数が3以上",
+        "battleConditionMstIdCsv": "1335"
+      },
+      {
+        "battleConditionSetMstId": 2147,
+        "description": "対象の状態異常数が4以上",
+        "battleConditionMstIdCsv": "1336"
+      },
+      {
+        "battleConditionSetMstId": 2148,
+        "description": "自身がキャンディホリックが付与されている敵に攻撃したとき",
+        "battleConditionMstIdCsv": "1337,1338,3"
+      },
+      {
+        "battleConditionSetMstId": 2149,
+        "description": "自身がファントムトリック状態のとき",
+        "battleConditionMstIdCsv": "1339"
+      },
+      {
+        "battleConditionSetMstId": 2150,
+        "description": "自身がファントムトリック状態のとき+敵に攻撃したとき",
+        "battleConditionMstIdCsv": "1339,1332,3"
+      },
+      {
+        "battleConditionSetMstId": 2151,
+        "description": "自身がファントムトリック状態のとき+戦闘スキルを発動したとき",
+        "battleConditionMstIdCsv": "1339,6,3"
+      },
+      {
+        "battleConditionSetMstId": 2152,
+        "description": "自身がファントムトリック状態のとき+通常攻撃を発動したとき",
+        "battleConditionMstIdCsv": "1339,5,3"
+      },
+      {
+        "battleConditionSetMstId": 2153,
+        "description": "自身がファントムトリック状態のとき+必殺技を発動したとき",
+        "battleConditionMstIdCsv": "1339,7,3"
+      },
+      {
+        "battleConditionSetMstId": 2154,
+        "description": "自身がファントムトリック状態のとき+敵がブレイクしたとき",
+        "battleConditionMstIdCsv": "1339,276"
+      },
+      {
+        "battleConditionSetMstId": 2155,
+        "description": "キャンディホリックが付与されている敵が1体以上いる+自分は行動者",
+        "battleConditionMstIdCsv": "1310,3"
+      },
+      {
+        "battleConditionSetMstId": 2156,
+        "description": "カットアウトが付与されているとき",
+        "battleConditionMstIdCsv": "782"
+      },
+      {
+        "battleConditionSetMstId": 2157,
+        "description": "トークンが11以上13未満のとき",
+        "battleConditionMstIdCsv": "1299,1341"
+      },
+      {
+        "battleConditionSetMstId": 2158,
+        "description": "トークンが9以上11未満のとき",
+        "battleConditionMstIdCsv": "646,1300"
+      },
+      {
+        "battleConditionSetMstId": 2159,
+        "description": "トークンが7以上9未満のとき",
+        "battleConditionMstIdCsv": "645,1342"
+      },
+      {
+        "battleConditionSetMstId": 2160,
+        "description": "トークンが5以上7未満のとき",
+        "battleConditionMstIdCsv": "290,1343"
+      },
+      {
+        "battleConditionSetMstId": 2161,
+        "description": "トークンが3以上5未満のとき",
+        "battleConditionMstIdCsv": "288,851"
+      },
+      {
+        "battleConditionSetMstId": 2162,
+        "description": "トークンが1以上3未満のとき",
+        "battleConditionMstIdCsv": "467,1111"
+      },
+      {
+        "battleConditionSetMstId": 2163,
+        "description": "トークンが10以上12未満のとき",
+        "battleConditionMstIdCsv": "648,808"
+      },
+      {
+        "battleConditionSetMstId": 2164,
+        "description": "トークンが8以上10未満のとき",
+        "battleConditionMstIdCsv": "646,868"
+      },
+      {
+        "battleConditionSetMstId": 2165,
+        "description": "トークンが6以上8未満のとき",
+        "battleConditionMstIdCsv": "291,1344"
+      },
+      {
+        "battleConditionSetMstId": 2166,
+        "description": "トークンが4以上6未満のとき",
+        "battleConditionMstIdCsv": "289,807"
+      },
+      {
+        "battleConditionSetMstId": 2167,
+        "description": "トークンが2以上4未満のとき",
+        "battleConditionMstIdCsv": "284,888"
+      },
+      {
+        "battleConditionSetMstId": 2168,
+        "description": "トークンが2未満のとき",
+        "battleConditionMstIdCsv": "523"
+      },
+      {
+        "battleConditionSetMstId": 2169,
+        "description": "持続ダメージが発生したとき",
+        "battleConditionMstIdCsv": "1345"
+      },
+      {
+        "battleConditionSetMstId": 2170,
+        "description": "自身がファントムトリック状態のとき+持続ダメージが発生したとき",
+        "battleConditionMstIdCsv": "1339,1345"
+      },
+      {
+        "battleConditionSetMstId": 2171,
+        "description": "自身がファントムトリック状態のとき",
+        "battleConditionMstIdCsv": "1339"
+      },
+      {
+        "battleConditionSetMstId": 2172,
+        "description": "自身がファントムトリック状態のとき+敵が2体以上",
+        "battleConditionMstIdCsv": "1339,318"
+      },
+      {
+        "battleConditionSetMstId": 2173,
+        "description": "自身がファントムトリック状態のとき+敵が3体以上",
+        "battleConditionMstIdCsv": "1339,408"
+      },
+      {
+        "battleConditionSetMstId": 2174,
+        "description": "自身がファントムトリック状態のとき+敵が4体以上",
+        "battleConditionMstIdCsv": "1339,409"
+      },
+      {
+        "battleConditionSetMstId": 2175,
+        "description": "自身がファントムトリック状態のとき+敵が5体以上",
+        "battleConditionMstIdCsv": "1339,410"
+      },
+      {
+        "battleConditionSetMstId": 2176,
+        "description": "自身がブレイク状態のとき、自分の状態異常数が3未満で、1以上のダメージを受けた",
+        "battleConditionMstIdCsv": "419,1323,25"
+      },
+      {
+        "battleConditionSetMstId": 2177,
+        "description": "自身がブレイク状態のとき、自分の状態異常数が3で、1以上のダメージを受けた",
+        "battleConditionMstIdCsv": "419,1168,25"
+      },
+      {
+        "battleConditionSetMstId": 2178,
+        "description": "自身がブレイク状態のとき、自分の状態異常数が4で、1以上のダメージを受けた",
+        "battleConditionMstIdCsv": "419,1169,25"
+      },
+      {
+        "battleConditionSetMstId": 2179,
+        "description": "自身がブレイク状態のとき、自分の状態異常数が5で、1以上のダメージを受けた",
+        "battleConditionMstIdCsv": "419,1170,25"
+      },
+      {
+        "battleConditionSetMstId": 2180,
+        "description": "自身がブレイク状態のとき、自分の状態異常数が6で、1以上のダメージを受けた",
+        "battleConditionMstIdCsv": "419,1311,25"
+      },
+      {
+        "battleConditionSetMstId": 2181,
+        "description": "自身がブレイク状態のとき、自分の状態異常数が7で、1以上のダメージを受けた",
+        "battleConditionMstIdCsv": "419,1312,25"
+      },
+      {
+        "battleConditionSetMstId": 2182,
+        "description": "自身がブレイク状態のとき、自分の状態異常数が8で、1以上のダメージを受けた",
+        "battleConditionMstIdCsv": "419,1313,25"
+      },
+      {
+        "battleConditionSetMstId": 2183,
+        "description": "自身がブレイク状態のとき、自分の状態異常数が9以上で、1以上のダメージを受けた",
+        "battleConditionMstIdCsv": "419,1319,25"
+      },
+      {
+        "battleConditionSetMstId": 2184,
+        "description": "自身がXさやか専用バフ状態のとき",
+        "battleConditionMstIdCsv": "1346"
+      },
+      {
+        "battleConditionSetMstId": 2185,
+        "description": "味方全体のデバフ数が18以上",
+        "battleConditionMstIdCsv": "1347"
+      },
+      {
+        "battleConditionSetMstId": 2186,
+        "description": "味方全体のデバフ数が10以上18未満",
+        "battleConditionMstIdCsv": "1349,1348"
+      },
+      {
+        "battleConditionSetMstId": 2187,
+        "description": "味方全体のデバフ数が7以上10未満",
+        "battleConditionMstIdCsv": "1351,1350"
+      },
+      {
+        "battleConditionSetMstId": 2188,
+        "description": "味方全体のデバフ数が4以上7未満",
+        "battleConditionMstIdCsv": "1353,1352"
+      },
+      {
+        "battleConditionSetMstId": 2189,
+        "description": "味方全体のデバフ数が0以上4未満",
+        "battleConditionMstIdCsv": "1355,1354"
+      },
+      {
+        "battleConditionSetMstId": 2190,
+        "description": "自身がファントムトリック状態のとき+戦闘スキルを発動したとき+攻撃した対象",
+        "battleConditionMstIdCsv": "1339,6,3,1332"
+      },
+      {
+        "battleConditionSetMstId": 2191,
+        "description": "自身がファントムトリック状態のとき+通常攻撃を発動したとき+攻撃した対象",
+        "battleConditionMstIdCsv": "1339,5,3,1332"
+      },
+      {
+        "battleConditionSetMstId": 2192,
+        "description": "自分のキャラクターが「愛生まばゆ」",
+        "battleConditionMstIdCsv": "1356"
+      },
+      {
+        "battleConditionSetMstId": 2193,
+        "description": "自身が固有バフ(インビジブル)状態の場合",
+        "battleConditionMstIdCsv": "1357"
+      },
+      {
+        "battleConditionSetMstId": 2194,
+        "description": "自身が固有バフ(インビジブル)状態の場合+戦闘スキルを発動したとき+自分以外の味方",
+        "battleConditionMstIdCsv": "1357,6,962,1"
+      },
+      {
+        "battleConditionSetMstId": 2195,
+        "description": "自身が固有バフ(インビジブル)状態の場合+通常攻撃を発動したとき+自分以外の味方",
+        "battleConditionMstIdCsv": "1357,5,962,1"
+      },
+      {
+        "battleConditionSetMstId": 2196,
+        "description": "自身が固有バフ(インビジブル)状態の場合+必殺技を発動したとき+行動者は自分",
+        "battleConditionMstIdCsv": "1357,7,3"
+      },
+      {
+        "battleConditionSetMstId": 2197,
+        "description": "自身が固有バフ(インビジブル)状態の場合+必殺技を発動したとき+自分以外の味方",
+        "battleConditionMstIdCsv": "1357,7,962,1"
+      },
+      {
+        "battleConditionSetMstId": 2198,
+        "description": "自身以外の味方が必殺技発動時",
+        "battleConditionMstIdCsv": "962,1,7"
+      },
+      {
+        "battleConditionSetMstId": 2199,
+        "description": "自分が1以上のダメージを受けた+自身が固有バフ(インビジブル)状態の場合",
+        "battleConditionMstIdCsv": "25,1357"
+      },
+      {
+        "battleConditionSetMstId": 2200,
+        "description": "バトル開始から自分の行動が22回目以降",
+        "battleConditionMstIdCsv": "1358"
+      },
+      {
+        "battleConditionSetMstId": 2201,
+        "description": "火傷状態が付与されている敵に攻撃したとき",
+        "battleConditionMstIdCsv": "1359"
+      },
+      {
+        "battleConditionSetMstId": 2202,
+        "description": "攻撃対象がX杏子専用デバフ状態の場合",
+        "battleConditionMstIdCsv": "1360"
+      },
+      {
+        "battleConditionSetMstId": 2203,
+        "description": "自身がX杏子専用デバフ状態の場合",
+        "battleConditionMstIdCsv": "1361"
+      },
+      {
+        "battleConditionSetMstId": 2204,
+        "description": "攻撃対象がX杏子専用デバフ状態の場合+敵が1以上のダメージを受けた（個別判定）",
+        "battleConditionMstIdCsv": "1360,474"
+      },
+      {
+        "battleConditionSetMstId": 2205,
+        "description": "自分は火属性",
+        "battleConditionMstIdCsv": "292"
+      },
+      {
+        "battleConditionSetMstId": 2206,
+        "description": "自分は水属性",
+        "battleConditionMstIdCsv": "294"
+      },
+      {
+        "battleConditionSetMstId": 2207,
+        "description": "自分は木属性",
+        "battleConditionMstIdCsv": "295"
+      },
+      {
+        "battleConditionSetMstId": 2208,
+        "description": "自分は光属性",
+        "battleConditionMstIdCsv": "296"
+      },
+      {
+        "battleConditionSetMstId": 2209,
+        "description": "自分は闇属性",
+        "battleConditionMstIdCsv": "297"
+      },
+      {
+        "battleConditionSetMstId": 2210,
+        "description": "自分は無属性",
+        "battleConditionMstIdCsv": "298"
+      },
+      {
+        "battleConditionSetMstId": 2211,
+        "description": "自身がXさやか状態のとき",
+        "battleConditionMstIdCsv": "1346"
+      },
+      {
+        "battleConditionSetMstId": 2212,
+        "description": "Xさやか状態のとき+攻撃したとき",
+        "battleConditionMstIdCsv": "1338,1362,1363,1364"
+      },
+      {
+        "battleConditionSetMstId": 2213,
+        "description": "連続行動の3回目",
+        "battleConditionMstIdCsv": "275"
+      },
+      {
+        "battleConditionSetMstId": 2214,
+        "description": "自分のターン、2ターンごとに（ターン2から）",
+        "battleConditionMstIdCsv": "3,56"
+      },
+      {
+        "battleConditionSetMstId": 2215,
+        "description": "自軍に対して弱点属性で攻撃されたユニット数が3以上の時 AND 攻撃されたとき",
+        "battleConditionMstIdCsv": "1255,916"
+      },
+      {
+        "battleConditionSetMstId": 2216,
+        "description": "Xさやかバフが付与された味方が1体の場合",
+        "battleConditionMstIdCsv": "1365"
+      },
+      {
+        "battleConditionSetMstId": 2217,
+        "description": "Xさやかバフが付与された味方が2体の場合",
+        "battleConditionMstIdCsv": "1366"
+      },
+      {
+        "battleConditionSetMstId": 2218,
+        "description": "Xさやかバフが付与された味方が3体の場合",
+        "battleConditionMstIdCsv": "1367"
+      },
+      {
+        "battleConditionSetMstId": 2219,
+        "description": "Xさやかバフが付与された味方が4体の場合",
+        "battleConditionMstIdCsv": "1368"
+      },
+      {
+        "battleConditionSetMstId": 2220,
+        "description": "Xさやかバフが付与された味方が5体の場合",
+        "battleConditionMstIdCsv": "1369"
+      },
+      {
+        "battleConditionSetMstId": 2221,
+        "description": "Xさやか専用バフが付与されているとき+SPが2以上+戦闘スキル発動したとき",
+        "battleConditionMstIdCsv": "1346,1370,6"
+      },
+      {
+        "battleConditionSetMstId": 2222,
+        "description": "Xさやか専用バフが付与されているとき+SPが4以上",
+        "battleConditionMstIdCsv": "1346,1371"
+      },
+      {
+        "battleConditionSetMstId": 2223,
+        "description": "1以上のダメージを受けた、攻撃を受けた被ダメ軽減を持つ味方が3体未満のとき",
+        "battleConditionMstIdCsv": "25,1372"
+      },
+      {
+        "battleConditionSetMstId": 2224,
+        "description": "1以上のダメージを受けた、弱点属性で攻撃された",
+        "battleConditionMstIdCsv": "25,1263"
+      },
+      {
+        "battleConditionSetMstId": 2225,
+        "description": "1以上のダメージを受けた、弱点属性以外で攻撃された",
+        "battleConditionMstIdCsv": "25,1264"
+      },
+      {
+        "battleConditionSetMstId": 2226,
+        "description": "弱点属性で攻撃されたユニット数が1体以上のとき",
+        "battleConditionMstIdCsv": "1253"
+      },
+      {
+        "battleConditionSetMstId": 2227,
+        "description": "弱点属性で攻撃されたユニット数が2体以上のとき",
+        "battleConditionMstIdCsv": "1254"
+      },
+      {
+        "battleConditionSetMstId": 2228,
+        "description": "弱点属性で攻撃されたユニット数が3体以上のとき",
+        "battleConditionMstIdCsv": "1255"
+      },
+      {
+        "battleConditionSetMstId": 2229,
+        "description": "弱点属性で攻撃されたユニット数が4体以上のとき",
+        "battleConditionMstIdCsv": "1256"
+      },
+      {
+        "battleConditionSetMstId": 2230,
+        "description": "弱点属性で攻撃されたユニット数が5体以上のとき",
+        "battleConditionMstIdCsv": "1257"
+      },
+      {
+        "battleConditionSetMstId": 2231,
+        "description": "弱点属性で攻撃されたユニット数が1体未満のとき",
+        "battleConditionMstIdCsv": "1258"
+      },
+      {
+        "battleConditionSetMstId": 2232,
+        "description": "弱点属性で攻撃されたユニット数が2体未満のとき",
+        "battleConditionMstIdCsv": "1259"
+      },
+      {
+        "battleConditionSetMstId": 2233,
+        "description": "弱点属性で攻撃されたユニット数が3体未満のとき",
+        "battleConditionMstIdCsv": "1260"
+      },
+      {
+        "battleConditionSetMstId": 2234,
+        "description": "弱点属性で攻撃されたユニット数が4体未満のとき",
+        "battleConditionMstIdCsv": "1261"
+      },
+      {
+        "battleConditionSetMstId": 2235,
+        "description": "弱点属性で攻撃されたユニット数が5体未満のとき",
+        "battleConditionMstIdCsv": "1262"
+      },
+      {
+        "battleConditionSetMstId": 2236,
+        "description": "X杏子専用デバフが1のとき",
+        "battleConditionMstIdCsv": "1373"
+      },
+      {
+        "battleConditionSetMstId": 2237,
+        "description": "X杏子専用デバフが2のとき",
+        "battleConditionMstIdCsv": "1374"
+      },
+      {
+        "battleConditionSetMstId": 2238,
+        "description": "X杏子専用デバフが3のとき",
+        "battleConditionMstIdCsv": "1375"
+      },
+      {
+        "battleConditionSetMstId": 2239,
+        "description": "X杏子専用デバフが4のとき",
+        "battleConditionMstIdCsv": "1376"
+      },
+      {
+        "battleConditionSetMstId": 2240,
+        "description": "X杏子専用デバフが5のとき",
+        "battleConditionMstIdCsv": "1377"
+      },
+      {
+        "battleConditionSetMstId": 2241,
+        "description": "X杏子専用デバフが6のとき",
+        "battleConditionMstIdCsv": "1378"
+      },
+      {
+        "battleConditionSetMstId": 2242,
+        "description": "X杏子専用デバフが7のとき",
+        "battleConditionMstIdCsv": "1379"
+      },
+      {
+        "battleConditionSetMstId": 2243,
+        "description": "X杏子専用デバフが8のとき",
+        "battleConditionMstIdCsv": "1380"
+      },
+      {
+        "battleConditionSetMstId": 2244,
+        "description": "X杏子専用デバフが9のとき",
+        "battleConditionMstIdCsv": "1381"
+      },
+      {
+        "battleConditionSetMstId": 2245,
+        "description": "X杏子専用デバフが10のとき",
+        "battleConditionMstIdCsv": "1382"
+      },
+      {
+        "battleConditionSetMstId": 2246,
+        "description": "敵の生存者数が2体以上 AND 自分は行動者 AND 行動タイプは必殺技",
+        "battleConditionMstIdCsv": "318,3,7"
+      },
+      {
+        "battleConditionSetMstId": 2247,
+        "description": "敵の生存者数が3体以上 AND 自分は行動者 AND 行動タイプは必殺技",
+        "battleConditionMstIdCsv": "408,3,7"
+      },
+      {
+        "battleConditionSetMstId": 2248,
+        "description": "火傷状態が付与されている敵に攻撃したとき+行動者は自分",
+        "battleConditionMstIdCsv": "1359,3"
+      },
+      {
+        "battleConditionSetMstId": 2249,
+        "description": "行動者は自分+戦闘スキルを発動したとき+攻撃対象がX杏子専用デバフ状態の場合+攻撃した対象",
+        "battleConditionMstIdCsv": "3,6,1360,1332"
+      },
+      {
+        "battleConditionSetMstId": 2250,
+        "description": "行動者は自分+追撃を発動したとき+攻撃対象がX杏子専用デバフ状態の場合+攻撃した対象",
+        "battleConditionMstIdCsv": "6,3,1360,1332"
+      },
+      {
+        "battleConditionSetMstId": 2251,
+        "description": "攻撃対象がX杏子専用デバフ状態の場合+攻撃した対象+行動者は自分",
+        "battleConditionMstIdCsv": "1360,1332,3"
+      },
+      {
+        "battleConditionSetMstId": 2252,
+        "description": "X杏子専用デバフが10以上のとき+行動タイプは追撃",
+        "battleConditionMstIdCsv": "1382,306"
+      },
+      {
+        "battleConditionSetMstId": 2253,
+        "description": "対象が火傷+戦闘スキルを発動したとき+攻撃した対象+行動者は自分",
+        "battleConditionMstIdCsv": "1359,6,3"
+      },
+      {
+        "battleConditionSetMstId": 2254,
+        "description": "対象が火傷+通常攻撃を発動したとき+攻撃した対象+行動者は自分",
+        "battleConditionMstIdCsv": "1359,5,3"
+      },
+      {
+        "battleConditionSetMstId": 2255,
+        "description": "魔力が8で、自身がブレイク状態ではなく、行動可能な状態のとき",
+        "battleConditionMstIdCsv": "399,420,286"
+      },
+      {
+        "battleConditionSetMstId": 2256,
+        "description": "1以上のダメージを受けた、攻撃を受けた被ダメ軽減を持つ味方が3体以上のとき",
+        "battleConditionMstIdCsv": "25,1383"
+      },
+      {
+        "battleConditionSetMstId": 2257,
+        "description": "行動者は自分+戦闘スキルを発動したとき+攻撃した対象+行動者は味方",
+        "battleConditionMstIdCsv": "3,6,1332,1"
+      },
+      {
+        "battleConditionSetMstId": 2258,
+        "description": "行動者は自分+攻撃した対象+行動者は味方+攻撃対象がX杏子専用デバフ状態の場合",
+        "battleConditionMstIdCsv": "3,1332,1,1360"
+      },
+      {
+        "battleConditionSetMstId": 2259,
+        "description": "Xさやか専用バフが付与されているとき+SPが4以上+通常攻撃を発動",
+        "battleConditionMstIdCsv": "1346,1371,5"
+      },
+      {
+        "battleConditionSetMstId": 2260,
+        "description": "Xさやか専用バフが付与されているとき+SPが3以上+必殺技を発動",
+        "battleConditionMstIdCsv": "1346,1384,7"
+      },
+      {
+        "battleConditionSetMstId": 2261,
+        "description": "自身のHPが36%未満かつ11%以上のとき",
+        "battleConditionMstIdCsv": "1385,902"
+      },
+      {
+        "battleConditionSetMstId": 2262,
+        "description": "自身のHPが11%未満のとき",
+        "battleConditionMstIdCsv": "1386"
+      },
+      {
+        "battleConditionSetMstId": 2263,
+        "description": "Xさやか専用バフが付与されているとき+SPが3以上+追撃を発動",
+        "battleConditionMstIdCsv": "1346,1384,306"
+      },
+      {
+        "battleConditionSetMstId": 2264,
+        "description": "戦闘スキルを発動したとき+自身が【アルティメットまどか】のとき",
+        "battleConditionMstIdCsv": "6,3,1387"
+      },
+      {
+        "battleConditionSetMstId": 2265,
+        "description": "衰弱状態の敵にダメージを与えた場合+行動者は仲間+IsActer",
+        "battleConditionMstIdCsv": "449,1,1363"
+      },
+      {
+        "battleConditionSetMstId": 2266,
+        "description": "自チームが1以上のトータルダメージを受けたとき",
+        "battleConditionMstIdCsv": "1388"
+      },
+      {
+        "battleConditionSetMstId": 2267,
+        "description": "X五十鈴れん専用バフが付与されているとき",
+        "battleConditionMstIdCsv": "1389"
+      },
+      {
+        "battleConditionSetMstId": 2268,
+        "description": "X五十鈴れん専用バフが付与されているとき+自身のHPが60%以上のとき",
+        "battleConditionMstIdCsv": "1390,1389"
+      },
+      {
+        "battleConditionSetMstId": 2269,
+        "description": "X五十鈴れん専用バフが付与されているとき+自身のHPが70%以上のとき",
+        "battleConditionMstIdCsv": "1391,1389"
+      },
+      {
+        "battleConditionSetMstId": 2270,
+        "description": "X五十鈴れん専用バフが付与されているとき+自身のHPが80%以上のとき",
+        "battleConditionMstIdCsv": "1392,1389"
+      },
+      {
+        "battleConditionSetMstId": 2271,
+        "description": "X五十鈴れん専用バフが付与されているとき+自身のHPが90%以上のとき",
+        "battleConditionMstIdCsv": "1393,1389"
+      },
+      {
+        "battleConditionSetMstId": 2272,
+        "description": "X五十鈴れん専用バフが付与されているとき+自身のHPが100%以上のとき",
+        "battleConditionMstIdCsv": "1394,1389"
+      },
+      {
+        "battleConditionSetMstId": 2273,
+        "description": "Xりか専用バフが付与されているとき+HP80%以上",
+        "battleConditionMstIdCsv": "1395,38"
+      },
+      {
+        "battleConditionSetMstId": 2274,
+        "description": "X五十鈴れん専用バフが付与されているとき+行動タイプは必殺技+行動者は自分",
+        "battleConditionMstIdCsv": "1389,3,7"
+      },
+      {
+        "battleConditionSetMstId": 2275,
+        "description": "Xりか専用バフが付与されているとき+HP50%以上",
+        "battleConditionMstIdCsv": "1395,9"
+      },
+      {
+        "battleConditionSetMstId": 2276,
+        "description": "衰弱状態の敵にダメージを与えた場合+行動者は自身+行動タイプは通常攻撃",
+        "battleConditionMstIdCsv": "449,3,5"
+      },
+      {
+        "battleConditionSetMstId": 2277,
+        "description": "衰弱状態の敵にダメージを与えた場合+行動者は自身+行動タイプは戦闘スキル",
+        "battleConditionMstIdCsv": "449,3,6"
+      },
+      {
+        "battleConditionSetMstId": 2278,
+        "description": "衰弱状態の敵にダメージを与えた場合+行動者は自身+行動タイプは必殺技",
+        "battleConditionMstIdCsv": "449,3,7"
+      },
+      {
+        "battleConditionSetMstId": 2279,
+        "description": "行動者は自分、行動タイプが追加攻撃ではない、攻撃対象にクリティカルダメージが発生",
+        "battleConditionMstIdCsv": "3,1397,281"
+      },
+      {
+        "battleConditionSetMstId": 2286,
+        "description": "ブレイクしている敵が1体",
+        "battleConditionMstIdCsv": "1398"
+      },
+      {
+        "battleConditionSetMstId": 2287,
+        "description": "ブレイクしている敵が2体",
+        "battleConditionMstIdCsv": "1399"
+      },
+      {
+        "battleConditionSetMstId": 2288,
+        "description": "ブレイクしている敵が3体",
+        "battleConditionMstIdCsv": "1400"
+      },
+      {
+        "battleConditionSetMstId": 2289,
+        "description": "ブレイクしている敵が4体",
+        "battleConditionMstIdCsv": "1401"
+      },
+      {
+        "battleConditionSetMstId": 2290,
+        "description": "ブレイクしている敵が5体",
+        "battleConditionMstIdCsv": "1402"
+      },
+      {
+        "battleConditionSetMstId": 2291,
+        "description": "1度の攻撃で敵を3体以上ブレイクさせた、行動者は自分",
+        "battleConditionMstIdCsv": "1405,3"
+      },
+      {
+        "battleConditionSetMstId": 2292,
+        "description": "自身がブレイク状態ではなく、行動者は味方、敵が1以上のダメージを受けた",
+        "battleConditionMstIdCsv": "420,282,1364"
+      },
+      {
+        "battleConditionSetMstId": 2293,
+        "description": "味方が1体未満の場合（自分を除く）",
+        "battleConditionMstIdCsv": "536"
+      },
+      {
+        "battleConditionSetMstId": 2294,
+        "description": "X五十鈴れん専用バフが付与されているとき+自身のHPが50%以上のとき",
+        "battleConditionMstIdCsv": "9,1389"
+      },
+      {
+        "battleConditionSetMstId": 2295,
+        "description": "対象の状態異常数が1未満",
+        "battleConditionMstIdCsv": "1408"
+      },
+      {
+        "battleConditionSetMstId": 2296,
+        "description": "対象の状態異常数が2未満",
+        "battleConditionMstIdCsv": "1409"
+      },
+      {
+        "battleConditionSetMstId": 2297,
+        "description": "対象の状態異常数が3未満",
+        "battleConditionMstIdCsv": "1410"
+      },
+      {
+        "battleConditionSetMstId": 2298,
+        "description": "対象の状態異常数が4未満",
+        "battleConditionMstIdCsv": "1411"
+      },
+      {
+        "battleConditionSetMstId": 2299,
+        "description": "対象の状態異常数が5未満",
+        "battleConditionMstIdCsv": "1412"
+      },
+      {
+        "battleConditionSetMstId": 2300,
+        "description": "対象の状態異常数が6未満",
+        "battleConditionMstIdCsv": "1413"
+      },
+      {
+        "battleConditionSetMstId": 2301,
+        "description": "対象の状態異常数が7未満",
+        "battleConditionMstIdCsv": "1414"
+      },
+      {
+        "battleConditionSetMstId": 2302,
+        "description": "対象の状態異常数が8未満",
+        "battleConditionMstIdCsv": "1415"
+      },
+      {
+        "battleConditionSetMstId": 2303,
+        "description": "対象の状態異常数が9未満",
+        "battleConditionMstIdCsv": "1416"
+      },
+      {
+        "battleConditionSetMstId": 2304,
+        "description": "対象の状態異常数が10未満",
+        "battleConditionMstIdCsv": "1417"
+      },
+      {
+        "battleConditionSetMstId": 2305,
+        "description": "ブレイクしている敵が1体未満",
+        "battleConditionMstIdCsv": "1418"
+      },
+      {
+        "battleConditionSetMstId": 2306,
+        "description": "ブレイクしている敵が2体未満",
+        "battleConditionMstIdCsv": "1419"
+      },
+      {
+        "battleConditionSetMstId": 2307,
+        "description": "ブレイクしている敵が3体未満",
+        "battleConditionMstIdCsv": "1420"
+      },
+      {
+        "battleConditionSetMstId": 2308,
+        "description": "ブレイクしている敵が4体未満",
+        "battleConditionMstIdCsv": "1421"
+      },
+      {
+        "battleConditionSetMstId": 2309,
+        "description": "ブレイクしている敵が5体未満",
+        "battleConditionMstIdCsv": "1422"
+      },
+      {
+        "battleConditionSetMstId": 2310,
+        "description": "晴れ着まどか専用バフが付与されているとき",
+        "battleConditionMstIdCsv": "1423"
+      },
+      {
+        "battleConditionSetMstId": 2311,
+        "description": "トークンが1以上11未満のとき",
+        "battleConditionMstIdCsv": "467,1429"
+      },
+      {
+        "battleConditionSetMstId": 2312,
+        "description": "トークンが11以上21未満のとき",
+        "battleConditionMstIdCsv": "1424,1430"
+      },
+      {
+        "battleConditionSetMstId": 2313,
+        "description": "トークンが21以上31未満のとき",
+        "battleConditionMstIdCsv": "1425,1431"
+      },
+      {
+        "battleConditionSetMstId": 2314,
+        "description": "トークンが31以上41未満のとき",
+        "battleConditionMstIdCsv": "1426,1432"
+      },
+      {
+        "battleConditionSetMstId": 2315,
+        "description": "トークンが41以上51未満のとき",
+        "battleConditionMstIdCsv": "1427,1433"
+      },
+      {
+        "battleConditionSetMstId": 2316,
+        "description": "トークンが51以上のとき",
+        "battleConditionMstIdCsv": "1428"
+      },
+      {
+        "battleConditionSetMstId": 2317,
+        "description": "Xりか専用バフが付与されているとき",
+        "battleConditionMstIdCsv": "1395"
+      },
+      {
+        "battleConditionSetMstId": 2318,
+        "description": "行動者は敵、自分が1以上のダメージを受けた、攻撃を受けたブレイク削減耐性を持つ味方が3体未満のとき",
+        "battleConditionMstIdCsv": "2,25,1434"
+      },
+      {
+        "battleConditionSetMstId": 2319,
+        "description": "行動者は敵、自分が1以上のダメージを受けた、攻撃を受けたブレイク削減耐性を持つ味方が5体未満のとき",
+        "battleConditionMstIdCsv": "2,25,1435"
+      },
+      {
+        "battleConditionSetMstId": 2320,
+        "description": "行動タイプが必殺技 AND 攻撃した+行動者は自分",
+        "battleConditionMstIdCsv": "7,916,3"
+      },
+      {
+        "battleConditionSetMstId": 2321,
+        "description": "クリティカルダメージが発生した+攻撃した+行動者は自分",
+        "battleConditionMstIdCsv": "281,3,1338"
+      },
+      {
+        "battleConditionSetMstId": 2322,
+        "description": "クリティカルダメージが発生した+攻撃した+行動者は自分",
+        "battleConditionMstIdCsv": "281,3,1332"
+      },
+      {
+        "battleConditionSetMstId": 2323,
+        "description": "行動者は敵、行動タイプは必殺技、自分が1以上のダメージを受けた、攻撃を受けたブレイク削減耐性を持つ味方が2体未満のとき",
+        "battleConditionMstIdCsv": "2,7,25,1436"
+      },
+      {
+        "battleConditionSetMstId": 2324,
+        "description": "自分が1ターンごとに（ターン10から）",
+        "battleConditionMstIdCsv": "1437"
+      },
+      {
+        "battleConditionSetMstId": 2325,
+        "description": "自身がブレイク状態ではない場合、味方にブレイクが発生した",
+        "battleConditionMstIdCsv": "420,755"
+      },
+      {
+        "battleConditionSetMstId": 2326,
+        "description": "ブレイクしている味方が0体",
+        "battleConditionMstIdCsv": "1438"
+      },
+      {
+        "battleConditionSetMstId": 2327,
+        "description": "ブレイクしている味方が1体",
+        "battleConditionMstIdCsv": "1439"
+      },
+      {
+        "battleConditionSetMstId": 2328,
+        "description": "ブレイクしている味方が2体",
+        "battleConditionMstIdCsv": "1440"
+      },
+      {
+        "battleConditionSetMstId": 2329,
+        "description": "ブレイクしている味方が3体",
+        "battleConditionMstIdCsv": "1441"
+      },
+      {
+        "battleConditionSetMstId": 2330,
+        "description": "ブレイクしている味方が4体",
+        "battleConditionMstIdCsv": "1442"
+      },
+      {
+        "battleConditionSetMstId": 2331,
+        "description": "ブレイクしている味方が5体",
+        "battleConditionMstIdCsv": "1443"
+      },
+      {
+        "battleConditionSetMstId": 2332,
+        "description": "行動者は敵、行動タイプは必殺技、自分が1以上のダメージを受けた、攻撃を受けたブレイク削減耐性を持つ味方が3体未満のとき",
+        "battleConditionMstIdCsv": "2,7,25,1434"
+      },
+      {
+        "battleConditionSetMstId": 2333,
+        "description": "行動者は敵、行動タイプは必殺技、自分が1以上のダメージを受けた、攻撃を受けたブレイク削減耐性を持つ味方が5体未満のとき",
+        "battleConditionMstIdCsv": "2,7,25,1435"
+      },
+      {
+        "battleConditionSetMstId": 2334,
+        "description": "自分が2ターンごとに（ターン1から） AND 連続行動の1回目",
+        "battleConditionMstIdCsv": "55,273"
+      },
+      {
+        "battleConditionSetMstId": 2335,
+        "description": "自分が2ターンごとに（ターン1から） AND 連続行動の2回目",
+        "battleConditionMstIdCsv": "55,274"
+      },
+      {
+        "battleConditionSetMstId": 2336,
+        "description": "自分が2ターンごとに（ターン2から） AND 連続行動の1回目",
+        "battleConditionMstIdCsv": "56,273"
+      },
+      {
+        "battleConditionSetMstId": 2337,
+        "description": "自分が2ターンごとに（ターン2から） AND 連続行動の2回目",
+        "battleConditionMstIdCsv": "56,274"
+      },
+      {
+        "battleConditionSetMstId": 2338,
+        "description": "自身がブレイク状態ではない場合、行動者は敵、行動タイプは必殺技、自分が1以上のダメージを受けた、攻撃を受けたブレイク削減耐性を持つ味方が2体未満のとき",
+        "battleConditionMstIdCsv": "420,2,7,25,1436"
+      },
+      {
+        "battleConditionSetMstId": 2339,
+        "description": "ブレイクしている味方が0体以上",
+        "battleConditionMstIdCsv": "1444"
+      },
+      {
+        "battleConditionSetMstId": 2340,
+        "description": "ブレイクしている味方が1体以上",
+        "battleConditionMstIdCsv": "1445"
+      },
+      {
+        "battleConditionSetMstId": 2341,
+        "description": "ブレイクしている味方が2体以上",
+        "battleConditionMstIdCsv": "1446"
+      },
+      {
+        "battleConditionSetMstId": 2342,
+        "description": "ブレイクしている味方が3体以上",
+        "battleConditionMstIdCsv": "1447"
+      },
+      {
+        "battleConditionSetMstId": 2343,
+        "description": "ブレイクしている味方が4体以上",
+        "battleConditionMstIdCsv": "1448"
+      },
+      {
+        "battleConditionSetMstId": 2344,
+        "description": "ブレイクしている味方が5体以上",
+        "battleConditionMstIdCsv": "1449"
+      },
+      {
+        "battleConditionSetMstId": 2345,
+        "description": "1度の攻撃でブレイクされた味方が1体未満",
+        "battleConditionMstIdCsv": "1450"
+      },
+      {
+        "battleConditionSetMstId": 2346,
+        "description": "1度の攻撃でブレイクされた味方が2体未満",
+        "battleConditionMstIdCsv": "1451"
+      },
+      {
+        "battleConditionSetMstId": 2347,
+        "description": "1度の攻撃でブレイクされた味方が3体未満",
+        "battleConditionMstIdCsv": "1452"
+      },
+      {
+        "battleConditionSetMstId": 2348,
+        "description": "1度の攻撃でブレイクされた味方が4体未満",
+        "battleConditionMstIdCsv": "1453"
+      },
+      {
+        "battleConditionSetMstId": 2349,
+        "description": "1度の攻撃でブレイクされた味方が5体未満",
+        "battleConditionMstIdCsv": "1454"
+      },
+      {
+        "battleConditionSetMstId": 2350,
+        "description": "自身がブレイク状態ではない場合、行動者は敵、敵の攻撃で味方がブレイクした、1度の攻撃でブレイクされた味方が3体未満",
+        "battleConditionMstIdCsv": "420,2,755,1452"
+      },
+      {
+        "battleConditionSetMstId": 2351,
+        "description": "自分が3ターンごとに（ターン3から）、味方が4体存在する場合（自分を除く） AND 連続行動の1回目",
+        "battleConditionMstIdCsv": "59,273,349"
+      },
+      {
+        "battleConditionSetMstId": 2352,
+        "description": "自分が3ターンごとに（ターン3から）、味方が4体未満の場合（自分を除く）AND 連続行動の1回目",
+        "battleConditionMstIdCsv": "59,273,350"
+      },
+      {
+        "battleConditionSetMstId": 2353,
+        "description": "自分のキャラクターが「雪野かなえ」",
+        "battleConditionMstIdCsv": "1455"
+      },
+      {
+        "battleConditionSetMstId": 2354,
+        "description": "バリアが付与されている味方軍が攻撃を受けたとき+行動対象(個別)のバリアが壊されたとき",
+        "battleConditionMstIdCsv": "1456,1457"
+      },
+      {
+        "battleConditionSetMstId": 2355,
+        "description": "自分のキャラクターが「浅古小糸」",
+        "battleConditionMstIdCsv": "1458"
+      },
+      {
+        "battleConditionSetMstId": 2356,
+        "description": "バリアが付与されている味方軍が攻撃を受けたとき",
+        "battleConditionMstIdCsv": "1456"
+      },
+      {
+        "battleConditionSetMstId": 2357,
+        "description": "行動対象(個別)のバリアが壊されたとき",
+        "battleConditionMstIdCsv": "1457,2"
+      },
+      {
+        "battleConditionSetMstId": 2358,
+        "description": "自身のターン経過が4ターン未満",
+        "battleConditionMstIdCsv": "3,265"
+      },
+      {
+        "battleConditionSetMstId": 2359,
+        "description": "自分のターン、4ターンごとに（ターン4から）",
+        "battleConditionMstIdCsv": "3,63"
+      },
+      {
+        "battleConditionSetMstId": 2360,
+        "description": "行動者は敵、自分がダメージを受けなかった、行動タイプが追加行動ではない",
+        "battleConditionMstIdCsv": "2,1459,1397"
+      },
+      {
+        "battleConditionSetMstId": 2361,
+        "description": "1以上のダメージを受けた、弱点属性で攻撃された、行動タイプが追加行動ではない",
+        "battleConditionMstIdCsv": "25,1263,1397"
+      },
+      {
+        "battleConditionSetMstId": 2362,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、魔力が10のとき",
+        "battleConditionMstIdCsv": "420,286,401"
+      },
+      {
+        "battleConditionSetMstId": 2363,
+        "description": "自身のターン経過が13ターン以上",
+        "battleConditionMstIdCsv": "3,980"
+      },
+      {
+        "battleConditionSetMstId": 2364,
+        "description": "自身のターン経過が5ターン未満",
+        "battleConditionMstIdCsv": "3,1055"
+      },
+      {
+        "battleConditionSetMstId": 2365,
+        "description": "自身のターン経過が25ターン以上",
+        "battleConditionMstIdCsv": "3,1025"
+      },
+      {
+        "battleConditionSetMstId": 2366,
+        "description": "自身の経過ターンが1ターン以降",
+        "battleConditionMstIdCsv": "1001"
+      },
+      {
+        "battleConditionSetMstId": 2367,
+        "description": "自身の経過ターンが2ターン以上",
+        "battleConditionMstIdCsv": "1002"
+      },
+      {
+        "battleConditionSetMstId": 2368,
+        "description": "自身の経過ターンが3ターン以上",
+        "battleConditionMstIdCsv": "1003"
+      },
+      {
+        "battleConditionSetMstId": 2369,
+        "description": "自身の経過ターンが4ターン以上",
+        "battleConditionMstIdCsv": "1004"
+      },
+      {
+        "battleConditionSetMstId": 2370,
+        "description": "自身の経過ターンが5ターン以上",
+        "battleConditionMstIdCsv": "1005"
+      },
+      {
+        "battleConditionSetMstId": 2371,
+        "description": "自身の経過ターンが6ターン以上",
+        "battleConditionMstIdCsv": "1006"
+      },
+      {
+        "battleConditionSetMstId": 2372,
+        "description": "自身の経過ターンが7ターン以上",
+        "battleConditionMstIdCsv": "1007"
+      },
+      {
+        "battleConditionSetMstId": 2373,
+        "description": "自身の経過ターンが8ターン以上",
+        "battleConditionMstIdCsv": "1008"
+      },
+      {
+        "battleConditionSetMstId": 2374,
+        "description": "自身の経過ターンが9ターン以上",
+        "battleConditionMstIdCsv": "1009"
+      },
+      {
+        "battleConditionSetMstId": 2375,
+        "description": "自身の経過ターンが10ターン以上",
+        "battleConditionMstIdCsv": "1010"
+      },
+      {
+        "battleConditionSetMstId": 2376,
+        "description": "対象にバリアが貼られていない場合",
+        "battleConditionMstIdCsv": "1460"
+      },
+      {
+        "battleConditionSetMstId": 2377,
+        "description": "対象にバリアが貼られている場合",
+        "battleConditionMstIdCsv": "1461"
+      },
+      {
+        "battleConditionSetMstId": 2378,
+        "description": "自身の経過ターンが20ターン以上",
+        "battleConditionMstIdCsv": "1020"
+      },
+      {
+        "battleConditionSetMstId": 2379,
+        "description": "自身の経過ターンが1ターン以上、4ターン未満",
+        "battleConditionMstIdCsv": "1001,1054"
+      },
+      {
+        "battleConditionSetMstId": 2380,
+        "description": "自身の経過ターンが4ターン以上、7ターン未満",
+        "battleConditionMstIdCsv": "1004,1057"
+      },
+      {
+        "battleConditionSetMstId": 2381,
+        "description": "自身の経過ターンが7ターン以上、10ターン未満",
+        "battleConditionMstIdCsv": "1007,1060"
+      },
+      {
+        "battleConditionSetMstId": 2382,
+        "description": "自身の経過ターンが10ターン以上、13ターン未満",
+        "battleConditionMstIdCsv": "1010,1063"
+      },
+      {
+        "battleConditionSetMstId": 2383,
+        "description": "自身の経過ターンが13ターン以上、16ターン未満",
+        "battleConditionMstIdCsv": "1013,1066"
+      },
+      {
+        "battleConditionSetMstId": 2384,
+        "description": "自身の経過ターンが16ターン以上、19ターン未満",
+        "battleConditionMstIdCsv": "1016,1069"
+      },
+      {
+        "battleConditionSetMstId": 2385,
+        "description": "自身の経過ターンが19ターン以上",
+        "battleConditionMstIdCsv": "1019"
+      },
+      {
+        "battleConditionSetMstId": 2386,
+        "description": "行動者のHPが40％未満 AND 攻撃された時(0ダメージを含む)",
+        "battleConditionMstIdCsv": "892,1463"
+      },
+      {
+        "battleConditionSetMstId": 2387,
+        "description": "弱点属性で攻撃された敵軍のユニット数が1体以上のとき+追撃以外+エーテルブロウ以外",
+        "battleConditionMstIdCsv": "1464,630,1478"
+      },
+      {
+        "battleConditionSetMstId": 2388,
+        "description": "行動タイプがエーテルブロウ",
+        "battleConditionMstIdCsv": "1462,3"
+      },
+      {
+        "battleConditionSetMstId": 2389,
+        "description": "悪魔ほむらのフィールドが発動しているとき",
+        "battleConditionMstIdCsv": "1465"
+      },
+      {
+        "battleConditionSetMstId": 2390,
+        "description": "悪魔ほむらのフィールドが発動しているとき＋必殺技発動したとき",
+        "battleConditionMstIdCsv": "1465,7,3"
+      },
+      {
+        "battleConditionSetMstId": 2391,
+        "description": "悪魔ほむらの専用バフが付与されているとき",
+        "battleConditionMstIdCsv": "1466"
+      },
+      {
+        "battleConditionSetMstId": 2392,
+        "description": "悪魔ほむらの専用バフが10以上のとき",
+        "battleConditionMstIdCsv": "1467"
+      },
+      {
+        "battleConditionSetMstId": 2393,
+        "description": "悪魔ほむらの専用バフが10のとき＋必殺技発動したとき＋行動者は自身",
+        "battleConditionMstIdCsv": "1468,7,3"
+      },
+      {
+        "battleConditionSetMstId": 2394,
+        "description": "悪魔ほむらの専用バフが2未満のとき",
+        "battleConditionMstIdCsv": "1469"
+      },
+      {
+        "battleConditionSetMstId": 2395,
+        "description": "悪魔ほむらの専用バフが2以上のとき+悪魔ほむらの専用バフが4未満のとき",
+        "battleConditionMstIdCsv": "1474,1470"
+      },
+      {
+        "battleConditionSetMstId": 2396,
+        "description": "悪魔ほむらの専用バフが4以上のとき+悪魔ほむらの専用バフが6未満のとき",
+        "battleConditionMstIdCsv": "1475,1471"
+      },
+      {
+        "battleConditionSetMstId": 2397,
+        "description": "悪魔ほむらの専用バフが6以上のとき+悪魔ほむらの専用バフが8未満のとき",
+        "battleConditionMstIdCsv": "1476,1472"
+      },
+      {
+        "battleConditionSetMstId": 2398,
+        "description": "悪魔ほむらの専用バフが8以上のとき+悪魔ほむらの専用バフが10未満のとき",
+        "battleConditionMstIdCsv": "1477,1473"
+      },
+      {
+        "battleConditionSetMstId": 2399,
+        "description": "悪魔ほむらの専用バフが10のとき",
+        "battleConditionMstIdCsv": "1468"
+      },
+      {
+        "battleConditionSetMstId": 2400,
+        "description": "1以上のダメージを受けた、行動者は闇属性",
+        "battleConditionMstIdCsv": "25,975"
+      },
+      {
+        "battleConditionSetMstId": 2401,
+        "description": "悪魔ほむらの専用バフが1のとき+必殺技発動したとき",
+        "battleConditionMstIdCsv": "1479,7"
+      },
+      {
+        "battleConditionSetMstId": 2402,
+        "description": "悪魔ほむらの専用バフが2のとき+必殺技発動したとき",
+        "battleConditionMstIdCsv": "1480,7"
+      },
+      {
+        "battleConditionSetMstId": 2403,
+        "description": "悪魔ほむらの専用バフが3のとき+必殺技発動したとき",
+        "battleConditionMstIdCsv": "1481,7"
+      },
+      {
+        "battleConditionSetMstId": 2404,
+        "description": "悪魔ほむらの専用バフが4のとき+必殺技発動したとき",
+        "battleConditionMstIdCsv": "1482,7"
+      },
+      {
+        "battleConditionSetMstId": 2405,
+        "description": "悪魔ほむらの専用バフが5のとき+必殺技発動したとき",
+        "battleConditionMstIdCsv": "1483,7"
+      },
+      {
+        "battleConditionSetMstId": 2406,
+        "description": "悪魔ほむらの専用バフが6のとき+必殺技発動したとき",
+        "battleConditionMstIdCsv": "1484,7"
+      },
+      {
+        "battleConditionSetMstId": 2407,
+        "description": "悪魔ほむらの専用バフが7のとき+必殺技発動したとき",
+        "battleConditionMstIdCsv": "1485,7"
+      },
+      {
+        "battleConditionSetMstId": 2408,
+        "description": "悪魔ほむらの専用バフが8のとき+必殺技発動したとき",
+        "battleConditionMstIdCsv": "1486,7"
+      },
+      {
+        "battleConditionSetMstId": 2409,
+        "description": "悪魔ほむらの専用バフが9のとき+必殺技発動したとき",
+        "battleConditionMstIdCsv": "1487,7"
+      },
+      {
+        "battleConditionSetMstId": 2410,
+        "description": "悪魔ほむらの専用バフが10のとき+必殺技発動したとき",
+        "battleConditionMstIdCsv": "1488,7"
+      },
+      {
+        "battleConditionSetMstId": 2411,
+        "description": "悪魔ほむらの専用バフが1以上のとき+必殺技が発動したとき",
+        "battleConditionMstIdCsv": "1489,7"
+      },
+      {
+        "battleConditionSetMstId": 2412,
+        "description": "闇属性の仲間がダメージを与えたとき(通常攻撃発動したとき)",
+        "battleConditionMstIdCsv": "975,1,655,5"
+      },
+      {
+        "battleConditionSetMstId": 2413,
+        "description": "行動者+ブレイクボーナスが最大のとき",
+        "battleConditionMstIdCsv": "324"
+      },
+      {
+        "battleConditionSetMstId": 2414,
+        "description": "自身が専用バフ状態：なぎさ+行動対象者を回復したとき",
+        "battleConditionMstIdCsv": "1490,653"
+      },
+      {
+        "battleConditionSetMstId": 2415,
+        "description": "自身が専用バフ状態：なぎさ+HP80%以上",
+        "battleConditionMstIdCsv": "1490,38"
+      },
+      {
+        "battleConditionSetMstId": 2416,
+        "description": "1度の攻撃でブレイクされた味方が1体",
+        "battleConditionMstIdCsv": "1491"
+      },
+      {
+        "battleConditionSetMstId": 2417,
+        "description": "1度の攻撃でブレイクされた味方が2体",
+        "battleConditionMstIdCsv": "1492"
+      },
+      {
+        "battleConditionSetMstId": 2418,
+        "description": "1度の攻撃でブレイクされた味方が3体以上",
+        "battleConditionMstIdCsv": "1493"
+      },
+      {
+        "battleConditionSetMstId": 2427,
+        "description": "悪魔ほむらの専用バフが1のとき+エーテルブロウ発動したとき",
+        "battleConditionMstIdCsv": "1479,1462"
+      },
+      {
+        "battleConditionSetMstId": 2428,
+        "description": "悪魔ほむらの専用バフが2のとき+エーテルブロウ発動したとき",
+        "battleConditionMstIdCsv": "1480,1462"
+      },
+      {
+        "battleConditionSetMstId": 2429,
+        "description": "悪魔ほむらの専用バフが3のとき+エーテルブロウ発動したとき",
+        "battleConditionMstIdCsv": "1481,1462"
+      },
+      {
+        "battleConditionSetMstId": 2430,
+        "description": "悪魔ほむらの専用バフが4のとき+エーテルブロウ発動したとき",
+        "battleConditionMstIdCsv": "1482,1462"
+      },
+      {
+        "battleConditionSetMstId": 2431,
+        "description": "悪魔ほむらの専用バフが5のとき+エーテルブロウ発動したとき",
+        "battleConditionMstIdCsv": "1483,1462"
+      },
+      {
+        "battleConditionSetMstId": 2432,
+        "description": "悪魔ほむらの専用バフが6のとき+エーテルブロウ発動したとき",
+        "battleConditionMstIdCsv": "1484,1462"
+      },
+      {
+        "battleConditionSetMstId": 2433,
+        "description": "悪魔ほむらの専用バフが7のとき+エーテルブロウ発動したとき",
+        "battleConditionMstIdCsv": "1485,1462"
+      },
+      {
+        "battleConditionSetMstId": 2434,
+        "description": "悪魔ほむらの専用バフが8のとき+エーテルブロウ発動したとき",
+        "battleConditionMstIdCsv": "1486,1462"
+      },
+      {
+        "battleConditionSetMstId": 2435,
+        "description": "悪魔ほむらの専用バフが9のとき+エーテルブロウ発動したとき",
+        "battleConditionMstIdCsv": "1487,1462"
+      },
+      {
+        "battleConditionSetMstId": 2436,
+        "description": "悪魔ほむらの専用バフが10のとき+エーテルブロウ発動したとき",
+        "battleConditionMstIdCsv": "1488,1462"
+      },
+      {
+        "battleConditionSetMstId": 2437,
+        "description": "悪魔ほむらの専用バフが1以上のとき+エーテルブロウを発動したとき",
+        "battleConditionMstIdCsv": "1489,1462"
+      },
+      {
+        "battleConditionSetMstId": 2458,
+        "description": "自分のキャラクターが「百江なぎさ」",
+        "battleConditionMstIdCsv": "1515"
+      },
+      {
+        "battleConditionSetMstId": 2459,
+        "description": "自身が専用バフ状態：なぎさ",
+        "battleConditionMstIdCsv": "1490"
+      },
+      {
+        "battleConditionSetMstId": 2460,
+        "description": "6ターンごと（6ターン目から） AND 連続行動の1回目　AND　味方が1体未満の場合（自分を除く）",
+        "battleConditionMstIdCsv": "74,273,536"
+      },
+      {
+        "battleConditionSetMstId": 2461,
+        "description": "6ターンごと（6ターン目から） AND 連続行動の1回目　AND　味方が2体未満の場合（自分を除く）",
+        "battleConditionMstIdCsv": "74,273,333"
+      },
+      {
+        "battleConditionSetMstId": 2462,
+        "description": "6ターンごと（6ターン目から） AND 連続行動の1回目　AND　味方が3体未満の場合（自分を除く）",
+        "battleConditionMstIdCsv": "74,273,348"
+      },
+      {
+        "battleConditionSetMstId": 2463,
+        "description": "6ターンごと（6ターン目から） AND 連続行動の1回目　AND　味方が4体未満の場合（自分を除く）",
+        "battleConditionMstIdCsv": "74,273,350"
+      },
+      {
+        "battleConditionSetMstId": 2464,
+        "description": "6ターンごと（3ターン目から） AND 連続行動の1回目　AND　味方が1体未満の場合（自分を除く）",
+        "battleConditionMstIdCsv": "71,273,536"
+      },
+      {
+        "battleConditionSetMstId": 2465,
+        "description": "6ターンごと（3ターン目から） AND 連続行動の1回目　AND　味方が2体未満の場合（自分を除く）",
+        "battleConditionMstIdCsv": "71,273,333"
+      },
+      {
+        "battleConditionSetMstId": 2466,
+        "description": "6ターンごと（3ターン目から） AND 連続行動の1回目　AND　味方が3体未満の場合（自分を除く）",
+        "battleConditionMstIdCsv": "71,273,348"
+      },
+      {
+        "battleConditionSetMstId": 2467,
+        "description": "6ターンごと（3ターン目から） AND 連続行動の1回目　AND　味方が4体未満の場合（自分を除く）",
+        "battleConditionMstIdCsv": "71,273,350"
+      },
+      {
+        "battleConditionSetMstId": 2468,
+        "description": "6ターンごと（3ターン目から） AND 連続行動の1回目　AND　味方が4体以上存在する場合（自分を除く）",
+        "battleConditionMstIdCsv": "71,273,349"
+      },
+      {
+        "battleConditionSetMstId": 2469,
+        "description": "6ターンごと（6ターン目から） AND 連続行動の1回目　AND　味方が4体以上存在する場合（自分を除く）",
+        "battleConditionMstIdCsv": "74,273,349"
+      },
+      {
+        "battleConditionSetMstId": 2470,
+        "description": "自身の経過ターンが5ターン未満",
+        "battleConditionMstIdCsv": "3,259"
+      },
+      {
+        "battleConditionSetMstId": 2471,
+        "description": "自身の経過ターンが5ターン以上、7ターン未満",
+        "battleConditionMstIdCsv": "3,262,977"
+      },
+      {
+        "battleConditionSetMstId": 2472,
+        "description": "自身の経過ターンが7ターン以上、10ターン未満",
+        "battleConditionMstIdCsv": "3,970,1060"
+      },
+      {
+        "battleConditionSetMstId": 2473,
+        "description": "自身の経過ターンが10ターン以上、12ターン未満",
+        "battleConditionMstIdCsv": "3,1010,1062"
+      },
+      {
+        "battleConditionSetMstId": 2474,
+        "description": "自身の経過ターンが12ターン以上、15ターン未満",
+        "battleConditionMstIdCsv": "3,1012,1065"
+      },
+      {
+        "battleConditionSetMstId": 2475,
+        "description": "自身の経過ターンが15ターン以上、18ターン未満",
+        "battleConditionMstIdCsv": "3,1015,1068"
+      },
+      {
+        "battleConditionSetMstId": 2476,
+        "description": "自身の経過ターンが18ターン以上",
+        "battleConditionMstIdCsv": "3,1018"
+      },
+      {
+        "battleConditionSetMstId": 2477,
+        "description": "闇属性の仲間がダメージを与えたとき(戦闘スキル発動したとき)",
+        "battleConditionMstIdCsv": "975,1,655,6"
+      },
+      {
+        "battleConditionSetMstId": 2478,
+        "description": "闇属性の仲間がダメージを与えたとき(必殺技発動したとき)",
+        "battleConditionMstIdCsv": "975,1,655,7"
+      },
+      {
+        "battleConditionSetMstId": 2479,
+        "description": "自身の経過ターンが4ターン以上、10ターン未満",
+        "battleConditionMstIdCsv": "3,1004,1060"
+      },
+      {
+        "battleConditionSetMstId": 2480,
+        "description": "自身の経過ターンが10ターン以上、16ターン未満",
+        "battleConditionMstIdCsv": "3,1010,1066"
+      },
+      {
+        "battleConditionSetMstId": 2481,
+        "description": "自身の経過ターンが16ターン以上",
+        "battleConditionMstIdCsv": "3,1016"
+      },
+      {
+        "battleConditionSetMstId": 2482,
+        "description": "倒された味方が0体のとき",
+        "battleConditionMstIdCsv": "1516"
+      },
+      {
+        "battleConditionSetMstId": 2483,
+        "description": "倒された味方が1体のとき",
+        "battleConditionMstIdCsv": "1517"
+      },
+      {
+        "battleConditionSetMstId": 2484,
+        "description": "倒された味方が2体のとき",
+        "battleConditionMstIdCsv": "1518"
+      },
+      {
+        "battleConditionSetMstId": 2485,
+        "description": "倒された味方が3体のとき",
+        "battleConditionMstIdCsv": "1519"
+      },
+      {
+        "battleConditionSetMstId": 2486,
+        "description": "倒された味方が4体のとき",
+        "battleConditionMstIdCsv": "1520"
+      },
+      {
+        "battleConditionSetMstId": 2487,
+        "description": "倒された味方が5体のとき",
+        "battleConditionMstIdCsv": "1521"
+      },
+      {
+        "battleConditionSetMstId": 2488,
+        "description": "倒された味方が6体のとき",
+        "battleConditionMstIdCsv": "1522"
+      },
+      {
+        "battleConditionSetMstId": 2489,
+        "description": "倒された味方が7体のとき",
+        "battleConditionMstIdCsv": "1523"
+      },
+      {
+        "battleConditionSetMstId": 2490,
+        "description": "倒された味方が8体のとき",
+        "battleConditionMstIdCsv": "1524"
+      },
+      {
+        "battleConditionSetMstId": 2491,
+        "description": "倒された味方が9体のとき",
+        "battleConditionMstIdCsv": "1525"
+      },
+      {
+        "battleConditionSetMstId": 2492,
+        "description": "倒された味方が10体のとき",
+        "battleConditionMstIdCsv": "1526"
+      },
+      {
+        "battleConditionSetMstId": 2493,
+        "description": "倒された味方が11体のとき",
+        "battleConditionMstIdCsv": "1527"
+      },
+      {
+        "battleConditionSetMstId": 2494,
+        "description": "倒された味方が12体のとき",
+        "battleConditionMstIdCsv": "1528"
+      },
+      {
+        "battleConditionSetMstId": 2495,
+        "description": "倒された味方が13体のとき",
+        "battleConditionMstIdCsv": "1529"
+      },
+      {
+        "battleConditionSetMstId": 2496,
+        "description": "倒された味方が14体のとき",
+        "battleConditionMstIdCsv": "1530"
+      },
+      {
+        "battleConditionSetMstId": 2497,
+        "description": "倒された味方が15体のとき",
+        "battleConditionMstIdCsv": "1531"
+      },
+      {
+        "battleConditionSetMstId": 2498,
+        "description": "倒された味方が16体のとき",
+        "battleConditionMstIdCsv": "1532"
+      },
+      {
+        "battleConditionSetMstId": 2499,
+        "description": "倒された味方が17体のとき",
+        "battleConditionMstIdCsv": "1533"
+      },
+      {
+        "battleConditionSetMstId": 2500,
+        "description": "倒された味方が18体のとき",
+        "battleConditionMstIdCsv": "1534"
+      },
+      {
+        "battleConditionSetMstId": 2501,
+        "description": "倒された味方が19体のとき",
+        "battleConditionMstIdCsv": "1535"
+      },
+      {
+        "battleConditionSetMstId": 2502,
+        "description": "倒された味方が20体のとき",
+        "battleConditionMstIdCsv": "1536"
+      },
+      {
+        "battleConditionSetMstId": 2503,
+        "description": "倒された味方が21体のとき",
+        "battleConditionMstIdCsv": "1537"
+      },
+      {
+        "battleConditionSetMstId": 2504,
+        "description": "倒された味方が22体のとき",
+        "battleConditionMstIdCsv": "1538"
+      },
+      {
+        "battleConditionSetMstId": 2505,
+        "description": "倒された味方が23体のとき",
+        "battleConditionMstIdCsv": "1539"
+      },
+      {
+        "battleConditionSetMstId": 2506,
+        "description": "倒された味方が24体のとき",
+        "battleConditionMstIdCsv": "1540"
+      },
+      {
+        "battleConditionSetMstId": 2507,
+        "description": "倒された味方が25体のとき",
+        "battleConditionMstIdCsv": "1541"
+      },
+      {
+        "battleConditionSetMstId": 2508,
+        "description": "倒された味方が26体のとき",
+        "battleConditionMstIdCsv": "1542"
+      },
+      {
+        "battleConditionSetMstId": 2509,
+        "description": "倒された味方が27体のとき",
+        "battleConditionMstIdCsv": "1543"
+      },
+      {
+        "battleConditionSetMstId": 2510,
+        "description": "倒された味方が28体のとき",
+        "battleConditionMstIdCsv": "1544"
+      },
+      {
+        "battleConditionSetMstId": 2511,
+        "description": "倒された味方が29体のとき",
+        "battleConditionMstIdCsv": "1545"
+      },
+      {
+        "battleConditionSetMstId": 2512,
+        "description": "倒された味方が30体のとき",
+        "battleConditionMstIdCsv": "1546"
+      },
+      {
+        "battleConditionSetMstId": 2513,
+        "description": "倒された味方が20体以上のとき",
+        "battleConditionMstIdCsv": "1547"
+      },
+      {
+        "battleConditionSetMstId": 2514,
+        "description": "倒された味方が30体以上のとき",
+        "battleConditionMstIdCsv": "1548"
+      },
+      {
+        "battleConditionSetMstId": 2515,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、味方が4体未満の場合（自分を除く）、4ターンごとに（ターン1から）",
+        "battleConditionMstIdCsv": "420,286,350,60"
+      },
+      {
+        "battleConditionSetMstId": 2516,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、味方が4体未満の場合（自分を除く）、4ターンごとに（ターン2から）",
+        "battleConditionMstIdCsv": "420,286,350,61"
+      },
+      {
+        "battleConditionSetMstId": 2517,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、味方が4体未満の場合（自分を除く）、4ターンごとに（ターン3から）",
+        "battleConditionMstIdCsv": "420,286,350,62"
+      },
+      {
+        "battleConditionSetMstId": 2518,
+        "description": "自身がブレイク状態ではなく、行動可能な状態で、味方が4体未満の場合（自分を除く）、4ターンごとに（ターン4から）",
+        "battleConditionMstIdCsv": "420,286,350,63"
+      },
+      {
+        "battleConditionSetMstId": 2519,
+        "description": "行動タイプが追撃、自分が1以上のダメージを受けた",
+        "battleConditionMstIdCsv": "306,25"
+      },
+      {
+        "battleConditionSetMstId": 2520,
+        "description": "行動タイプがエーテルブロウ、自分が1以上のダメージを受けた",
+        "battleConditionMstIdCsv": "1462,25"
+      },
+      {
+        "battleConditionSetMstId": 2521,
+        "description": "行動者のHPが50％未満",
+        "battleConditionMstIdCsv": "1549"
+      },
+      {
+        "battleConditionSetMstId": 2522,
+        "description": "行動者のデバフ数が2以上",
+        "battleConditionMstIdCsv": "1550"
+      },
+      {
+        "battleConditionSetMstId": 2523,
+        "description": "自身のバフ数が5未満",
+        "battleConditionMstIdCsv": "1551"
+      },
+      {
+        "battleConditionSetMstId": 2524,
+        "description": "倒した敵が1体のとき",
+        "battleConditionMstIdCsv": "1552"
+      },
+      {
+        "battleConditionSetMstId": 2525,
+        "description": "倒した敵が2体のとき",
+        "battleConditionMstIdCsv": "1553"
+      },
+      {
+        "battleConditionSetMstId": 2526,
+        "description": "倒した敵が3体のとき",
+        "battleConditionMstIdCsv": "1554"
+      },
+      {
+        "battleConditionSetMstId": 2527,
+        "description": "倒した敵が4体のとき",
+        "battleConditionMstIdCsv": "1555"
+      },
+      {
+        "battleConditionSetMstId": 2528,
+        "description": "倒した敵が5体のとき",
+        "battleConditionMstIdCsv": "1556"
+      },
+      {
+        "battleConditionSetMstId": 2529,
+        "description": "倒した敵が6体のとき",
+        "battleConditionMstIdCsv": "1557"
+      },
+      {
+        "battleConditionSetMstId": 2530,
+        "description": "倒した敵が7体のとき",
+        "battleConditionMstIdCsv": "1558"
+      },
+      {
+        "battleConditionSetMstId": 2531,
+        "description": "倒した敵が8体のとき",
+        "battleConditionMstIdCsv": "1559"
+      },
+      {
+        "battleConditionSetMstId": 2532,
+        "description": "倒した敵が9体のとき",
+        "battleConditionMstIdCsv": "1560"
+      },
+      {
+        "battleConditionSetMstId": 2533,
+        "description": "倒した敵が10体のとき",
+        "battleConditionMstIdCsv": "1561"
+      },
+      {
+        "battleConditionSetMstId": 2534,
+        "description": "倒した敵が11体のとき",
+        "battleConditionMstIdCsv": "1562"
+      },
+      {
+        "battleConditionSetMstId": 2535,
+        "description": "倒した敵が12体のとき",
+        "battleConditionMstIdCsv": "1563"
+      },
+      {
+        "battleConditionSetMstId": 2536,
+        "description": "倒した敵が13体のとき",
+        "battleConditionMstIdCsv": "1564"
+      },
+      {
+        "battleConditionSetMstId": 2537,
+        "description": "倒した敵が14体のとき",
+        "battleConditionMstIdCsv": "1565"
+      },
+      {
+        "battleConditionSetMstId": 2538,
+        "description": "倒した敵が15体のとき",
+        "battleConditionMstIdCsv": "1566"
+      },
+      {
+        "battleConditionSetMstId": 2539,
+        "description": "倒した敵が16体のとき",
+        "battleConditionMstIdCsv": "1567"
+      },
+      {
+        "battleConditionSetMstId": 2540,
+        "description": "倒した敵が17体のとき",
+        "battleConditionMstIdCsv": "1568"
+      },
+      {
+        "battleConditionSetMstId": 2541,
+        "description": "倒した敵が18体のとき",
+        "battleConditionMstIdCsv": "1569"
+      },
+      {
+        "battleConditionSetMstId": 2542,
+        "description": "倒した敵が19体のとき",
+        "battleConditionMstIdCsv": "1570"
+      },
+      {
+        "battleConditionSetMstId": 2543,
+        "description": "倒した敵が20体のとき",
+        "battleConditionMstIdCsv": "1571"
+      },
+      {
+        "battleConditionSetMstId": 2544,
+        "description": "倒した敵が21体のとき",
+        "battleConditionMstIdCsv": "1572"
+      },
+      {
+        "battleConditionSetMstId": 2545,
+        "description": "倒した敵が22体のとき",
+        "battleConditionMstIdCsv": "1573"
+      },
+      {
+        "battleConditionSetMstId": 2546,
+        "description": "倒した敵が23体のとき",
+        "battleConditionMstIdCsv": "1574"
+      },
+      {
+        "battleConditionSetMstId": 2547,
+        "description": "倒した敵が24体のとき",
+        "battleConditionMstIdCsv": "1575"
+      },
+      {
+        "battleConditionSetMstId": 2548,
+        "description": "倒した敵が25体のとき",
+        "battleConditionMstIdCsv": "1576"
+      },
+      {
+        "battleConditionSetMstId": 2549,
+        "description": "倒した敵が26体のとき",
+        "battleConditionMstIdCsv": "1577"
+      },
+      {
+        "battleConditionSetMstId": 2550,
+        "description": "倒した敵が27体のとき",
+        "battleConditionMstIdCsv": "1578"
+      },
+      {
+        "battleConditionSetMstId": 2551,
+        "description": "倒した敵が28体のとき",
+        "battleConditionMstIdCsv": "1579"
+      },
+      {
+        "battleConditionSetMstId": 2552,
+        "description": "倒した敵が29体のとき",
+        "battleConditionMstIdCsv": "1580"
+      },
+      {
+        "battleConditionSetMstId": 2553,
+        "description": "倒した敵が30体のとき",
+        "battleConditionMstIdCsv": "1581"
+      },
+      {
+        "battleConditionSetMstId": 2554,
+        "description": "倒した敵が31体のとき",
+        "battleConditionMstIdCsv": "1582"
+      },
+      {
+        "battleConditionSetMstId": 2555,
+        "description": "倒した敵が32体のとき",
+        "battleConditionMstIdCsv": "1583"
+      },
+      {
+        "battleConditionSetMstId": 2556,
+        "description": "倒した敵が33体のとき",
+        "battleConditionMstIdCsv": "1584"
+      },
+      {
+        "battleConditionSetMstId": 2557,
+        "description": "倒した敵が34体のとき",
+        "battleConditionMstIdCsv": "1585"
+      },
+      {
+        "battleConditionSetMstId": 2558,
+        "description": "倒した敵が35体のとき",
+        "battleConditionMstIdCsv": "1586"
+      },
+      {
+        "battleConditionSetMstId": 2559,
+        "description": "倒した敵が36体のとき",
+        "battleConditionMstIdCsv": "1587"
+      },
+      {
+        "battleConditionSetMstId": 2560,
+        "description": "倒した敵が37体のとき",
+        "battleConditionMstIdCsv": "1588"
+      },
+      {
+        "battleConditionSetMstId": 2561,
+        "description": "倒した敵が38体のとき",
+        "battleConditionMstIdCsv": "1589"
+      },
+      {
+        "battleConditionSetMstId": 2562,
+        "description": "倒した敵が39体のとき",
+        "battleConditionMstIdCsv": "1590"
+      },
+      {
+        "battleConditionSetMstId": 2563,
+        "description": "倒した敵が40体のとき",
+        "battleConditionMstIdCsv": "1591"
+      },
+      {
+        "battleConditionSetMstId": 2564,
+        "description": "倒した敵が41体のとき",
+        "battleConditionMstIdCsv": "1592"
+      },
+      {
+        "battleConditionSetMstId": 2565,
+        "description": "倒した敵が42体のとき",
+        "battleConditionMstIdCsv": "1593"
+      },
+      {
+        "battleConditionSetMstId": 2566,
+        "description": "倒した敵が43体のとき",
+        "battleConditionMstIdCsv": "1594"
+      },
+      {
+        "battleConditionSetMstId": 2567,
+        "description": "倒した敵が44体のとき",
+        "battleConditionMstIdCsv": "1595"
+      },
+      {
+        "battleConditionSetMstId": 2568,
+        "description": "倒した敵が45体のとき",
+        "battleConditionMstIdCsv": "1596"
+      },
+      {
+        "battleConditionSetMstId": 2569,
+        "description": "倒した敵が46体のとき",
+        "battleConditionMstIdCsv": "1597"
+      },
+      {
+        "battleConditionSetMstId": 2570,
+        "description": "倒した敵が47体のとき",
+        "battleConditionMstIdCsv": "1598"
+      },
+      {
+        "battleConditionSetMstId": 2571,
+        "description": "倒した敵が48体のとき",
+        "battleConditionMstIdCsv": "1599"
+      },
+      {
+        "battleConditionSetMstId": 2572,
+        "description": "倒した敵が49体のとき",
+        "battleConditionMstIdCsv": "1600"
+      },
+      {
+        "battleConditionSetMstId": 2573,
+        "description": "倒した敵が50体のとき",
+        "battleConditionMstIdCsv": "1601"
+      },
+      {
+        "battleConditionSetMstId": 2574,
+        "description": "倒した敵が50体以上のとき",
+        "battleConditionMstIdCsv": "1602"
+      },
+      {
+        "battleConditionSetMstId": 2575,
+        "description": "自分は火属性、自分は行動者、敵軍に1以上のダメージを与えたとき",
+        "battleConditionMstIdCsv": "292,3,655"
+      },
+      {
+        "battleConditionSetMstId": 2576,
+        "description": "自分は水属性、自分は行動者、敵軍に1以上のダメージを与えたとき",
+        "battleConditionMstIdCsv": "294,3,655"
+      },
+      {
+        "battleConditionSetMstId": 2577,
+        "description": "自分は木属性、自分は行動者、敵軍に1以上のダメージを与えたとき",
+        "battleConditionMstIdCsv": "295,3,655"
+      },
+      {
+        "battleConditionSetMstId": 2578,
+        "description": "自分は光属性、自分は行動者、敵軍に1以上のダメージを与えたとき",
+        "battleConditionMstIdCsv": "296,3,655"
+      },
+      {
+        "battleConditionSetMstId": 2579,
+        "description": "自分は闇属性、自分は行動者、敵軍に1以上のダメージを与えたとき",
+        "battleConditionMstIdCsv": "297,3,655"
+      },
+      {
+        "battleConditionSetMstId": 2580,
+        "description": "自分は無属性、自分は行動者、敵軍に1以上のダメージを与えたとき",
+        "battleConditionMstIdCsv": "298,3,655"
+      },
+      {
+        "battleConditionSetMstId": 2581,
+        "description": "行動者は自分、2ターンごとに（ターン2から）、味方が4体未満の場合（自分を除く）",
+        "battleConditionMstIdCsv": "3,56,350"
+      },
+      {
+        "battleConditionSetMstId": 2582,
+        "description": "自身のデバフ数が1未満",
+        "battleConditionMstIdCsv": "1604"
+      },
+      {
+        "battleConditionSetMstId": 2583,
+        "description": "自身のデバフ数が2未満",
+        "battleConditionMstIdCsv": "1605"
+      },
+      {
+        "battleConditionSetMstId": 2584,
+        "description": "自身のデバフ数が3未満",
+        "battleConditionMstIdCsv": "1606"
+      },
+      {
+        "battleConditionSetMstId": 2585,
+        "description": "自身のデバフ数が4未満",
+        "battleConditionMstIdCsv": "1607"
+      },
+      {
+        "battleConditionSetMstId": 2586,
+        "description": "自身のデバフ数が5未満",
+        "battleConditionMstIdCsv": "1608"
+      },
+      {
+        "battleConditionSetMstId": 2587,
+        "description": "自身のデバフ数が6未満",
+        "battleConditionMstIdCsv": "1609"
+      },
+      {
+        "battleConditionSetMstId": 2588,
+        "description": "自身のデバフ数が7未満",
+        "battleConditionMstIdCsv": "1610"
+      },
+      {
+        "battleConditionSetMstId": 2589,
+        "description": "自身のデバフ数が8未満",
+        "battleConditionMstIdCsv": "1611"
+      },
+      {
+        "battleConditionSetMstId": 2590,
+        "description": "自身のデバフ数が9未満",
+        "battleConditionMstIdCsv": "1612"
+      },
+      {
+        "battleConditionSetMstId": 2591,
+        "description": "自身のデバフ数が10未満",
+        "battleConditionMstIdCsv": "1613"
+      },
+      {
+        "battleConditionSetMstId": 2592,
+        "description": "パティシエ杏子専用バフが付与されているとき",
+        "battleConditionMstIdCsv": "1614"
+      },
+      {
+        "battleConditionSetMstId": 2593,
+        "description": "パティシエ杏子専用バフが付与されているとき+魔力が1のとき",
+        "battleConditionMstIdCsv": "1614,393"
+      },
+      {
+        "battleConditionSetMstId": 2594,
+        "description": "パティシエ杏子専用バフが付与されているとき+魔力が2のとき",
+        "battleConditionMstIdCsv": "1614,394"
+      },
+      {
+        "battleConditionSetMstId": 2595,
+        "description": "パティシエ杏子専用バフが付与されているとき+魔力が3のとき",
+        "battleConditionMstIdCsv": "1614,395"
+      },
+      {
+        "battleConditionSetMstId": 2596,
+        "description": "パティシエ杏子専用バフが付与されているとき+魔力が4のとき",
+        "battleConditionMstIdCsv": "1614,396"
+      },
+      {
+        "battleConditionSetMstId": 2597,
+        "description": "パティシエ杏子専用バフが付与されているとき+魔力が5のとき",
+        "battleConditionMstIdCsv": "1614,285"
+      },
+      {
+        "battleConditionSetMstId": 2598,
+        "description": "パティシエ杏子専用バフが付与されているとき+魔力が6のとき",
+        "battleConditionMstIdCsv": "1614,397"
+      },
+      {
+        "battleConditionSetMstId": 2599,
+        "description": "パティシエ杏子専用バフが付与されているとき+魔力が7のとき",
+        "battleConditionMstIdCsv": "1614,398"
+      },
+      {
+        "battleConditionSetMstId": 2600,
+        "description": "パティシエ杏子専用バフが付与されているとき+魔力が8のとき",
+        "battleConditionMstIdCsv": "1614,399"
+      },
+      {
+        "battleConditionSetMstId": 2601,
+        "description": "パティシエ杏子専用バフが付与されているとき+魔力が9のとき",
+        "battleConditionMstIdCsv": "1614,400"
+      },
+      {
+        "battleConditionSetMstId": 2602,
+        "description": "パティシエ杏子専用バフが付与されているとき+魔力が10のとき",
+        "battleConditionMstIdCsv": "1614,401"
+      },
+      {
+        "battleConditionSetMstId": 2603,
+        "description": "自身のターン中に行動対象がブレイク中の場合",
+        "battleConditionMstIdCsv": "654,3"
+      },
+      {
+        "battleConditionSetMstId": 2604,
+        "description": "火属性の仲間がダメージを与えたとき：通常攻撃",
+        "battleConditionMstIdCsv": "971,1,655,5"
+      },
+      {
+        "battleConditionSetMstId": 2605,
+        "description": "行動対象がブレイク中の場合+行動者は仲間+行動者は自分",
+        "battleConditionMstIdCsv": "654,1,3"
+      },
+      {
+        "battleConditionSetMstId": 2606,
+        "description": "ブレイク中の敵が1体以上+行動者は自分+1以上のダメージを与えたとき+通常攻撃以外",
+        "battleConditionMstIdCsv": "537,3,1603,1615"
+      },
+      {
+        "battleConditionSetMstId": 2607,
+        "description": "行動対象メインがブレイク中+1以上のダメージを与えたとき＋行動者は自分+通常攻撃のみ",
+        "battleConditionMstIdCsv": "654,3,1603,5"
+      },
+      {
+        "battleConditionSetMstId": 2619,
+        "description": "一度の攻撃で自軍に1体クリティカルダメージが発生したとき",
+        "battleConditionMstIdCsv": "1634"
+      },
+      {
+        "battleConditionSetMstId": 2620,
+        "description": "一度の攻撃で自軍に2体クリティカルダメージが発生したとき",
+        "battleConditionMstIdCsv": "1635"
+      },
+      {
+        "battleConditionSetMstId": 2621,
+        "description": "一度の攻撃で自軍に3体クリティカルダメージが発生したとき",
+        "battleConditionMstIdCsv": "1636"
+      },
+      {
+        "battleConditionSetMstId": 2622,
+        "description": "一度の攻撃で自軍に4体クリティカルダメージが発生したとき",
+        "battleConditionMstIdCsv": "1637"
+      },
+      {
+        "battleConditionSetMstId": 2623,
+        "description": "一度の攻撃で自軍に5体クリティカルダメージが発生したとき",
+        "battleConditionMstIdCsv": "1638"
+      },
+      {
+        "battleConditionSetMstId": 2624,
+        "description": "自身のHPが50％未満のとき",
+        "battleConditionMstIdCsv": "445"
+      },
+      {
+        "battleConditionSetMstId": 2625,
+        "description": "火属性の仲間がダメージを与えたとき：戦闘スキル",
+        "battleConditionMstIdCsv": "971,1,655,6"
+      },
+      {
+        "battleConditionSetMstId": 2626,
+        "description": "火属性の仲間がダメージを与えたとき：必殺",
+        "battleConditionMstIdCsv": "971,1,655,7"
+      },
+      {
+        "battleConditionSetMstId": 2627,
+        "description": "自身の経過ターンが5ターン以上、9ターン未満",
+        "battleConditionMstIdCsv": "3,262,889"
+      },
+      {
+        "battleConditionSetMstId": 2628,
+        "description": "自身の経過ターンが9ターン以上、13ターン未満",
+        "battleConditionMstIdCsv": "3,890,979"
+      },
+      {
+        "battleConditionSetMstId": 2629,
+        "description": "自身の経過ターンが13ターン以上、17ターン未満",
+        "battleConditionMstIdCsv": "3,980,981"
+      },
+      {
+        "battleConditionSetMstId": 2630,
+        "description": "自身が17ターン以上経過している",
+        "battleConditionMstIdCsv": "3,982"
+      },
+      {
+        "battleConditionSetMstId": 2631,
+        "description": "自分のターン、5ターンごとに（ターン5から）",
+        "battleConditionMstIdCsv": "3,68"
+      },
+      {
+        "battleConditionSetMstId": 2632,
+        "description": "トークンが81以上90未満のとき",
+        "battleConditionMstIdCsv": "1639,875"
+      },
+      {
+        "battleConditionSetMstId": 2633,
+        "description": "トークンが71以上81未満のとき",
+        "battleConditionMstIdCsv": "1641,1640"
+      },
+      {
+        "battleConditionSetMstId": 2634,
+        "description": "トークンが61以上71未満のとき",
+        "battleConditionMstIdCsv": "1643,1642"
+      },
+      {
+        "battleConditionSetMstId": 2635,
+        "description": "トークンが51以上61未満のとき",
+        "battleConditionMstIdCsv": "1428,1644"
+      },
+      {
+        "battleConditionSetMstId": 2644,
+        "description": "行動者のバフ数が3未満",
+        "battleConditionMstIdCsv": "1646"
+      },
+      {
+        "battleConditionSetMstId": 2645,
+        "description": "パティシエ杏子専用バフが付与されているとき+魔力が0のとき",
+        "battleConditionMstIdCsv": "1614,406"
+      },
+      {
+        "battleConditionSetMstId": 2700,
+        "description": "トークンが90のとき",
+        "battleConditionMstIdCsv": "726"
       }
     ]
   }

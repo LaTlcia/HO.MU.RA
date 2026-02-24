@@ -469,6 +469,11 @@
         "isViewCollection": true
       },
       {
+        "advTitleMstId": 96,
+        "title": "百江なぎさは願いを叶えた",
+        "isViewCollection": true
+      },
+      {
         "advTitleMstId": 97,
         "title": "逃れられないもの",
         "isViewCollection": true
@@ -549,6 +554,11 @@
         "isViewCollection": true
       },
       {
+        "advTitleMstId": 115,
+        "title": "繰り返す日常",
+        "isViewCollection": true
+      },
+      {
         "advTitleMstId": 116,
         "title": "エターナルサマーデイズ 前編",
         "isViewCollection": true
@@ -556,6 +566,26 @@
       {
         "advTitleMstId": 117,
         "title": "エターナルサマーデイズ 後編",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 118,
+        "title": "マギアレコード Crescent Memoria 第１弾",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 119,
+        "title": "新しく自由な夢を、ここから",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 120,
+        "title": "ボクが最期に思うこと…",
+        "isViewCollection": false
+      },
+      {
+        "advTitleMstId": 121,
+        "title": "魔法少女まどか☆マギカ scene0 中編",
         "isViewCollection": true
       },
       {
@@ -584,6 +614,36 @@
         "isViewCollection": true
       },
       {
+        "advTitleMstId": 127,
+        "title": "慣れない甘さ",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 128,
+        "title": "ハロウィンナイトは永遠に 前編",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 129,
+        "title": "かつてのハッピーハロウィン",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 130,
+        "title": "オバケじゃなくて亡霊なワケ",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 131,
+        "title": "最悪の運勢を生き残れ ～禁止されても占いたい！～",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 132,
+        "title": "可愛い妹が喜ぶなら",
+        "isViewCollection": true
+      },
+      {
         "advTitleMstId": 133,
         "title": "いろはBirthday 2025 ～とびきり特別な日～",
         "isViewCollection": true
@@ -591,6 +651,196 @@
       {
         "advTitleMstId": 134,
         "title": "誰かの役に立てる人になれたら",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 135,
+        "title": "scene0 side story",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 136,
+        "title": "scene0 character story",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 137,
+        "title": "マジカル・デスティネーション",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 138,
+        "title": "魔法少女まどか☆マギカ[魔獣編]",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 139,
+        "title": "手料理でおもてなしパーティー！",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 140,
+        "title": "調整屋さん、はじめます",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 141,
+        "title": "それではまた会う日まで！",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 142,
+        "title": "謎の魔獣、ひとときの語らい",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 143,
+        "title": "まどかBirthday 2025 ～贅沢な悩みとプレゼント～",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 144,
+        "title": "ハロウィンナイトは永遠に 後編",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 145,
+        "title": "魔法少女まどか☆マギカ scene0 後編",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 146,
+        "title": "scene0 side story 後編",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 147,
+        "title": "scene0 character story",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 148,
+        "title": "レコンパンス・カット",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 149,
+        "title": "聖マギカ学園のクリスマス ～ホワイトサンタ編～",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 150,
+        "title": "夜空を駆けるホワイトサンタ！",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 151,
+        "title": "聖マギカ学園のクリスマス ～ブラックサンタ編～",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 152,
+        "title": "ブラックサンタも楽じゃない",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 153,
+        "title": "聖夜に刻む１ページ ～君と、ここから～",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 154,
+        "title": "ノリノリ神浜サンタさん！",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 155,
+        "title": "スノードームパーティ！",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 156,
+        "title": "マギアレコード Crescent Memoria 第２弾",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 157,
+        "title": "みかづき荘のアイドルたち",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 158,
+        "title": "あたしが生きた意味",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 159,
+        "title": "魔法少女まどか☆マギカ [新編]叛逆の物語 前編",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 160,
+        "title": "ふたりの幸せを願って",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 161,
+        "title": "チーズ、コワイ！",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 162,
+        "title": "私、ひとりぼっちじゃないもの",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 163,
+        "title": "魔法少女まどか☆マギカ [新編]叛逆の物語 後編",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 164,
+        "title": "なんでもない杏子の日常",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 165,
+        "title": "あなたが手を引いてくれるから",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 166,
+        "title": "新春祈願 羽根つきで無病息災",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 167,
+        "title": "新しい年に期待を寄せて",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 168,
+        "title": "これからも続く物語 いつか日常に帰れるように",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 169,
+        "title": "これが私の日常だった",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 170,
+        "title": "いつか貴女の言葉で真実を",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 171,
+        "title": "愛をたっぷり刺激もたっぷり 手作りバレンタイン!!",
+        "isViewCollection": true
+      },
+      {
+        "advTitleMstId": 172,
+        "title": "想い伝わる甘い魔法 前編",
         "isViewCollection": true
       }
     ]

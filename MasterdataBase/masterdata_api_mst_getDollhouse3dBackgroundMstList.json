@@ -1,0 +1,26 @@
+{
+  "url": "/api/mst/getDollhouse3dBackgroundMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "dollhouse3dBackgroundMstId": 1001,
+        "name": "見滝原中学校/屋上(昼)",
+        "thumbnailName": "bg_3d_661_00_00_001",
+        "resourceName": "bg_3d_661_00_00_001",
+        "isDefault": true,
+        "sortOrder": 100,
+        "releaseTime": "2025-09-01T12:00:00+09:00"
+      },
+      {
+        "dollhouse3dBackgroundMstId": 1002,
+        "name": "見滝原中学校/渡り廊下(昼)",
+        "thumbnailName": "bg_3d_661_00_00_002",
+        "resourceName": "bg_3d_661_00_00_002",
+        "isDefault": false,
+        "sortOrder": 101,
+        "releaseTime": "2026-01-30T12:00:00+09:00"
+      }
+    ]
+  }
+}

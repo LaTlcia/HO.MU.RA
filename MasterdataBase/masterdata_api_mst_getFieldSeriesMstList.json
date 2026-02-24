@@ -256,6 +256,54 @@
         "advMstId": 70000058
       },
       {
+        "fieldSeriesMstId": 62500,
+        "name": "十咎ももこの記憶",
+        "questMapMstId": 8,
+        "questGroupMstId": 62500,
+        "styleMstId": 0,
+        "assetbundleName": "62500_01",
+        "startTime": "2025-10-20T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 70000260
+      },
+      {
+        "fieldSeriesMstId": 64100,
+        "name": "魔獣",
+        "questMapMstId": 7,
+        "questGroupMstId": 64100,
+        "styleMstId": 0,
+        "assetbundleName": "64100_01",
+        "startTime": "2025-09-28T20:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 70000253
+      },
+      {
+        "fieldSeriesMstId": 65000,
+        "name": "ナイトメア",
+        "questMapMstId": 9,
+        "questGroupMstId": 65000,
+        "styleMstId": 0,
+        "assetbundleName": "65200_01",
+        "startTime": "2026-01-30T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 70000284
+      },
+      {
+        "fieldSeriesMstId": 65200,
+        "name": "くるみ割りの魔女",
+        "questMapMstId": 9,
+        "questGroupMstId": 65200,
+        "styleMstId": 0,
+        "assetbundleName": "65000_01",
+        "startTime": "2026-01-30T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 70000290
+      },
+      {
         "fieldSeriesMstId": 65500,
         "name": "愛生まばゆの記憶 前編",
         "questMapMstId": 5,
@@ -266,6 +314,42 @@
         "endTime": "2050-01-02T10:00:00+09:00",
         "sortOrder": 1,
         "advMstId": 70000235
+      },
+      {
+        "fieldSeriesMstId": 65501,
+        "name": "愛生まばゆの記憶 中編",
+        "questMapMstId": 5,
+        "questGroupMstId": 65501,
+        "styleMstId": 0,
+        "assetbundleName": "65501_01",
+        "startTime": "2025-09-18T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 70000246
+      },
+      {
+        "fieldSeriesMstId": 65502,
+        "name": "愛生まばゆの記憶 後編",
+        "questMapMstId": 5,
+        "questGroupMstId": 65502,
+        "styleMstId": 0,
+        "assetbundleName": "65502_01",
+        "startTime": "2025-11-18T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 70000271
+      },
+      {
+        "fieldSeriesMstId": 65600,
+        "name": "由比鶴乃の記憶",
+        "questMapMstId": 8,
+        "questGroupMstId": 65600,
+        "styleMstId": 0,
+        "assetbundleName": "65600_01",
+        "startTime": "2026-01-09T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 70000278
       },
       {
         "fieldSeriesMstId": 70000,
@@ -371,6 +455,42 @@
         "styleMstId": 0,
         "assetbundleName": "60800_01",
         "startTime": "2025-07-23T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 0
+      },
+      {
+        "fieldSeriesMstId": 70900,
+        "name": "芸術家の魔女",
+        "questMapMstId": 6,
+        "questGroupMstId": 70900,
+        "styleMstId": 0,
+        "assetbundleName": "60900_01",
+        "startTime": "2025-10-30T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 0
+      },
+      {
+        "fieldSeriesMstId": 71000,
+        "name": "委員長の魔女",
+        "questMapMstId": 6,
+        "questGroupMstId": 71000,
+        "styleMstId": 0,
+        "assetbundleName": "61000_01",
+        "startTime": "2025-10-30T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 0
+      },
+      {
+        "fieldSeriesMstId": 71700,
+        "name": "砂場の魔女",
+        "questMapMstId": 6,
+        "questGroupMstId": 71700,
+        "styleMstId": 0,
+        "assetbundleName": "61700_01",
+        "startTime": "2025-10-30T12:00:00+09:00",
         "endTime": "2050-01-02T10:00:00+09:00",
         "sortOrder": 1,
         "advMstId": 0

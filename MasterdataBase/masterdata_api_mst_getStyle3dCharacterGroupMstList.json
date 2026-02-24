@@ -1,0 +1,458 @@
+{
+  "url": "/api/mst/getStyle3dCharacterGroupMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "style3dCharacterGroupMstId": 1001011,
+        "styleMstId": 10010101,
+        "style3dCharacterMstId": 100101
+      },
+      {
+        "style3dCharacterGroupMstId": 1001012,
+        "styleMstId": 10010701,
+        "style3dCharacterMstId": 100101
+      },
+      {
+        "style3dCharacterGroupMstId": 1001021,
+        "styleMstId": 11370101,
+        "style3dCharacterMstId": 100102
+      },
+      {
+        "style3dCharacterGroupMstId": 1001031,
+        "styleMstId": 10010601,
+        "style3dCharacterMstId": 100103
+      },
+      {
+        "style3dCharacterGroupMstId": 1001041,
+        "styleMstId": 10010301,
+        "style3dCharacterMstId": 100104
+      },
+      {
+        "style3dCharacterGroupMstId": 1001061,
+        "styleMstId": 10010101,
+        "style3dCharacterMstId": 100106
+      },
+      {
+        "style3dCharacterGroupMstId": 1001062,
+        "styleMstId": 10010701,
+        "style3dCharacterMstId": 100106
+      },
+      {
+        "style3dCharacterGroupMstId": 1002011,
+        "styleMstId": 10020201,
+        "style3dCharacterMstId": 100201
+      },
+      {
+        "style3dCharacterGroupMstId": 1002021,
+        "styleMstId": 10020101,
+        "style3dCharacterMstId": 100202
+      },
+      {
+        "style3dCharacterGroupMstId": 1002031,
+        "styleMstId": 10020301,
+        "style3dCharacterMstId": 100203
+      },
+      {
+        "style3dCharacterGroupMstId": 1002041,
+        "styleMstId": 10020101,
+        "style3dCharacterMstId": 100204
+      },
+      {
+        "style3dCharacterGroupMstId": 1003011,
+        "styleMstId": 10030101,
+        "style3dCharacterMstId": 100301
+      },
+      {
+        "style3dCharacterGroupMstId": 1003021,
+        "styleMstId": 10030301,
+        "style3dCharacterMstId": 100302
+      },
+      {
+        "style3dCharacterGroupMstId": 1003031,
+        "styleMstId": 11390101,
+        "style3dCharacterMstId": 100303
+      },
+      {
+        "style3dCharacterGroupMstId": 1003041,
+        "styleMstId": 10030201,
+        "style3dCharacterMstId": 100304
+      },
+      {
+        "style3dCharacterGroupMstId": 1004011,
+        "styleMstId": 10040101,
+        "style3dCharacterMstId": 100401
+      },
+      {
+        "style3dCharacterGroupMstId": 1004021,
+        "styleMstId": 10040201,
+        "style3dCharacterMstId": 100402
+      },
+      {
+        "style3dCharacterGroupMstId": 1004031,
+        "styleMstId": 10040301,
+        "style3dCharacterMstId": 100403
+      },
+      {
+        "style3dCharacterGroupMstId": 1005011,
+        "styleMstId": 10050101,
+        "style3dCharacterMstId": 100501
+      },
+      {
+        "style3dCharacterGroupMstId": 1005021,
+        "styleMstId": 10050301,
+        "style3dCharacterMstId": 100502
+      },
+      {
+        "style3dCharacterGroupMstId": 1005031,
+        "styleMstId": 10050401,
+        "style3dCharacterMstId": 100503
+      },
+      {
+        "style3dCharacterGroupMstId": 1006011,
+        "styleMstId": 10060101,
+        "style3dCharacterMstId": 100601
+      },
+      {
+        "style3dCharacterGroupMstId": 1007011,
+        "styleMstId": 10070101,
+        "style3dCharacterMstId": 100701
+      },
+      {
+        "style3dCharacterGroupMstId": 1007021,
+        "styleMstId": 10070201,
+        "style3dCharacterMstId": 100702
+      },
+      {
+        "style3dCharacterGroupMstId": 1008011,
+        "styleMstId": 10080101,
+        "style3dCharacterMstId": 100801
+      },
+      {
+        "style3dCharacterGroupMstId": 1008021,
+        "styleMstId": 10080102,
+        "style3dCharacterMstId": 100802
+      },
+      {
+        "style3dCharacterGroupMstId": 1009011,
+        "styleMstId": 10090101,
+        "style3dCharacterMstId": 100901
+      },
+      {
+        "style3dCharacterGroupMstId": 1010011,
+        "styleMstId": 10100101,
+        "style3dCharacterMstId": 101001
+      },
+      {
+        "style3dCharacterGroupMstId": 1011011,
+        "styleMstId": 10110101,
+        "style3dCharacterMstId": 101101
+      },
+      {
+        "style3dCharacterGroupMstId": 1012011,
+        "styleMstId": 10120101,
+        "style3dCharacterMstId": 101201
+      },
+      {
+        "style3dCharacterGroupMstId": 1013011,
+        "styleMstId": 10130101,
+        "style3dCharacterMstId": 101301
+      },
+      {
+        "style3dCharacterGroupMstId": 1014011,
+        "styleMstId": 10140101,
+        "style3dCharacterMstId": 101401
+      },
+      {
+        "style3dCharacterGroupMstId": 1015011,
+        "styleMstId": 10150101,
+        "style3dCharacterMstId": 101501
+      },
+      {
+        "style3dCharacterGroupMstId": 1016011,
+        "styleMstId": 10160101,
+        "style3dCharacterMstId": 101601
+      },
+      {
+        "style3dCharacterGroupMstId": 1017011,
+        "styleMstId": 10170101,
+        "style3dCharacterMstId": 101701
+      },
+      {
+        "style3dCharacterGroupMstId": 1017012,
+        "styleMstId": 10170102,
+        "style3dCharacterMstId": 101701
+      },
+      {
+        "style3dCharacterGroupMstId": 1018011,
+        "styleMstId": 10180101,
+        "style3dCharacterMstId": 101801
+      },
+      {
+        "style3dCharacterGroupMstId": 1018012,
+        "styleMstId": 10180102,
+        "style3dCharacterMstId": 101801
+      },
+      {
+        "style3dCharacterGroupMstId": 1019011,
+        "styleMstId": 10190101,
+        "style3dCharacterMstId": 101901
+      },
+      {
+        "style3dCharacterGroupMstId": 1020011,
+        "styleMstId": 10200101,
+        "style3dCharacterMstId": 102001
+      },
+      {
+        "style3dCharacterGroupMstId": 1021011,
+        "styleMstId": 10210101,
+        "style3dCharacterMstId": 102101
+      },
+      {
+        "style3dCharacterGroupMstId": 1021021,
+        "styleMstId": 10210201,
+        "style3dCharacterMstId": 102102
+      },
+      {
+        "style3dCharacterGroupMstId": 1022011,
+        "styleMstId": 10220101,
+        "style3dCharacterMstId": 102201
+      },
+      {
+        "style3dCharacterGroupMstId": 1024011,
+        "styleMstId": 10240101,
+        "style3dCharacterMstId": 102401
+      },
+      {
+        "style3dCharacterGroupMstId": 1025011,
+        "styleMstId": 10250101,
+        "style3dCharacterMstId": 102501
+      },
+      {
+        "style3dCharacterGroupMstId": 1026011,
+        "styleMstId": 10260101,
+        "style3dCharacterMstId": 102601
+      },
+      {
+        "style3dCharacterGroupMstId": 1058011,
+        "styleMstId": 10580101,
+        "style3dCharacterMstId": 105801
+      },
+      {
+        "style3dCharacterGroupMstId": 1061011,
+        "styleMstId": 10610101,
+        "style3dCharacterMstId": 106101
+      },
+      {
+        "style3dCharacterGroupMstId": 1061012,
+        "styleMstId": 10610102,
+        "style3dCharacterMstId": 106101
+      },
+      {
+        "style3dCharacterGroupMstId": 1067011,
+        "styleMstId": 10670101,
+        "style3dCharacterMstId": 106701
+      },
+      {
+        "style3dCharacterGroupMstId": 1068011,
+        "styleMstId": 10680101,
+        "style3dCharacterMstId": 106801
+      },
+      {
+        "style3dCharacterGroupMstId": 1069011,
+        "styleMstId": 10690101,
+        "style3dCharacterMstId": 106901
+      },
+      {
+        "style3dCharacterGroupMstId": 1069012,
+        "styleMstId": 10690102,
+        "style3dCharacterMstId": 106901
+      },
+      {
+        "style3dCharacterGroupMstId": 1070011,
+        "styleMstId": 10700101,
+        "style3dCharacterMstId": 107001
+      },
+      {
+        "style3dCharacterGroupMstId": 1070012,
+        "styleMstId": 10700102,
+        "style3dCharacterMstId": 107001
+      },
+      {
+        "style3dCharacterGroupMstId": 1071011,
+        "styleMstId": 10710101,
+        "style3dCharacterMstId": 107101
+      },
+      {
+        "style3dCharacterGroupMstId": 1071012,
+        "styleMstId": 10710102,
+        "style3dCharacterMstId": 107101
+      },
+      {
+        "style3dCharacterGroupMstId": 1072011,
+        "styleMstId": 10720101,
+        "style3dCharacterMstId": 107201
+      },
+      {
+        "style3dCharacterGroupMstId": 1072012,
+        "styleMstId": 10720102,
+        "style3dCharacterMstId": 107201
+      },
+      {
+        "style3dCharacterGroupMstId": 1074011,
+        "styleMstId": 10740101,
+        "style3dCharacterMstId": 107401
+      },
+      {
+        "style3dCharacterGroupMstId": 1074012,
+        "styleMstId": 10740102,
+        "style3dCharacterMstId": 107401
+      },
+      {
+        "style3dCharacterGroupMstId": 1076011,
+        "styleMstId": 10760101,
+        "style3dCharacterMstId": 107601
+      },
+      {
+        "style3dCharacterGroupMstId": 1076012,
+        "styleMstId": 10760102,
+        "style3dCharacterMstId": 107601
+      },
+      {
+        "style3dCharacterGroupMstId": 1080011,
+        "styleMstId": 10800101,
+        "style3dCharacterMstId": 108001
+      },
+      {
+        "style3dCharacterGroupMstId": 1080021,
+        "styleMstId": 10800201,
+        "style3dCharacterMstId": 108002
+      },
+      {
+        "style3dCharacterGroupMstId": 1081011,
+        "styleMstId": 10810101,
+        "style3dCharacterMstId": 108101
+      },
+      {
+        "style3dCharacterGroupMstId": 1082011,
+        "styleMstId": 10820101,
+        "style3dCharacterMstId": 108201
+      },
+      {
+        "style3dCharacterGroupMstId": 1082012,
+        "styleMstId": 10820102,
+        "style3dCharacterMstId": 108201
+      },
+      {
+        "style3dCharacterGroupMstId": 1083011,
+        "styleMstId": 10830101,
+        "style3dCharacterMstId": 108301
+      },
+      {
+        "style3dCharacterGroupMstId": 1083012,
+        "styleMstId": 10830102,
+        "style3dCharacterMstId": 108301
+      },
+      {
+        "style3dCharacterGroupMstId": 1084011,
+        "styleMstId": 10840101,
+        "style3dCharacterMstId": 108401
+      },
+      {
+        "style3dCharacterGroupMstId": 1084012,
+        "styleMstId": 10840102,
+        "style3dCharacterMstId": 108401
+      },
+      {
+        "style3dCharacterGroupMstId": 1086011,
+        "styleMstId": 10860101,
+        "style3dCharacterMstId": 108601
+      },
+      {
+        "style3dCharacterGroupMstId": 1086012,
+        "styleMstId": 10860102,
+        "style3dCharacterMstId": 108601
+      },
+      {
+        "style3dCharacterGroupMstId": 1086021,
+        "styleMstId": 10860201,
+        "style3dCharacterMstId": 108602
+      },
+      {
+        "style3dCharacterGroupMstId": 1090011,
+        "styleMstId": 10900101,
+        "style3dCharacterMstId": 109001
+      },
+      {
+        "style3dCharacterGroupMstId": 1090012,
+        "styleMstId": 10900102,
+        "style3dCharacterMstId": 109001
+      },
+      {
+        "style3dCharacterGroupMstId": 1092011,
+        "styleMstId": 10920101,
+        "style3dCharacterMstId": 109201
+      },
+      {
+        "style3dCharacterGroupMstId": 1098011,
+        "styleMstId": 10980101,
+        "style3dCharacterMstId": 109801
+      },
+      {
+        "style3dCharacterGroupMstId": 1104011,
+        "styleMstId": 11040101,
+        "style3dCharacterMstId": 110401
+      },
+      {
+        "style3dCharacterGroupMstId": 1107011,
+        "styleMstId": 11070101,
+        "style3dCharacterMstId": 110701
+      },
+      {
+        "style3dCharacterGroupMstId": 1107012,
+        "styleMstId": 11070102,
+        "style3dCharacterMstId": 110701
+      },
+      {
+        "style3dCharacterGroupMstId": 1114011,
+        "styleMstId": 11140101,
+        "style3dCharacterMstId": 111401
+      },
+      {
+        "style3dCharacterGroupMstId": 1114012,
+        "styleMstId": 11140102,
+        "style3dCharacterMstId": 111401
+      },
+      {
+        "style3dCharacterGroupMstId": 1124011,
+        "styleMstId": 11240101,
+        "style3dCharacterMstId": 112401
+      },
+      {
+        "style3dCharacterGroupMstId": 1125011,
+        "styleMstId": 11250101,
+        "style3dCharacterMstId": 112501
+      },
+      {
+        "style3dCharacterGroupMstId": 1126011,
+        "styleMstId": 11260101,
+        "style3dCharacterMstId": 112601
+      },
+      {
+        "style3dCharacterGroupMstId": 1126012,
+        "styleMstId": 11260102,
+        "style3dCharacterMstId": 112601
+      },
+      {
+        "style3dCharacterGroupMstId": 1133011,
+        "styleMstId": 11330101,
+        "style3dCharacterMstId": 113301
+      },
+      {
+        "style3dCharacterGroupMstId": 1138011,
+        "styleMstId": 11380101,
+        "style3dCharacterMstId": 113801
+      }
+    ]
+  }
+}

@@ -362,6 +362,726 @@
         "groupId": 106,
         "rank": 10,
         "questRewardGroupId": 50060
+      },
+      {
+        "multiRaidScoreRewardMstId": 10701,
+        "groupId": 107,
+        "rank": 1,
+        "questRewardGroupId": 50061
+      },
+      {
+        "multiRaidScoreRewardMstId": 10702,
+        "groupId": 107,
+        "rank": 2,
+        "questRewardGroupId": 50062
+      },
+      {
+        "multiRaidScoreRewardMstId": 10703,
+        "groupId": 107,
+        "rank": 3,
+        "questRewardGroupId": 50063
+      },
+      {
+        "multiRaidScoreRewardMstId": 10704,
+        "groupId": 107,
+        "rank": 4,
+        "questRewardGroupId": 50064
+      },
+      {
+        "multiRaidScoreRewardMstId": 10705,
+        "groupId": 107,
+        "rank": 5,
+        "questRewardGroupId": 50065
+      },
+      {
+        "multiRaidScoreRewardMstId": 10706,
+        "groupId": 107,
+        "rank": 6,
+        "questRewardGroupId": 50066
+      },
+      {
+        "multiRaidScoreRewardMstId": 10707,
+        "groupId": 107,
+        "rank": 7,
+        "questRewardGroupId": 50067
+      },
+      {
+        "multiRaidScoreRewardMstId": 10708,
+        "groupId": 107,
+        "rank": 8,
+        "questRewardGroupId": 50068
+      },
+      {
+        "multiRaidScoreRewardMstId": 10709,
+        "groupId": 107,
+        "rank": 9,
+        "questRewardGroupId": 50069
+      },
+      {
+        "multiRaidScoreRewardMstId": 10710,
+        "groupId": 107,
+        "rank": 10,
+        "questRewardGroupId": 50070
+      },
+      {
+        "multiRaidScoreRewardMstId": 10801,
+        "groupId": 108,
+        "rank": 1,
+        "questRewardGroupId": 50071
+      },
+      {
+        "multiRaidScoreRewardMstId": 10802,
+        "groupId": 108,
+        "rank": 2,
+        "questRewardGroupId": 50072
+      },
+      {
+        "multiRaidScoreRewardMstId": 10803,
+        "groupId": 108,
+        "rank": 3,
+        "questRewardGroupId": 50073
+      },
+      {
+        "multiRaidScoreRewardMstId": 10804,
+        "groupId": 108,
+        "rank": 4,
+        "questRewardGroupId": 50074
+      },
+      {
+        "multiRaidScoreRewardMstId": 10805,
+        "groupId": 108,
+        "rank": 5,
+        "questRewardGroupId": 50075
+      },
+      {
+        "multiRaidScoreRewardMstId": 10806,
+        "groupId": 108,
+        "rank": 6,
+        "questRewardGroupId": 50076
+      },
+      {
+        "multiRaidScoreRewardMstId": 10807,
+        "groupId": 108,
+        "rank": 7,
+        "questRewardGroupId": 50077
+      },
+      {
+        "multiRaidScoreRewardMstId": 10808,
+        "groupId": 108,
+        "rank": 8,
+        "questRewardGroupId": 50078
+      },
+      {
+        "multiRaidScoreRewardMstId": 10809,
+        "groupId": 108,
+        "rank": 9,
+        "questRewardGroupId": 50079
+      },
+      {
+        "multiRaidScoreRewardMstId": 10810,
+        "groupId": 108,
+        "rank": 10,
+        "questRewardGroupId": 50080
+      },
+      {
+        "multiRaidScoreRewardMstId": 10901,
+        "groupId": 109,
+        "rank": 1,
+        "questRewardGroupId": 50081
+      },
+      {
+        "multiRaidScoreRewardMstId": 10902,
+        "groupId": 109,
+        "rank": 2,
+        "questRewardGroupId": 50082
+      },
+      {
+        "multiRaidScoreRewardMstId": 10903,
+        "groupId": 109,
+        "rank": 3,
+        "questRewardGroupId": 50083
+      },
+      {
+        "multiRaidScoreRewardMstId": 10904,
+        "groupId": 109,
+        "rank": 4,
+        "questRewardGroupId": 50084
+      },
+      {
+        "multiRaidScoreRewardMstId": 10905,
+        "groupId": 109,
+        "rank": 5,
+        "questRewardGroupId": 50085
+      },
+      {
+        "multiRaidScoreRewardMstId": 10906,
+        "groupId": 109,
+        "rank": 6,
+        "questRewardGroupId": 50086
+      },
+      {
+        "multiRaidScoreRewardMstId": 10907,
+        "groupId": 109,
+        "rank": 7,
+        "questRewardGroupId": 50087
+      },
+      {
+        "multiRaidScoreRewardMstId": 10908,
+        "groupId": 109,
+        "rank": 8,
+        "questRewardGroupId": 50088
+      },
+      {
+        "multiRaidScoreRewardMstId": 10909,
+        "groupId": 109,
+        "rank": 9,
+        "questRewardGroupId": 50089
+      },
+      {
+        "multiRaidScoreRewardMstId": 10910,
+        "groupId": 109,
+        "rank": 10,
+        "questRewardGroupId": 50090
+      },
+      {
+        "multiRaidScoreRewardMstId": 11001,
+        "groupId": 110,
+        "rank": 1,
+        "questRewardGroupId": 50091
+      },
+      {
+        "multiRaidScoreRewardMstId": 11002,
+        "groupId": 110,
+        "rank": 2,
+        "questRewardGroupId": 50092
+      },
+      {
+        "multiRaidScoreRewardMstId": 11003,
+        "groupId": 110,
+        "rank": 3,
+        "questRewardGroupId": 50093
+      },
+      {
+        "multiRaidScoreRewardMstId": 11004,
+        "groupId": 110,
+        "rank": 4,
+        "questRewardGroupId": 50094
+      },
+      {
+        "multiRaidScoreRewardMstId": 11005,
+        "groupId": 110,
+        "rank": 5,
+        "questRewardGroupId": 50095
+      },
+      {
+        "multiRaidScoreRewardMstId": 11006,
+        "groupId": 110,
+        "rank": 6,
+        "questRewardGroupId": 50096
+      },
+      {
+        "multiRaidScoreRewardMstId": 11007,
+        "groupId": 110,
+        "rank": 7,
+        "questRewardGroupId": 50097
+      },
+      {
+        "multiRaidScoreRewardMstId": 11008,
+        "groupId": 110,
+        "rank": 8,
+        "questRewardGroupId": 50098
+      },
+      {
+        "multiRaidScoreRewardMstId": 11009,
+        "groupId": 110,
+        "rank": 9,
+        "questRewardGroupId": 50099
+      },
+      {
+        "multiRaidScoreRewardMstId": 11010,
+        "groupId": 110,
+        "rank": 10,
+        "questRewardGroupId": 50100
+      },
+      {
+        "multiRaidScoreRewardMstId": 11101,
+        "groupId": 111,
+        "rank": 1,
+        "questRewardGroupId": 50101
+      },
+      {
+        "multiRaidScoreRewardMstId": 11102,
+        "groupId": 111,
+        "rank": 2,
+        "questRewardGroupId": 50102
+      },
+      {
+        "multiRaidScoreRewardMstId": 11103,
+        "groupId": 111,
+        "rank": 3,
+        "questRewardGroupId": 50103
+      },
+      {
+        "multiRaidScoreRewardMstId": 11104,
+        "groupId": 111,
+        "rank": 4,
+        "questRewardGroupId": 50104
+      },
+      {
+        "multiRaidScoreRewardMstId": 11105,
+        "groupId": 111,
+        "rank": 5,
+        "questRewardGroupId": 50105
+      },
+      {
+        "multiRaidScoreRewardMstId": 11106,
+        "groupId": 111,
+        "rank": 6,
+        "questRewardGroupId": 50106
+      },
+      {
+        "multiRaidScoreRewardMstId": 11107,
+        "groupId": 111,
+        "rank": 7,
+        "questRewardGroupId": 50107
+      },
+      {
+        "multiRaidScoreRewardMstId": 11108,
+        "groupId": 111,
+        "rank": 8,
+        "questRewardGroupId": 50108
+      },
+      {
+        "multiRaidScoreRewardMstId": 11109,
+        "groupId": 111,
+        "rank": 9,
+        "questRewardGroupId": 50109
+      },
+      {
+        "multiRaidScoreRewardMstId": 11110,
+        "groupId": 111,
+        "rank": 10,
+        "questRewardGroupId": 50110
+      },
+      {
+        "multiRaidScoreRewardMstId": 11201,
+        "groupId": 112,
+        "rank": 1,
+        "questRewardGroupId": 50111
+      },
+      {
+        "multiRaidScoreRewardMstId": 11202,
+        "groupId": 112,
+        "rank": 2,
+        "questRewardGroupId": 50112
+      },
+      {
+        "multiRaidScoreRewardMstId": 11203,
+        "groupId": 112,
+        "rank": 3,
+        "questRewardGroupId": 50113
+      },
+      {
+        "multiRaidScoreRewardMstId": 11204,
+        "groupId": 112,
+        "rank": 4,
+        "questRewardGroupId": 50114
+      },
+      {
+        "multiRaidScoreRewardMstId": 11205,
+        "groupId": 112,
+        "rank": 5,
+        "questRewardGroupId": 50115
+      },
+      {
+        "multiRaidScoreRewardMstId": 11206,
+        "groupId": 112,
+        "rank": 6,
+        "questRewardGroupId": 50116
+      },
+      {
+        "multiRaidScoreRewardMstId": 11207,
+        "groupId": 112,
+        "rank": 7,
+        "questRewardGroupId": 50117
+      },
+      {
+        "multiRaidScoreRewardMstId": 11208,
+        "groupId": 112,
+        "rank": 8,
+        "questRewardGroupId": 50118
+      },
+      {
+        "multiRaidScoreRewardMstId": 11209,
+        "groupId": 112,
+        "rank": 9,
+        "questRewardGroupId": 50119
+      },
+      {
+        "multiRaidScoreRewardMstId": 11210,
+        "groupId": 112,
+        "rank": 10,
+        "questRewardGroupId": 50120
+      },
+      {
+        "multiRaidScoreRewardMstId": 11301,
+        "groupId": 113,
+        "rank": 1,
+        "questRewardGroupId": 50121
+      },
+      {
+        "multiRaidScoreRewardMstId": 11302,
+        "groupId": 113,
+        "rank": 2,
+        "questRewardGroupId": 50122
+      },
+      {
+        "multiRaidScoreRewardMstId": 11303,
+        "groupId": 113,
+        "rank": 3,
+        "questRewardGroupId": 50123
+      },
+      {
+        "multiRaidScoreRewardMstId": 11304,
+        "groupId": 113,
+        "rank": 4,
+        "questRewardGroupId": 50124
+      },
+      {
+        "multiRaidScoreRewardMstId": 11305,
+        "groupId": 113,
+        "rank": 5,
+        "questRewardGroupId": 50125
+      },
+      {
+        "multiRaidScoreRewardMstId": 11306,
+        "groupId": 113,
+        "rank": 6,
+        "questRewardGroupId": 50126
+      },
+      {
+        "multiRaidScoreRewardMstId": 11307,
+        "groupId": 113,
+        "rank": 7,
+        "questRewardGroupId": 50127
+      },
+      {
+        "multiRaidScoreRewardMstId": 11308,
+        "groupId": 113,
+        "rank": 8,
+        "questRewardGroupId": 50128
+      },
+      {
+        "multiRaidScoreRewardMstId": 11309,
+        "groupId": 113,
+        "rank": 9,
+        "questRewardGroupId": 50129
+      },
+      {
+        "multiRaidScoreRewardMstId": 11310,
+        "groupId": 113,
+        "rank": 10,
+        "questRewardGroupId": 50130
+      },
+      {
+        "multiRaidScoreRewardMstId": 11401,
+        "groupId": 114,
+        "rank": 1,
+        "questRewardGroupId": 50131
+      },
+      {
+        "multiRaidScoreRewardMstId": 11402,
+        "groupId": 114,
+        "rank": 2,
+        "questRewardGroupId": 50132
+      },
+      {
+        "multiRaidScoreRewardMstId": 11403,
+        "groupId": 114,
+        "rank": 3,
+        "questRewardGroupId": 50133
+      },
+      {
+        "multiRaidScoreRewardMstId": 11404,
+        "groupId": 114,
+        "rank": 4,
+        "questRewardGroupId": 50134
+      },
+      {
+        "multiRaidScoreRewardMstId": 11405,
+        "groupId": 114,
+        "rank": 5,
+        "questRewardGroupId": 50135
+      },
+      {
+        "multiRaidScoreRewardMstId": 11406,
+        "groupId": 114,
+        "rank": 6,
+        "questRewardGroupId": 50136
+      },
+      {
+        "multiRaidScoreRewardMstId": 11407,
+        "groupId": 114,
+        "rank": 7,
+        "questRewardGroupId": 50137
+      },
+      {
+        "multiRaidScoreRewardMstId": 11408,
+        "groupId": 114,
+        "rank": 8,
+        "questRewardGroupId": 50138
+      },
+      {
+        "multiRaidScoreRewardMstId": 11409,
+        "groupId": 114,
+        "rank": 9,
+        "questRewardGroupId": 50139
+      },
+      {
+        "multiRaidScoreRewardMstId": 11410,
+        "groupId": 114,
+        "rank": 10,
+        "questRewardGroupId": 50140
+      },
+      {
+        "multiRaidScoreRewardMstId": 11501,
+        "groupId": 115,
+        "rank": 1,
+        "questRewardGroupId": 50141
+      },
+      {
+        "multiRaidScoreRewardMstId": 11502,
+        "groupId": 115,
+        "rank": 2,
+        "questRewardGroupId": 50142
+      },
+      {
+        "multiRaidScoreRewardMstId": 11503,
+        "groupId": 115,
+        "rank": 3,
+        "questRewardGroupId": 50143
+      },
+      {
+        "multiRaidScoreRewardMstId": 11504,
+        "groupId": 115,
+        "rank": 4,
+        "questRewardGroupId": 50144
+      },
+      {
+        "multiRaidScoreRewardMstId": 11505,
+        "groupId": 115,
+        "rank": 5,
+        "questRewardGroupId": 50145
+      },
+      {
+        "multiRaidScoreRewardMstId": 11506,
+        "groupId": 115,
+        "rank": 6,
+        "questRewardGroupId": 50146
+      },
+      {
+        "multiRaidScoreRewardMstId": 11507,
+        "groupId": 115,
+        "rank": 7,
+        "questRewardGroupId": 50147
+      },
+      {
+        "multiRaidScoreRewardMstId": 11508,
+        "groupId": 115,
+        "rank": 8,
+        "questRewardGroupId": 50148
+      },
+      {
+        "multiRaidScoreRewardMstId": 11509,
+        "groupId": 115,
+        "rank": 9,
+        "questRewardGroupId": 50149
+      },
+      {
+        "multiRaidScoreRewardMstId": 11510,
+        "groupId": 115,
+        "rank": 10,
+        "questRewardGroupId": 50150
+      },
+      {
+        "multiRaidScoreRewardMstId": 11601,
+        "groupId": 116,
+        "rank": 1,
+        "questRewardGroupId": 50151
+      },
+      {
+        "multiRaidScoreRewardMstId": 11602,
+        "groupId": 116,
+        "rank": 2,
+        "questRewardGroupId": 50152
+      },
+      {
+        "multiRaidScoreRewardMstId": 11603,
+        "groupId": 116,
+        "rank": 3,
+        "questRewardGroupId": 50153
+      },
+      {
+        "multiRaidScoreRewardMstId": 11604,
+        "groupId": 116,
+        "rank": 4,
+        "questRewardGroupId": 50154
+      },
+      {
+        "multiRaidScoreRewardMstId": 11605,
+        "groupId": 116,
+        "rank": 5,
+        "questRewardGroupId": 50155
+      },
+      {
+        "multiRaidScoreRewardMstId": 11606,
+        "groupId": 116,
+        "rank": 6,
+        "questRewardGroupId": 50156
+      },
+      {
+        "multiRaidScoreRewardMstId": 11607,
+        "groupId": 116,
+        "rank": 7,
+        "questRewardGroupId": 50157
+      },
+      {
+        "multiRaidScoreRewardMstId": 11608,
+        "groupId": 116,
+        "rank": 8,
+        "questRewardGroupId": 50158
+      },
+      {
+        "multiRaidScoreRewardMstId": 11609,
+        "groupId": 116,
+        "rank": 9,
+        "questRewardGroupId": 50159
+      },
+      {
+        "multiRaidScoreRewardMstId": 11610,
+        "groupId": 116,
+        "rank": 10,
+        "questRewardGroupId": 50160
+      },
+      {
+        "multiRaidScoreRewardMstId": 11701,
+        "groupId": 117,
+        "rank": 1,
+        "questRewardGroupId": 50161
+      },
+      {
+        "multiRaidScoreRewardMstId": 11702,
+        "groupId": 117,
+        "rank": 2,
+        "questRewardGroupId": 50162
+      },
+      {
+        "multiRaidScoreRewardMstId": 11703,
+        "groupId": 117,
+        "rank": 3,
+        "questRewardGroupId": 50163
+      },
+      {
+        "multiRaidScoreRewardMstId": 11704,
+        "groupId": 117,
+        "rank": 4,
+        "questRewardGroupId": 50164
+      },
+      {
+        "multiRaidScoreRewardMstId": 11705,
+        "groupId": 117,
+        "rank": 5,
+        "questRewardGroupId": 50165
+      },
+      {
+        "multiRaidScoreRewardMstId": 11706,
+        "groupId": 117,
+        "rank": 6,
+        "questRewardGroupId": 50166
+      },
+      {
+        "multiRaidScoreRewardMstId": 11707,
+        "groupId": 117,
+        "rank": 7,
+        "questRewardGroupId": 50167
+      },
+      {
+        "multiRaidScoreRewardMstId": 11708,
+        "groupId": 117,
+        "rank": 8,
+        "questRewardGroupId": 50168
+      },
+      {
+        "multiRaidScoreRewardMstId": 11709,
+        "groupId": 117,
+        "rank": 9,
+        "questRewardGroupId": 50169
+      },
+      {
+        "multiRaidScoreRewardMstId": 11710,
+        "groupId": 117,
+        "rank": 10,
+        "questRewardGroupId": 50170
+      },
+      {
+        "multiRaidScoreRewardMstId": 11801,
+        "groupId": 118,
+        "rank": 1,
+        "questRewardGroupId": 50171
+      },
+      {
+        "multiRaidScoreRewardMstId": 11802,
+        "groupId": 118,
+        "rank": 2,
+        "questRewardGroupId": 50172
+      },
+      {
+        "multiRaidScoreRewardMstId": 11803,
+        "groupId": 118,
+        "rank": 3,
+        "questRewardGroupId": 50173
+      },
+      {
+        "multiRaidScoreRewardMstId": 11804,
+        "groupId": 118,
+        "rank": 4,
+        "questRewardGroupId": 50174
+      },
+      {
+        "multiRaidScoreRewardMstId": 11805,
+        "groupId": 118,
+        "rank": 5,
+        "questRewardGroupId": 50175
+      },
+      {
+        "multiRaidScoreRewardMstId": 11806,
+        "groupId": 118,
+        "rank": 6,
+        "questRewardGroupId": 50176
+      },
+      {
+        "multiRaidScoreRewardMstId": 11807,
+        "groupId": 118,
+        "rank": 7,
+        "questRewardGroupId": 50177
+      },
+      {
+        "multiRaidScoreRewardMstId": 11808,
+        "groupId": 118,
+        "rank": 8,
+        "questRewardGroupId": 50178
+      },
+      {
+        "multiRaidScoreRewardMstId": 11809,
+        "groupId": 118,
+        "rank": 9,
+        "questRewardGroupId": 50179
+      },
+      {
+        "multiRaidScoreRewardMstId": 11810,
+        "groupId": 118,
+        "rank": 10,
+        "questRewardGroupId": 50180
       }
     ]
   }

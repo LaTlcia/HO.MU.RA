@@ -186,6 +186,27 @@
         "value2": 0
       },
       {
+        "questConditionMstId": 111401,
+        "conditionGroupId": 111401,
+        "conditionType": 5,
+        "value1": 18,
+        "value2": 0
+      },
+      {
+        "questConditionMstId": 112401,
+        "conditionGroupId": 112401,
+        "conditionType": 5,
+        "value1": 18,
+        "value2": 0
+      },
+      {
+        "questConditionMstId": 114401,
+        "conditionGroupId": 114401,
+        "conditionType": 5,
+        "value1": 18,
+        "value2": 0
+      },
+      {
         "questConditionMstId": 1101010,
         "conditionGroupId": 1101010,
         "conditionType": 4,
@@ -326,6 +347,27 @@
         "value2": 0
       },
       {
+        "questConditionMstId": 1101610,
+        "conditionGroupId": 1101610,
+        "conditionType": 4,
+        "value1": 124111,
+        "value2": 0
+      },
+      {
+        "questConditionMstId": 1101640,
+        "conditionGroupId": 1101640,
+        "conditionType": 4,
+        "value1": 125112,
+        "value2": 0
+      },
+      {
+        "questConditionMstId": 1101670,
+        "conditionGroupId": 1101670,
+        "conditionType": 4,
+        "value1": 129142,
+        "value2": 0
+      },
+      {
         "questConditionMstId": 1123010,
         "conditionGroupId": 1123010,
         "conditionType": 4,
@@ -463,6 +505,27 @@
         "conditionGroupId": 1123580,
         "conditionType": 4,
         "value1": 122324,
+        "value2": 0
+      },
+      {
+        "questConditionMstId": 1123610,
+        "conditionGroupId": 1123610,
+        "conditionType": 4,
+        "value1": 124311,
+        "value2": 0
+      },
+      {
+        "questConditionMstId": 1123640,
+        "conditionGroupId": 1123640,
+        "conditionType": 4,
+        "value1": 125315,
+        "value2": 0
+      },
+      {
+        "questConditionMstId": 1123670,
+        "conditionGroupId": 1123670,
+        "conditionType": 4,
+        "value1": 129326,
         "value2": 0
       }
     ]

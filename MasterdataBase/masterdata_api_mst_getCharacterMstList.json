@@ -46,6 +46,13 @@
         "colorCode": "#E64545"
       },
       {
+        "characterMstId": 1006,
+        "name": "百江なぎさ",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1006",
+        "colorCode": "#B192C0"
+      },
+      {
         "characterMstId": 1007,
         "name": "愛生まばゆ",
         "awakeItemMstId": 0,
@@ -86,6 +93,13 @@
         "awakeItemMstId": 0,
         "iconResourceName": "1012",
         "colorCode": "#8D6AD2"
+      },
+      {
+        "characterMstId": 1013,
+        "name": "梓みふゆ",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1013",
+        "colorCode": "#7c8aa7"
       },
       {
         "characterMstId": 1014,
@@ -149,6 +163,13 @@
         "awakeItemMstId": 0,
         "iconResourceName": "1022",
         "colorCode": "#d14c69"
+      },
+      {
+        "characterMstId": 1024,
+        "name": "八雲みたま",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1024",
+        "colorCode": "#3d78c1"
       },
       {
         "characterMstId": 1025,
@@ -284,11 +305,25 @@
         "colorCode": "#39ADE1"
       },
       {
+        "characterMstId": 1092,
+        "name": "安名メル",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1092",
+        "colorCode": "#4EF6D5"
+      },
+      {
         "characterMstId": 1098,
         "name": "万年桜のウワサ",
         "awakeItemMstId": 0,
         "iconResourceName": "1098",
         "colorCode": "#FFAEDC"
+      },
+      {
+        "characterMstId": 1104,
+        "name": "雪野かなえ",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1104",
+        "colorCode": "#EB4877"
       },
       {
         "characterMstId": 1107,
@@ -324,6 +359,13 @@
         "awakeItemMstId": 0,
         "iconResourceName": "1126",
         "colorCode": "#ACCDA1"
+      },
+      {
+        "characterMstId": 1133,
+        "name": "浅古小糸",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1133",
+        "colorCode": "#FF61CC"
       }
     ]
   }

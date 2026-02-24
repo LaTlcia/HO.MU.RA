@@ -34,6 +34,11 @@
         "sortOrder": 7
       },
       {
+        "characterTeamMstId": 8,
+        "name": "チームやちよ",
+        "sortOrder": 8
+      },
+      {
         "characterTeamMstId": 9,
         "name": "マギウスの翼",
         "sortOrder": 9

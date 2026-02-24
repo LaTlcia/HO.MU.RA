@@ -1,0 +1,1088 @@
+{
+  "url": "/api/mst/getStyleLive2dCostumeGroupMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "styleLive2dCostumeGroupMstId": 1001001,
+        "styleMstId": 10010101,
+        "styleLive2dCostumeMstId": 100100
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1001002,
+        "styleMstId": 10010701,
+        "styleLive2dCostumeMstId": 100100
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1001011,
+        "styleMstId": 10010101,
+        "styleLive2dCostumeMstId": 100101
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1001012,
+        "styleMstId": 10010701,
+        "styleLive2dCostumeMstId": 100101
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1001021,
+        "styleMstId": 10010101,
+        "styleLive2dCostumeMstId": 100102
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1001022,
+        "styleMstId": 10010701,
+        "styleLive2dCostumeMstId": 100102
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1001031,
+        "styleMstId": 10010101,
+        "styleLive2dCostumeMstId": 100103
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1001032,
+        "styleMstId": 10010701,
+        "styleLive2dCostumeMstId": 100103
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1001041,
+        "styleMstId": 10010101,
+        "styleLive2dCostumeMstId": 100104
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1001042,
+        "styleMstId": 10010701,
+        "styleLive2dCostumeMstId": 100104
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1001051,
+        "styleMstId": 10010101,
+        "styleLive2dCostumeMstId": 100105
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1001052,
+        "styleMstId": 10010701,
+        "styleLive2dCostumeMstId": 100105
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1001071,
+        "styleMstId": 10010101,
+        "styleLive2dCostumeMstId": 100107
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1001072,
+        "styleMstId": 10010701,
+        "styleLive2dCostumeMstId": 100107
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1001101,
+        "styleMstId": 11370101,
+        "styleLive2dCostumeMstId": 100110
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1001201,
+        "styleMstId": 10010601,
+        "styleLive2dCostumeMstId": 100120
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1001301,
+        "styleMstId": 10010301,
+        "styleLive2dCostumeMstId": 100130
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1002001,
+        "styleMstId": 10020201,
+        "styleLive2dCostumeMstId": 100200
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1002011,
+        "styleMstId": 10020201,
+        "styleLive2dCostumeMstId": 100201
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1002021,
+        "styleMstId": 10020201,
+        "styleLive2dCostumeMstId": 100202
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1002031,
+        "styleMstId": 10020201,
+        "styleLive2dCostumeMstId": 100203
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1002041,
+        "styleMstId": 10020201,
+        "styleLive2dCostumeMstId": 100204
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1002101,
+        "styleMstId": 10020101,
+        "styleLive2dCostumeMstId": 100210
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1002111,
+        "styleMstId": 10020101,
+        "styleLive2dCostumeMstId": 100211
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1002121,
+        "styleMstId": 10020101,
+        "styleLive2dCostumeMstId": 100212
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1002131,
+        "styleMstId": 10020101,
+        "styleLive2dCostumeMstId": 100213
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1002141,
+        "styleMstId": 10020101,
+        "styleLive2dCostumeMstId": 100214
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1002151,
+        "styleMstId": 10020101,
+        "styleLive2dCostumeMstId": 100215
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1002201,
+        "styleMstId": 10020301,
+        "styleLive2dCostumeMstId": 100220
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1002211,
+        "styleMstId": 10020301,
+        "styleLive2dCostumeMstId": 100221
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1002301,
+        "styleMstId": 11380101,
+        "styleLive2dCostumeMstId": 100230
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1002311,
+        "styleMstId": 11380101,
+        "styleLive2dCostumeMstId": 100231
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1003001,
+        "styleMstId": 10030101,
+        "styleLive2dCostumeMstId": 100300
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1003011,
+        "styleMstId": 10030101,
+        "styleLive2dCostumeMstId": 100301
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1003021,
+        "styleMstId": 10030101,
+        "styleLive2dCostumeMstId": 100302
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1003031,
+        "styleMstId": 10030101,
+        "styleLive2dCostumeMstId": 100303
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1003101,
+        "styleMstId": 10030301,
+        "styleLive2dCostumeMstId": 100310
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1003201,
+        "styleMstId": 11390101,
+        "styleLive2dCostumeMstId": 100320
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1003301,
+        "styleMstId": 10030201,
+        "styleLive2dCostumeMstId": 100330
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1004001,
+        "styleMstId": 10040101,
+        "styleLive2dCostumeMstId": 100400
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1004011,
+        "styleMstId": 10040101,
+        "styleLive2dCostumeMstId": 100401
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1004021,
+        "styleMstId": 10040101,
+        "styleLive2dCostumeMstId": 100402
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1004031,
+        "styleMstId": 10040101,
+        "styleLive2dCostumeMstId": 100403
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1004101,
+        "styleMstId": 10040201,
+        "styleLive2dCostumeMstId": 100410
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1004201,
+        "styleMstId": 10040301,
+        "styleLive2dCostumeMstId": 100420
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1005001,
+        "styleMstId": 10050101,
+        "styleLive2dCostumeMstId": 100500
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1005011,
+        "styleMstId": 10050101,
+        "styleLive2dCostumeMstId": 100501
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1005021,
+        "styleMstId": 10050101,
+        "styleLive2dCostumeMstId": 100502
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1005031,
+        "styleMstId": 10050101,
+        "styleLive2dCostumeMstId": 100503
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1005041,
+        "styleMstId": 10050101,
+        "styleLive2dCostumeMstId": 100504
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1005051,
+        "styleMstId": 10050101,
+        "styleLive2dCostumeMstId": 100505
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1005101,
+        "styleMstId": 10050301,
+        "styleLive2dCostumeMstId": 100510
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1005201,
+        "styleMstId": 10050401,
+        "styleLive2dCostumeMstId": 100520
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1006001,
+        "styleMstId": 10060101,
+        "styleLive2dCostumeMstId": 100600
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1006011,
+        "styleMstId": 10060101,
+        "styleLive2dCostumeMstId": 100601
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1006021,
+        "styleMstId": 10060101,
+        "styleLive2dCostumeMstId": 100602
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1006031,
+        "styleMstId": 10060101,
+        "styleLive2dCostumeMstId": 100603
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1007001,
+        "styleMstId": 10070101,
+        "styleLive2dCostumeMstId": 100700
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1007011,
+        "styleMstId": 10070101,
+        "styleLive2dCostumeMstId": 100701
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1007021,
+        "styleMstId": 10070101,
+        "styleLive2dCostumeMstId": 100702
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1007031,
+        "styleMstId": 10070101,
+        "styleLive2dCostumeMstId": 100703
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1007041,
+        "styleMstId": 10070101,
+        "styleLive2dCostumeMstId": 100704
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1007101,
+        "styleMstId": 10070201,
+        "styleLive2dCostumeMstId": 100710
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1007111,
+        "styleMstId": 10070201,
+        "styleLive2dCostumeMstId": 100711
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1007121,
+        "styleMstId": 10070201,
+        "styleLive2dCostumeMstId": 100712
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1008001,
+        "styleMstId": 10080101,
+        "styleLive2dCostumeMstId": 100800
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1008011,
+        "styleMstId": 10080101,
+        "styleLive2dCostumeMstId": 100801
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1008021,
+        "styleMstId": 10080101,
+        "styleLive2dCostumeMstId": 100802
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1008031,
+        "styleMstId": 10080101,
+        "styleLive2dCostumeMstId": 100803
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1008041,
+        "styleMstId": 10080101,
+        "styleLive2dCostumeMstId": 100804
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1008101,
+        "styleMstId": 10080102,
+        "styleLive2dCostumeMstId": 100810
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1009001,
+        "styleMstId": 10090101,
+        "styleLive2dCostumeMstId": 100900
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1009011,
+        "styleMstId": 10090101,
+        "styleLive2dCostumeMstId": 100901
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1009021,
+        "styleMstId": 10090101,
+        "styleLive2dCostumeMstId": 100902
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1009031,
+        "styleMstId": 10090101,
+        "styleLive2dCostumeMstId": 100903
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1009041,
+        "styleMstId": 10090101,
+        "styleLive2dCostumeMstId": 100904
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1010001,
+        "styleMstId": 10100101,
+        "styleLive2dCostumeMstId": 101000
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1010011,
+        "styleMstId": 10100101,
+        "styleLive2dCostumeMstId": 101001
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1010021,
+        "styleMstId": 10100101,
+        "styleLive2dCostumeMstId": 101002
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1010031,
+        "styleMstId": 10100101,
+        "styleLive2dCostumeMstId": 101003
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1011001,
+        "styleMstId": 10110101,
+        "styleLive2dCostumeMstId": 101100
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1011011,
+        "styleMstId": 10110101,
+        "styleLive2dCostumeMstId": 101101
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1011021,
+        "styleMstId": 10110101,
+        "styleLive2dCostumeMstId": 101102
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1012001,
+        "styleMstId": 10120101,
+        "styleLive2dCostumeMstId": 101200
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1012011,
+        "styleMstId": 10120101,
+        "styleLive2dCostumeMstId": 101201
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1012021,
+        "styleMstId": 10120101,
+        "styleLive2dCostumeMstId": 101202
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1013001,
+        "styleMstId": 10130101,
+        "styleLive2dCostumeMstId": 101300
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1013011,
+        "styleMstId": 10130101,
+        "styleLive2dCostumeMstId": 101301
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1013021,
+        "styleMstId": 10130101,
+        "styleLive2dCostumeMstId": 101302
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1014001,
+        "styleMstId": 10140101,
+        "styleLive2dCostumeMstId": 101400
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1014011,
+        "styleMstId": 10140101,
+        "styleLive2dCostumeMstId": 101401
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1015001,
+        "styleMstId": 10150101,
+        "styleLive2dCostumeMstId": 101500
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1015011,
+        "styleMstId": 10150101,
+        "styleLive2dCostumeMstId": 101501
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1016001,
+        "styleMstId": 10160101,
+        "styleLive2dCostumeMstId": 101600
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1016011,
+        "styleMstId": 10160101,
+        "styleLive2dCostumeMstId": 101601
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1017001,
+        "styleMstId": 10170101,
+        "styleLive2dCostumeMstId": 101700
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1017002,
+        "styleMstId": 10170102,
+        "styleLive2dCostumeMstId": 101700
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1017011,
+        "styleMstId": 10170101,
+        "styleLive2dCostumeMstId": 101701
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1017012,
+        "styleMstId": 10170102,
+        "styleLive2dCostumeMstId": 101701
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1018001,
+        "styleMstId": 10180101,
+        "styleLive2dCostumeMstId": 101800
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1018002,
+        "styleMstId": 10180102,
+        "styleLive2dCostumeMstId": 101800
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1018011,
+        "styleMstId": 10180101,
+        "styleLive2dCostumeMstId": 101801
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1018012,
+        "styleMstId": 10180102,
+        "styleLive2dCostumeMstId": 101801
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1019001,
+        "styleMstId": 10190101,
+        "styleLive2dCostumeMstId": 101900
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1019011,
+        "styleMstId": 10190101,
+        "styleLive2dCostumeMstId": 101901
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1019021,
+        "styleMstId": 10190101,
+        "styleLive2dCostumeMstId": 101902
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1020001,
+        "styleMstId": 10200101,
+        "styleLive2dCostumeMstId": 102000
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1020011,
+        "styleMstId": 10200101,
+        "styleLive2dCostumeMstId": 102001
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1020021,
+        "styleMstId": 10200101,
+        "styleLive2dCostumeMstId": 102002
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1020031,
+        "styleMstId": 10200101,
+        "styleLive2dCostumeMstId": 102003
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1021001,
+        "styleMstId": 10210101,
+        "styleLive2dCostumeMstId": 102100
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1021011,
+        "styleMstId": 10210101,
+        "styleLive2dCostumeMstId": 102101
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1021101,
+        "styleMstId": 10210201,
+        "styleLive2dCostumeMstId": 102110
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1022001,
+        "styleMstId": 10220101,
+        "styleLive2dCostumeMstId": 102200
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1022011,
+        "styleMstId": 10220101,
+        "styleLive2dCostumeMstId": 102201
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1022021,
+        "styleMstId": 10220101,
+        "styleLive2dCostumeMstId": 102202
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1024001,
+        "styleMstId": 10240101,
+        "styleLive2dCostumeMstId": 102400
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1024011,
+        "styleMstId": 10240101,
+        "styleLive2dCostumeMstId": 102401
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1024021,
+        "styleMstId": 10240101,
+        "styleLive2dCostumeMstId": 102402
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1025001,
+        "styleMstId": 10250101,
+        "styleLive2dCostumeMstId": 102500
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1025011,
+        "styleMstId": 10250101,
+        "styleLive2dCostumeMstId": 102501
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1026001,
+        "styleMstId": 10260101,
+        "styleLive2dCostumeMstId": 102600
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1026011,
+        "styleMstId": 10260101,
+        "styleLive2dCostumeMstId": 102601
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1058001,
+        "styleMstId": 10580101,
+        "styleLive2dCostumeMstId": 105800
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1058011,
+        "styleMstId": 10580101,
+        "styleLive2dCostumeMstId": 105801
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1061001,
+        "styleMstId": 10610101,
+        "styleLive2dCostumeMstId": 106100
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1061002,
+        "styleMstId": 10610102,
+        "styleLive2dCostumeMstId": 106100
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1061011,
+        "styleMstId": 10610101,
+        "styleLive2dCostumeMstId": 106101
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1061012,
+        "styleMstId": 10610102,
+        "styleLive2dCostumeMstId": 106101
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1067001,
+        "styleMstId": 10670101,
+        "styleLive2dCostumeMstId": 106700
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1067011,
+        "styleMstId": 10670101,
+        "styleLive2dCostumeMstId": 106701
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1068001,
+        "styleMstId": 10680101,
+        "styleLive2dCostumeMstId": 106800
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1068011,
+        "styleMstId": 10680101,
+        "styleLive2dCostumeMstId": 106801
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1068021,
+        "styleMstId": 10680101,
+        "styleLive2dCostumeMstId": 106802
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1069001,
+        "styleMstId": 10690101,
+        "styleLive2dCostumeMstId": 106900
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1069002,
+        "styleMstId": 10690102,
+        "styleLive2dCostumeMstId": 106900
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1069011,
+        "styleMstId": 10690101,
+        "styleLive2dCostumeMstId": 106901
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1069012,
+        "styleMstId": 10690102,
+        "styleLive2dCostumeMstId": 106901
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1070001,
+        "styleMstId": 10700101,
+        "styleLive2dCostumeMstId": 107000
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1070002,
+        "styleMstId": 10700102,
+        "styleLive2dCostumeMstId": 107000
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1070011,
+        "styleMstId": 10700101,
+        "styleLive2dCostumeMstId": 107001
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1070012,
+        "styleMstId": 10700102,
+        "styleLive2dCostumeMstId": 107001
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1071001,
+        "styleMstId": 10710101,
+        "styleLive2dCostumeMstId": 107100
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1071002,
+        "styleMstId": 10710102,
+        "styleLive2dCostumeMstId": 107100
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1071011,
+        "styleMstId": 10710101,
+        "styleLive2dCostumeMstId": 107101
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1071012,
+        "styleMstId": 10710102,
+        "styleLive2dCostumeMstId": 107101
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1072001,
+        "styleMstId": 10720101,
+        "styleLive2dCostumeMstId": 107200
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1072002,
+        "styleMstId": 10720102,
+        "styleLive2dCostumeMstId": 107200
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1072011,
+        "styleMstId": 10720101,
+        "styleLive2dCostumeMstId": 107201
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1072012,
+        "styleMstId": 10720102,
+        "styleLive2dCostumeMstId": 107201
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1074001,
+        "styleMstId": 10740101,
+        "styleLive2dCostumeMstId": 107400
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1074002,
+        "styleMstId": 10740102,
+        "styleLive2dCostumeMstId": 107400
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1074011,
+        "styleMstId": 10740101,
+        "styleLive2dCostumeMstId": 107401
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1074012,
+        "styleMstId": 10740102,
+        "styleLive2dCostumeMstId": 107401
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1076001,
+        "styleMstId": 10760101,
+        "styleLive2dCostumeMstId": 107600
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1076002,
+        "styleMstId": 10760102,
+        "styleLive2dCostumeMstId": 107600
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1076011,
+        "styleMstId": 10760101,
+        "styleLive2dCostumeMstId": 107601
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1076012,
+        "styleMstId": 10760102,
+        "styleLive2dCostumeMstId": 107601
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1080001,
+        "styleMstId": 10800101,
+        "styleLive2dCostumeMstId": 108000
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1080011,
+        "styleMstId": 10800101,
+        "styleLive2dCostumeMstId": 108001
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1080101,
+        "styleMstId": 10800201,
+        "styleLive2dCostumeMstId": 108010
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1081001,
+        "styleMstId": 10810101,
+        "styleLive2dCostumeMstId": 108100
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1081011,
+        "styleMstId": 10810101,
+        "styleLive2dCostumeMstId": 108101
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1081021,
+        "styleMstId": 10810101,
+        "styleLive2dCostumeMstId": 108102
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1082001,
+        "styleMstId": 10820101,
+        "styleLive2dCostumeMstId": 108200
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1082002,
+        "styleMstId": 10820102,
+        "styleLive2dCostumeMstId": 108200
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1082011,
+        "styleMstId": 10820101,
+        "styleLive2dCostumeMstId": 108201
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1082012,
+        "styleMstId": 10820102,
+        "styleLive2dCostumeMstId": 108201
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1083001,
+        "styleMstId": 10830101,
+        "styleLive2dCostumeMstId": 108300
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1083002,
+        "styleMstId": 10830102,
+        "styleLive2dCostumeMstId": 108300
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1083011,
+        "styleMstId": 10830101,
+        "styleLive2dCostumeMstId": 108301
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1083012,
+        "styleMstId": 10830102,
+        "styleLive2dCostumeMstId": 108301
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1084001,
+        "styleMstId": 10840101,
+        "styleLive2dCostumeMstId": 108400
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1084002,
+        "styleMstId": 10840102,
+        "styleLive2dCostumeMstId": 108400
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1084011,
+        "styleMstId": 10840101,
+        "styleLive2dCostumeMstId": 108401
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1084012,
+        "styleMstId": 10840102,
+        "styleLive2dCostumeMstId": 108401
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1086001,
+        "styleMstId": 10860101,
+        "styleLive2dCostumeMstId": 108600
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1086002,
+        "styleMstId": 10860102,
+        "styleLive2dCostumeMstId": 108600
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1086011,
+        "styleMstId": 10860101,
+        "styleLive2dCostumeMstId": 108601
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1086012,
+        "styleMstId": 10860102,
+        "styleLive2dCostumeMstId": 108601
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1086101,
+        "styleMstId": 10860201,
+        "styleLive2dCostumeMstId": 108610
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1090001,
+        "styleMstId": 10900101,
+        "styleLive2dCostumeMstId": 109000
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1090002,
+        "styleMstId": 10900102,
+        "styleLive2dCostumeMstId": 109000
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1090011,
+        "styleMstId": 10900101,
+        "styleLive2dCostumeMstId": 109001
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1090012,
+        "styleMstId": 10900102,
+        "styleLive2dCostumeMstId": 109001
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1092001,
+        "styleMstId": 10920101,
+        "styleLive2dCostumeMstId": 109200
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1092011,
+        "styleMstId": 10920101,
+        "styleLive2dCostumeMstId": 109201
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1098001,
+        "styleMstId": 10980101,
+        "styleLive2dCostumeMstId": 109800
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1098011,
+        "styleMstId": 10980101,
+        "styleLive2dCostumeMstId": 109801
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1098021,
+        "styleMstId": 10980101,
+        "styleLive2dCostumeMstId": 109802
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1104001,
+        "styleMstId": 11040101,
+        "styleLive2dCostumeMstId": 110400
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1104011,
+        "styleMstId": 11040101,
+        "styleLive2dCostumeMstId": 110401
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1107001,
+        "styleMstId": 11070101,
+        "styleLive2dCostumeMstId": 110700
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1107002,
+        "styleMstId": 11070102,
+        "styleLive2dCostumeMstId": 110700
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1107011,
+        "styleMstId": 11070101,
+        "styleLive2dCostumeMstId": 110701
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1107012,
+        "styleMstId": 11070102,
+        "styleLive2dCostumeMstId": 110701
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1107021,
+        "styleMstId": 11070101,
+        "styleLive2dCostumeMstId": 110702
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1107022,
+        "styleMstId": 11070102,
+        "styleLive2dCostumeMstId": 110702
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1114001,
+        "styleMstId": 11140101,
+        "styleLive2dCostumeMstId": 111400
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1114002,
+        "styleMstId": 11140102,
+        "styleLive2dCostumeMstId": 111400
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1114011,
+        "styleMstId": 11140101,
+        "styleLive2dCostumeMstId": 111401
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1114012,
+        "styleMstId": 11140102,
+        "styleLive2dCostumeMstId": 111401
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1114021,
+        "styleMstId": 11140101,
+        "styleLive2dCostumeMstId": 111402
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1114022,
+        "styleMstId": 11140102,
+        "styleLive2dCostumeMstId": 111402
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1124001,
+        "styleMstId": 11240101,
+        "styleLive2dCostumeMstId": 112400
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1124011,
+        "styleMstId": 11240101,
+        "styleLive2dCostumeMstId": 112401
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1124021,
+        "styleMstId": 11240101,
+        "styleLive2dCostumeMstId": 112402
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1125001,
+        "styleMstId": 11250101,
+        "styleLive2dCostumeMstId": 112500
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1125011,
+        "styleMstId": 11250101,
+        "styleLive2dCostumeMstId": 112501
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1125021,
+        "styleMstId": 11250101,
+        "styleLive2dCostumeMstId": 112502
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1126001,
+        "styleMstId": 11260101,
+        "styleLive2dCostumeMstId": 112600
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1126002,
+        "styleMstId": 11260102,
+        "styleLive2dCostumeMstId": 112600
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1126011,
+        "styleMstId": 11260101,
+        "styleLive2dCostumeMstId": 112601
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1126012,
+        "styleMstId": 11260102,
+        "styleLive2dCostumeMstId": 112601
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1133001,
+        "styleMstId": 11330101,
+        "styleLive2dCostumeMstId": 113300
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1133011,
+        "styleMstId": 11330101,
+        "styleLive2dCostumeMstId": 113301
+      }
+    ]
+  }
+}

@@ -10,6 +10,12 @@
         "value1": 10010101
       },
       {
+        "userTitleMstId": 10010301,
+        "title": "プルウィア☆ノイヤー",
+        "titleType": 1,
+        "value1": 10010301
+      },
+      {
         "userTitleMstId": 10010601,
         "title": "プルウィア☆クララ",
         "titleType": 1,
@@ -34,10 +40,22 @@
         "value1": 10020201
       },
       {
+        "userTitleMstId": 10020301,
+        "title": "黒い魔力による制圧",
+        "titleType": 1,
+        "value1": 10020301
+      },
+      {
         "userTitleMstId": 10030101,
         "title": "ティロ・フィナーレ",
         "titleType": 1,
         "value1": 10030101
+      },
+      {
+        "userTitleMstId": 10030201,
+        "title": "ベベ・オー・ランタン",
+        "titleType": 1,
+        "value1": 10030201
       },
       {
         "userTitleMstId": 10030301,
@@ -58,16 +76,46 @@
         "value1": 10040201
       },
       {
+        "userTitleMstId": 10040301,
+        "title": "ボンナターレ・グラツィオーソ",
+        "titleType": 1,
+        "value1": 10040301
+      },
+      {
         "userTitleMstId": 10050101,
         "title": "盟神抉槍",
         "titleType": 1,
         "value1": 10050101
       },
       {
+        "userTitleMstId": 10050301,
+        "title": "聖夜捧呈",
+        "titleType": 1,
+        "value1": 10050301
+      },
+      {
+        "userTitleMstId": 10050401,
+        "title": "紅珠焼菓",
+        "titleType": 1,
+        "value1": 10050401
+      },
+      {
+        "userTitleMstId": 10060101,
+        "title": "魔法のケーキドーム",
+        "titleType": 1,
+        "value1": 10060101
+      },
+      {
         "userTitleMstId": 10070101,
         "title": "ホロウ・ウーマン",
         "titleType": 1,
         "value1": 10070101
+      },
+      {
+        "userTitleMstId": 10070201,
+        "title": "解はデジャ・ブ",
+        "titleType": 1,
+        "value1": 10070201
       },
       {
         "userTitleMstId": 10080101,
@@ -106,6 +154,12 @@
         "value1": 10120101
       },
       {
+        "userTitleMstId": 10130101,
+        "title": "アサルトパラノイア",
+        "titleType": 1,
+        "value1": 10130101
+      },
+      {
         "userTitleMstId": 10140101,
         "title": "エッジオブユニヴァース",
         "titleType": 1,
@@ -142,10 +196,22 @@
         "value1": 10210101
       },
       {
+        "userTitleMstId": 10210201,
+        "title": "Marigold Dadaism",
+        "titleType": 1,
+        "value1": 10210201
+      },
+      {
         "userTitleMstId": 10220101,
         "title": "ルーチェ・スペランツァー",
         "titleType": 1,
         "value1": 10220101
+      },
+      {
+        "userTitleMstId": 10240101,
+        "title": "絶対自壊演舞",
+        "titleType": 1,
+        "value1": 10240101
       },
       {
         "userTitleMstId": 10250101,
@@ -166,10 +232,34 @@
         "value1": 10800101
       },
       {
+        "userTitleMstId": 10800201,
+        "title": "セイクリッド・ギフト",
+        "titleType": 1,
+        "value1": 10800201
+      },
+      {
+        "userTitleMstId": 10860201,
+        "title": "キラハピ！スノードーム",
+        "titleType": 1,
+        "value1": 10860201
+      },
+      {
+        "userTitleMstId": 10920101,
+        "title": "漆黒のアルカナ",
+        "titleType": 1,
+        "value1": 10920101
+      },
+      {
         "userTitleMstId": 10980101,
         "title": "刻み込む桜の物語",
         "titleType": 1,
         "value1": 10980101
+      },
+      {
+        "userTitleMstId": 11040101,
+        "title": "無思考",
+        "titleType": 1,
+        "value1": 11040101
       },
       {
         "userTitleMstId": 11240101,
@@ -184,10 +274,22 @@
         "value1": 11250101
       },
       {
+        "userTitleMstId": 11330101,
+        "title": "天翔ける語り部",
+        "titleType": 1,
+        "value1": 11330101
+      },
+      {
         "userTitleMstId": 11370101,
         "title": "もう絶望する必要なんてない！",
         "titleType": 1,
         "value1": 11370101
+      },
+      {
+        "userTitleMstId": 11380101,
+        "title": "事象の改竄",
+        "titleType": 1,
+        "value1": 11380101
       },
       {
         "userTitleMstId": 11390101,
@@ -508,6 +610,18 @@
         "value1": 0
       },
       {
+        "userTitleMstId": 20104011,
+        "title": "芸術家の魔女 Chaosクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20104012,
+        "title": "委員長の魔女 Chaosクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
         "userTitleMstId": 20201001,
         "title": "砂場の魔女 Mainクリア",
         "titleType": 0,
@@ -616,6 +730,12 @@
         "value1": 0
       },
       {
+        "userTitleMstId": 20204001,
+        "title": "砂場の魔女 Chaosクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
         "userTitleMstId": 20301001,
         "title": "針の魔女 Mainクリア",
         "titleType": 0,
@@ -640,14 +760,140 @@
         "value1": 0
       },
       {
+        "userTitleMstId": 20401002,
+        "title": "scene0中編 Mainクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20401003,
+        "title": "scene0後編 Mainクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
         "userTitleMstId": 20402001,
         "title": "scene0前編 Battleクリア",
         "titleType": 0,
         "value1": 0
       },
       {
+        "userTitleMstId": 20402002,
+        "title": "scene0中編 Battleクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20402003,
+        "title": "scene0後編 Battleクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
         "userTitleMstId": 20403001,
         "title": "scene0前編 Nightmareクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20403002,
+        "title": "scene0中編 Nightmareクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20403003,
+        "title": "scene0後編 Nightmareクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20501001,
+        "title": "魔獣編 Mainクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20502001,
+        "title": "魔獣編 Battleクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20503001,
+        "title": "魔獣編 Nightmareクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20601001,
+        "title": "Crescent Memoria 十咎ももこの記憶 Mainクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20601002,
+        "title": "Crescent Memoria 由比鶴乃の記憶 Mainクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20602001,
+        "title": "Crescent Memoria 十咎ももこの記憶 Battleクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20602002,
+        "title": "Crescent Memoria 由比鶴乃の記憶 Battleクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20603001,
+        "title": "Crescent Memoria 十咎ももこの記憶 Nightmareクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20603002,
+        "title": "Crescent Memoria 由比鶴乃の記憶 Nightmareクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20701001,
+        "title": "[新編]叛逆の物語 ナイトメア Mainクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20701002,
+        "title": "[新編]叛逆の物語 くるみ割りの魔女 Mainクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20702001,
+        "title": "[新編]叛逆の物語 ナイトメア Battleクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20702002,
+        "title": "[新編]叛逆の物語 くるみ割りの魔女 Battleクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20703001,
+        "title": "[新編]叛逆の物語 ナイトメア Nightmareクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20703002,
+        "title": "[新編]叛逆の物語 くるみ割りの魔女 Nightmareクリア",
         "titleType": 0,
         "value1": 0
       },
@@ -866,6 +1112,108 @@
         "title": "ウワサのあの子は臨時相談員!?クリア",
         "titleType": 2,
         "value1": 4200033
+      },
+      {
+        "userTitleMstId": 60000018,
+        "title": "魔法少女まどか☆マギカ scene0 中編クリア",
+        "titleType": 2,
+        "value1": 4200034
+      },
+      {
+        "userTitleMstId": 60000019,
+        "title": "最悪の運勢を生き残れ ～禁止されても占いたい！～クリア",
+        "titleType": 2,
+        "value1": 4200035
+      },
+      {
+        "userTitleMstId": 60000020,
+        "title": "魔法少女まどか☆マギカ[魔獣編]クリア",
+        "titleType": 2,
+        "value1": 4200036
+      },
+      {
+        "userTitleMstId": 60000021,
+        "title": "手料理でおもてなしパーティー！クリア",
+        "titleType": 2,
+        "value1": 4200039
+      },
+      {
+        "userTitleMstId": 60000022,
+        "title": "マギアレコード Crescent Memoria 第１弾クリア",
+        "titleType": 2,
+        "value1": 4200040
+      },
+      {
+        "userTitleMstId": 60000023,
+        "title": "ハロウィンナイトは永遠に 前編クリア",
+        "titleType": 2,
+        "value1": 4200042
+      },
+      {
+        "userTitleMstId": 60000024,
+        "title": "ハロウィンナイトは永遠に 後編クリア",
+        "titleType": 2,
+        "value1": 4200043
+      },
+      {
+        "userTitleMstId": 60000025,
+        "title": "魔法少女まどか☆マギカ scene0 後編クリア",
+        "titleType": 2,
+        "value1": 4200044
+      },
+      {
+        "userTitleMstId": 60000026,
+        "title": "聖マギカ学園のクリスマス ～ホワイトサンタ編～クリア",
+        "titleType": 2,
+        "value1": 4200045
+      },
+      {
+        "userTitleMstId": 60000027,
+        "title": "聖マギカ学園のクリスマス ～ブラックサンタ編～クリア",
+        "titleType": 2,
+        "value1": 4200046
+      },
+      {
+        "userTitleMstId": 60000028,
+        "title": "聖夜に刻む１ページ ～君と、ここから～クリア",
+        "titleType": 2,
+        "value1": 4200047
+      },
+      {
+        "userTitleMstId": 60000029,
+        "title": "新春祈願 羽根つきで無病息災クリア",
+        "titleType": 2,
+        "value1": 4200049
+      },
+      {
+        "userTitleMstId": 60000030,
+        "title": "マギアレコード Crescent Memoria 第２弾クリア",
+        "titleType": 2,
+        "value1": 4200051
+      },
+      {
+        "userTitleMstId": 60000031,
+        "title": "これからも続く物語 いつか日常に帰れるようにクリア",
+        "titleType": 2,
+        "value1": 4200052
+      },
+      {
+        "userTitleMstId": 60000032,
+        "title": "魔法少女まどか☆マギカ [新編]叛逆の物語 前編クリア",
+        "titleType": 2,
+        "value1": 4200053
+      },
+      {
+        "userTitleMstId": 60000033,
+        "title": "魔法少女まどか☆マギカ [新編]叛逆の物語 後編クリア",
+        "titleType": 2,
+        "value1": 4200054
+      },
+      {
+        "userTitleMstId": 60000034,
+        "title": "想い伝わる甘い魔法 前編クリア",
+        "titleType": 2,
+        "value1": 4200057
       },
       {
         "userTitleMstId": 70000001,

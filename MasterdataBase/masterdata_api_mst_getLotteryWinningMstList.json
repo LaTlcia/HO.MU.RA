@@ -1,0 +1,71 @@
+{
+  "url": "/api/mst/getLotteryWinningMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "lotteryWinningMstId": 1,
+        "name": "特等",
+        "grade": 1,
+        "lotteryMstId": 1,
+        "lotteryRewardMstGroupId": 1,
+        "conditionType": 1,
+        "patternCount": 1
+      },
+      {
+        "lotteryWinningMstId": 2,
+        "name": "1等",
+        "grade": 2,
+        "lotteryMstId": 1,
+        "lotteryRewardMstGroupId": 2,
+        "conditionType": 1,
+        "patternCount": 3
+      },
+      {
+        "lotteryWinningMstId": 3,
+        "name": "2等",
+        "grade": 3,
+        "lotteryMstId": 1,
+        "lotteryRewardMstGroupId": 3,
+        "conditionType": 1,
+        "patternCount": 3
+      },
+      {
+        "lotteryWinningMstId": 4,
+        "name": "3等",
+        "grade": 4,
+        "lotteryMstId": 1,
+        "lotteryRewardMstGroupId": 4,
+        "conditionType": 1,
+        "patternCount": 3
+      },
+      {
+        "lotteryWinningMstId": 5,
+        "name": "4等",
+        "grade": 5,
+        "lotteryMstId": 1,
+        "lotteryRewardMstGroupId": 5,
+        "conditionType": 1,
+        "patternCount": 5
+      },
+      {
+        "lotteryWinningMstId": 6,
+        "name": "5等",
+        "grade": 6,
+        "lotteryMstId": 1,
+        "lotteryRewardMstGroupId": 6,
+        "conditionType": 1,
+        "patternCount": 1
+      },
+      {
+        "lotteryWinningMstId": 7,
+        "name": "参加賞",
+        "grade": 7,
+        "lotteryMstId": 1,
+        "lotteryRewardMstGroupId": 7,
+        "conditionType": 0,
+        "patternCount": 0
+      }
+    ]
+  }
+}

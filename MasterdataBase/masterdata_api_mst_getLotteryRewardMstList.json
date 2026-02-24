@@ -1,0 +1,57 @@
+{
+  "url": "/api/mst/getLotteryRewardMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "lotteryRewardMstId": 1,
+        "groupId": 1,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 30000
+      },
+      {
+        "lotteryRewardMstId": 2,
+        "groupId": 2,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 10000
+      },
+      {
+        "lotteryRewardMstId": 3,
+        "groupId": 3,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 3000
+      },
+      {
+        "lotteryRewardMstId": 4,
+        "groupId": 4,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 1000
+      },
+      {
+        "lotteryRewardMstId": 5,
+        "groupId": 5,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 600
+      },
+      {
+        "lotteryRewardMstId": 6,
+        "groupId": 6,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 300
+      },
+      {
+        "lotteryRewardMstId": 7,
+        "groupId": 7,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 100
+      }
+    ]
+  }
+}

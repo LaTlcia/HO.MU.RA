@@ -836,6 +836,14 @@
         "value2": 0
       },
       {
+        "styleLimitBreakEffectMstId": 5036,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8505001,
+        "value2": 0
+      },
+      {
         "styleLimitBreakEffectMstId": 5037,
         "name": "",
         "targetType": 3,
@@ -921,6 +929,150 @@
         "targetType": 3,
         "abilityEffectType": "",
         "value1": 8504801,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5048,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8504901,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5049,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8505101,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5050,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8505201,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5051,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8505301,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5052,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8505401,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5053,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8505501,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5054,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8505601,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5055,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8505701,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5056,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8505801,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5057,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8505901,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5058,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8506001,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5059,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8506101,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5060,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8506201,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5061,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8506301,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5062,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8506401,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5063,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8506501,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5064,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8506601,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5065,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8506701,
         "value2": 0
       }
     ]

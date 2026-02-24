@@ -94,6 +94,21 @@
         "sortOrder": 0
       },
       {
+        "characterMstId": 1006,
+        "description": "かつて希望を運び、いつか呪いを振りまいた者。<br>やがて「円環の理」に導かれ、その使者となってほむらを救うために舞い降りた。<br>チーズに対して強い執着を持ち、ふとした拍子で頭の中はチーズでいっぱいになってしまう。",
+        "characterVoice": "阿澄佳奈",
+        "schoolName": "―",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 1,
+        "regionId": 1,
+        "teamId1": 0,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
         "characterMstId": 1007,
         "description": "同じ時を繰り返す不思議な現象に巻き込まれた魔法少女。<br>見滝原中学校の３年生。<br>ケーキ屋のレコンパンスで叔母の咲笑と共に暮らしている。<br>ひとりで映画を見るのを好み、レンタルビデオ店や映画館に足しげく通っている。",
         "characterVoice": "早見沙織",
@@ -135,7 +150,7 @@
         "seriesId": 2,
         "regionId": 1,
         "teamId1": 1,
-        "teamId2": 0,
+        "teamId2": 8,
         "sortOrder": 0
       },
       {
@@ -150,7 +165,7 @@
         "seriesId": 2,
         "regionId": 1,
         "teamId1": 1,
-        "teamId2": 0,
+        "teamId2": 8,
         "sortOrder": 0
       },
       {
@@ -184,6 +199,21 @@
         "sortOrder": 0
       },
       {
+        "characterMstId": 1013,
+        "description": "７年間、やちよのパートナーとして魔女と戦ってきたベテランの魔法少女。<br>自身の魔力が衰えていることを実感してから、ひとりの女性としての<br>幸福を得るために、マギウスの翼の幹部になった。<br>優しいが心は弱く、判断を誤ることが間々ある。",
+        "characterVoice": "中原麻衣",
+        "schoolName": "―",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 2,
+        "regionId": 1,
+        "teamId1": 9,
+        "teamId2": 8,
+        "sortOrder": 0
+      },
+      {
         "characterMstId": 1014,
         "description": "ひよっこ魔法少女たちのピンチを救ってくれる、姉御肌な魔法少女。<br>男兄弟に挟まれており、本人もざっくばらんで男っぽい性格。<br>しかし実は、ぬいぐるみなどの可愛いものが好き。<br>可愛いものに憧れる気持ちから、女性アイドルのファンでもある。",
         "characterVoice": "小松未可子",
@@ -195,7 +225,7 @@
         "seriesId": 2,
         "regionId": 1,
         "teamId1": 5,
-        "teamId2": 0,
+        "teamId2": 8,
         "sortOrder": 0
       },
       {
@@ -315,6 +345,21 @@
         "seriesId": 2,
         "regionId": 1,
         "teamId1": 1,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
+        "characterMstId": 1024,
+        "description": "神浜市のはずれで調整屋を営んでいる魔法少女。<br>魔力の調整やアイテムの販売を通して<br>グリーフシードを得ているため、滅多に戦うことはない。<br>普段は笑顔で気軽にみんなと接しているが、<br>彼女の素性を知る魔法少女は少ない。",
+        "characterVoice": "堀江由衣",
+        "schoolName": "大東学院",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 2,
+        "regionId": 1,
+        "teamId1": 900,
         "teamId2": 0,
         "sortOrder": 0
       },
@@ -604,6 +649,21 @@
         "sortOrder": 0
       },
       {
+        "characterMstId": 1092,
+        "description": "毎朝の占いによって一日のすべての行動を決める魔法少女。<br>占いの結果が良いときはとてもポジティブだが、悪いと魔女狩りすらせずに部屋に引き籠る。<br>占いをするのは好きだが冗談抜きで当たるため、魔法少女内では占い禁止令が出ている。",
+        "characterVoice": "高尾奏音",
+        "schoolName": "大東学院",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 2,
+        "regionId": 1,
+        "teamId1": 8,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
         "characterMstId": 1098,
         "description": "４人の少女が自分の所に訪れて、<br>満開の花を咲かせることを待ち望んでいたウワサ。<br>現在は内容の調整と現代技術の応用によって外でも活動しているが、常識が欠けており特異な人物として見られている。<br>いつも山か大好きな人の所に帰りたい。",
         "characterVoice": "鈴木みのり",
@@ -615,6 +675,21 @@
         "seriesId": 2,
         "regionId": 1,
         "teamId1": 900,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
+        "characterMstId": 1104,
+        "description": "目つきと風体の不穏さから不良と勘違いされる魔法少女。<br>根は動植物を静かに愛する少女だが、普段からケンカに巻き込まれ、<br>果ては闇のバイヤーとも戦ったこともある。<br>過去は酷い人間不信だったが、やちよたちと出会って<br>信じる心を取り戻した。",
+        "characterVoice": "森なな子",
+        "schoolName": "栄総合学園",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 2,
+        "regionId": 1,
+        "teamId1": 8,
         "teamId2": 0,
         "sortOrder": 0
       },
@@ -682,6 +757,21 @@
         "characterMstId": 1126,
         "description": "いつも佐倉杏子に引っ付いている、まだまだ幼い魔法少女。<br>杏子を肉親のように慕っており、杏子の言うことは絶対であり、杏子のためならどんなことでも頑張る。<br>子供らしく無邪気だが、虐待のトラウマから、孤独には人一倍の恐怖心を持っている。",
         "characterVoice": "久野美咲",
+        "schoolName": "―",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 3,
+        "regionId": 1,
+        "teamId1": 0,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
+        "characterMstId": 1133,
+        "description": "美国織莉子によって人生を狂わされてしまった魔法少女。<br>元々は、スーパーを経営する父と専業主婦の母、そして負けず嫌いで曲がったことが大っ嫌いな姉の小巻に囲まれて平凡に暮らしていた。<br>しかし、姉の死をきっかけとして魔法少女の世界に踏み込んでいくことになる。",
+        "characterVoice": "明坂聡美",
         "schoolName": "―",
         "age": "0",
         "weapon": "0",

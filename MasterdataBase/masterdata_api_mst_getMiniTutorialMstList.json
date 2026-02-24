@@ -679,6 +679,78 @@
         "advMstId": 0
       },
       {
+        "miniTutorialMstId": 9109,
+        "miniTutorialNumber": 91,
+        "sortOrder": 9,
+        "title": "ラストアタックについて",
+        "description": "自身の攻撃により敵のHPが0になった場合はラストアタックとなり、\nクリアしたバトルの最低貢献度が貢献度の値に加算されます。\nバトルの獲得貢献度が低い場合でも、ラストアタックによる加算で貢献度報酬を受け取ることができます。",
+        "resourceName": "multi_raid_09",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9201,
+        "miniTutorialNumber": 92,
+        "sortOrder": 1,
+        "title": "ドールハウスとは        ",
+        "description": "ホーム画面に魔法少女やイラストを飾ることができる機能です。\n好みの設定を行い、お気に入りのホーム画面を作成しましょう。",
+        "resourceName": "dollhouse_01",
+        "advMstId": 70000250
+      },
+      {
+        "miniTutorialMstId": 9202,
+        "miniTutorialNumber": 92,
+        "sortOrder": 2,
+        "title": "モードについて",
+        "description": "「灯台劇場」のほかに、４つのモード「魔法少女(3D)」「魔法少女(2D)」「キオク」「ポートレイト」から飾り方を選択できます。\n各モードごとに魔法少女やイラスト、背景、ミュージックなどを設定しましょう。",
+        "resourceName": "dollhouse_02",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9203,
+        "miniTutorialNumber": 92,
+        "sortOrder": 3,
+        "title": "設定について",
+        "description": "ホーム画面に設定する魔法少女やイラスト、背景、ミュージックなどは、それぞれ設定するための条件（キオクの獲得、記憶の光の獲得、ドールハウスアイテムの獲得など）があります。\n詳細はヘルプをご確認ください。",
+        "resourceName": "dollhouse_03",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9501,
+        "miniTutorialNumber": 95,
+        "sortOrder": 1,
+        "title": "カメラとは",
+        "description": "現実の風景や、ゲームの背景画像の中に魔法少女を配置し、写真を撮影できる機能です。\n撮影した写真は、端末に保存できます。",
+        "resourceName": "camera_01",
+        "advMstId": 70000251
+      },
+      {
+        "miniTutorialMstId": 9502,
+        "miniTutorialNumber": 95,
+        "sortOrder": 2,
+        "title": "お手軽撮影とは",
+        "description": "２つの撮影モードのうち、お手軽に撮影できる機能です。\n風景や背景画像と、魔法少女を組み合わせて撮影できます。",
+        "resourceName": "camera_02",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9503,
+        "miniTutorialNumber": 95,
+        "sortOrder": 3,
+        "title": "AR撮影とは",
+        "description": "２つの撮影モードのうち、AR技術を使用して撮影できる機能です。\n現実の風景の中に魔法少女を配置することで、目の前に魔法少女がいるような写真を撮影できます。\n※立ち位置の検出状況によっては、意図しない見え方になることがあります",
+        "resourceName": "camera_03",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9504,
+        "miniTutorialNumber": 95,
+        "sortOrder": 4,
+        "title": "撮影機能について",
+        "description": "撮影モードや、設定した背景に応じて、様々な撮影機能（魔法少女のポーズ指定、拡大/縮小、ライティング調整など）を使用できます。\n詳細はヘルプをご確認ください。",
+        "resourceName": "camera_04",
+        "advMstId": 0
+      },
+      {
         "miniTutorialMstId": 10401,
         "miniTutorialNumber": 104,
         "sortOrder": 1,
