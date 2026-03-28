@@ -501,7 +501,7 @@
         "cycleType": 3,
         "sortOrder": 500,
         "startTime": "2026-01-28T12:00:00+09:00",
-        "endTime": "2026-03-31T11:59:59+09:00",
+        "endTime": "2026-03-21T11:59:59+09:00",
         "conditionDescription": "<color=#ecd19c>10日</color>ログインして",
         "appealDescription": "<color=#ecd19c>マギカストーン合計3,000個</color>を獲得！",
         "appealIconObjectReceiveType": 2,
@@ -530,6 +530,42 @@
         "appealDescription": "<color=#ecd19c>マギカストーン合計2,000個</color>を獲得！",
         "appealIconObjectReceiveType": 2,
         "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 45,
+        "title": "1st Anniversaryカウントダウンログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1000,
+        "startTime": "2026-03-10T12:00:00+09:00",
+        "endTime": "2026-03-27T11:59:59+09:00",
+        "conditionDescription": "ログインで",
+        "appealDescription": "<color=#ecd19c>マギカストーン合計2,000個</color>を獲得！",
+        "appealIconObjectReceiveType": 2,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 48,
+        "title": "カムバックログインボーナス",
+        "cycleType": 3,
+        "sortOrder": 500,
+        "startTime": "2026-03-27T00:00:00+09:00",
+        "endTime": "2026-05-21T11:59:59+09:00",
+        "conditionDescription": "<color=#ecd19c>10日</color>ログインして",
+        "appealDescription": "<color=#ecd19c>マギカストーン合計3,000個</color>を獲得！",
+        "appealIconObjectReceiveType": 2,
+        "appealIconObjectId": 0
+      },
+      {
+        "loginBonusMstId": 50,
+        "title": "1st Anniversaryログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1005,
+        "startTime": "2026-03-27T22:00:00+09:00",
+        "endTime": "2026-04-30T11:59:59+09:00",
+        "conditionDescription": "1st Anniversaryメダルを獲得して",
+        "appealDescription": "<color=#ecd19c>マギカストーン最大6,000個</color>など豪華アイテムと交換！",
+        "appealIconObjectReceiveType": 5,
+        "appealIconObjectId": 201072
       }
     ]
   }

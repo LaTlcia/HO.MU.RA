@@ -68,6 +68,14 @@
         "openEffectFlagMiniTutorialNumber": 169
       },
       {
+        "questMapMstId": 10,
+        "questCategoryMstId": 1,
+        "name": "魔法少女たると☆マギカ The Legend of \"Jeanne d'Arc\"",
+        "conditionGroupId": 0,
+        "openFlagMiniTutorialNumber": 178,
+        "openEffectFlagMiniTutorialNumber": 179
+      },
+      {
         "questMapMstId": 41,
         "questCategoryMstId": 4,
         "name": "キオク強化素材クエスト",
@@ -95,6 +103,14 @@
         "questMapMstId": 101,
         "questCategoryMstId": 10,
         "name": "こころの器クエスト",
+        "conditionGroupId": 0,
+        "openFlagMiniTutorialNumber": 0,
+        "openEffectFlagMiniTutorialNumber": 0
+      },
+      {
+        "questMapMstId": 131,
+        "questCategoryMstId": 13,
+        "name": "エクセドラクエスト",
         "conditionGroupId": 0,
         "openFlagMiniTutorialNumber": 0,
         "openEffectFlagMiniTutorialNumber": 0

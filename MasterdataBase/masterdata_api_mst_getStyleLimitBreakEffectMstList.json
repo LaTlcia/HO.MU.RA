@@ -1074,6 +1074,46 @@
         "abilityEffectType": "",
         "value1": 8506701,
         "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5066,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8506801,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5067,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8506901,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5068,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8507001,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5069,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8507101,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5070,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8507201,
+        "value2": 0
       }
     ]
   }

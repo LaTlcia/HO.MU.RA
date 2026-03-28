@@ -664,6 +664,81 @@
         "sortOrder": 310
       },
       {
+        "passiveSkillSortMstId": 4133,
+        "skillUniqueId": 4133,
+        "sortOrder": 310
+      },
+      {
+        "passiveSkillSortMstId": 4134,
+        "skillUniqueId": 4134,
+        "sortOrder": 40
+      },
+      {
+        "passiveSkillSortMstId": 4135,
+        "skillUniqueId": 4135,
+        "sortOrder": 310
+      },
+      {
+        "passiveSkillSortMstId": 4136,
+        "skillUniqueId": 4136,
+        "sortOrder": 310
+      },
+      {
+        "passiveSkillSortMstId": 4144,
+        "skillUniqueId": 4144,
+        "sortOrder": 170
+      },
+      {
+        "passiveSkillSortMstId": 4145,
+        "skillUniqueId": 4145,
+        "sortOrder": 270
+      },
+      {
+        "passiveSkillSortMstId": 4146,
+        "skillUniqueId": 4146,
+        "sortOrder": 310
+      },
+      {
+        "passiveSkillSortMstId": 4147,
+        "skillUniqueId": 4147,
+        "sortOrder": 310
+      },
+      {
+        "passiveSkillSortMstId": 4148,
+        "skillUniqueId": 4148,
+        "sortOrder": 150
+      },
+      {
+        "passiveSkillSortMstId": 4149,
+        "skillUniqueId": 4149,
+        "sortOrder": 220
+      },
+      {
+        "passiveSkillSortMstId": 4150,
+        "skillUniqueId": 4150,
+        "sortOrder": 240
+      },
+      {
+        "passiveSkillSortMstId": 4151,
+        "skillUniqueId": 4151,
+        "sortOrder": 210
+      },
+      {
+        "passiveSkillSortMstId": 4157,
+        "skillUniqueId": 4157,
+        "sortOrder": 250
+      },
+      {
+        "passiveSkillSortMstId": 4158,
+        "skillUniqueId": 4158,
+        "sortOrder": 310
+      },
+      {
+        "passiveSkillSortMstId": 4159,
+        "skillUniqueId": 4159,
+        "sortOrder": 310
+      },
+      {
         "passiveSkillSortMstId": 5001,
         "skillUniqueId": 5001,
         "sortOrder": 40
@@ -1052,6 +1127,31 @@
         "passiveSkillSortMstId": 5078,
         "skillUniqueId": 5078,
         "sortOrder": 150
+      },
+      {
+        "passiveSkillSortMstId": 5079,
+        "skillUniqueId": 5079,
+        "sortOrder": 40
+      },
+      {
+        "passiveSkillSortMstId": 5080,
+        "skillUniqueId": 5080,
+        "sortOrder": 140
+      },
+      {
+        "passiveSkillSortMstId": 5081,
+        "skillUniqueId": 5081,
+        "sortOrder": 30
+      },
+      {
+        "passiveSkillSortMstId": 5082,
+        "skillUniqueId": 5082,
+        "sortOrder": 80
+      },
+      {
+        "passiveSkillSortMstId": 5083,
+        "skillUniqueId": 5083,
+        "sortOrder": 190
       },
       {
         "passiveSkillSortMstId": 9001,

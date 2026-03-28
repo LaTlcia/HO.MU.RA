@@ -1,0 +1,56 @@
+{
+  "url": "/api/mst/getAlternativeStoryPointSequenceMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "alternativeStoryPointSequenceMstId": 10101,
+        "prevPointSequenceMstId": 0,
+        "sequenceType": 2,
+        "sequenceValue": 70000310
+      },
+      {
+        "alternativeStoryPointSequenceMstId": 10102,
+        "prevPointSequenceMstId": 10101,
+        "sequenceType": 2,
+        "sequenceValue": 20004001
+      },
+      {
+        "alternativeStoryPointSequenceMstId": 10103,
+        "prevPointSequenceMstId": 10102,
+        "sequenceType": 2,
+        "sequenceValue": 70000311
+      },
+      {
+        "alternativeStoryPointSequenceMstId": 10104,
+        "prevPointSequenceMstId": 10103,
+        "sequenceType": 2,
+        "sequenceValue": 20004002
+      },
+      {
+        "alternativeStoryPointSequenceMstId": 10105,
+        "prevPointSequenceMstId": 10104,
+        "sequenceType": 1,
+        "sequenceValue": 1307101
+      },
+      {
+        "alternativeStoryPointSequenceMstId": 11001,
+        "prevPointSequenceMstId": 0,
+        "sequenceType": 2,
+        "sequenceValue": 70000314
+      },
+      {
+        "alternativeStoryPointSequenceMstId": 11002,
+        "prevPointSequenceMstId": 11001,
+        "sequenceType": 2,
+        "sequenceValue": 20004006
+      },
+      {
+        "alternativeStoryPointSequenceMstId": 11003,
+        "prevPointSequenceMstId": 11002,
+        "sequenceType": 2,
+        "sequenceValue": 70000315
+      }
+    ]
+  }
+}

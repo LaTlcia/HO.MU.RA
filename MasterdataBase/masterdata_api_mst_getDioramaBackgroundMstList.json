@@ -1044,6 +1044,19 @@
         "enemyType": 2
       },
       {
+        "dioramaBackgroundMstId": 210711,
+        "seriesId": 2,
+        "fieldSeriesMstId": 99999,
+        "stageThumbnailName": "bg_3d_689_13_01_001",
+        "backgroundResourceName": "bg_3d_689_13_01_001",
+        "stageName": "チョコレートの魔女 第1階層",
+        "unlockType": 8,
+        "unlockId": 0,
+        "releaseTime": "2026-02-27T12:00:00+09:00",
+        "sortOrder": 1,
+        "enemyType": 1
+      },
+      {
         "dioramaBackgroundMstId": 210719,
         "seriesId": 2,
         "fieldSeriesMstId": 99999,
@@ -1239,6 +1252,32 @@
         "enemyType": 2
       },
       {
+        "dioramaBackgroundMstId": 410511,
+        "seriesId": 4,
+        "fieldSeriesMstId": 99999,
+        "stageThumbnailName": "bg_3d_602_14_00_001",
+        "backgroundResourceName": "bg_3d_602_14_00_001",
+        "stageName": "【天辺の姿】お菓子の魔女 ボス階層",
+        "unlockType": 8,
+        "unlockId": 0,
+        "releaseTime": "2026-04-01T12:00:00+09:00",
+        "sortOrder": 1001,
+        "enemyType": 2
+      },
+      {
+        "dioramaBackgroundMstId": 410512,
+        "seriesId": 4,
+        "fieldSeriesMstId": 99999,
+        "stageThumbnailName": "bg_3d_602_15_00_001",
+        "backgroundResourceName": "bg_3d_602_15_00_001",
+        "stageName": "【天辺越えの姿】お菓子の魔女 ボス階層",
+        "unlockType": 8,
+        "unlockId": 0,
+        "releaseTime": "2026-04-01T12:00:00+09:00",
+        "sortOrder": 1002,
+        "enemyType": 2
+      },
+      {
         "dioramaBackgroundMstId": 710111,
         "seriesId": 7,
         "fieldSeriesMstId": 64100,
@@ -1314,6 +1353,32 @@
         "unlockId": 0,
         "releaseTime": "2026-01-09T12:00:00+09:00",
         "sortOrder": 99,
+        "enemyType": 2
+      },
+      {
+        "dioramaBackgroundMstId": 810311,
+        "seriesId": 2,
+        "fieldSeriesMstId": 65601,
+        "stageThumbnailName": "bg_3d_656_00_01_002",
+        "backgroundResourceName": "bg_3d_656_00_01_002",
+        "stageName": "批評家の魔女 第2階層",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2026-03-27T22:00:00+09:00",
+        "sortOrder": 1,
+        "enemyType": 1
+      },
+      {
+        "dioramaBackgroundMstId": 810319,
+        "seriesId": 2,
+        "fieldSeriesMstId": 65601,
+        "stageThumbnailName": "bg_3d_656_00_00_002",
+        "backgroundResourceName": "bg_3d_656_00_00_002",
+        "stageName": "批評家の魔女 ボス階層2",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2026-03-27T22:00:00+09:00",
+        "sortOrder": 2,
         "enemyType": 2
       },
       {
@@ -1470,6 +1535,84 @@
         "unlockId": 0,
         "releaseTime": "2026-01-30T12:00:00+09:00",
         "sortOrder": 111,
+        "enemyType": 2
+      },
+      {
+        "dioramaBackgroundMstId": 1010111,
+        "seriesId": 10,
+        "fieldSeriesMstId": 63700,
+        "stageThumbnailName": "bg_3d_654_00_01_001",
+        "backgroundResourceName": "bg_3d_654_00_01_001",
+        "stageName": "フランス/平原(昼)",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2026-03-10T12:00:00+09:00",
+        "sortOrder": 1,
+        "enemyType": 1
+      },
+      {
+        "dioramaBackgroundMstId": 1010112,
+        "seriesId": 10,
+        "fieldSeriesMstId": 63700,
+        "stageThumbnailName": "bg_3d_654_01_01_001",
+        "backgroundResourceName": "bg_3d_654_01_01_001",
+        "stageName": "フランス/平原(夕)",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2026-03-10T12:00:00+09:00",
+        "sortOrder": 2,
+        "enemyType": 1
+      },
+      {
+        "dioramaBackgroundMstId": 1010113,
+        "seriesId": 10,
+        "fieldSeriesMstId": 63700,
+        "stageThumbnailName": "bg_3d_654_00_01_002",
+        "backgroundResourceName": "bg_3d_654_00_01_002",
+        "stageName": "フランス/砦/外観2(昼)",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2026-03-10T12:00:00+09:00",
+        "sortOrder": 3,
+        "enemyType": 1
+      },
+      {
+        "dioramaBackgroundMstId": 1010114,
+        "seriesId": 10,
+        "fieldSeriesMstId": 63700,
+        "stageThumbnailName": "bg_3d_654_00_01_003",
+        "backgroundResourceName": "bg_3d_654_00_01_003",
+        "stageName": "フランス/砦/内部(昼)",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2026-03-10T12:00:00+09:00",
+        "sortOrder": 4,
+        "enemyType": 1
+      },
+      {
+        "dioramaBackgroundMstId": 1010115,
+        "seriesId": 10,
+        "fieldSeriesMstId": 63700,
+        "stageThumbnailName": "bg_3d_637_00_00_001",
+        "backgroundResourceName": "bg_3d_637_00_00_001",
+        "stageName": "フランス/トゥーレル砦(昼)",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2026-03-10T12:00:00+09:00",
+        "sortOrder": 5,
+        "enemyType": 2
+      },
+      {
+        "dioramaBackgroundMstId": 1010119,
+        "seriesId": 10,
+        "fieldSeriesMstId": 63700,
+        "stageThumbnailName": "bg_3d_637_00_00_002",
+        "backgroundResourceName": "bg_3d_637_00_00_002",
+        "stageName": "フランス/トゥーレル砦/崩壊後(昼)",
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2026-03-10T12:00:00+09:00",
+        "sortOrder": 6,
         "enemyType": 2
       }
     ]

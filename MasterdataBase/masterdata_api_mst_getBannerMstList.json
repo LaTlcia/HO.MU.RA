@@ -1796,6 +1796,27 @@
         "bannerLabelMstId": 2
       },
       {
+        "bannerMstId": 263,
+        "name": "",
+        "imageName": "banner_00250",
+        "destination": "Gacha",
+        "bannerLabelMstId": 17
+      },
+      {
+        "bannerMstId": 264,
+        "name": "",
+        "imageName": "banner_00251",
+        "destination": "StoryEvent",
+        "bannerLabelMstId": 2
+      },
+      {
+        "bannerMstId": 265,
+        "name": "",
+        "imageName": "banner_00254",
+        "destination": "",
+        "bannerLabelMstId": 4
+      },
+      {
         "bannerMstId": 266,
         "name": "",
         "imageName": "banner_00252",
@@ -1808,6 +1829,174 @@
         "imageName": "banner_00253",
         "destination": "",
         "bannerLabelMstId": 5
+      },
+      {
+        "bannerMstId": 268,
+        "name": "",
+        "imageName": "banner_00221",
+        "destination": "Gacha",
+        "bannerLabelMstId": 14
+      },
+      {
+        "bannerMstId": 269,
+        "name": "",
+        "imageName": "banner_00256",
+        "destination": "Gacha",
+        "bannerLabelMstId": 8
+      },
+      {
+        "bannerMstId": 270,
+        "name": "",
+        "imageName": "banner_00257",
+        "destination": "StoryEvent",
+        "bannerLabelMstId": 2
+      },
+      {
+        "bannerMstId": 271,
+        "name": "",
+        "imageName": "banner_00258",
+        "destination": "",
+        "bannerLabelMstId": 4
+      },
+      {
+        "bannerMstId": 272,
+        "name": "",
+        "imageName": "banner_00259",
+        "destination": "Gacha",
+        "bannerLabelMstId": 8
+      },
+      {
+        "bannerMstId": 273,
+        "name": "",
+        "imageName": "banner_00255",
+        "destination": "",
+        "bannerLabelMstId": 5
+      },
+      {
+        "bannerMstId": 274,
+        "name": "",
+        "imageName": "banner_00260",
+        "destination": "Gacha",
+        "bannerLabelMstId": 14
+      },
+      {
+        "bannerMstId": 275,
+        "name": "",
+        "imageName": "banner_00261",
+        "destination": "Gacha",
+        "bannerLabelMstId": 17
+      },
+      {
+        "bannerMstId": 276,
+        "name": "",
+        "imageName": "banner_00262",
+        "destination": "StoryEvent",
+        "bannerLabelMstId": 2
+      },
+      {
+        "bannerMstId": 277,
+        "name": "",
+        "imageName": "banner_00263",
+        "destination": "",
+        "bannerLabelMstId": 4
+      },
+      {
+        "bannerMstId": 278,
+        "name": "",
+        "imageName": "banner_00261",
+        "destination": "Gacha",
+        "bannerLabelMstId": 9
+      },
+      {
+        "bannerMstId": 279,
+        "name": "",
+        "imageName": "banner_00265",
+        "destination": "Gacha",
+        "bannerLabelMstId": 14
+      },
+      {
+        "bannerMstId": 280,
+        "name": "",
+        "imageName": "banner_00266",
+        "destination": "Gacha",
+        "bannerLabelMstId": 17
+      },
+      {
+        "bannerMstId": 286,
+        "name": "",
+        "imageName": "banner_00272",
+        "destination": "Gacha",
+        "bannerLabelMstId": 14
+      },
+      {
+        "bannerMstId": 287,
+        "name": "",
+        "imageName": "banner_00273",
+        "destination": "",
+        "bannerLabelMstId": 0
+      },
+      {
+        "bannerMstId": 291,
+        "name": "",
+        "imageName": "banner_00277",
+        "destination": "StoryEvent",
+        "bannerLabelMstId": 2
+      },
+      {
+        "bannerMstId": 292,
+        "name": "",
+        "imageName": "banner_00280",
+        "destination": "Gacha",
+        "bannerLabelMstId": 11
+      },
+      {
+        "bannerMstId": 293,
+        "name": "",
+        "imageName": "banner_00261",
+        "destination": "Gacha",
+        "bannerLabelMstId": 10
+      },
+      {
+        "bannerMstId": 294,
+        "name": "",
+        "imageName": "banner_00279",
+        "destination": "",
+        "bannerLabelMstId": 4
+      },
+      {
+        "bannerMstId": 297,
+        "name": "",
+        "imageName": "banner_00281",
+        "destination": "",
+        "bannerLabelMstId": 0
+      },
+      {
+        "bannerMstId": 298,
+        "name": "",
+        "imageName": "banner_00282",
+        "destination": "",
+        "bannerLabelMstId": 5
+      },
+      {
+        "bannerMstId": 299,
+        "name": "",
+        "imageName": "banner_00283",
+        "destination": "",
+        "bannerLabelMstId": 5
+      },
+      {
+        "bannerMstId": 301,
+        "name": "",
+        "imageName": "banner_00286",
+        "destination": "",
+        "bannerLabelMstId": 0
+      },
+      {
+        "bannerMstId": 302,
+        "name": "",
+        "imageName": "banner_00287",
+        "destination": "",
+        "bannerLabelMstId": 2
       }
     ]
   }

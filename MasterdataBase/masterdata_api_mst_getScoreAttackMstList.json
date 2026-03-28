@@ -230,6 +230,30 @@
         "totalScoreRewardGroupId": 18,
         "rankingRewardGroupId": 19,
         "dioramaBackgroundMstId": 210719
+      },
+      {
+        "scoreAttackMstId": 20,
+        "name": "",
+        "startTime": "2026-03-10T12:00:00+09:00",
+        "endTime": "2026-03-28T11:59:59+09:00",
+        "comment": "ボスは攻撃を受けた際に魔力が上昇し、最大に到達すると強力な攻撃を繰り出します。<br>デバフが多く付与されている状態でボスを攻撃すると、より多く魔力が貯まるため注意しましょう<br><br>バリアが付与されているキオクは一部のデバフを回避できるため、バリアが付与された状態で攻撃を受けるよう意識すると良いでしょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 20,
+        "totalScoreRewardGroupId": 19,
+        "rankingRewardGroupId": 20,
+        "dioramaBackgroundMstId": 1010115
+      },
+      {
+        "scoreAttackMstId": 22,
+        "name": "",
+        "startTime": "2026-03-27T22:00:00+09:00",
+        "endTime": "2026-04-30T11:59:59+09:00",
+        "comment": "ボスは自身の魔力が多いほど防御力が上昇します。<br>魔力は味方が攻撃を受けるごとに上昇しますが、ボスや手下がブレイクすると一定数減少します。<br>ブレイク中にも魔力は上昇するため、少ない攻撃回数で最大ダメージを狙うよう意識すると良いでしょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 22,
+        "totalScoreRewardGroupId": 21,
+        "rankingRewardGroupId": 22,
+        "dioramaBackgroundMstId": 810319
       }
     ]
   }

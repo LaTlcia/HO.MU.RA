@@ -1,0 +1,68 @@
+{
+  "url": "/api/mst/getSoloRaidStageMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "soloRaidStageMstId": 101,
+        "soloRaidMstId": 1,
+        "questStageMstId": 1401101,
+        "difficulty": 1,
+        "limitRoundCount": 5,
+        "questRewardGroupId": 60001,
+        "dioramaBackgroundMstId": 110319,
+        "comment": "WAVE 1の魔女の手下たちは<tooltips_id=4>されています。<br>バトル開始時に「<tooltips_id=2>」が付与されるため、編成を工夫して挑戦しましょう。"
+      },
+      {
+        "soloRaidStageMstId": 102,
+        "soloRaidMstId": 1,
+        "questStageMstId": 1401102,
+        "difficulty": 2,
+        "limitRoundCount": 5,
+        "questRewardGroupId": 60002,
+        "dioramaBackgroundMstId": 110319,
+        "comment": "WAVE 1の魔女の手下たちは<tooltips_id=4>されています。<br>バトル開始時に「<tooltips_id=2>」が付与されるため、編成を工夫して挑戦しましょう。"
+      },
+      {
+        "soloRaidStageMstId": 103,
+        "soloRaidMstId": 1,
+        "questStageMstId": 1401103,
+        "difficulty": 3,
+        "limitRoundCount": 4,
+        "questRewardGroupId": 60003,
+        "dioramaBackgroundMstId": 110319,
+        "comment": "WAVE 1の魔女の手下たちは<tooltips_id=4>されています。<br>バトル開始時に「<tooltips_id=2>」が付与されるため、編成を工夫して挑戦しましょう。"
+      },
+      {
+        "soloRaidStageMstId": 104,
+        "soloRaidMstId": 1,
+        "questStageMstId": 1401104,
+        "difficulty": 4,
+        "limitRoundCount": 4,
+        "questRewardGroupId": 60004,
+        "dioramaBackgroundMstId": 110319,
+        "comment": "WAVE 1の魔女の手下たちは<tooltips_id=4>されています。<br>バトル開始時に「<tooltips_id=2>」が付与されるため、編成を工夫して挑戦しましょう。"
+      },
+      {
+        "soloRaidStageMstId": 105,
+        "soloRaidMstId": 1,
+        "questStageMstId": 1401105,
+        "difficulty": 5,
+        "limitRoundCount": 3,
+        "questRewardGroupId": 60005,
+        "dioramaBackgroundMstId": 110319,
+        "comment": "WAVE 1の魔女の手下たちは<tooltips_id=4>されています。<br>バトル開始時に「<tooltips_id=2>」が付与されるため、編成を工夫して挑戦しましょう。"
+      },
+      {
+        "soloRaidStageMstId": 106,
+        "soloRaidMstId": 1,
+        "questStageMstId": 1401106,
+        "difficulty": 6,
+        "limitRoundCount": 3,
+        "questRewardGroupId": 60006,
+        "dioramaBackgroundMstId": 110319,
+        "comment": "WAVE 1の魔女の手下たちは<tooltips_id=4>されています。<br>バトル開始時に「<tooltips_id=2>」が付与されるため、編成を工夫して挑戦しましょう。"
+      }
+    ]
+  }
+}

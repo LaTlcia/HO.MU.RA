@@ -1,0 +1,38 @@
+{
+  "url": "/api/mst/getToolTipsMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "toolTipsMstId": 1,
+        "title": "厄災カウントダウン",
+        "description": "発動したボスの行動順が回ってくるとカウントが進行します。<br>厄災カウントダウン終了後に大きなダメージを与える行動を行います。<br>特定のダメージ量を与えることで解除が可能です。",
+        "imagePath": "tool_tips/icon_tips_countdown"
+      },
+      {
+        "toolTipsMstId": 2,
+        "title": "ストップ",
+        "description": "一定ターンの間行動順アップ・行動順ダウン効果が無効になる効果です。<br>このデバフは解除することができません。",
+        "imagePath": "battle/ability_effect/battle_icon_lock_turn_order"
+      },
+      {
+        "toolTipsMstId": 3,
+        "title": "目覚め",
+        "description": "ボスのHPが一定以下になると天辺の姿へ変わり、ステータスや行動が変化します。<br>さらに天辺の姿でHPが一定以下になると天辺越えの姿へ変わり、ステータスや行動がさらに変化します。",
+        "imagePath": "battle/gimmick_icon/icon_modechange"
+      },
+      {
+        "toolTipsMstId": 4,
+        "title": "HPリンク",
+        "description": "敵を倒すことでリンクHPを減らすことができます。<br>リンクHPを0にすることで次のWAVEへ進むことができます。<br>リンクHPを0にするまで敵を倒しても新しい敵が出現し続けます。<br>敵を倒した時に減少するリンクHPは敵毎に決まっています。",
+        "imagePath": "tool_tips/icon_tips_common"
+      },
+      {
+        "toolTipsMstId": 5,
+        "title": "BOSSHPリンク",
+        "description": "出現している敵がHPを共有している状態です。<br>敵にダメージを与えることでリンクHPを減らすことができます。<br>リンクHPを0にすることで、出現している敵をすべて倒すことができます。<br>ブレイクゲージは敵毎に保持し、敵の間で共有しません。",
+        "imagePath": "battle/gimmick_icon/icon_boss_hplink"
+      }
+    ]
+  }
+}

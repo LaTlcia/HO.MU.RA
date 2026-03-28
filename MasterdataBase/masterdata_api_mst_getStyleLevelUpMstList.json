@@ -612,6 +612,54 @@
         "maxDef": 3139
       },
       {
+        "styleLevelUpMstId": 10030401120,
+        "styleMstId": 10030401,
+        "level": 120,
+        "maxHp": 6815,
+        "maxAtk": 1462,
+        "maxDef": 1953
+      },
+      {
+        "styleLevelUpMstId": 10030401140,
+        "styleMstId": 10030401,
+        "level": 140,
+        "maxHp": 7320,
+        "maxAtk": 1624,
+        "maxDef": 2170
+      },
+      {
+        "styleLevelUpMstId": 10030401160,
+        "styleMstId": 10030401,
+        "level": 160,
+        "maxHp": 7824,
+        "maxAtk": 1786,
+        "maxDef": 2387
+      },
+      {
+        "styleLevelUpMstId": 10030401180,
+        "styleMstId": 10030401,
+        "level": 180,
+        "maxHp": 8329,
+        "maxAtk": 1949,
+        "maxDef": 2604
+      },
+      {
+        "styleLevelUpMstId": 10030401200,
+        "styleMstId": 10030401,
+        "level": 200,
+        "maxHp": 8834,
+        "maxAtk": 2111,
+        "maxDef": 2821
+      },
+      {
+        "styleLevelUpMstId": 10030401300,
+        "styleMstId": 10030401,
+        "level": 300,
+        "maxHp": 11358,
+        "maxAtk": 2923,
+        "maxDef": 3906
+      },
+      {
         "styleLevelUpMstId": 10040101120,
         "styleMstId": 10040101,
         "level": 120,
@@ -3924,6 +3972,102 @@
         "maxDef": 2816
       },
       {
+        "styleLevelUpMstId": 11150101120,
+        "styleMstId": 11150101,
+        "level": 120,
+        "maxHp": 5292,
+        "maxAtk": 1337,
+        "maxDef": 2408
+      },
+      {
+        "styleLevelUpMstId": 11150101140,
+        "styleMstId": 11150101,
+        "level": 140,
+        "maxHp": 5684,
+        "maxAtk": 1486,
+        "maxDef": 2676
+      },
+      {
+        "styleLevelUpMstId": 11150101160,
+        "styleMstId": 11150101,
+        "level": 160,
+        "maxHp": 6076,
+        "maxAtk": 1635,
+        "maxDef": 2944
+      },
+      {
+        "styleLevelUpMstId": 11150101180,
+        "styleMstId": 11150101,
+        "level": 180,
+        "maxHp": 6468,
+        "maxAtk": 1783,
+        "maxDef": 3211
+      },
+      {
+        "styleLevelUpMstId": 11150101200,
+        "styleMstId": 11150101,
+        "level": 200,
+        "maxHp": 6860,
+        "maxAtk": 1932,
+        "maxDef": 3479
+      },
+      {
+        "styleLevelUpMstId": 11150101300,
+        "styleMstId": 11150101,
+        "level": 300,
+        "maxHp": 8820,
+        "maxAtk": 2675,
+        "maxDef": 4817
+      },
+      {
+        "styleLevelUpMstId": 11200101120,
+        "styleMstId": 11200101,
+        "level": 120,
+        "maxHp": 5643,
+        "maxAtk": 2070,
+        "maxDef": 1557
+      },
+      {
+        "styleLevelUpMstId": 11200101140,
+        "styleMstId": 11200101,
+        "level": 140,
+        "maxHp": 6061,
+        "maxAtk": 2300,
+        "maxDef": 1730
+      },
+      {
+        "styleLevelUpMstId": 11200101160,
+        "styleMstId": 11200101,
+        "level": 160,
+        "maxHp": 6479,
+        "maxAtk": 2530,
+        "maxDef": 1903
+      },
+      {
+        "styleLevelUpMstId": 11200101180,
+        "styleMstId": 11200101,
+        "level": 180,
+        "maxHp": 6897,
+        "maxAtk": 2760,
+        "maxDef": 2076
+      },
+      {
+        "styleLevelUpMstId": 11200101200,
+        "styleMstId": 11200101,
+        "level": 200,
+        "maxHp": 7315,
+        "maxAtk": 2990,
+        "maxDef": 2249
+      },
+      {
+        "styleLevelUpMstId": 11200101300,
+        "styleMstId": 11200101,
+        "level": 300,
+        "maxHp": 9405,
+        "maxAtk": 4140,
+        "maxDef": 3114
+      },
+      {
         "styleLevelUpMstId": 11240101120,
         "styleMstId": 11240101,
         "level": 120,
@@ -4306,6 +4450,102 @@
         "maxHp": 8055,
         "maxAtk": 4554,
         "maxDef": 3240
+      },
+      {
+        "styleLevelUpMstId": 11450101120,
+        "styleMstId": 11450101,
+        "level": 120,
+        "maxHp": 5162,
+        "maxAtk": 2412,
+        "maxDef": 1557
+      },
+      {
+        "styleLevelUpMstId": 11450101140,
+        "styleMstId": 11450101,
+        "level": 140,
+        "maxHp": 5545,
+        "maxAtk": 2680,
+        "maxDef": 1730
+      },
+      {
+        "styleLevelUpMstId": 11450101160,
+        "styleMstId": 11450101,
+        "level": 160,
+        "maxHp": 5927,
+        "maxAtk": 2948,
+        "maxDef": 1903
+      },
+      {
+        "styleLevelUpMstId": 11450101180,
+        "styleMstId": 11450101,
+        "level": 180,
+        "maxHp": 6310,
+        "maxAtk": 3216,
+        "maxDef": 2076
+      },
+      {
+        "styleLevelUpMstId": 11450101200,
+        "styleMstId": 11450101,
+        "level": 200,
+        "maxHp": 6692,
+        "maxAtk": 3484,
+        "maxDef": 2249
+      },
+      {
+        "styleLevelUpMstId": 11450101300,
+        "styleMstId": 11450101,
+        "level": 300,
+        "maxHp": 8604,
+        "maxAtk": 4824,
+        "maxDef": 3114
+      },
+      {
+        "styleLevelUpMstId": 11460101120,
+        "styleMstId": 11460101,
+        "level": 120,
+        "maxHp": 5951,
+        "maxAtk": 1688,
+        "maxDef": 2016
+      },
+      {
+        "styleLevelUpMstId": 11460101140,
+        "styleMstId": 11460101,
+        "level": 140,
+        "maxHp": 6392,
+        "maxAtk": 1876,
+        "maxDef": 2240
+      },
+      {
+        "styleLevelUpMstId": 11460101160,
+        "styleMstId": 11460101,
+        "level": 160,
+        "maxHp": 6832,
+        "maxAtk": 2064,
+        "maxDef": 2464
+      },
+      {
+        "styleLevelUpMstId": 11460101180,
+        "styleMstId": 11460101,
+        "level": 180,
+        "maxHp": 7273,
+        "maxAtk": 2251,
+        "maxDef": 2688
+      },
+      {
+        "styleLevelUpMstId": 11460101200,
+        "styleMstId": 11460101,
+        "level": 200,
+        "maxHp": 7714,
+        "maxAtk": 2439,
+        "maxDef": 2912
+      },
+      {
+        "styleLevelUpMstId": 11460101300,
+        "styleMstId": 11460101,
+        "level": 300,
+        "maxHp": 9918,
+        "maxAtk": 3377,
+        "maxDef": 4032
       }
     ]
   }

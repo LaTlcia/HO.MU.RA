@@ -46,14 +46,7 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 1013,
-        "prevMissionTitleMstId": 0,
-        "title": "シーズンミッション",
-        "priority": 1,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 1014,
+        "missionTitleMstId": 1016,
         "prevMissionTitleMstId": 0,
         "title": "シーズンミッション",
         "priority": 1,
@@ -74,27 +67,6 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5069,
-        "prevMissionTitleMstId": 0,
-        "title": "魔法少女まどか☆マギカ [新編]叛逆の物語 前編イベントミッション",
-        "priority": 45,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5070,
-        "prevMissionTitleMstId": 0,
-        "title": "魔法少女まどか☆マギカ [新編]叛逆の物語 前編イベントメダル獲得ミッション",
-        "priority": 46,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5073,
-        "prevMissionTitleMstId": 0,
-        "title": "キオク超育成キャンペーンミッション 第3弾",
-        "priority": 15,
-        "featuredRewardResourceName": ""
-      },
-      {
         "missionTitleMstId": 5074,
         "prevMissionTitleMstId": 0,
         "title": "Chaosモードチャレンジミッション",
@@ -102,52 +74,66 @@
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5075,
+        "missionTitleMstId": 5085,
         "prevMissionTitleMstId": 0,
-        "title": "メインクエスト全クリア応援キャンペーンミッション",
-        "priority": 13,
+        "title": "魔法少女たると☆マギカ 前編イベントミッション",
+        "priority": 53,
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5076,
+        "missionTitleMstId": 5086,
+        "prevMissionTitleMstId": 0,
+        "title": "魔法少女たると☆マギカ 前編イベントメモリアルメダル獲得ミッション",
+        "priority": 54,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5087,
+        "prevMissionTitleMstId": 0,
+        "title": "1st Anniversaryカウントダウンミッション",
+        "priority": 20,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5090,
+        "prevMissionTitleMstId": 0,
+        "title": "マギアレコード Crescent Memoria 第３弾イベントミッション",
+        "priority": 55,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5091,
+        "prevMissionTitleMstId": 0,
+        "title": "マギアレコード Crescent Memoria 第３弾イベントメモリアルメダル獲得ミッション",
+        "priority": 56,
+        "featuredRewardResourceName": ""
+      },
+      {
+        "missionTitleMstId": 5096,
         "prevMissionTitleMstId": 0,
         "title": "カムバックミッション",
         "priority": 1,
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5077,
+        "missionTitleMstId": 5097,
         "prevMissionTitleMstId": 0,
-        "title": "魔法少女まどか☆マギカ [新編]叛逆の物語 後編イベントミッション",
-        "priority": 47,
+        "title": "1st Anniversaryまどドラくじミッション",
+        "priority": 52,
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5078,
+        "missionTitleMstId": 5098,
         "prevMissionTitleMstId": 0,
-        "title": "魔法少女まどか☆マギカ [新編]叛逆の物語 後編イベントメダル獲得ミッション",
-        "priority": 48,
+        "title": "1st Anniversaryミッション 第1弾",
+        "priority": 20,
         "featuredRewardResourceName": ""
       },
       {
-        "missionTitleMstId": 5079,
+        "missionTitleMstId": 5100,
         "prevMissionTitleMstId": 0,
-        "title": "スイート・パティシエールキャンペーンミッション 第1弾",
-        "priority": 17,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5081,
-        "prevMissionTitleMstId": 0,
-        "title": "想い伝わる甘い魔法 前編イベントミッション",
-        "priority": 49,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5082,
-        "prevMissionTitleMstId": 0,
-        "title": "想い伝わる甘い魔法 前編イベントメモリアルメダル獲得ミッション",
-        "priority": 50,
+        "title": "エクセドラクライシスプレイミッション",
+        "priority": 51,
         "featuredRewardResourceName": ""
       }
     ]

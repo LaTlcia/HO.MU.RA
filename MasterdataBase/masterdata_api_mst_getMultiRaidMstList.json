@@ -114,6 +114,22 @@
         "endTime": "2026-03-12T11:59:59+09:00",
         "multiRaidBattleBonusGroupId": 3,
         "dailyBonusLotteryRarityGroupId": 103
+      },
+      {
+        "multiRaidMstId": 15,
+        "seasonId": 4,
+        "startTime": "2026-03-12T12:00:00+09:00",
+        "endTime": "2026-03-26T11:59:59+09:00",
+        "multiRaidBattleBonusGroupId": 4,
+        "dailyBonusLotteryRarityGroupId": 103
+      },
+      {
+        "multiRaidMstId": 16,
+        "seasonId": 5,
+        "startTime": "2026-03-26T12:00:00+09:00",
+        "endTime": "2026-04-09T11:59:59+09:00",
+        "multiRaidBattleBonusGroupId": 5,
+        "dailyBonusLotteryRarityGroupId": 103
       }
     ]
   }

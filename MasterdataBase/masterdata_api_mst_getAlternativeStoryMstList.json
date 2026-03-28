@@ -1,0 +1,36 @@
+{
+  "url": "/api/mst/getAlternativeStoryMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "alternativeStoryMstId": 1,
+        "name": "序章",
+        "title": "私は私を感じたの",
+        "description": "そこは、魔法少女の魂が導かれる灯台。\n記憶を失った少女が迷い込み、月日が流れたある日のこと。\n繰り返すおだやかな日常の中で、それは急速に、静かに\n記憶の光をおびやかす異変として忍び寄っていたのでした。",
+        "questMapMstId": 131,
+        "prevAlternativeStoryMstId": 0,
+        "firstClearRewardGroupId": 102,
+        "startTime": "2026-03-27T22:00:00+09:00",
+        "sortOrder": 1,
+        "iconAssetBundleName": "chapter_icon_00",
+        "nextChapterMovieAssetBundleName": "Movie/3DMovie/alternative_story_open_01.m3u8",
+        "comingSoonMovieAssetBundleName": "Movie/3DMovie/mv3044.m3u8"
+      },
+      {
+        "alternativeStoryMstId": 2,
+        "name": "1章",
+        "title": "",
+        "description": "",
+        "questMapMstId": 131,
+        "prevAlternativeStoryMstId": 1,
+        "firstClearRewardGroupId": 102,
+        "startTime": "2050-01-01T00:00:00+09:00",
+        "sortOrder": 2,
+        "iconAssetBundleName": "chapter_icon_01",
+        "nextChapterMovieAssetBundleName": "",
+        "comingSoonMovieAssetBundleName": ""
+      }
+    ]
+  }
+}

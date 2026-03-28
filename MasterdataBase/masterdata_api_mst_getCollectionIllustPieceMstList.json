@@ -557,6 +557,36 @@
         "collectionIllustPieceMstId": 90106,
         "collectionIllustMstId": 9100,
         "collectionConditionGroupMstId": 120
+      },
+      {
+        "collectionIllustPieceMstId": 100101,
+        "collectionIllustMstId": 10100,
+        "collectionConditionGroupMstId": 121
+      },
+      {
+        "collectionIllustPieceMstId": 100102,
+        "collectionIllustMstId": 10100,
+        "collectionConditionGroupMstId": 122
+      },
+      {
+        "collectionIllustPieceMstId": 100103,
+        "collectionIllustMstId": 10100,
+        "collectionConditionGroupMstId": 123
+      },
+      {
+        "collectionIllustPieceMstId": 100104,
+        "collectionIllustMstId": 10100,
+        "collectionConditionGroupMstId": 124
+      },
+      {
+        "collectionIllustPieceMstId": 100105,
+        "collectionIllustMstId": 10100,
+        "collectionConditionGroupMstId": 125
+      },
+      {
+        "collectionIllustPieceMstId": 100106,
+        "collectionIllustMstId": 10100,
+        "collectionConditionGroupMstId": 126
       }
     ]
   }

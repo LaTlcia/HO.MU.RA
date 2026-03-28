@@ -824,8 +824,64 @@
         "json": "{\"height\":-120,\"textureWidth\":768,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"千歳ゆまre_(私服)_圧縮\"}"
       },
       {
+        "live2DParamMstId": 402130,
+        "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"タルトre_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"}]}"
+      },
+      {
+        "live2DParamMstId": 402131,
+        "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"タルトre_(私服)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"}]}"
+      },
+      {
+        "live2DParamMstId": 402132,
+        "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"タルトre_(村娘)_圧縮\",\"expressions\":[{\"name\":\"mtn_ex_131.exp3.json\",\"desc\":\"悲愴(ハイライトなし)\"}]}"
+      },
+      {
+        "live2DParamMstId": 402230,
+        "json": "{\"textureWidth\":768,\"height\":-60,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"リズ・ホークウッドre_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 402231,
+        "json": "{\"textureWidth\":768,\"height\":-60,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"リズ・ホークウッドre(私服)_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 402330,
+        "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"メリッサre圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 402331,
+        "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"メリッサre(私服)_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 402430,
+        "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"ミヌゥre_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 402530,
+        "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"コルボーre_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 402531,
+        "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"コルボーre_圧縮\"}"
+      },
+      {
         "live2DParamMstId": 402630,
         "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"エリザ・ツェリスカre_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 402631,
+        "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"エリザ・ツェリスカ_私服\"}"
+      },
+      {
+        "live2DParamMstId": 402730,
+        "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"ラピヌre_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 402930,
+        "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"mtn_ex_041.exp3.json\"],\"charaName\":\"ペレネルre_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 413030,
+        "json": "{\"textureWidth\":768,\"height\":-65,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"凪星そらな(魔法少女)_re_減色\"}"
       },
       {
         "live2DParamMstId": 660230,
@@ -1064,8 +1120,68 @@
         "json": "{\"textureWidth\":768,\"height\":-60,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"charaName\":\"アイちゃん_re_圧縮\"}"
       },
       {
+        "live2DParamMstId": 830030,
+        "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"男性A(ラ・イル)re_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 830130,
+        "json": "{\"textureWidth\":768,\"height\":-55,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"男性B(ジル・ド・レ)re_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 830230,
+        "json": "{\"textureWidth\":768,\"height\":-60,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"男性C(シャルル)re_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 830330,
+        "json": "{\"textureWidth\":768,\"height\":-55,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"下等兵士A(味方)re_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 830430,
+        "json": "{\"textureWidth\":768,\"height\":-55,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"下等兵士B(その他)re_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 830530,
+        "json": "{\"textureWidth\":768,\"height\":-55,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"下等兵士C(その他)re_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 830630,
+        "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"オスヴァルト・フォン・ヴォルケンシュタイン_re_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 830730,
+        "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"ジャン・ド・デュノワ(バタール・ドルレアン)_re_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 830830,
+        "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"ジョルジュ・ドゥ・トレモイユ_re_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 830930,
+        "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"ジョン・タルボット_re_圧縮\"}"
+      },
+      {
         "live2DParamMstId": 831031,
         "json": "{\"textureWidth\":768,\"height\":-55,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"charaName\":\"エイミーre_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 831130,
+        "json": "{\"textureWidth\":768,\"height\":-55,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"上級兵士Are_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 831131,
+        "json": "{\"textureWidth\":768,\"height\":-55,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"上級兵士Bre_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 831132,
+        "json": "{\"textureWidth\":768,\"height\":-55,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"上級兵士Cre_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 831230,
+        "json": "{\"textureWidth\":768,\"height\":-55,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_000.exp3.json\",\"mtn_ex_000.exp3.json\"],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"下等兵士D(敵)re_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 831930,
+        "json": "{\"textureWidth\":768,\"height\":-75,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_000.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"フレシュre_圧縮\"}"
       },
       {
         "live2DParamMstId": 833430,
@@ -1248,6 +1364,10 @@
         "json": "{\"textureWidth\":768,\"height\":-110,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"幼児(女)Bre_圧縮\"}"
       },
       {
+        "live2DParamMstId": 838330,
+        "json": "{\"textureWidth\":768,\"height\":-85,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"夜明すみれre_圧縮\"}"
+      },
+      {
         "live2DParamMstId": 838331,
         "json": "{\"textureWidth\":768,\"height\":-85,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"夜明すみれre_(進学校制服)_圧縮\"}"
       },
@@ -1262,6 +1382,50 @@
       {
         "live2DParamMstId": 838431,
         "json": "{\"textureWidth\":768,\"height\":-71,\"modelScale\":1.3,\"idleFace\":[\"mtn_ex_010.exp3.json\",\"mtn_ex_010.exp3.json\"],\"motionFace\":[\"\",\"\",\"\",\"\"],\"charaName\":\"日暮ふうかre(制服)_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 838530,
+        "json": "{\"textureWidth\":768,\"height\":-90,\"modelScale\":1.3,\"idleFace\":[\"\",\"\"],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"カトリーヌre_圧縮\",}"
+      },
+      {
+        "live2DParamMstId": 838630,
+        "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"イングランドの魔法少女Are_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 838631,
+        "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"イングランドの魔法少女Bre_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 838632,
+        "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"イングランドの魔法少女Cre_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 838730,
+        "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[],\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"神父_re_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 838830,
+        "json": "{\"textureWidth\":768,\"height\":-55,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"王侯貴族（男性）re_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 838930,
+        "json": "{\"textureWidth\":768,\"height\":-70,\"modelScale\":1.3,\"idleFace\":\"mtn_ex_010.exp3.json\",\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"王侯貴族（女性）re_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 839030,
+        "json": "{\"textureWidth\":768,\"height\":-50,\"modelScale\":1.3,\"idleFace\":[],\"motionFace\":[\"mtn_ex_010.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"アルチュール・ド・リッシュモン_re_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 839230,
+        "json": "{\"textureWidth\":512,\"height\":-90,\"modelScale\":1.3,\"motionFace\":[\"mtn_ex_011.exp3.json\",\"\",\"\",\"\"],\"charaName\":\"ナマエre_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 839330,
+        "json": "{\"textureWidth\":768,\"height\":0,\"modelScale\":1.3,\"charaName\":\"AQre_圧縮\"}"
+      },
+      {
+        "live2DParamMstId": 839430,
+        "json": "{\"textureWidth\":768,\"height\":0,\"modelScale\":1.3,\"charaName\":\"ヨダカre_圧縮\"}"
       },
       {
         "live2DParamMstId": 2601310,

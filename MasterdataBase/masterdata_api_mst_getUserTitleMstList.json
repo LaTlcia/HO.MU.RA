@@ -64,6 +64,12 @@
         "value1": 10030301
       },
       {
+        "userTitleMstId": 10030401,
+        "title": "パンナ・ヴォルティコーザ",
+        "titleType": 1,
+        "value1": 10030401
+      },
+      {
         "userTitleMstId": 10040101,
         "title": "バルダメンテ・フォルティッシモ",
         "titleType": 1,
@@ -262,6 +268,18 @@
         "value1": 11040101
       },
       {
+        "userTitleMstId": 11150101,
+        "title": "ラ・リュミエール",
+        "titleType": 1,
+        "value1": 11150101
+      },
+      {
+        "userTitleMstId": 11200101,
+        "title": "ラ・ダンス・マカブル",
+        "titleType": 1,
+        "value1": 11200101
+      },
+      {
         "userTitleMstId": 11240101,
         "title": "オラクルレイ",
         "titleType": 1,
@@ -296,6 +314,18 @@
         "title": "ティロフィナーレリベレーション",
         "titleType": 1,
         "value1": 11390101
+      },
+      {
+        "userTitleMstId": 11450101,
+        "title": "フローラル・アイアンスパイク",
+        "titleType": 1,
+        "value1": 11450101
+      },
+      {
+        "userTitleMstId": 11460101,
+        "title": "ファイナル・フェイトブルーム",
+        "titleType": 1,
+        "value1": 11460101
       },
       {
         "userTitleMstId": 20000000,
@@ -838,6 +868,12 @@
         "value1": 0
       },
       {
+        "userTitleMstId": 20601003,
+        "title": "Crescent Memoria 批評家の魔女 Mainクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
         "userTitleMstId": 20602001,
         "title": "Crescent Memoria 十咎ももこの記憶 Battleクリア",
         "titleType": 0,
@@ -850,6 +886,12 @@
         "value1": 0
       },
       {
+        "userTitleMstId": 20602003,
+        "title": "Crescent Memoria 批評家の魔女 Battleクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
         "userTitleMstId": 20603001,
         "title": "Crescent Memoria 十咎ももこの記憶 Nightmareクリア",
         "titleType": 0,
@@ -858,6 +900,12 @@
       {
         "userTitleMstId": 20603002,
         "title": "Crescent Memoria 由比鶴乃の記憶 Nightmareクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20603003,
+        "title": "Crescent Memoria 批評家の魔女 Nightmareクリア",
         "titleType": 0,
         "value1": 0
       },
@@ -894,6 +942,24 @@
       {
         "userTitleMstId": 20703002,
         "title": "[新編]叛逆の物語 くるみ割りの魔女 Nightmareクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20801001,
+        "title": "たると☆マギカ コルボー Mainクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20802001,
+        "title": "たると☆マギカ コルボー Battleクリア",
+        "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 20803001,
+        "title": "たると☆マギカ コルボー Nightmareクリア",
         "titleType": 0,
         "value1": 0
       },
@@ -1216,6 +1282,24 @@
         "value1": 4200057
       },
       {
+        "userTitleMstId": 60000035,
+        "title": "想い伝わる甘い魔法 後編クリア",
+        "titleType": 2,
+        "value1": 4200058
+      },
+      {
+        "userTitleMstId": 60000036,
+        "title": "魔法少女たると☆マギカ 前編クリア",
+        "titleType": 2,
+        "value1": 4200059
+      },
+      {
+        "userTitleMstId": 60000037,
+        "title": "マギアレコード Crescent Memoria 第３弾クリア",
+        "titleType": 2,
+        "value1": 4200061
+      },
+      {
         "userTitleMstId": 70000001,
         "title": "ミラーズランキングS☆☆☆",
         "titleType": 0,
@@ -1399,6 +1483,114 @@
         "userTitleMstId": 70000031,
         "title": "マギアレコード総合戦力値Top10000",
         "titleType": 0,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010001,
+        "title": "エクセドラクライシスTop1",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010002,
+        "title": "エクセドラクライシスTop2",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010003,
+        "title": "エクセドラクライシスTop3",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010004,
+        "title": "エクセドラクライシスTop4",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010005,
+        "title": "エクセドラクライシスTop5",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010006,
+        "title": "エクセドラクライシスTop6",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010007,
+        "title": "エクセドラクライシスTop7",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010008,
+        "title": "エクセドラクライシスTop8",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010009,
+        "title": "エクセドラクライシスTop9",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010010,
+        "title": "エクセドラクライシスTop10",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010011,
+        "title": "エクセドラクライシスTop50",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010012,
+        "title": "エクセドラクライシスTop100",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010013,
+        "title": "エクセドラクライシスTop500",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010014,
+        "title": "エクセドラクライシスTop1000",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010015,
+        "title": "エクセドラクライシスTop3000",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010016,
+        "title": "エクセドラクライシスTop10000",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010017,
+        "title": "エクセドラクライシスTop30000",
+        "titleType": 4,
+        "value1": 0
+      },
+      {
+        "userTitleMstId": 80010018,
+        "title": "エクセドラクライシスTop50000",
+        "titleType": 4,
         "value1": 0
       }
     ]

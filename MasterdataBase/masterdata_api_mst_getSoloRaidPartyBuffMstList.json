@@ -1,0 +1,26 @@
+{
+  "url": "/api/mst/getSoloRaidPartyBuffMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "soloRaidPartyBuffMstId": 100,
+        "groupId": 1,
+        "passiveSkillMstId": 1600004,
+        "buffPointChargePassiveSkillMstId": 1600005
+      },
+      {
+        "soloRaidPartyBuffMstId": 101,
+        "groupId": 1,
+        "passiveSkillMstId": 1600006,
+        "buffPointChargePassiveSkillMstId": 1600007
+      },
+      {
+        "soloRaidPartyBuffMstId": 102,
+        "groupId": 1,
+        "passiveSkillMstId": 1600008,
+        "buffPointChargePassiveSkillMstId": 1600009
+      }
+    ]
+  }
+}

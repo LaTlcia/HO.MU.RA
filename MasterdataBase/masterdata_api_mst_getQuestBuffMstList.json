@@ -14,6 +14,16 @@
         "endTime": "2026-02-28T11:59:59+09:00"
       },
       {
+        "questBuffMstId": 1002,
+        "questCategoryMstId": 1,
+        "difficulty": 1,
+        "buffType": 1,
+        "buffValue": 500,
+        "description": "与えるダメージ+50%",
+        "startTime": "2026-03-27T22:00:00+09:00",
+        "endTime": "2026-04-30T11:59:59+09:00"
+      },
+      {
         "questBuffMstId": 2001,
         "questCategoryMstId": 1,
         "difficulty": 1,
@@ -22,6 +32,16 @@
         "description": "ブレイクゲージ削減量+50%",
         "startTime": "2026-01-30T12:00:00+09:00",
         "endTime": "2026-02-28T11:59:59+09:00"
+      },
+      {
+        "questBuffMstId": 2002,
+        "questCategoryMstId": 1,
+        "difficulty": 1,
+        "buffType": 2,
+        "buffValue": 500,
+        "description": "ブレイクゲージ削減量+50%",
+        "startTime": "2026-03-27T22:00:00+09:00",
+        "endTime": "2026-04-30T11:59:59+09:00"
       }
     ]
   }

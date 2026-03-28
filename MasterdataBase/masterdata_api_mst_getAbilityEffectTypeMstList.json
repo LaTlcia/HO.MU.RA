@@ -2667,7 +2667,7 @@
       },
       {
         "abilityEffectTypeMstId": 247,
-        "name": "闇属性フィールド",
+        "name": "フィールド",
         "effectType": "UNIQUE_ZONE",
         "category": 3,
         "targetParams": "",
@@ -2732,6 +2732,39 @@
         "displayType": 1
       },
       {
+        "abilityEffectTypeMstId": 253,
+        "name": "リゲイン",
+        "effectType": "REGAIN_HP",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "",
+        "stateFlipName": "リゲイン",
+        "displayType": 1
+      },
+      {
+        "abilityEffectTypeMstId": 254,
+        "name": "リゲイン",
+        "effectType": "REGAIN_ATK",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "",
+        "stateFlipName": "リゲイン",
+        "displayType": 1
+      },
+      {
+        "abilityEffectTypeMstId": 255,
+        "name": "リゲイン",
+        "effectType": "REGAIN_DEF",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "",
+        "stateFlipName": "リゲイン",
+        "displayType": 1
+      },
+      {
         "abilityEffectTypeMstId": 1001,
         "name": "HP・攻撃力・防御力上昇",
         "effectType": "UP_HP_ATK_DEF_RATIO",
@@ -2741,6 +2774,83 @@
         "iconName": "BuffIconL",
         "stateFlipName": "HP・攻撃力・防御力UP",
         "displayType": 1
+      },
+      {
+        "abilityEffectTypeMstId": 10000,
+        "name": "ストップ",
+        "effectType": "LOCK_TURN_ORDER",
+        "category": 3,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "DebuffIconL",
+        "stateFlipName": "ストップ",
+        "displayType": 2
+      },
+      {
+        "abilityEffectTypeMstId": 10001,
+        "name": "カウントダウン開始",
+        "effectType": "COUNTDOWN_START",
+        "category": 3,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "",
+        "stateFlipName": "",
+        "displayType": 0
+      },
+      {
+        "abilityEffectTypeMstId": 10002,
+        "name": "カウントダウン減少",
+        "effectType": "COUNTDOWN_DECREASE",
+        "category": 3,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "",
+        "stateFlipName": "",
+        "displayType": 0
+      },
+      {
+        "abilityEffectTypeMstId": 10003,
+        "name": "カウントダウン解除",
+        "effectType": "COUNTDOWN_CANCEL",
+        "category": 3,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "",
+        "stateFlipName": "",
+        "displayType": 0
+      },
+      {
+        "abilityEffectTypeMstId": 10004,
+        "name": "カウントダウン解除時に発動する追加スキル",
+        "effectType": "ADDITIONAL_COUNTDOWN_CANCEL_SKILL_ACT",
+        "category": 3,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "",
+        "stateFlipName": "",
+        "displayType": 0
+      },
+      {
+        "abilityEffectTypeMstId": 10005,
+        "name": "カウントダウンゼロ時に発動する追加スキル",
+        "effectType": "ADDITIONAL_COUNTDOWN_ZERO_SKILL_ACT",
+        "category": 3,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "",
+        "stateFlipName": "",
+        "displayType": 0
+      },
+      {
+        "abilityEffectTypeMstId": 10006,
+        "name": "結界対策値獲得",
+        "effectType": "GAIN_SOLO_RAID_BUFF_POINT",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "",
+        "stateFlipName": "",
+        "displayType": 0
       }
     ]
   }

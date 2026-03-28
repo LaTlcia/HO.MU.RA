@@ -268,6 +268,18 @@
         "advMstId": 70000260
       },
       {
+        "fieldSeriesMstId": 63700,
+        "name": "コルボー",
+        "questMapMstId": 10,
+        "questGroupMstId": 63700,
+        "styleMstId": 0,
+        "assetbundleName": "63700_01",
+        "startTime": "2026-03-10T12:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 70000302
+      },
+      {
         "fieldSeriesMstId": 64100,
         "name": "魔獣",
         "questMapMstId": 7,
@@ -350,6 +362,18 @@
         "endTime": "2050-01-02T10:00:00+09:00",
         "sortOrder": 1,
         "advMstId": 70000278
+      },
+      {
+        "fieldSeriesMstId": 65601,
+        "name": "批評家の魔女",
+        "questMapMstId": 8,
+        "questGroupMstId": 65601,
+        "styleMstId": 0,
+        "assetbundleName": "65601_01",
+        "startTime": "2026-03-27T22:00:00+09:00",
+        "endTime": "2050-01-02T10:00:00+09:00",
+        "sortOrder": 1,
+        "advMstId": 70000316
       },
       {
         "fieldSeriesMstId": 70000,

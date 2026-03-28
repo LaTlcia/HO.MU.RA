@@ -4,6 +4,20 @@
   "payload": {
     "mstList": [
       {
+        "enemyProfileMstId": 112001,
+        "enemyUniqueId": 112001,
+        "enemyMstId": 112001,
+        "name": "コルボー",
+        "runesName": "",
+        "seriesId": 10,
+        "description": "",
+        "sortOrder": 0,
+        "isCollectionDisp": false,
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
         "enemyProfileMstId": 600001,
         "enemyUniqueId": 600001,
         "enemyMstId": 600001,
@@ -996,6 +1010,34 @@
         "unlockType": 1,
         "unlockId": 0,
         "releaseTime": "2026-01-30T12:00:00+09:00"
+      },
+      {
+        "enemyProfileMstId": 654001,
+        "enemyUniqueId": 654001,
+        "enemyMstId": 654001,
+        "name": "兵士",
+        "runesName": "",
+        "seriesId": 10,
+        "description": "",
+        "sortOrder": 0,
+        "isCollectionDisp": false,
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "enemyProfileMstId": 656001,
+        "enemyUniqueId": 656001,
+        "enemyMstId": 656001,
+        "name": "批評家の魔女",
+        "runesName": "Raspberry",
+        "seriesId": 2,
+        "description": "批評家の魔女　その性質は権威<br>価値有るものとそうでは無いものをより分けることに熱心な魔女。<br>無価値なものには杭を刺し価値あるものには花をつけるらしいが、魔女自身以外に花が与えられることはめったにない。裁定基準は不明。<br>その結界は杭で潰された物や人が残した色の光であふれている。",
+        "sortOrder": 20080101,
+        "isCollectionDisp": true,
+        "unlockType": 1,
+        "unlockId": 0,
+        "releaseTime": "2026-03-27T22:00:00+09:00"
       },
       {
         "enemyProfileMstId": 656004,

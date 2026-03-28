@@ -372,6 +372,76 @@
         "streamableBgmMstId": 74,
         "cueSheetName": "bgm_battle_magireco0_02",
         "cueName": "bgm_battle_magireco0_02_majo_656001"
+      },
+      {
+        "streamableBgmMstId": 75,
+        "cueSheetName": "bgm_dng_magireco0_01",
+        "cueName": "bgm_dng_magireco0_01"
+      },
+      {
+        "streamableBgmMstId": 76,
+        "cueSheetName": "bgm_battle_magireco0_03",
+        "cueName": "bgm_battle_magireco0_03_majo_656001"
+      },
+      {
+        "streamableBgmMstId": 77,
+        "cueSheetName": "bgm_lighthouse_theater",
+        "cueName": "bgm_lighthouse_theater_layer_01"
+      },
+      {
+        "streamableBgmMstId": 78,
+        "cueSheetName": "bgm_lighthouse_theater",
+        "cueName": "bgm_lighthouse_theater_layer_02"
+      },
+      {
+        "streamableBgmMstId": 79,
+        "cueSheetName": "bgm_lighthouse_theater",
+        "cueName": "bgm_lighthouse_theater_layer_03"
+      },
+      {
+        "streamableBgmMstId": 80,
+        "cueSheetName": "bgm_lighthouse_theater",
+        "cueName": "bgm_lighthouse_theater_layer_04"
+      },
+      {
+        "streamableBgmMstId": 81,
+        "cueSheetName": "bgm_lighthouse_theater",
+        "cueName": "bgm_lighthouse_theater_muteswitch_layer_01"
+      },
+      {
+        "streamableBgmMstId": 82,
+        "cueSheetName": "bgm_lighthouse_theater",
+        "cueName": "bgm_lighthouse_theater_muteswitch_layer_02"
+      },
+      {
+        "streamableBgmMstId": 83,
+        "cueSheetName": "bgm_lighthouse_theater",
+        "cueName": "bgm_lighthouse_theater_muteswitch_layer_03"
+      },
+      {
+        "streamableBgmMstId": 84,
+        "cueSheetName": "bgm_lighthouse_theater",
+        "cueName": "bgm_lighthouse_theater_muteswitch_layer_04"
+      },
+      {
+        "streamableBgmMstId": 85,
+        "cueSheetName": "bgm_lighthouse_theater",
+        "cueName": "bgm_lighthouse_theater_mutestart_layer_01"
+      },
+      {
+        "streamableBgmMstId": 86,
+        "cueSheetName": "bgm_lighthouse_theater",
+        "cueName": "bgm_lighthouse_theater_mutestart_layer_02"
+      },
+      {
+        "streamableBgmMstId": 87,
+        "cueSheetName": "bgm_lighthouse_theater",
+        "cueName": "bgm_lighthouse_theater_mutestart_layer_03"
+      },
+      {
+        "streamableBgmMstId": 88,
+        "cueSheetName": "bgm_lighthouse_theater",
+        "cueName": "bgm_lighthouse_theater_mutestart_layer_04"
       }
     ]
   }

@@ -39,6 +39,16 @@
         "resourceName": ""
       },
       {
+        "questCategoryMstId": 13,
+        "name": "エクセドラクエスト",
+        "resourceName": ""
+      },
+      {
+        "questCategoryMstId": 14,
+        "name": "エクセドラクライシス",
+        "resourceName": ""
+      },
+      {
         "questCategoryMstId": 999,
         "name": "チュートリアル",
         "resourceName": ""

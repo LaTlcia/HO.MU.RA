@@ -212,6 +212,21 @@
         "resourceName": "art_06_00_0007",
         "isAutoUnlocked": false,
         "advMstId": 70000296
+      },
+      {
+        "collectionIllustMstId": 10100,
+        "name": "闇を払う光たらん",
+        "illustrator": "",
+        "source": "",
+        "questMapMstId": 10,
+        "completeRewardCardMstId": 5100051,
+        "completeRewardStyleMstId": 0,
+        "completeRewardGemNum": 1000,
+        "completeHomeAppealMstId": 0,
+        "expandCelestialGlobe": false,
+        "resourceName": "art_06_04_0001",
+        "isAutoUnlocked": false,
+        "advMstId": 70000313
       }
     ]
   }

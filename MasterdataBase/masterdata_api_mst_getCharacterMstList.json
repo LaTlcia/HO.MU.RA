@@ -8,364 +8,448 @@
         "name": "ナマエ",
         "awakeItemMstId": 0,
         "iconResourceName": "1000",
-        "colorCode": "#FFFFFF"
+        "colorCode": "#FFFFFF",
+        "enCapsName": ""
       },
       {
         "characterMstId": 1001,
         "name": "鹿目まどか",
         "awakeItemMstId": 0,
         "iconResourceName": "1001",
-        "colorCode": "#FA71BD"
+        "colorCode": "#FA71BD",
+        "enCapsName": "MADOKA KANAME"
       },
       {
         "characterMstId": 1002,
         "name": "暁美ほむら",
         "awakeItemMstId": 0,
         "iconResourceName": "1002",
-        "colorCode": "#B56ABF"
+        "colorCode": "#B56ABF",
+        "enCapsName": "HOMURA AKEMI"
       },
       {
         "characterMstId": 1003,
         "name": "巴マミ",
         "awakeItemMstId": 0,
         "iconResourceName": "1003",
-        "colorCode": "#EA9C54"
+        "colorCode": "#EA9C54",
+        "enCapsName": "MAMI TOMOE"
       },
       {
         "characterMstId": 1004,
         "name": "美樹さやか",
         "awakeItemMstId": 0,
         "iconResourceName": "1004",
-        "colorCode": "#64C5E6"
+        "colorCode": "#64C5E6",
+        "enCapsName": "SAYAKA MIKI"
       },
       {
         "characterMstId": 1005,
         "name": "佐倉杏子",
         "awakeItemMstId": 0,
         "iconResourceName": "1005",
-        "colorCode": "#E64545"
+        "colorCode": "#E64545",
+        "enCapsName": "KYOKO SAKURA"
       },
       {
         "characterMstId": 1006,
         "name": "百江なぎさ",
         "awakeItemMstId": 0,
         "iconResourceName": "1006",
-        "colorCode": "#B192C0"
+        "colorCode": "#B192C0",
+        "enCapsName": "NAGISA MOMOE"
       },
       {
         "characterMstId": 1007,
         "name": "愛生まばゆ",
         "awakeItemMstId": 0,
         "iconResourceName": "1007",
-        "colorCode": "#EBA4F0"
+        "colorCode": "#EBA4F0",
+        "enCapsName": "MABAYU AKI"
       },
       {
         "characterMstId": 1008,
         "name": "環いろは",
         "awakeItemMstId": 0,
         "iconResourceName": "1008",
-        "colorCode": "#F57689"
+        "colorCode": "#F57689",
+        "enCapsName": "IROHA TAMAKI"
       },
       {
         "characterMstId": 1009,
         "name": "七海やちよ",
         "awakeItemMstId": 0,
         "iconResourceName": "1009",
-        "colorCode": "#1A9AB7"
+        "colorCode": "#1A9AB7",
+        "enCapsName": "YACHIYO NANAMI"
       },
       {
         "characterMstId": 1010,
         "name": "由比鶴乃",
         "awakeItemMstId": 0,
         "iconResourceName": "1010",
-        "colorCode": "#FF5F4B"
+        "colorCode": "#FF5F4B",
+        "enCapsName": "TSURUNO YUI"
       },
       {
         "characterMstId": 1011,
         "name": "二葉さな",
         "awakeItemMstId": 0,
         "iconResourceName": "1011",
-        "colorCode": "#6dd1b5"
+        "colorCode": "#6dd1b5",
+        "enCapsName": "SANA FUTABA"
       },
       {
         "characterMstId": 1012,
         "name": "深月フェリシア",
         "awakeItemMstId": 0,
         "iconResourceName": "1012",
-        "colorCode": "#8D6AD2"
+        "colorCode": "#8D6AD2",
+        "enCapsName": "FELICIA MITSUKI"
       },
       {
         "characterMstId": 1013,
         "name": "梓みふゆ",
         "awakeItemMstId": 0,
         "iconResourceName": "1013",
-        "colorCode": "#7c8aa7"
+        "colorCode": "#7c8aa7",
+        "enCapsName": "MIFUYU AZUSA"
       },
       {
         "characterMstId": 1014,
         "name": "十咎ももこ",
         "awakeItemMstId": 0,
         "iconResourceName": "1014",
-        "colorCode": "#FC7459"
+        "colorCode": "#FC7459",
+        "enCapsName": "MOMOKO TOGAME"
       },
       {
         "characterMstId": 1015,
         "name": "水波レナ",
         "awakeItemMstId": 0,
         "iconResourceName": "1015",
-        "colorCode": "#9BDAEB"
+        "colorCode": "#9BDAEB",
+        "enCapsName": "RENA MINAMI"
       },
       {
         "characterMstId": 1016,
         "name": "秋野かえで",
         "awakeItemMstId": 0,
         "iconResourceName": "1016",
-        "colorCode": "#CE3225"
+        "colorCode": "#CE3225",
+        "enCapsName": "KAEDE AKINO"
       },
       {
         "characterMstId": 1017,
         "name": "御園かりん",
         "awakeItemMstId": 0,
         "iconResourceName": "1017",
-        "colorCode": "#FFCF3D"
+        "colorCode": "#FFCF3D",
+        "enCapsName": "KARIN MISONO"
       },
       {
         "characterMstId": 1018,
         "name": "竜城明日香",
         "awakeItemMstId": 0,
         "iconResourceName": "1018",
-        "colorCode": "#4A8DE4"
+        "colorCode": "#4A8DE4",
+        "enCapsName": "ASUKA TATSUKI"
       },
       {
         "characterMstId": 1019,
         "name": "里見灯花",
         "awakeItemMstId": 0,
         "iconResourceName": "1019",
-        "colorCode": "#E73D24"
+        "colorCode": "#E73D24",
+        "enCapsName": "TOKA SATOMI"
       },
       {
         "characterMstId": 1020,
         "name": "柊ねむ",
         "awakeItemMstId": 0,
         "iconResourceName": "1020",
-        "colorCode": "#EAB088"
+        "colorCode": "#EAB088",
+        "enCapsName": "NEMU HIIRAGI"
       },
       {
         "characterMstId": 1021,
         "name": "アリナ・グレイ",
         "awakeItemMstId": 0,
         "iconResourceName": "1021",
-        "colorCode": "#CCF02A"
+        "colorCode": "#CCF02A",
+        "enCapsName": "ALINA GRAY"
       },
       {
         "characterMstId": 1022,
         "name": "環うい",
         "awakeItemMstId": 0,
         "iconResourceName": "1022",
-        "colorCode": "#d14c69"
+        "colorCode": "#d14c69",
+        "enCapsName": "UI TAMAKI"
       },
       {
         "characterMstId": 1024,
         "name": "八雲みたま",
         "awakeItemMstId": 0,
         "iconResourceName": "1024",
-        "colorCode": "#3d78c1"
+        "colorCode": "#3d78c1",
+        "enCapsName": "MITAMA YAKUMO"
       },
       {
         "characterMstId": 1025,
         "name": "天音月夜",
         "awakeItemMstId": 0,
         "iconResourceName": "1025",
-        "colorCode": "#EF3775"
+        "colorCode": "#EF3775",
+        "enCapsName": "TSUKUYO AMANE"
       },
       {
         "characterMstId": 1026,
         "name": "天音月咲",
         "awakeItemMstId": 0,
         "iconResourceName": "1026",
-        "colorCode": "#EF3775"
+        "colorCode": "#EF3775",
+        "enCapsName": "TSUKASA AMANE"
       },
       {
         "characterMstId": 1058,
         "name": "空穂夏希",
         "awakeItemMstId": 0,
         "iconResourceName": "1058",
-        "colorCode": "#B8DAFF"
+        "colorCode": "#B8DAFF",
+        "enCapsName": "NATSUKI UTSUHO"
       },
       {
         "characterMstId": 1061,
         "name": "常盤ななか",
         "awakeItemMstId": 0,
         "iconResourceName": "1061",
-        "colorCode": "#FF5B7E"
+        "colorCode": "#FF5B7E",
+        "enCapsName": "NANAKA TOKIWA"
       },
       {
         "characterMstId": 1067,
         "name": "夏目かこ",
         "awakeItemMstId": 0,
         "iconResourceName": "1067",
-        "colorCode": "#53FEC9"
+        "colorCode": "#53FEC9",
+        "enCapsName": "KAKO NATSUME"
       },
       {
         "characterMstId": 1068,
         "name": "純美雨",
         "awakeItemMstId": 0,
         "iconResourceName": "1068",
-        "colorCode": "#4E80C2"
+        "colorCode": "#4E80C2",
+        "enCapsName": "MEIYUI CHUN"
       },
       {
         "characterMstId": 1069,
         "name": "伊吹れいら",
         "awakeItemMstId": 0,
         "iconResourceName": "1069",
-        "colorCode": "#E38D84"
+        "colorCode": "#E38D84",
+        "enCapsName": "REIRA IBUKI"
       },
       {
         "characterMstId": 1070,
         "name": "桑水せいか",
         "awakeItemMstId": 0,
         "iconResourceName": "1070",
-        "colorCode": "#8AA5CA"
+        "colorCode": "#8AA5CA",
+        "enCapsName": "SEIKA KUMI"
       },
       {
         "characterMstId": 1071,
         "name": "相野みと",
         "awakeItemMstId": 0,
         "iconResourceName": "1071",
-        "colorCode": "#7DAC7C"
+        "colorCode": "#7DAC7C",
+        "enCapsName": "MITO AINO"
       },
       {
         "characterMstId": 1072,
         "name": "粟根こころ",
         "awakeItemMstId": 0,
         "iconResourceName": "1072",
-        "colorCode": "#AAF43B"
+        "colorCode": "#AAF43B",
+        "enCapsName": "KOKORO AWANE"
       },
       {
         "characterMstId": 1074,
         "name": "更紗帆奈",
         "awakeItemMstId": 0,
         "iconResourceName": "1074",
-        "colorCode": "#ED7CA2"
+        "colorCode": "#ED7CA2",
+        "enCapsName": "HANNA SASARA"
       },
       {
         "characterMstId": 1076,
         "name": "眞尾ひみか",
         "awakeItemMstId": 0,
         "iconResourceName": "1076",
-        "colorCode": "#D14969"
+        "colorCode": "#D14969",
+        "enCapsName": "HIMIKA MAO"
       },
       {
         "characterMstId": 1080,
         "name": "五十鈴れん",
         "awakeItemMstId": 0,
         "iconResourceName": "1080",
-        "colorCode": "#5564A7"
+        "colorCode": "#5564A7",
+        "enCapsName": "REN ISUZU"
       },
       {
         "characterMstId": 1081,
         "name": "静海このは",
         "awakeItemMstId": 0,
         "iconResourceName": "1081",
-        "colorCode": "#6E29FF"
+        "colorCode": "#6E29FF",
+        "enCapsName": "KONOHA SHIZUMI"
       },
       {
         "characterMstId": 1082,
         "name": "遊佐葉月",
         "awakeItemMstId": 0,
         "iconResourceName": "1082",
-        "colorCode": "#FBDD00"
+        "colorCode": "#FBDD00",
+        "enCapsName": "HAZUKI YUSA"
       },
       {
         "characterMstId": 1083,
         "name": "三栗あやめ",
         "awakeItemMstId": 0,
         "iconResourceName": "1083",
-        "colorCode": "#8CE70E"
+        "colorCode": "#8CE70E",
+        "enCapsName": "AYAME MIKURI"
       },
       {
         "characterMstId": 1084,
         "name": "加賀見まさら",
         "awakeItemMstId": 0,
         "iconResourceName": "1084",
-        "colorCode": "#8ABAF0"
+        "colorCode": "#8ABAF0",
+        "enCapsName": "MASARA KAGAMI"
       },
       {
         "characterMstId": 1086,
         "name": "綾野梨花",
         "awakeItemMstId": 0,
         "iconResourceName": "1086",
-        "colorCode": "#EF4D77"
+        "colorCode": "#EF4D77",
+        "enCapsName": "RIKA AYANO"
       },
       {
         "characterMstId": 1090,
         "name": "千秋理子",
         "awakeItemMstId": 0,
         "iconResourceName": "1090",
-        "colorCode": "#39ADE1"
+        "colorCode": "#39ADE1",
+        "enCapsName": "RIKO CHIAKI"
       },
       {
         "characterMstId": 1092,
         "name": "安名メル",
         "awakeItemMstId": 0,
         "iconResourceName": "1092",
-        "colorCode": "#4EF6D5"
+        "colorCode": "#4EF6D5",
+        "enCapsName": "MEL ANNA"
       },
       {
         "characterMstId": 1098,
         "name": "万年桜のウワサ",
         "awakeItemMstId": 0,
         "iconResourceName": "1098",
-        "colorCode": "#FFAEDC"
+        "colorCode": "#FFAEDC",
+        "enCapsName": "ETERNAL SAKURA"
       },
       {
         "characterMstId": 1104,
         "name": "雪野かなえ",
         "awakeItemMstId": 0,
         "iconResourceName": "1104",
-        "colorCode": "#EB4877"
+        "colorCode": "#EB4877",
+        "enCapsName": "KANAE YUKINO"
       },
       {
         "characterMstId": 1107,
         "name": "アシュリー・テイラー",
         "awakeItemMstId": 0,
         "iconResourceName": "1107",
-        "colorCode": "#FF4227"
+        "colorCode": "#FF4227",
+        "enCapsName": "ASHLEY TAYLOR"
       },
       {
         "characterMstId": 1114,
         "name": "入名クシュ",
         "awakeItemMstId": 0,
         "iconResourceName": "1114",
-        "colorCode": "#EB2B28"
+        "colorCode": "#EB2B28",
+        "enCapsName": "KUSH IRINA"
+      },
+      {
+        "characterMstId": 1115,
+        "name": "タルト",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1115",
+        "colorCode": "#64DD5D",
+        "enCapsName": "DARC"
+      },
+      {
+        "characterMstId": 1120,
+        "name": "コルボー",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1120",
+        "colorCode": "#ffffff",
+        "enCapsName": "CORBEAU"
       },
       {
         "characterMstId": 1124,
         "name": "美国織莉子",
         "awakeItemMstId": 0,
         "iconResourceName": "1124",
-        "colorCode": "#D7DAE6"
+        "colorCode": "#D7DAE6",
+        "enCapsName": "ORIKO MIKUNI"
       },
       {
         "characterMstId": 1125,
         "name": "呉キリカ",
         "awakeItemMstId": 0,
         "iconResourceName": "1125",
-        "colorCode": "#A79DD6"
+        "colorCode": "#A79DD6",
+        "enCapsName": "KIRIKA KURE"
       },
       {
         "characterMstId": 1126,
         "name": "千歳ゆま",
         "awakeItemMstId": 0,
         "iconResourceName": "1126",
-        "colorCode": "#ACCDA1"
+        "colorCode": "#ACCDA1",
+        "enCapsName": "YUMA CHITOSE"
       },
       {
         "characterMstId": 1133,
         "name": "浅古小糸",
         "awakeItemMstId": 0,
         "iconResourceName": "1133",
-        "colorCode": "#FF61CC"
+        "colorCode": "#FF61CC",
+        "enCapsName": "KOITO ASAKO"
+      },
+      {
+        "characterMstId": 1145,
+        "name": "夜明すみれ",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1145",
+        "colorCode": "#B96AF1",
+        "enCapsName": "SUMIRE YOAKE"
+      },
+      {
+        "characterMstId": 1146,
+        "name": "日暮ふうか",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1146",
+        "colorCode": "#6C6299",
+        "enCapsName": "FUKA HIGURE"
       }
     ]
   }

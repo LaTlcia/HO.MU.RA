@@ -199,6 +199,11 @@
         "styleLive2dCostumeMstId": 100330
       },
       {
+        "styleLive2dCostumeGroupMstId": 1003401,
+        "styleMstId": 10030401,
+        "styleLive2dCostumeMstId": 100340
+      },
+      {
         "styleLive2dCostumeGroupMstId": 1004001,
         "styleMstId": 10040101,
         "styleLive2dCostumeMstId": 100400
@@ -1024,6 +1029,31 @@
         "styleLive2dCostumeMstId": 111402
       },
       {
+        "styleLive2dCostumeGroupMstId": 1115001,
+        "styleMstId": 11150101,
+        "styleLive2dCostumeMstId": 111500
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1115011,
+        "styleMstId": 11150101,
+        "styleLive2dCostumeMstId": 111501
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1115021,
+        "styleMstId": 11150101,
+        "styleLive2dCostumeMstId": 111502
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1120001,
+        "styleMstId": 11200101,
+        "styleLive2dCostumeMstId": 112000
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1120011,
+        "styleMstId": 11200101,
+        "styleLive2dCostumeMstId": 112001
+      },
+      {
         "styleLive2dCostumeGroupMstId": 1124001,
         "styleMstId": 11240101,
         "styleLive2dCostumeMstId": 112400
@@ -1082,6 +1112,31 @@
         "styleLive2dCostumeGroupMstId": 1133011,
         "styleMstId": 11330101,
         "styleLive2dCostumeMstId": 113301
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1145001,
+        "styleMstId": 11450101,
+        "styleLive2dCostumeMstId": 114500
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1145011,
+        "styleMstId": 11450101,
+        "styleLive2dCostumeMstId": 114501
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1145021,
+        "styleMstId": 11450101,
+        "styleLive2dCostumeMstId": 114502
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1146001,
+        "styleMstId": 11460101,
+        "styleLive2dCostumeMstId": 114600
+      },
+      {
+        "styleLive2dCostumeGroupMstId": 1146011,
+        "styleMstId": 11460101,
+        "styleLive2dCostumeMstId": 114601
       }
     ]
   }

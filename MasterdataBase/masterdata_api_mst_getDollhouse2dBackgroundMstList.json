@@ -660,7 +660,7 @@
         "resourceName": "bg_adv_01_10084_03",
         "lightingType": 2,
         "isDefault": false,
-        "sortOrder": 20413,
+        "sortOrder": 20313,
         "releaseTime": "2026-01-09T12:00:00+09:00"
       },
       {
@@ -762,6 +762,66 @@
         "isDefault": false,
         "sortOrder": 20511,
         "releaseTime": "2026-02-17T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20652,
+        "name": "豊鶴市/海沿いの公園(夕)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_10087_02",
+        "lightingType": 1,
+        "isDefault": false,
+        "sortOrder": 20452,
+        "releaseTime": "2026-03-27T22:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20663,
+        "name": "豊鶴市/海沿いの公園(夜)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_10087_03",
+        "lightingType": 2,
+        "isDefault": false,
+        "sortOrder": 20453,
+        "releaseTime": "2026-03-27T22:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20671,
+        "name": "すみれの家/リビング(夕)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_10086_02",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 20442,
+        "releaseTime": "2026-03-27T22:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20681,
+        "name": "すみれの家/リビング(夜)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_10086_03",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 20443,
+        "releaseTime": "2026-03-27T22:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20692,
+        "name": "豊鶴市/住宅街(夕)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_10084_02",
+        "lightingType": 1,
+        "isDefault": false,
+        "sortOrder": 20312,
+        "releaseTime": "2026-03-27T22:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20702,
+        "name": "豊鶴市/住宅街2(夕)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_10085_02",
+        "lightingType": 1,
+        "isDefault": false,
+        "sortOrder": 20422,
+        "releaseTime": "2026-03-27T22:00:00+09:00"
       },
       {
         "dollhouse2dBackgroundMstId": 30011,
@@ -1170,7 +1230,7 @@
         "resourceName": "bg_adv_99_90299_01",
         "lightingType": 0,
         "isDefault": false,
-        "sortOrder": 90311,
+        "sortOrder": 990191,
         "releaseTime": "2026-02-10T12:00:00+09:00"
       },
       {
@@ -1180,7 +1240,7 @@
         "resourceName": "bg_adv_99_90305_01",
         "lightingType": 0,
         "isDefault": false,
-        "sortOrder": 90321,
+        "sortOrder": 990201,
         "releaseTime": "2026-02-10T12:00:00+09:00"
       },
       {
@@ -1190,7 +1250,7 @@
         "resourceName": "bg_adv_99_90263_01",
         "lightingType": 0,
         "isDefault": false,
-        "sortOrder": 90331,
+        "sortOrder": 990211,
         "releaseTime": "2026-02-10T12:00:00+09:00"
       },
       {
@@ -1200,8 +1260,18 @@
         "resourceName": "bg_adv_99_90167_02",
         "lightingType": 1,
         "isDefault": false,
-        "sortOrder": 90342,
+        "sortOrder": 990222,
         "releaseTime": "2026-02-17T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 90351,
+        "name": "路地裏2(昼)",
+        "seriesId": 999,
+        "resourceName": "bg_adv_99_90314_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 990231,
+        "releaseTime": "2026-02-27T12:00:00+09:00"
       },
       {
         "dollhouse2dBackgroundMstId": 90363,
@@ -1210,8 +1280,238 @@
         "resourceName": "bg_adv_99_90314_03",
         "lightingType": 2,
         "isDefault": false,
-        "sortOrder": 90363,
+        "sortOrder": 990243,
         "releaseTime": "2026-02-17T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 90371,
+        "name": "歩道(昼)",
+        "seriesId": 999,
+        "resourceName": "bg_adv_99_90148_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 990251,
+        "releaseTime": "2026-02-27T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100001,
+        "name": "フランス/森(昼)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_90152_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 100001,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100012,
+        "name": "フランス/森(夕)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_90152_02",
+        "lightingType": 1,
+        "isDefault": false,
+        "sortOrder": 100012,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100023,
+        "name": "フランス/森(夜)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_90152_03",
+        "lightingType": 2,
+        "isDefault": false,
+        "sortOrder": 100023,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100031,
+        "name": "フランス/田舎町(昼)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_90153_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 100031,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100042,
+        "name": "フランス/田舎町(夕)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_90153_02",
+        "lightingType": 1,
+        "isDefault": false,
+        "sortOrder": 100042,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100053,
+        "name": "フランス/田舎町(夜)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_90153_03",
+        "lightingType": 2,
+        "isDefault": false,
+        "sortOrder": 100053,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100061,
+        "name": "フランス/田舎町/屋内(昼)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_10071_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 100061,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100071,
+        "name": "フランス/田舎町/屋内(夕)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_10071_02",
+        "lightingType": 1,
+        "isDefault": false,
+        "sortOrder": 100071,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100081,
+        "name": "フランス/田舎町/屋内(夜)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_10071_03",
+        "lightingType": 2,
+        "isDefault": false,
+        "sortOrder": 100081,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100091,
+        "name": "フランス/砦/外観(昼)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_90154_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 100091,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100102,
+        "name": "フランス/野営地(夕)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_90155_02",
+        "lightingType": 1,
+        "isDefault": false,
+        "sortOrder": 100102,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100113,
+        "name": "フランス/野営地(夜)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_90155_03",
+        "lightingType": 2,
+        "isDefault": false,
+        "sortOrder": 100113,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100121,
+        "name": "フランス/教会/内観(昼)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_90157_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 100121,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100131,
+        "name": "フランス/街(昼)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_90394_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 100131,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100141,
+        "name": "フランス/トゥーレル砦(昼)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_10078_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 100141,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100151,
+        "name": "フランス/トゥーレル砦/崩壊後(昼)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_10078_02",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 100151,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100163,
+        "name": "フランス/トゥーレル砦(夜)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_90156_02",
+        "lightingType": 2,
+        "isDefault": false,
+        "sortOrder": 100163,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100171,
+        "name": "たると☆マギカ魔女結界",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_10070_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 100171,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100181,
+        "name": "フランス/平原(昼)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_10075_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 100181,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100192,
+        "name": "フランス/平原(夕)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_10075_02",
+        "lightingType": 1,
+        "isDefault": false,
+        "sortOrder": 100192,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100201,
+        "name": "フランス/砦/内部(昼)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_10076_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 100201,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 100211,
+        "name": "フランス/砦/外観2(昼)",
+        "seriesId": 10,
+        "resourceName": "bg_adv_04_10077_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 100211,
+        "releaseTime": "2026-03-10T12:00:00+09:00"
       },
       {
         "dollhouse2dBackgroundMstId": 990031,
@@ -1372,6 +1672,46 @@
         "isDefault": false,
         "sortOrder": 990181,
         "releaseTime": "2026-01-01T00:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 990321,
+        "name": "漁港(昼)",
+        "seriesId": 999,
+        "resourceName": "bg_adv_99_10095_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 990321,
+        "releaseTime": "2026-03-27T22:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 990332,
+        "name": "漁港(夕)",
+        "seriesId": 999,
+        "resourceName": "bg_adv_99_10095_02",
+        "lightingType": 1,
+        "isDefault": false,
+        "sortOrder": 990332,
+        "releaseTime": "2026-03-27T22:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 990343,
+        "name": "漁港(夜)",
+        "seriesId": 999,
+        "resourceName": "bg_adv_99_10095_03",
+        "lightingType": 2,
+        "isDefault": false,
+        "sortOrder": 990343,
+        "releaseTime": "2026-03-27T22:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 990351,
+        "name": "空っぽの部屋",
+        "seriesId": 999,
+        "resourceName": "bg_adv_99_10096_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 990351,
+        "releaseTime": "2026-03-27T22:00:00+09:00"
       }
     ]
   }

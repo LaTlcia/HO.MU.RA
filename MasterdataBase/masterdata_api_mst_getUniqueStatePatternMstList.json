@@ -70,10 +70,40 @@
         "iconName": "battle_icon_unique_016"
       },
       {
+        "uniqueStatePatternMstId": 12,
+        "name": "愛情のドーナツ",
+        "stateFlipName": "愛情のドーナツ",
+        "iconName": "battle_icon_unique_017"
+      },
+      {
+        "uniqueStatePatternMstId": 13,
+        "name": "光の導き",
+        "stateFlipName": "光の導き",
+        "iconName": "battle_icon_unique_018"
+      },
+      {
+        "uniqueStatePatternMstId": 17,
+        "name": "咲き誇る花々",
+        "stateFlipName": "咲き誇る花々",
+        "iconName": "battle_icon_unique_022"
+      },
+      {
+        "uniqueStatePatternMstId": 18,
+        "name": "深淵の薔薇",
+        "stateFlipName": "深淵の薔薇",
+        "iconName": "battle_icon_unique_023"
+      },
+      {
         "uniqueStatePatternMstId": 10001,
-        "name": "フィールド",
-        "stateFlipName": "フィールド",
+        "name": "闇属性フィールド",
+        "stateFlipName": "闇属性フィールド",
         "iconName": "battle_icon_unique_013"
+      },
+      {
+        "uniqueStatePatternMstId": 10002,
+        "name": "木属性フィールド",
+        "stateFlipName": "木属性フィールド",
+        "iconName": "battle_icon_field_forest"
       }
     ]
   }

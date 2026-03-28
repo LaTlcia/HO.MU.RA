@@ -7,10 +7,21 @@
         "lotteryMstId": 1,
         "name": "まどドラくじ",
         "backgroundImagePath": "",
+        "iconImagePath": "",
         "startTime": "2025-12-22T12:00:00+09:00",
         "lotteryReceivableEndTime": "2026-01-07T11:59:59+09:00",
         "rewardReceivableStartTime": "2026-01-09T12:00:00+09:00",
         "endTime": "2026-01-15T11:59:59+09:00"
+      },
+      {
+        "lotteryMstId": 2,
+        "name": "1st Anniversaryまどドラくじ",
+        "backgroundImagePath": "1",
+        "iconImagePath": "2",
+        "startTime": "2026-03-27T22:00:00+09:00",
+        "lotteryReceivableEndTime": "2026-04-22T04:59:59+09:00",
+        "rewardReceivableStartTime": "2026-04-24T12:00:00+09:00",
+        "endTime": "2026-04-30T11:59:59+09:00"
       }
     ]
   }

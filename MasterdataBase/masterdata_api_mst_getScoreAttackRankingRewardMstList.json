@@ -482,6 +482,54 @@
         "objectReceiveType": 5,
         "objectId": 370075,
         "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 61,
+        "groupId": 20,
+        "ranking": 10,
+        "objectReceiveType": 5,
+        "objectId": 370077,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 62,
+        "groupId": 20,
+        "ranking": 50,
+        "objectReceiveType": 5,
+        "objectId": 370078,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 63,
+        "groupId": 20,
+        "ranking": 100,
+        "objectReceiveType": 5,
+        "objectId": 370079,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 67,
+        "groupId": 22,
+        "ranking": 10,
+        "objectReceiveType": 5,
+        "objectId": 370085,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 68,
+        "groupId": 22,
+        "ranking": 50,
+        "objectReceiveType": 5,
+        "objectId": 370086,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 69,
+        "groupId": 22,
+        "ranking": 100,
+        "objectReceiveType": 5,
+        "objectId": 370087,
+        "num": 1
       }
     ]
   }

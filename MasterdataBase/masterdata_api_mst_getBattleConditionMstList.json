@@ -11900,6 +11900,166 @@
         "compareValue": "3"
       },
       {
+        "battleConditionMstId": 1494,
+        "description": "攻撃で敵を1人倒したとき",
+        "compareTarget": 6,
+        "compareContent": 301,
+        "compareOperator": 1,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 1495,
+        "description": "攻撃で敵を2人倒したとき",
+        "compareTarget": 6,
+        "compareContent": 301,
+        "compareOperator": 1,
+        "compareValue": "2"
+      },
+      {
+        "battleConditionMstId": 1496,
+        "description": "攻撃で敵を3人倒したとき",
+        "compareTarget": 6,
+        "compareContent": 301,
+        "compareOperator": 1,
+        "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 1497,
+        "description": "攻撃で敵を4人倒したとき",
+        "compareTarget": 6,
+        "compareContent": 301,
+        "compareOperator": 1,
+        "compareValue": "4"
+      },
+      {
+        "battleConditionMstId": 1498,
+        "description": "攻撃で敵を5人倒したとき",
+        "compareTarget": 6,
+        "compareContent": 301,
+        "compareOperator": 1,
+        "compareValue": "5"
+      },
+      {
+        "battleConditionMstId": 1499,
+        "description": "攻撃で味方が1人倒されたとき",
+        "compareTarget": 5,
+        "compareContent": 301,
+        "compareOperator": 1,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 1500,
+        "description": "攻撃で味方が2人倒されたとき",
+        "compareTarget": 5,
+        "compareContent": 301,
+        "compareOperator": 1,
+        "compareValue": "2"
+      },
+      {
+        "battleConditionMstId": 1501,
+        "description": "攻撃で味方が3人倒されたとき",
+        "compareTarget": 5,
+        "compareContent": 301,
+        "compareOperator": 1,
+        "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 1502,
+        "description": "攻撃で味方が4人倒されたとき",
+        "compareTarget": 5,
+        "compareContent": 301,
+        "compareOperator": 1,
+        "compareValue": "4"
+      },
+      {
+        "battleConditionMstId": 1503,
+        "description": "攻撃で味方が5人倒されたとき",
+        "compareTarget": 5,
+        "compareContent": 301,
+        "compareOperator": 1,
+        "compareValue": "5"
+      },
+      {
+        "battleConditionMstId": 1504,
+        "description": "Wave開始時の初回行動のとき",
+        "compareTarget": 7,
+        "compareContent": 2002,
+        "compareOperator": 1,
+        "compareValue": "TRUE"
+      },
+      {
+        "battleConditionMstId": 1505,
+        "description": "結界対策発揮フェーズのとき",
+        "compareTarget": 7,
+        "compareContent": 1101,
+        "compareOperator": 1,
+        "compareValue": "TRUE"
+      },
+      {
+        "battleConditionMstId": 1506,
+        "description": "結界対策発揮フェーズではないとき",
+        "compareTarget": 7,
+        "compareContent": 1101,
+        "compareOperator": 1,
+        "compareValue": "FALSE"
+      },
+      {
+        "battleConditionMstId": 1507,
+        "description": "自身がカウントダウン発動中のとき",
+        "compareTarget": 1,
+        "compareContent": 12,
+        "compareOperator": 7,
+        "compareValue": "COUNTDOWN_START"
+      },
+      {
+        "battleConditionMstId": 1508,
+        "description": "自身がカウントダウン発動中ではないとき",
+        "compareTarget": 1,
+        "compareContent": 12,
+        "compareOperator": 8,
+        "compareValue": "COUNTDOWN_START"
+      },
+      {
+        "battleConditionMstId": 1509,
+        "description": "カウントダウンが0のとき",
+        "compareTarget": 7,
+        "compareContent": 1201,
+        "compareOperator": 1,
+        "compareValue": "0"
+      },
+      {
+        "battleConditionMstId": 1510,
+        "description": "カウントダウンが1以上のとき",
+        "compareTarget": 7,
+        "compareContent": 1201,
+        "compareOperator": 4,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 1511,
+        "description": "カウントダウンの解除条件を満たしたとき",
+        "compareTarget": 7,
+        "compareContent": 1202,
+        "compareOperator": 1,
+        "compareValue": "TRUE"
+      },
+      {
+        "battleConditionMstId": 1513,
+        "description": "自身がプレイヤー側のユニットのとき",
+        "compareTarget": 1,
+        "compareContent": 1001,
+        "compareOperator": 1,
+        "compareValue": "TRUE"
+      },
+      {
+        "battleConditionMstId": 1514,
+        "description": "自身がエネミー側のユニットのとき",
+        "compareTarget": 1,
+        "compareContent": 1001,
+        "compareOperator": 1,
+        "compareValue": "FALSE"
+      },
+      {
         "battleConditionMstId": 1515,
         "description": "自分のキャラクターが「百江なぎさ」",
         "compareTarget": 1,
@@ -12708,6 +12868,150 @@
         "compareValue": "NormalAttack"
       },
       {
+        "battleConditionMstId": 1616,
+        "description": "リゲインが付与されている",
+        "compareTarget": 8,
+        "compareContent": 12,
+        "compareOperator": 7,
+        "compareValue": "CONTINUOUS_RECOVERY"
+      },
+      {
+        "battleConditionMstId": 1617,
+        "description": "自身または味方が回復したとき",
+        "compareTarget": 8,
+        "compareContent": 104,
+        "compareOperator": 1,
+        "compareValue": "TRUE"
+      },
+      {
+        "battleConditionMstId": 1618,
+        "description": "自身のHPが10%以上のとき",
+        "compareTarget": 1,
+        "compareContent": 2,
+        "compareOperator": 4,
+        "compareValue": "10"
+      },
+      {
+        "battleConditionMstId": 1619,
+        "description": "自身のHPが25%未満のとき",
+        "compareTarget": 1,
+        "compareContent": 2,
+        "compareOperator": 5,
+        "compareValue": "25"
+      },
+      {
+        "battleConditionMstId": 1620,
+        "description": "自身のHPが25%以上のとき",
+        "compareTarget": 1,
+        "compareContent": 2,
+        "compareOperator": 4,
+        "compareValue": "25"
+      },
+      {
+        "battleConditionMstId": 1621,
+        "description": "自身のHPが51%未満のとき",
+        "compareTarget": 1,
+        "compareContent": 2,
+        "compareOperator": 5,
+        "compareValue": "51"
+      },
+      {
+        "battleConditionMstId": 1622,
+        "description": "自身のHPが51%以上のとき",
+        "compareTarget": 1,
+        "compareContent": 2,
+        "compareOperator": 4,
+        "compareValue": "51"
+      },
+      {
+        "battleConditionMstId": 1623,
+        "description": "自身のHPが91%未満のとき",
+        "compareTarget": 1,
+        "compareContent": 2,
+        "compareOperator": 5,
+        "compareValue": "91"
+      },
+      {
+        "battleConditionMstId": 1624,
+        "description": "自身のHPが91%以上のとき",
+        "compareTarget": 1,
+        "compareContent": 2,
+        "compareOperator": 4,
+        "compareValue": "91"
+      },
+      {
+        "battleConditionMstId": 1625,
+        "description": "パティシエマミ専用バフが付与されているとき",
+        "compareTarget": 1,
+        "compareContent": 26,
+        "compareOperator": 7,
+        "compareValue": "12"
+      },
+      {
+        "battleConditionMstId": 1626,
+        "description": "自身のHPが50%未満のとき",
+        "compareTarget": 1,
+        "compareContent": 2,
+        "compareOperator": 5,
+        "compareValue": "50"
+      },
+      {
+        "battleConditionMstId": 1627,
+        "description": "自身のHPが50%以上のとき",
+        "compareTarget": 1,
+        "compareContent": 2,
+        "compareOperator": 4,
+        "compareValue": "50"
+      },
+      {
+        "battleConditionMstId": 1628,
+        "description": "自身のHPが70%未満のとき",
+        "compareTarget": 1,
+        "compareContent": 2,
+        "compareOperator": 5,
+        "compareValue": "70"
+      },
+      {
+        "battleConditionMstId": 1629,
+        "description": "自身のHPが70%以上のとき",
+        "compareTarget": 1,
+        "compareContent": 2,
+        "compareOperator": 4,
+        "compareValue": "70"
+      },
+      {
+        "battleConditionMstId": 1630,
+        "description": "自身のHPが90%未満のとき",
+        "compareTarget": 1,
+        "compareContent": 2,
+        "compareOperator": 5,
+        "compareValue": "90"
+      },
+      {
+        "battleConditionMstId": 1631,
+        "description": "自身のHPが90%以上のとき",
+        "compareTarget": 1,
+        "compareContent": 2,
+        "compareOperator": 4,
+        "compareValue": "90"
+      },
+      {
+        "battleConditionMstId": 1632,
+        "description": "自身のHPが100%未満のとき",
+        "compareTarget": 1,
+        "compareContent": 2,
+        "compareOperator": 5,
+        "compareValue": "100"
+      },
+      {
+        "battleConditionMstId": 1633,
+        "description": "自身のHPが100%以上のとき",
+        "compareTarget": 1,
+        "compareContent": 2,
+        "compareOperator": 4,
+        "compareValue": "100"
+      },
+      {
         "battleConditionMstId": 1634,
         "description": "一度の攻撃で自軍に1体クリティカルダメージが発生したとき",
         "compareTarget": 5,
@@ -12796,12 +13100,756 @@
         "compareValue": "61"
       },
       {
+        "battleConditionMstId": 1645,
+        "description": "バトル開始時の初回行動のとき",
+        "compareTarget": 7,
+        "compareContent": 2001,
+        "compareOperator": 1,
+        "compareValue": "TRUE"
+      },
+      {
         "battleConditionMstId": 1646,
         "description": "行動者のバフ数が3未満",
         "compareTarget": 2,
         "compareContent": 24,
         "compareOperator": 5,
         "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 1647,
+        "description": "対象のデバフ数が5",
+        "compareTarget": 8,
+        "compareContent": 25,
+        "compareOperator": 1,
+        "compareValue": "5"
+      },
+      {
+        "battleConditionMstId": 1648,
+        "description": "対象のデバフ数が6",
+        "compareTarget": 8,
+        "compareContent": 25,
+        "compareOperator": 1,
+        "compareValue": "6"
+      },
+      {
+        "battleConditionMstId": 1649,
+        "description": "対象のデバフ数が7以上",
+        "compareTarget": 8,
+        "compareContent": 25,
+        "compareOperator": 4,
+        "compareValue": "7"
+      },
+      {
+        "battleConditionMstId": 1650,
+        "description": "トークンが1000以上のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 4,
+        "compareValue": "1000"
+      },
+      {
+        "battleConditionMstId": 1651,
+        "description": "タルト専用バフが付与されているとき",
+        "compareTarget": 1,
+        "compareContent": 26,
+        "compareOperator": 7,
+        "compareValue": "13"
+      },
+      {
+        "battleConditionMstId": 1652,
+        "description": "ストップ状態の敵が1人未満のとき",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 5,
+        "compareValue": "LOCK_TURN_ORDER,1"
+      },
+      {
+        "battleConditionMstId": 1653,
+        "description": "ストップ状態の敵が2人未満のとき",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 5,
+        "compareValue": "LOCK_TURN_ORDER,2"
+      },
+      {
+        "battleConditionMstId": 1654,
+        "description": "ストップ状態の敵が3人未満のとき",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 5,
+        "compareValue": "LOCK_TURN_ORDER,3"
+      },
+      {
+        "battleConditionMstId": 1655,
+        "description": "ストップ状態の敵が4人未満のとき",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 5,
+        "compareValue": "LOCK_TURN_ORDER,4"
+      },
+      {
+        "battleConditionMstId": 1656,
+        "description": "ストップ状態の敵が5人未満のとき",
+        "compareTarget": 6,
+        "compareContent": 205,
+        "compareOperator": 5,
+        "compareValue": "LOCK_TURN_ORDER,5"
+      },
+      {
+        "battleConditionMstId": 1657,
+        "description": "トークンが200以上のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 4,
+        "compareValue": "200"
+      },
+      {
+        "battleConditionMstId": 1658,
+        "description": "トークンが400未満のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 5,
+        "compareValue": "400"
+      },
+      {
+        "battleConditionMstId": 1659,
+        "description": "トークンが400以上のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 4,
+        "compareValue": "400"
+      },
+      {
+        "battleConditionMstId": 1660,
+        "description": "トークンが600未満のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 5,
+        "compareValue": "600"
+      },
+      {
+        "battleConditionMstId": 1661,
+        "description": "トークンが600以上のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 4,
+        "compareValue": "600"
+      },
+      {
+        "battleConditionMstId": 1662,
+        "description": "トークンが800未満のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 5,
+        "compareValue": "800"
+      },
+      {
+        "battleConditionMstId": 1663,
+        "description": "トークンが800以上のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 4,
+        "compareValue": "800"
+      },
+      {
+        "battleConditionMstId": 1664,
+        "description": "トークンが1000未満のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 5,
+        "compareValue": "1000"
+      },
+      {
+        "battleConditionMstId": 1665,
+        "description": "攻撃が命中した敵数が1体のとき",
+        "compareTarget": 6,
+        "compareContent": 313,
+        "compareOperator": 1,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 1666,
+        "description": "攻撃が命中した敵数が2体のとき",
+        "compareTarget": 6,
+        "compareContent": 313,
+        "compareOperator": 1,
+        "compareValue": "2"
+      },
+      {
+        "battleConditionMstId": 1667,
+        "description": "攻撃が命中した敵数が3体のとき",
+        "compareTarget": 6,
+        "compareContent": 313,
+        "compareOperator": 1,
+        "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 1668,
+        "description": "攻撃が命中した敵数が4体のとき",
+        "compareTarget": 6,
+        "compareContent": 313,
+        "compareOperator": 1,
+        "compareValue": "4"
+      },
+      {
+        "battleConditionMstId": 1669,
+        "description": "攻撃が命中した敵数が5体のとき",
+        "compareTarget": 6,
+        "compareContent": 313,
+        "compareOperator": 1,
+        "compareValue": "5"
+      },
+      {
+        "battleConditionMstId": 1671,
+        "description": "攻撃でブレイクした敵が1体の場合",
+        "compareTarget": 6,
+        "compareContent": 302,
+        "compareOperator": 1,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 1672,
+        "description": "攻撃でブレイクした敵が2体の場合",
+        "compareTarget": 6,
+        "compareContent": 302,
+        "compareOperator": 1,
+        "compareValue": "2"
+      },
+      {
+        "battleConditionMstId": 1673,
+        "description": "攻撃でブレイクした敵が3体の場合",
+        "compareTarget": 6,
+        "compareContent": 302,
+        "compareOperator": 1,
+        "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 1674,
+        "description": "攻撃でブレイクした敵が4体の場合",
+        "compareTarget": 6,
+        "compareContent": 302,
+        "compareOperator": 1,
+        "compareValue": "4"
+      },
+      {
+        "battleConditionMstId": 1675,
+        "description": "攻撃でブレイクした敵が5体の場合",
+        "compareTarget": 6,
+        "compareContent": 302,
+        "compareOperator": 1,
+        "compareValue": "5"
+      },
+      {
+        "battleConditionMstId": 1676,
+        "description": "専用バフが付与されている味方に攻撃したとき",
+        "compareTarget": 5,
+        "compareContent": 309,
+        "compareOperator": 4,
+        "compareValue": "UNIQUE_BUFF,1"
+      },
+      {
+        "battleConditionMstId": 1677,
+        "description": "対象のデバフ数は1以上",
+        "compareTarget": 2,
+        "compareContent": 25,
+        "compareOperator": 4,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 1678,
+        "description": "対象のデバフ数は2以上",
+        "compareTarget": 3,
+        "compareContent": 25,
+        "compareOperator": 4,
+        "compareValue": "2"
+      },
+      {
+        "battleConditionMstId": 1679,
+        "description": "行動者のデバフ数が3以上",
+        "compareTarget": 2,
+        "compareContent": 25,
+        "compareOperator": 4,
+        "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 1685,
+        "description": "攻撃された時",
+        "compareTarget": 3,
+        "compareContent": 110,
+        "compareOperator": 1,
+        "compareValue": "TRUE"
+      },
+      {
+        "battleConditionMstId": 1686,
+        "description": "自身か味方の誰か1でも攻撃されたとき",
+        "compareTarget": 5,
+        "compareContent": 313,
+        "compareOperator": 4,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 1687,
+        "description": "自分のキャラクターが「コルボー」",
+        "compareTarget": 1,
+        "compareContent": 14,
+        "compareOperator": 1,
+        "compareValue": "1120"
+      },
+      {
+        "battleConditionMstId": 1693,
+        "description": "すみれの専用バフが付与されているとき",
+        "compareTarget": 1,
+        "compareContent": 26,
+        "compareOperator": 7,
+        "compareValue": "17"
+      },
+      {
+        "battleConditionMstId": 1694,
+        "description": "ふうかの専用バフが付与されているとき",
+        "compareTarget": 1,
+        "compareContent": 26,
+        "compareOperator": 7,
+        "compareValue": "18"
+      },
+      {
+        "battleConditionMstId": 1695,
+        "description": "アタッカーのみ選択",
+        "compareTarget": 8,
+        "compareContent": 20,
+        "compareOperator": 1,
+        "compareValue": "Attacker"
+      },
+      {
+        "battleConditionMstId": 1696,
+        "description": "すみれのフィールドが発動しているとき",
+        "compareTarget": 1,
+        "compareContent": 29,
+        "compareOperator": 1,
+        "compareValue": "10002,TRUE"
+      },
+      {
+        "battleConditionMstId": 1697,
+        "description": "ブレイカーのみ選択",
+        "compareTarget": 8,
+        "compareContent": 20,
+        "compareOperator": 1,
+        "compareValue": "Breaker"
+      },
+      {
+        "battleConditionMstId": 1698,
+        "description": "すみれのフィールドが発動したとき",
+        "compareTarget": 1,
+        "compareContent": 113,
+        "compareOperator": 1,
+        "compareValue": "10002,TRUE"
+      },
+      {
+        "battleConditionMstId": 1699,
+        "description": "すみれのフィールドが終了したとき",
+        "compareTarget": 1,
+        "compareContent": 114,
+        "compareOperator": 1,
+        "compareValue": "10002,TRUE"
+      },
+      {
+        "battleConditionMstId": 1700,
+        "description": "自分のキャラクターが「夜明すみれ」",
+        "compareTarget": 1,
+        "compareContent": 14,
+        "compareOperator": 1,
+        "compareValue": "1145"
+      },
+      {
+        "battleConditionMstId": 1701,
+        "description": "自分のキャラクターが「日暮ふうか」",
+        "compareTarget": 1,
+        "compareContent": 14,
+        "compareOperator": 1,
+        "compareValue": "1146"
+      },
+      {
+        "battleConditionMstId": 1702,
+        "description": "一度の攻撃で敵軍に1体クリティカルダメージが発生したとき",
+        "compareTarget": 6,
+        "compareContent": 303,
+        "compareOperator": 1,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 1703,
+        "description": "一度の攻撃で敵軍に2体クリティカルダメージが発生したとき",
+        "compareTarget": 6,
+        "compareContent": 303,
+        "compareOperator": 1,
+        "compareValue": "2"
+      },
+      {
+        "battleConditionMstId": 1704,
+        "description": "一度の攻撃で敵軍に3体クリティカルダメージが発生したとき",
+        "compareTarget": 6,
+        "compareContent": 303,
+        "compareOperator": 1,
+        "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 1705,
+        "description": "一度の攻撃で敵軍に4体クリティカルダメージが発生したとき",
+        "compareTarget": 6,
+        "compareContent": 303,
+        "compareOperator": 1,
+        "compareValue": "4"
+      },
+      {
+        "battleConditionMstId": 1706,
+        "description": "一度の攻撃で敵軍に5体クリティカルダメージが発生したとき",
+        "compareTarget": 6,
+        "compareContent": 303,
+        "compareOperator": 1,
+        "compareValue": "5"
+      },
+      {
+        "battleConditionMstId": 1707,
+        "description": "弱点属性で攻撃した敵数が1体のとき",
+        "compareTarget": 6,
+        "compareContent": 307,
+        "compareOperator": 1,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 1708,
+        "description": "弱点属性で攻撃した敵数が2体のとき",
+        "compareTarget": 6,
+        "compareContent": 307,
+        "compareOperator": 1,
+        "compareValue": "2"
+      },
+      {
+        "battleConditionMstId": 1709,
+        "description": "弱点属性で攻撃した敵数が3体のとき",
+        "compareTarget": 6,
+        "compareContent": 307,
+        "compareOperator": 1,
+        "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 1710,
+        "description": "弱点属性で攻撃した敵数が4体のとき",
+        "compareTarget": 6,
+        "compareContent": 307,
+        "compareOperator": 1,
+        "compareValue": "4"
+      },
+      {
+        "battleConditionMstId": 1711,
+        "description": "弱点属性で攻撃した敵数が5体のとき",
+        "compareTarget": 6,
+        "compareContent": 307,
+        "compareOperator": 1,
+        "compareValue": "5"
+      },
+      {
+        "battleConditionMstId": 1712,
+        "description": "日暮ふうか専用バフが付与されているとき",
+        "compareTarget": 1,
+        "compareContent": 26,
+        "compareOperator": 7,
+        "compareValue": "18"
+      },
+      {
+        "battleConditionMstId": 1713,
+        "description": "日暮ふうか専用バフが1以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,1"
+      },
+      {
+        "battleConditionMstId": 1714,
+        "description": "日暮ふうか専用バフが2以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,2"
+      },
+      {
+        "battleConditionMstId": 1715,
+        "description": "日暮ふうか専用バフが3以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,3"
+      },
+      {
+        "battleConditionMstId": 1716,
+        "description": "日暮ふうか専用バフが4以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,4"
+      },
+      {
+        "battleConditionMstId": 1717,
+        "description": "日暮ふうか専用バフが5以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,5"
+      },
+      {
+        "battleConditionMstId": 1718,
+        "description": "日暮ふうか専用バフが6以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,6"
+      },
+      {
+        "battleConditionMstId": 1719,
+        "description": "日暮ふうか専用バフが7以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,7"
+      },
+      {
+        "battleConditionMstId": 1720,
+        "description": "日暮ふうか専用バフが8以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,8"
+      },
+      {
+        "battleConditionMstId": 1721,
+        "description": "日暮ふうか専用バフが9以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,9"
+      },
+      {
+        "battleConditionMstId": 1722,
+        "description": "日暮ふうか専用バフが10以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,10"
+      },
+      {
+        "battleConditionMstId": 1723,
+        "description": "日暮ふうか専用バフが11以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,11"
+      },
+      {
+        "battleConditionMstId": 1724,
+        "description": "日暮ふうか専用バフが12以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,12"
+      },
+      {
+        "battleConditionMstId": 1725,
+        "description": "日暮ふうか専用バフが13以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,13"
+      },
+      {
+        "battleConditionMstId": 1726,
+        "description": "日暮ふうか専用バフが14以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,14"
+      },
+      {
+        "battleConditionMstId": 1727,
+        "description": "日暮ふうか専用バフが15以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,15"
+      },
+      {
+        "battleConditionMstId": 1728,
+        "description": "日暮ふうか専用バフが16以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,16"
+      },
+      {
+        "battleConditionMstId": 1729,
+        "description": "日暮ふうか専用バフが17以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,17"
+      },
+      {
+        "battleConditionMstId": 1730,
+        "description": "日暮ふうか専用バフが18以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,18"
+      },
+      {
+        "battleConditionMstId": 1731,
+        "description": "日暮ふうか専用バフが19以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,19"
+      },
+      {
+        "battleConditionMstId": 1732,
+        "description": "日暮ふうか専用バフが20以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "18,20"
+      },
+      {
+        "battleConditionMstId": 1733,
+        "description": "行動者のデバフ数が0",
+        "compareTarget": 2,
+        "compareContent": 25,
+        "compareOperator": 1,
+        "compareValue": "0"
+      },
+      {
+        "battleConditionMstId": 1734,
+        "description": "行動者のデバフ数が1",
+        "compareTarget": 2,
+        "compareContent": 25,
+        "compareOperator": 1,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 1735,
+        "description": "行動者のデバフ数が2",
+        "compareTarget": 2,
+        "compareContent": 25,
+        "compareOperator": 1,
+        "compareValue": "2"
+      },
+      {
+        "battleConditionMstId": 1736,
+        "description": "行動者のデバフ数が3",
+        "compareTarget": 2,
+        "compareContent": 25,
+        "compareOperator": 1,
+        "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 1737,
+        "description": "行動者のデバフ数が4",
+        "compareTarget": 2,
+        "compareContent": 25,
+        "compareOperator": 1,
+        "compareValue": "4"
+      },
+      {
+        "battleConditionMstId": 1738,
+        "description": "行動者のデバフ数が5",
+        "compareTarget": 2,
+        "compareContent": 25,
+        "compareOperator": 1,
+        "compareValue": "5"
+      },
+      {
+        "battleConditionMstId": 1739,
+        "description": "行動者のデバフ数が6以上",
+        "compareTarget": 2,
+        "compareContent": 25,
+        "compareOperator": 4,
+        "compareValue": "6"
+      },
+      {
+        "battleConditionMstId": 1740,
+        "description": "日暮ふうか専用バフが付与されていないとき",
+        "compareTarget": 1,
+        "compareContent": 26,
+        "compareOperator": 8,
+        "compareValue": "18"
+      },
+      {
+        "battleConditionMstId": 1741,
+        "description": "バトル開始から自分の行動が13回以上の場合",
+        "compareTarget": 1,
+        "compareContent": 7,
+        "compareOperator": 4,
+        "compareValue": "13"
+      },
+      {
+        "battleConditionMstId": 1742,
+        "description": "トークンが26以上のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 4,
+        "compareValue": "26"
+      },
+      {
+        "battleConditionMstId": 1743,
+        "description": "トークンが36以上のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 4,
+        "compareValue": "36"
+      },
+      {
+        "battleConditionMstId": 1744,
+        "description": "トークンが46以上のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 4,
+        "compareValue": "46"
+      },
+      {
+        "battleConditionMstId": 1745,
+        "description": "トークンが26未満のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 5,
+        "compareValue": "26"
+      },
+      {
+        "battleConditionMstId": 1746,
+        "description": "トークンが36未満のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 5,
+        "compareValue": "36"
+      },
+      {
+        "battleConditionMstId": 1747,
+        "description": "トークンが46未満のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 5,
+        "compareValue": "46"
+      },
+      {
+        "battleConditionMstId": 1748,
+        "description": "トークンが16以上のとき",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 4,
+        "compareValue": "16"
+      },
+      {
+        "battleConditionMstId": 1774,
+        "description": "ブレイク中、且つ攻撃を受けたユニットが1体以上のとき",
+        "compareTarget": 6,
+        "compareContent": 314,
+        "compareOperator": 4,
+        "compareValue": "1"
       }
     ]
   }

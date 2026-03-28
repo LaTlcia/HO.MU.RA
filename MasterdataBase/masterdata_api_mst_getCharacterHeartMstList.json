@@ -292,6 +292,18 @@
         "objectRewardGroupId": 1114
       },
       {
+        "characterHeartMstId": 1115,
+        "characterMstId": 1115,
+        "paramUpGroupId": 1,
+        "objectRewardGroupId": 1115
+      },
+      {
+        "characterHeartMstId": 1120,
+        "characterMstId": 1120,
+        "paramUpGroupId": 1,
+        "objectRewardGroupId": 1120
+      },
+      {
         "characterHeartMstId": 1124,
         "characterMstId": 1124,
         "paramUpGroupId": 1,
@@ -314,6 +326,18 @@
         "characterMstId": 1133,
         "paramUpGroupId": 1,
         "objectRewardGroupId": 1133
+      },
+      {
+        "characterHeartMstId": 1145,
+        "characterMstId": 1145,
+        "paramUpGroupId": 1,
+        "objectRewardGroupId": 1145
+      },
+      {
+        "characterHeartMstId": 1146,
+        "characterMstId": 1146,
+        "paramUpGroupId": 1,
+        "objectRewardGroupId": 1146
       }
     ]
   }

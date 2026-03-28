@@ -79,6 +79,11 @@
         "style3dCharacterMstId": 100304
       },
       {
+        "style3dCharacterGroupMstId": 1003051,
+        "styleMstId": 10030401,
+        "style3dCharacterMstId": 100305
+      },
+      {
         "style3dCharacterGroupMstId": 1004011,
         "styleMstId": 10040101,
         "style3dCharacterMstId": 100401
@@ -424,6 +429,16 @@
         "style3dCharacterMstId": 111401
       },
       {
+        "style3dCharacterGroupMstId": 1115011,
+        "styleMstId": 11150101,
+        "style3dCharacterMstId": 111501
+      },
+      {
+        "style3dCharacterGroupMstId": 1120011,
+        "styleMstId": 11200101,
+        "style3dCharacterMstId": 112001
+      },
+      {
         "style3dCharacterGroupMstId": 1124011,
         "styleMstId": 11240101,
         "style3dCharacterMstId": 112401
@@ -452,6 +467,16 @@
         "style3dCharacterGroupMstId": 1138011,
         "styleMstId": 11380101,
         "style3dCharacterMstId": 113801
+      },
+      {
+        "style3dCharacterGroupMstId": 1145011,
+        "styleMstId": 11450101,
+        "style3dCharacterMstId": 114501
+      },
+      {
+        "style3dCharacterGroupMstId": 1146011,
+        "styleMstId": 11460101,
+        "style3dCharacterMstId": 114601
       }
     ]
   }

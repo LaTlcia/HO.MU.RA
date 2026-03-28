@@ -134,6 +134,16 @@
         "isDefault": true
       },
       {
+        "style3dCharacterMstId": 100305,
+        "type": 1,
+        "name": "巴マミ/パティシエール",
+        "resourceName": "chara_100304_battle_unit",
+        "homeMotionResourceName": "chara_10030401_home",
+        "sortOrder": 100305,
+        "isExistVoice": true,
+        "isDefault": true
+      },
+      {
         "style3dCharacterMstId": 100401,
         "type": 1,
         "name": "美樹さやか/魔法少女",
@@ -664,6 +674,26 @@
         "isDefault": true
       },
       {
+        "style3dCharacterMstId": 111501,
+        "type": 1,
+        "name": "タルト/魔法少女",
+        "resourceName": "chara_111501_battle_unit",
+        "homeMotionResourceName": "chara_11150101_home",
+        "sortOrder": 111501,
+        "isExistVoice": false,
+        "isDefault": true
+      },
+      {
+        "style3dCharacterMstId": 112001,
+        "type": 1,
+        "name": "コルボー/魔法少女",
+        "resourceName": "chara_112001_battle_unit",
+        "homeMotionResourceName": "chara_11200101_home",
+        "sortOrder": 112001,
+        "isExistVoice": true,
+        "isDefault": true
+      },
+      {
         "style3dCharacterMstId": 112401,
         "type": 1,
         "name": "美国織莉子/魔法少女",
@@ -740,6 +770,26 @@
         "resourceName": "chara_113801_battle_unit",
         "homeMotionResourceName": "chara_11380101_home",
         "sortOrder": 100205,
+        "isExistVoice": true,
+        "isDefault": true
+      },
+      {
+        "style3dCharacterMstId": 114501,
+        "type": 1,
+        "name": "夜明すみれ/魔法少女",
+        "resourceName": "chara_114501_battle_unit",
+        "homeMotionResourceName": "chara_11450101_home",
+        "sortOrder": 114501,
+        "isExistVoice": true,
+        "isDefault": true
+      },
+      {
+        "style3dCharacterMstId": 114601,
+        "type": 1,
+        "name": "日暮ふうか/魔法少女",
+        "resourceName": "chara_114601_battle_unit",
+        "homeMotionResourceName": "chara_11460101_home",
+        "sortOrder": 114601,
         "isExistVoice": true,
         "isDefault": true
       },

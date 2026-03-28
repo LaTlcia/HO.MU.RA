@@ -51,6 +51,104 @@
         "objectReceiveType": 2,
         "objectId": 0,
         "num": 100
+      },
+      {
+        "lotteryRewardMstId": 211,
+        "groupId": 21,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 30000
+      },
+      {
+        "lotteryRewardMstId": 212,
+        "groupId": 21,
+        "objectReceiveType": 6,
+        "objectId": 234001,
+        "num": 1
+      },
+      {
+        "lotteryRewardMstId": 221,
+        "groupId": 22,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 10000
+      },
+      {
+        "lotteryRewardMstId": 222,
+        "groupId": 22,
+        "objectReceiveType": 6,
+        "objectId": 234001,
+        "num": 1
+      },
+      {
+        "lotteryRewardMstId": 231,
+        "groupId": 23,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 3000
+      },
+      {
+        "lotteryRewardMstId": 232,
+        "groupId": 23,
+        "objectReceiveType": 6,
+        "objectId": 234001,
+        "num": 1
+      },
+      {
+        "lotteryRewardMstId": 241,
+        "groupId": 24,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 1000
+      },
+      {
+        "lotteryRewardMstId": 242,
+        "groupId": 24,
+        "objectReceiveType": 6,
+        "objectId": 234002,
+        "num": 1
+      },
+      {
+        "lotteryRewardMstId": 251,
+        "groupId": 25,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 600
+      },
+      {
+        "lotteryRewardMstId": 252,
+        "groupId": 25,
+        "objectReceiveType": 6,
+        "objectId": 234003,
+        "num": 1
+      },
+      {
+        "lotteryRewardMstId": 261,
+        "groupId": 26,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 300
+      },
+      {
+        "lotteryRewardMstId": 262,
+        "groupId": 26,
+        "objectReceiveType": 6,
+        "objectId": 234004,
+        "num": 1
+      },
+      {
+        "lotteryRewardMstId": 271,
+        "groupId": 27,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 100
+      },
+      {
+        "lotteryRewardMstId": 272,
+        "groupId": 27,
+        "objectReceiveType": 6,
+        "objectId": 234005,
+        "num": 1
       }
     ]
   }

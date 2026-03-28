@@ -84,6 +84,14 @@
         "sortOrder": 2
       },
       {
+        "styleFigureMstId": 100304,
+        "characterMstId": 1003,
+        "modelName": "chara_100304_battle_unit",
+        "iconName": "100304",
+        "voiceCueSheetName": "cv_100304_{0}",
+        "sortOrder": 1
+      },
+      {
         "styleFigureMstId": 100401,
         "characterMstId": 1004,
         "modelName": "chara_100401_battle_unit",
@@ -516,6 +524,22 @@
         "sortOrder": 0
       },
       {
+        "styleFigureMstId": 111501,
+        "characterMstId": 1115,
+        "modelName": "chara_111501_battle_unit",
+        "iconName": "111501",
+        "voiceCueSheetName": "cv_111501_{0}",
+        "sortOrder": 1
+      },
+      {
+        "styleFigureMstId": 112001,
+        "characterMstId": 1120,
+        "modelName": "chara_112001_battle_unit",
+        "iconName": "112001",
+        "voiceCueSheetName": "cv_112001_{0}",
+        "sortOrder": 1
+      },
+      {
         "styleFigureMstId": 112401,
         "characterMstId": 1124,
         "modelName": "chara_112401_battle_unit",
@@ -570,6 +594,22 @@
         "iconName": "113901",
         "voiceCueSheetName": "cv_113901_{0}",
         "sortOrder": 3
+      },
+      {
+        "styleFigureMstId": 114501,
+        "characterMstId": 1145,
+        "modelName": "chara_114501_battle_unit",
+        "iconName": "114501",
+        "voiceCueSheetName": "cv_114501_{0}",
+        "sortOrder": 1
+      },
+      {
+        "styleFigureMstId": 114601,
+        "characterMstId": 1146,
+        "modelName": "chara_114601_battle_unit",
+        "iconName": "114601",
+        "voiceCueSheetName": "cv_114601_{0}",
+        "sortOrder": 1
       }
     ]
   }

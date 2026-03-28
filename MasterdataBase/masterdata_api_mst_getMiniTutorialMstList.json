@@ -751,6 +751,96 @@
         "advMstId": 0
       },
       {
+        "miniTutorialMstId": 9701,
+        "miniTutorialNumber": 97,
+        "sortOrder": 1,
+        "title": "エクセドラクライシスとは",
+        "description": "エクセドラクライシスは強力な敵に挑み、結果に応じてスコアを獲得するコンテンツです。\n獲得したスコアによって累計スコア報酬やランキング報酬を獲得することができます。\n一定の期間開催され、シーズンごとに異なる敵が登場します。バトルは1日3回行うことができます。",
+        "resourceName": "exedra_crisis_01",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9702,
+        "miniTutorialNumber": 97,
+        "sortOrder": 2,
+        "title": "結界対策について",
+        "description": "シーズン毎に、バトル中味方が有利になるバフ効果が発生します。\n特定の条件を満たして対策値を溜めることで対策発揮フェーズに移行し、バフ効果がより強力なものに変化します。",
+        "resourceName": "exedra_crisis_02",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9703,
+        "miniTutorialNumber": 97,
+        "sortOrder": 3,
+        "title": "ナマエのセンタクについて",
+        "description": "シーズン毎に決められた3つの効果の中から1つを選択してバトル中に発生させることができる効果です。\n自身のパーティと相性が良いものを選択してバトルを有利に進めましょう。",
+        "resourceName": "exedra_crisis_03",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9704,
+        "miniTutorialNumber": 97,
+        "sortOrder": 4,
+        "title": "編成について",
+        "description": "通常の編成とは別に、10枠のパーティ編成が可能です。\n一度のバトル中に一度出撃したキオクは再度出撃することができません。\nポートレイトやサポートキオクに編成されている場合は出撃が可能です。\nナマエのセンタクを設定することで出撃することができるようになります。",
+        "resourceName": "exedra_crisis_04",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9705,
+        "miniTutorialNumber": 97,
+        "sortOrder": 5,
+        "title": "スコアについて",
+        "description": "スコアはより少ない出撃回数、より少ない行動回数、より高い難易度で勝利することで高くなっていきます。\nできる限り早く、高い難易度をクリアしてランキング上位を目指しましょう。",
+        "resourceName": "exedra_crisis_05",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9706,
+        "miniTutorialNumber": 97,
+        "sortOrder": 6,
+        "title": "ランキングについて",
+        "description": "ランキングは、バトルで獲得したハイスコアに応じて決定されます。",
+        "resourceName": "exedra_crisis_06",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9707,
+        "miniTutorialNumber": 97,
+        "sortOrder": 7,
+        "title": "報酬について",
+        "description": "報酬には、バトルクリア報酬、順位報酬、累積スコア報酬等が存在しています。\n集めたメダルを使用して、交換所で様々な報酬と交換することができます。",
+        "resourceName": "exedra_crisis_07",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9901,
+        "miniTutorialNumber": 99,
+        "sortOrder": 1,
+        "title": "フレンドについて",
+        "description": "他のプレイヤーをフォローしたり、他のプレイヤーからフォローされたりする関係をフレンドと呼びます。\nフォローは主にフレンド画面やプロフィール画面から行えます。",
+        "resourceName": "friend_01",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9902,
+        "miniTutorialNumber": 99,
+        "sortOrder": 2,
+        "title": "フレンド画面について",
+        "description": "フレンド画面では、フレンドの管理が行えます。\nフォロー追加タブにはおすすめプレイヤーが表示されるので、積極的にフォローしてみましょう。",
+        "resourceName": "friend_02",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 9903,
+        "miniTutorialNumber": 99,
+        "sortOrder": 3,
+        "title": "フレンドメダルについて",
+        "description": "リンクレイドで「いいね」をするとフレンドメダルが獲得できます。\n獲得したフレンドメダルは交換所で好きなアイテムと交換できます。",
+        "resourceName": "friend_03",
+        "advMstId": 0
+      },
+      {
         "miniTutorialMstId": 10401,
         "miniTutorialNumber": 104,
         "sortOrder": 1,
@@ -985,12 +1075,84 @@
         "advMstId": 0
       },
       {
+        "miniTutorialMstId": 23001,
+        "miniTutorialNumber": 230,
+        "sortOrder": 1,
+        "title": "バトルの遊び方",
+        "description": "このコンテンツではバトルに制限時間とラウンド制限があります。\n複数のWAVEがあり、最奥のボスを倒すことで勝利となります。\nパーティが敗北となっても敵のHPを維持したまま再挑戦可能です。",
+        "resourceName": "exedra_crisis_08",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 23002,
+        "miniTutorialNumber": 230,
+        "sortOrder": 2,
+        "title": "敵のHPリンクについて",
+        "description": "ボス以外のWAVEでは、敵を1体倒すごとに一定の割合で画面上部のHPを減らすことができます。\n画面上部のHPが0になるまで、敵は出現し続けます。",
+        "resourceName": "exedra_crisis_09",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 23003,
+        "miniTutorialNumber": 230,
+        "sortOrder": 3,
+        "title": "結界対策について①",
+        "description": "バトル中様々な条件を満たすことで対策値が溜まっていきます。\nナマエのセンタクにも条件が設定されています。\n発動する効果の詳細はアイコンをタップすると確認できます。",
+        "resourceName": "exedra_crisis_02",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 23004,
+        "miniTutorialNumber": 230,
+        "sortOrder": 4,
+        "title": "結界対策について②",
+        "description": "対策値が最大になると対策発揮フェーズになります。\n対策発揮フェーズの効果は結界対策の行動順が回ってくるまで発動し続けます。",
+        "resourceName": "exedra_crisis_10",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 23101,
+        "miniTutorialNumber": 231,
+        "sortOrder": 1,
+        "title": "ボスのHPについて",
+        "description": "ボスのHPは出現している他の敵と共有しています。\nどの敵を攻撃してもボスのHPを減らすことができます。\nボスのHPを0にすることで、全ての敵を倒すことができます。",
+        "resourceName": "exedra_crisis_11",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 23301,
+        "miniTutorialNumber": 233,
+        "sortOrder": 1,
+        "title": "魔女の目覚めについて",
+        "description": "ボスは一定以下のHPになると【目覚める】ことで新たな姿へと変化します。\n新たな姿になることで、ボスのステータスやボスがとる行動などが変化します。",
+        "resourceName": "toudai_story_03",
+        "advMstId": 0
+      },
+      {
         "miniTutorialMstId": 31701,
         "miniTutorialNumber": 317,
         "sortOrder": 1,
         "title": "キーコンフィグについて",
         "description": "キーコンフィグでは各種操作のキーボード割り当てを変更することができます。\nよく使う操作を使いやすいキーに割り当てることで快適にプレイできます。",
         "resourceName": "keyconfig_tutorial01",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 35401,
+        "miniTutorialNumber": 354,
+        "sortOrder": 1,
+        "title": "エクセドラクエストとは",
+        "description": "エクセドラクエストは、「名前のない少女」や灯台劇場を取り巻く新しいメインストーリーとなります。\nストーリーの進行をしていくことで、エクセドラクライシスを解放することができます。",
+        "resourceName": "toudai_story_01",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 35402,
+        "miniTutorialNumber": 354,
+        "sortOrder": 2,
+        "title": "レベルロックについて",
+        "description": "エクセドラクエストのバトルでは、キオクLv.と魔力解放Lv.が特定のLv.に制限されます。\n制限されるLv.は章ごとに異なります。\nキオクのLv.や魔力解放Lv.が、適用されるLv.を超過している場合に有効となります。",
+        "resourceName": "toudai_story_02",
         "advMstId": 0
       },
       {

@@ -356,6 +356,17 @@
         "releaseTime": "2025-10-30T12:00:00+09:00"
       },
       {
+        "styleLive2dCostumeMstId": 100340,
+        "name": "巴マミ/パティシエール",
+        "resourceName": "200565",
+        "sortOrder": 100340,
+        "isDefault": true,
+        "isExistVoice": true,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-02-27T12:00:00+09:00"
+      },
+      {
         "styleLive2dCostumeMstId": 100400,
         "name": "美樹さやか/魔法少女",
         "resourceName": "200430",
@@ -1797,6 +1808,61 @@
         "releaseTime": "2025-10-02T12:00:00+09:00"
       },
       {
+        "styleLive2dCostumeMstId": 111500,
+        "name": "タルト/魔法少女",
+        "resourceName": "402130",
+        "sortOrder": 111500,
+        "isDefault": true,
+        "isExistVoice": false,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "styleLive2dCostumeMstId": 111501,
+        "name": "タルト/私服",
+        "resourceName": "402131",
+        "sortOrder": 111501,
+        "isDefault": false,
+        "isExistVoice": false,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "styleLive2dCostumeMstId": 111502,
+        "name": "タルト/私服2",
+        "resourceName": "402132",
+        "sortOrder": 111502,
+        "isDefault": false,
+        "isExistVoice": false,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-03-10T12:00:00+09:00"
+      },
+      {
+        "styleLive2dCostumeMstId": 112000,
+        "name": "コルボー/魔法少女",
+        "resourceName": "402530",
+        "sortOrder": 112000,
+        "isDefault": true,
+        "isExistVoice": true,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-03-18T12:00:00+09:00"
+      },
+      {
+        "styleLive2dCostumeMstId": 112001,
+        "name": "コルボー/魔法少女2",
+        "resourceName": "402531",
+        "sortOrder": 112001,
+        "isDefault": false,
+        "isExistVoice": true,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-03-18T12:00:00+09:00"
+      },
+      {
         "styleLive2dCostumeMstId": 112400,
         "name": "美国織莉子/魔法少女",
         "resourceName": "400130",
@@ -1905,6 +1971,61 @@
         "cheekParam": 0,
         "defaultOption": "",
         "releaseTime": "2026-01-19T12:00:00+09:00"
+      },
+      {
+        "styleLive2dCostumeMstId": 114500,
+        "name": "夜明すみれ/魔法少女",
+        "resourceName": "838330",
+        "sortOrder": 114500,
+        "isDefault": true,
+        "isExistVoice": true,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-03-27T22:00:00+09:00"
+      },
+      {
+        "styleLive2dCostumeMstId": 114501,
+        "name": "夜明すみれ/制服",
+        "resourceName": "838331",
+        "sortOrder": 114501,
+        "isDefault": false,
+        "isExistVoice": true,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-03-27T22:00:00+09:00"
+      },
+      {
+        "styleLive2dCostumeMstId": 114502,
+        "name": "夜明すみれ/制服2",
+        "resourceName": "838333",
+        "sortOrder": 114502,
+        "isDefault": false,
+        "isExistVoice": true,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-03-27T22:00:00+09:00"
+      },
+      {
+        "styleLive2dCostumeMstId": 114600,
+        "name": "日暮ふうか/魔法少女",
+        "resourceName": "838430",
+        "sortOrder": 114600,
+        "isDefault": true,
+        "isExistVoice": true,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-03-27T22:00:00+09:00"
+      },
+      {
+        "styleLive2dCostumeMstId": 114601,
+        "name": "日暮ふうか/制服",
+        "resourceName": "838431",
+        "sortOrder": 114601,
+        "isDefault": false,
+        "isExistVoice": true,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-03-27T22:00:00+09:00"
       }
     ]
   }

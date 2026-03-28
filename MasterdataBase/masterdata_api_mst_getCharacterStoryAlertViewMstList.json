@@ -1,0 +1,12 @@
+{
+  "url": "/api/mst/getCharacterStoryAlertViewMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "characterStoryAlertViewMstId": 1,
+        "alertText": "【マギアレコード Crescent Memoria 第3弾】の核心に触れる内容が含まれるため、\n上記ストーリーを最後までプレイしてから再生することをお勧めします。\nこのまま再生しますか？"
+      }
+    ]
+  }
+}

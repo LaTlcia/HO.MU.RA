@@ -796,6 +796,42 @@
         "backgroundCardMstId": 5100040
       },
       {
+        "fieldStageMstId": 637001,
+        "fieldSeriesMstId": 63700,
+        "name": "コルボー",
+        "subTitle": "前編",
+        "difficulty": 1,
+        "prevFieldStageMstId": 612001,
+        "prevFieldStageMstId2": 0,
+        "firstClearRewardGroupId": 102,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 4100031
+      },
+      {
+        "fieldStageMstId": 637002,
+        "fieldSeriesMstId": 63700,
+        "name": "コルボー",
+        "subTitle": "前編",
+        "difficulty": 2,
+        "prevFieldStageMstId": 637001,
+        "prevFieldStageMstId2": 0,
+        "firstClearRewardGroupId": 102,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 4100031
+      },
+      {
+        "fieldStageMstId": 637003,
+        "fieldSeriesMstId": 63700,
+        "name": "コルボー",
+        "subTitle": "前編",
+        "difficulty": 3,
+        "prevFieldStageMstId": 637001,
+        "prevFieldStageMstId2": 0,
+        "firstClearRewardGroupId": 102,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 5100050
+      },
+      {
         "fieldStageMstId": 641001,
         "fieldSeriesMstId": 64100,
         "name": "魔獣",
@@ -1046,6 +1082,42 @@
         "firstClearRewardGroupId": 102,
         "stageAssetbundleName": "",
         "backgroundCardMstId": 5100043
+      },
+      {
+        "fieldStageMstId": 656011,
+        "fieldSeriesMstId": 65601,
+        "name": "批評家の魔女",
+        "subTitle": "後編",
+        "difficulty": 1,
+        "prevFieldStageMstId": 656001,
+        "prevFieldStageMstId2": 0,
+        "firstClearRewardGroupId": 102,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 4100032
+      },
+      {
+        "fieldStageMstId": 656012,
+        "fieldSeriesMstId": 65601,
+        "name": "批評家の魔女",
+        "subTitle": "後編",
+        "difficulty": 2,
+        "prevFieldStageMstId": 656011,
+        "prevFieldStageMstId2": 656002,
+        "firstClearRewardGroupId": 102,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 4100032
+      },
+      {
+        "fieldStageMstId": 656013,
+        "fieldSeriesMstId": 65601,
+        "name": "批評家の魔女",
+        "subTitle": "後編",
+        "difficulty": 3,
+        "prevFieldStageMstId": 656011,
+        "prevFieldStageMstId2": 656003,
+        "firstClearRewardGroupId": 102,
+        "stageAssetbundleName": "",
+        "backgroundCardMstId": 5100052
       },
       {
         "fieldStageMstId": 700004,

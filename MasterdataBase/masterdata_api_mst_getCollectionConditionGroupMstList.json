@@ -616,7 +616,7 @@
         "fieldSeriesMstId": 61500,
         "conditionGroupId1": 3013,
         "conditionGroupId2": 3006,
-        "advMstId1": 0,
+        "advMstId1": 70000095,
         "advMstId2": 70000095
       },
       {
@@ -624,7 +624,7 @@
         "fieldSeriesMstId": 61500,
         "conditionGroupId1": 3010,
         "conditionGroupId2": 3016,
-        "advMstId1": 0,
+        "advMstId1": 70000095,
         "advMstId2": 70000095
       },
       {
@@ -632,7 +632,7 @@
         "fieldSeriesMstId": 61500,
         "conditionGroupId1": 3018,
         "conditionGroupId2": 3002,
-        "advMstId1": 0,
+        "advMstId1": 70000095,
         "advMstId2": 70000095
       },
       {
@@ -640,7 +640,7 @@
         "fieldSeriesMstId": 61500,
         "conditionGroupId1": 3007,
         "conditionGroupId2": 0,
-        "advMstId1": 0,
+        "advMstId1": 70000095,
         "advMstId2": 70000095
       },
       {
@@ -821,27 +821,27 @@
       },
       {
         "collectionConditionGroupMstId": 112,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 65601,
         "conditionGroupId1": 8001,
         "conditionGroupId2": 8007,
-        "advMstId1": 70000221,
-        "advMstId2": 70000093
+        "advMstId1": 70000317,
+        "advMstId2": 70000318
       },
       {
         "collectionConditionGroupMstId": 113,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 65601,
         "conditionGroupId1": 0,
         "conditionGroupId2": 8002,
-        "advMstId1": 70000221,
-        "advMstId2": 70000093
+        "advMstId1": 0,
+        "advMstId2": 70000319
       },
       {
         "collectionConditionGroupMstId": 114,
-        "fieldSeriesMstId": 0,
+        "fieldSeriesMstId": 65601,
         "conditionGroupId1": 8006,
         "conditionGroupId2": 8012,
-        "advMstId1": 70000221,
-        "advMstId2": 70000093
+        "advMstId1": 70000320,
+        "advMstId2": 70000321
       },
       {
         "collectionConditionGroupMstId": 115,
@@ -888,6 +888,54 @@
         "fieldSeriesMstId": 65200,
         "conditionGroupId1": 9003,
         "conditionGroupId2": 9004,
+        "advMstId1": 70000294,
+        "advMstId2": 70000295
+      },
+      {
+        "collectionConditionGroupMstId": 121,
+        "fieldSeriesMstId": 63700,
+        "conditionGroupId1": 10110,
+        "conditionGroupId2": 10105,
+        "advMstId1": 70000303,
+        "advMstId2": 70000304
+      },
+      {
+        "collectionConditionGroupMstId": 122,
+        "fieldSeriesMstId": 63700,
+        "conditionGroupId1": 0,
+        "conditionGroupId2": 10107,
+        "advMstId1": 0,
+        "advMstId2": 70000305
+      },
+      {
+        "collectionConditionGroupMstId": 123,
+        "fieldSeriesMstId": 63700,
+        "conditionGroupId1": 10101,
+        "conditionGroupId2": 10103,
+        "advMstId1": 70000306,
+        "advMstId2": 70000307
+      },
+      {
+        "collectionConditionGroupMstId": 124,
+        "fieldSeriesMstId": 0,
+        "conditionGroupId1": 10106,
+        "conditionGroupId2": 10108,
+        "advMstId1": 70000291,
+        "advMstId2": 70000292
+      },
+      {
+        "collectionConditionGroupMstId": 125,
+        "fieldSeriesMstId": 0,
+        "conditionGroupId1": 0,
+        "conditionGroupId2": 10104,
+        "advMstId1": 0,
+        "advMstId2": 70000293
+      },
+      {
+        "collectionConditionGroupMstId": 126,
+        "fieldSeriesMstId": 0,
+        "conditionGroupId1": 10109,
+        "conditionGroupId2": 10102,
         "advMstId1": 70000294,
         "advMstId2": 70000295
       }

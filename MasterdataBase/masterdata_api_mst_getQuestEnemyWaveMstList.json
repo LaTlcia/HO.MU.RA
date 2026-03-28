@@ -1,0 +1,128 @@
+{
+  "url": "/api/mst/getQuestEnemyWaveMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "questEnemyWaveMstId": 14011011,
+        "questStageMstId": 1401101,
+        "wave": 1,
+        "linkHpType": 1,
+        "linkHpName": "魔女の手下たち",
+        "stagePrefabName": "",
+        "dioramaBackGroundMstId": 110313,
+        "enemyTipsText": ""
+      },
+      {
+        "questEnemyWaveMstId": 14011012,
+        "questStageMstId": 1401101,
+        "wave": 2,
+        "linkHpType": 2,
+        "linkHpName": "",
+        "stagePrefabName": "bg_3d_602_00_00_001",
+        "dioramaBackGroundMstId": 110319,
+        "enemyTipsText": "WAVE 2は<tooltips_id=5>されています。<br>バトル開始時に<tooltips_id=2>が付与されるため注意しましょう。<br><br>出現するお菓子の魔女は<tooltips_id=3>により、ステータスやスキルが変化します。<br><br>・お菓子の魔女<br><tooltips_id=1>を使用します。<br><tooltips_id=1>中はスピードが上昇するため注意しましょう。<br><br>・【天辺の姿】お菓子の魔女<br>状態異常を複数使用し、ダメージを一定回数受けるたびバフ解除効果のある追撃を行います。<br>また、キオクが使用するバフ効果量を減少させるアビリティを所持しています。<br><br>・【天辺越えの姿】お菓子の魔女<br><tooltips_id=1>を使用します。<br>結界対策発揮フェーズ中以外は、ブレイクゲージが削りづらいため積極的に結界対策値をためていきましょう。"
+      },
+      {
+        "questEnemyWaveMstId": 14011021,
+        "questStageMstId": 1401102,
+        "wave": 1,
+        "linkHpType": 1,
+        "linkHpName": "魔女の手下たち",
+        "stagePrefabName": "",
+        "dioramaBackGroundMstId": 110313,
+        "enemyTipsText": ""
+      },
+      {
+        "questEnemyWaveMstId": 14011022,
+        "questStageMstId": 1401102,
+        "wave": 2,
+        "linkHpType": 2,
+        "linkHpName": "",
+        "stagePrefabName": "bg_3d_602_00_00_001",
+        "dioramaBackGroundMstId": 110319,
+        "enemyTipsText": "WAVE 2は<tooltips_id=5>されています。<br>バトル開始時に<tooltips_id=2>が付与されるため注意しましょう。<br><br>出現するお菓子の魔女は<tooltips_id=3>により、ステータスやスキルが変化します。<br><br>・お菓子の魔女<br><tooltips_id=1>を使用します。<br><tooltips_id=1>中はスピードが上昇するため注意しましょう。<br><br>・【天辺の姿】お菓子の魔女<br>状態異常を複数使用し、ダメージを一定回数受けるたびバフ解除効果のある追撃を行います。<br>また、キオクが使用するバフ効果量を減少させるアビリティを所持しています。<br><br>・【天辺越えの姿】お菓子の魔女<br><tooltips_id=1>を使用します。<br>結界対策発揮フェーズ中以外は、ブレイクゲージが削りづらいため積極的に結界対策値をためていきましょう。"
+      },
+      {
+        "questEnemyWaveMstId": 14011031,
+        "questStageMstId": 1401103,
+        "wave": 1,
+        "linkHpType": 1,
+        "linkHpName": "魔女の手下たち",
+        "stagePrefabName": "",
+        "dioramaBackGroundMstId": 110313,
+        "enemyTipsText": ""
+      },
+      {
+        "questEnemyWaveMstId": 14011032,
+        "questStageMstId": 1401103,
+        "wave": 2,
+        "linkHpType": 2,
+        "linkHpName": "",
+        "stagePrefabName": "bg_3d_602_00_00_001",
+        "dioramaBackGroundMstId": 110319,
+        "enemyTipsText": "WAVE 2は<tooltips_id=5>されています。<br>バトル開始時に<tooltips_id=2>が付与されるため注意しましょう。<br><br>出現するお菓子の魔女は<tooltips_id=3>により、ステータスやスキルが変化します。<br><br>・お菓子の魔女<br><tooltips_id=1>を使用します。<br><tooltips_id=1>中はスピードが上昇するため注意しましょう。<br><br>・【天辺の姿】お菓子の魔女<br>状態異常を複数使用し、ダメージを一定回数受けるたびバフ解除効果のある追撃を行います。<br>また、キオクが使用するバフ効果量を減少させるアビリティを所持しています。<br><br>・【天辺越えの姿】お菓子の魔女<br><tooltips_id=1>を使用します。<br>結界対策発揮フェーズ中以外は、ブレイクゲージが削りづらいため積極的に結界対策値をためていきましょう。"
+      },
+      {
+        "questEnemyWaveMstId": 14011041,
+        "questStageMstId": 1401104,
+        "wave": 1,
+        "linkHpType": 1,
+        "linkHpName": "魔女の手下たち",
+        "stagePrefabName": "",
+        "dioramaBackGroundMstId": 110313,
+        "enemyTipsText": ""
+      },
+      {
+        "questEnemyWaveMstId": 14011042,
+        "questStageMstId": 1401104,
+        "wave": 2,
+        "linkHpType": 2,
+        "linkHpName": "",
+        "stagePrefabName": "bg_3d_602_00_00_001",
+        "dioramaBackGroundMstId": 110319,
+        "enemyTipsText": "WAVE 2は<tooltips_id=5>されています。<br>バトル開始時に<tooltips_id=2>が付与されるため注意しましょう。<br><br>出現するお菓子の魔女は<tooltips_id=3>により、ステータスやスキルが変化します。<br><br>・お菓子の魔女<br><tooltips_id=1>を使用します。<br><tooltips_id=1>中はスピードが上昇し、ダメージが与えづらくブレイクゲージも削りづらくなるため、なるべく早く阻止しましょう。<br><br>・【天辺の姿】お菓子の魔女<br>状態異常を複数使用し、ダメージを一定回数受けるたびバフ解除効果のある追撃を行います。<br>また、キオクが使用するバフ効果量を減少させるアビリティを所持しています。<br><br>・【天辺越えの姿】お菓子の魔女<br><tooltips_id=1>を使用します。<br>結界対策発揮フェーズ中以外は、ダメージが与えづらくブレイクゲージも削りづらいため素早く結界対策発揮フェーズに移行しましょう。"
+      },
+      {
+        "questEnemyWaveMstId": 14011051,
+        "questStageMstId": 1401105,
+        "wave": 1,
+        "linkHpType": 1,
+        "linkHpName": "魔女の手下たち",
+        "stagePrefabName": "",
+        "dioramaBackGroundMstId": 110313,
+        "enemyTipsText": ""
+      },
+      {
+        "questEnemyWaveMstId": 14011052,
+        "questStageMstId": 1401105,
+        "wave": 2,
+        "linkHpType": 2,
+        "linkHpName": "",
+        "stagePrefabName": "bg_3d_602_00_00_001",
+        "dioramaBackGroundMstId": 110319,
+        "enemyTipsText": "WAVE 2は<tooltips_id=5>されています。<br>バトル開始時に<tooltips_id=2>が付与されるため注意しましょう。<br><br>出現するお菓子の魔女は<tooltips_id=3>により、ステータスやスキルが変化します。<br><br>・お菓子の魔女<br><tooltips_id=1>を使用します。<br><tooltips_id=1>中はスピードが上昇し、ダメージが与えづらくブレイクゲージも削りづらくなるため、なるべく早く阻止しましょう。<br><br>・【天辺の姿】お菓子の魔女<br>状態異常を複数使用し、ダメージを一定回数受けるたびバフ解除効果のある追撃を行います。<br>また、キオクが使用するバフ効果量を減少させるアビリティを所持しています。<br><br>・【天辺越えの姿】お菓子の魔女<br><tooltips_id=1>を使用します。<br>結界対策発揮フェーズ中以外は、ダメージが与えづらくブレイクゲージも削りづらいため素早く結界対策発揮フェーズに移行しましょう。"
+      },
+      {
+        "questEnemyWaveMstId": 14011061,
+        "questStageMstId": 1401106,
+        "wave": 1,
+        "linkHpType": 1,
+        "linkHpName": "魔女の手下たち",
+        "stagePrefabName": "",
+        "dioramaBackGroundMstId": 110313,
+        "enemyTipsText": ""
+      },
+      {
+        "questEnemyWaveMstId": 14011062,
+        "questStageMstId": 1401106,
+        "wave": 2,
+        "linkHpType": 2,
+        "linkHpName": "",
+        "stagePrefabName": "bg_3d_602_00_00_001",
+        "dioramaBackGroundMstId": 110319,
+        "enemyTipsText": "WAVE 2は<tooltips_id=5>されています。<br>バトル開始時に<tooltips_id=2>が付与されるため注意しましょう。<br><br>出現するお菓子の魔女は<tooltips_id=3>により、ステータスやスキルが変化します。<br><br>・お菓子の魔女<br><tooltips_id=1>を使用します。<br><tooltips_id=1>中はスピードが上昇し、ダメージが与えづらくブレイクゲージも削りづらくなるため、なるべく早く阻止しましょう。<br><br>・【天辺の姿】お菓子の魔女<br>状態異常を複数使用し、ダメージを一定回数受けるたびバフ解除効果のある追撃を行います。<br>また、キオクが使用するバフ効果量を減少させるアビリティを所持しています。<br><br>・【天辺越えの姿】お菓子の魔女<br><tooltips_id=1>を使用します。<br>結界対策発揮フェーズ中以外は、ダメージが与えづらくブレイクゲージも削りづらいため素早く結界対策発揮フェーズに移行しましょう。"
+      }
+    ]
+  }
+}

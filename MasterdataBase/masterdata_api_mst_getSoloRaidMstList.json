@@ -1,0 +1,19 @@
+{
+  "url": "/api/mst/getSoloRaidMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "soloRaidMstId": 1,
+        "startTime": "2026-04-01T12:00:00+09:00",
+        "battleEndTime": "2026-04-08T23:59:59+09:00",
+        "endTime": "2026-04-13T04:59:59+09:00",
+        "totalScoreRewardGroupId": 1,
+        "rankingRewardGroupId": 1,
+        "soloRaidSeasonBuffGroupId": 1,
+        "soloRaidPartyBuffGroupId": 1,
+        "announceMstId": 1898
+      }
+    ]
+  }
+}

@@ -724,6 +724,36 @@
         "sortOrder": 0
       },
       {
+        "characterMstId": 1115,
+        "description": "現在は「ジャンヌ・ダルク」の名で知られる中世フランスの魔法少女。<br>最愛の妹カトリーヌの死をきっかけに、崩壊寸前のフランスを救うべく立ち上がった。<br>素朴で人を信じやすく、キューブ（キュゥべえ）を「天使様」と呼び慕っている。",
+        "characterVoice": "堀江由衣",
+        "schoolName": "―",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 10,
+        "regionId": 1,
+        "teamId1": 0,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
+        "characterMstId": 1120,
+        "description": "百年戦争のさなか、イングランド陣営で暗躍する仮面の魔法少女。<br>三姉妹の次女で、粗暴な言動が目立つ反面、身内には優しい。強敵との嬲り合いに異常な興奮を覚える戦闘好き。<br>母親はとある貴人で、姉と妹に惜しみない愛を注ぐ。",
+        "characterVoice": "大坪由佳",
+        "schoolName": "―",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 10,
+        "regionId": 1,
+        "teamId1": 0,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
         "characterMstId": 1124,
         "description": "元議員の父親を持つ、お嬢様魔法少女。<br>目的のためには手段を選ばないところがあり、冷酷な人だと思われがちだが、それらは父親譲りの正義感の強さに因るところである。<br>行動に反して物腰は至って柔らかく、家では優雅に紅茶を嗜んでいたりする。",
         "characterVoice": "早見沙織",
@@ -780,6 +810,36 @@
         "seriesId": 3,
         "regionId": 1,
         "teamId1": 0,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
+        "characterMstId": 1145,
+        "description": "多くの人々を救いたいと願っている豊鶴市の魔法少女。<br>転校を繰り返してきたことから人と馴染むのが得意な一方で<br>祖母の前以外は、どこも自分の居場所でないような気がしていた。しかし、出会いを経て素でいられる場所が増えていった。<br>酒豪な祖母の影響でおつまみっぽい濃い味の食べ物が好き。",
+        "characterVoice": "伊藤美来",
+        "schoolName": "豊鶴学院",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 2,
+        "regionId": 1,
+        "teamId1": 900,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
+        "characterMstId": 1146,
+        "description": "日々“人助け”に奔走している豊鶴市の魔法少女。<br>生への執着に乏しく、絶望も希望もなく無気力に生きていたが<br>とある運命的な出会いによって、人生に希望を見出した。<br>言葉足らずで誤解されやすいものの根は真面目で可愛いものが好き。<br>すみれからは「クールな顔してすっとこどっこい」と評されている。",
+        "characterVoice": "豊田萌絵",
+        "schoolName": "豊鶴学院",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 2,
+        "regionId": 1,
+        "teamId1": 900,
         "teamId2": 0,
         "sortOrder": 0
       }
