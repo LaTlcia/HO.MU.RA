@@ -1356,6 +1356,30 @@
         "osType": 0
       },
       {
+        "homeBannerMstId": 229,
+        "bannerMstId": 281,
+        "startTime": "2026-04-06T12:00:00+09:00",
+        "endTime": "2026-04-14T11:59:59+09:00",
+        "sortOrder": 421,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 230,
+        "bannerMstId": 282,
+        "startTime": "2026-04-06T12:00:00+09:00",
+        "endTime": "2026-04-14T11:59:59+09:00",
+        "sortOrder": 420,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 231,
+        "bannerMstId": 283,
+        "startTime": "2026-04-06T12:00:00+09:00",
+        "endTime": "2026-04-14T11:59:59+09:00",
+        "sortOrder": 418,
+        "osType": 0
+      },
+      {
         "homeBannerMstId": 234,
         "bannerMstId": 275,
         "startTime": "2026-03-27T22:00:00+09:00",
@@ -1369,6 +1393,14 @@
         "startTime": "2026-03-27T22:00:00+09:00",
         "endTime": "2026-04-06T11:59:59+09:00",
         "sortOrder": 401,
+        "osType": 0
+      },
+      {
+        "homeBannerMstId": 236,
+        "bannerMstId": 295,
+        "startTime": "2026-04-01T00:00:00+09:00",
+        "endTime": "2026-04-08T23:59:59+09:00",
+        "sortOrder": 412,
         "osType": 0
       },
       {

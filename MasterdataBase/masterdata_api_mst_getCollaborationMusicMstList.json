@@ -1,0 +1,16 @@
+{
+  "url": "/api/mst/getCollaborationMusicMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "collaborationMusicMstId": 1,
+        "collaborationMstId": 1,
+        "collaborationBgmCueSheetName": "music_music_02_01_mono_sutekimeppou",
+        "collaborationBgmCueName": "music_music_02_01_mono_sutekimeppou_01",
+        "defaultBgmCueSheetName": "bgm_adv",
+        "defaultBgmCueName": "bgm01_adv_everyday2"
+      }
+    ]
+  }
+}

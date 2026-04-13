@@ -1,0 +1,12 @@
+{
+  "url": "/api/mst/getMissionCampaignGroupMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "missionCampaignGroupMstId": 2,
+        "title": "コラボ記念"
+      }
+    ]
+  }
+}

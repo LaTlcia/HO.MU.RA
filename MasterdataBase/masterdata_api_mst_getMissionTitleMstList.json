@@ -8,133 +8,136 @@
         "prevMissionTitleMstId": 0,
         "title": "チャレンジミッション",
         "priority": 1,
-        "featuredRewardResourceName": ""
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
       },
       {
         "missionTitleMstId": 2,
         "prevMissionTitleMstId": 0,
         "title": "デイリーミッション",
         "priority": 1,
-        "featuredRewardResourceName": ""
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
       },
       {
         "missionTitleMstId": 3,
         "prevMissionTitleMstId": 0,
         "title": "ウィークリーミッション",
         "priority": 1,
-        "featuredRewardResourceName": ""
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
       },
       {
         "missionTitleMstId": 4,
         "prevMissionTitleMstId": 0,
         "title": "初心者ミッション",
         "priority": 1,
-        "featuredRewardResourceName": ""
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
       },
       {
         "missionTitleMstId": 10,
         "prevMissionTitleMstId": 0,
         "title": "エクセドラパスミッション",
         "priority": 1,
-        "featuredRewardResourceName": ""
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
       },
       {
         "missionTitleMstId": 15,
         "prevMissionTitleMstId": 0,
         "title": "ユニオンミッション",
         "priority": 1,
-        "featuredRewardResourceName": ""
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
       },
       {
-        "missionTitleMstId": 1016,
+        "missionTitleMstId": 1017,
         "prevMissionTitleMstId": 0,
         "title": "シーズンミッション",
         "priority": 1,
-        "featuredRewardResourceName": ""
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
       },
       {
         "missionTitleMstId": 5000,
         "prevMissionTitleMstId": 0,
         "title": "焦らずゆっくり未来へ ～魔法少女に夢を見て～イベントミッション",
         "priority": 1,
-        "featuredRewardResourceName": ""
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
       },
       {
         "missionTitleMstId": 5044,
         "prevMissionTitleMstId": 0,
         "title": "ドールハウスミッション",
         "priority": 1,
-        "featuredRewardResourceName": ""
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
       },
       {
-        "missionTitleMstId": 5074,
+        "missionTitleMstId": 5088,
         "prevMissionTitleMstId": 0,
-        "title": "Chaosモードチャレンジミッション",
-        "priority": 10,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5085,
-        "prevMissionTitleMstId": 0,
-        "title": "魔法少女たると☆マギカ 前編イベントミッション",
-        "priority": 53,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5086,
-        "prevMissionTitleMstId": 0,
-        "title": "魔法少女たると☆マギカ 前編イベントメモリアルメダル獲得ミッション",
-        "priority": 54,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5087,
-        "prevMissionTitleMstId": 0,
-        "title": "1st Anniversaryカウントダウンミッション",
-        "priority": 20,
-        "featuredRewardResourceName": ""
+        "title": "コラボ記念ミッション 第1弾",
+        "priority": 25,
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 2
       },
       {
         "missionTitleMstId": 5090,
         "prevMissionTitleMstId": 0,
         "title": "マギアレコード Crescent Memoria 第３弾イベントミッション",
         "priority": 55,
-        "featuredRewardResourceName": ""
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
       },
       {
         "missionTitleMstId": 5091,
         "prevMissionTitleMstId": 0,
         "title": "マギアレコード Crescent Memoria 第３弾イベントメモリアルメダル獲得ミッション",
         "priority": 56,
-        "featuredRewardResourceName": ""
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
+      },
+      {
+        "missionTitleMstId": 5092,
+        "prevMissionTitleMstId": 0,
+        "title": "〈物語〉シリーズコラボ前編 ～ラビリンス・ストーリー～イベントミッション",
+        "priority": 57,
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
+      },
+      {
+        "missionTitleMstId": 5093,
+        "prevMissionTitleMstId": 0,
+        "title": "〈物語〉シリーズコラボ前編 ～ラビリンス・ストーリー～イベントメモリアルメダル獲得ミッション",
+        "priority": 58,
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
       },
       {
         "missionTitleMstId": 5096,
         "prevMissionTitleMstId": 0,
         "title": "カムバックミッション",
         "priority": 1,
-        "featuredRewardResourceName": ""
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
       },
       {
         "missionTitleMstId": 5097,
         "prevMissionTitleMstId": 0,
         "title": "1st Anniversaryまどドラくじミッション",
         "priority": 52,
-        "featuredRewardResourceName": ""
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
       },
       {
         "missionTitleMstId": 5098,
         "prevMissionTitleMstId": 0,
         "title": "1st Anniversaryミッション 第1弾",
         "priority": 20,
-        "featuredRewardResourceName": ""
-      },
-      {
-        "missionTitleMstId": 5100,
-        "prevMissionTitleMstId": 0,
-        "title": "エクセドラクライシスプレイミッション",
-        "priority": 51,
-        "featuredRewardResourceName": ""
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
       }
     ]
   }

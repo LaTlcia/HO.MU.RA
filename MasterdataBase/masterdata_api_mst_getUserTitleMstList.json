@@ -328,6 +328,18 @@
         "value1": 11460101
       },
       {
+        "userTitleMstId": 11500101,
+        "title": "螺旋帰道",
+        "titleType": 1,
+        "value1": 11500101
+      },
+      {
+        "userTitleMstId": 11510101,
+        "title": "怪異殺し",
+        "titleType": 1,
+        "value1": 11510101
+      },
+      {
         "userTitleMstId": 20000000,
         "title": "名前のない少女",
         "titleType": 0,
@@ -1298,6 +1310,12 @@
         "title": "マギアレコード Crescent Memoria 第３弾クリア",
         "titleType": 2,
         "value1": 4200061
+      },
+      {
+        "userTitleMstId": 60000038,
+        "title": "〈物語〉シリーズコラボ前編 ～ラビリンス・ストーリー～クリア",
+        "titleType": 2,
+        "value1": 4200073
       },
       {
         "userTitleMstId": 70000001,

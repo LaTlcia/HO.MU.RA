@@ -324,6 +324,14 @@
         "value2": 0
       },
       {
+        "styleLimitBreakEffectMstId": 3034,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8303401,
+        "value2": 0
+      },
+      {
         "styleLimitBreakEffectMstId": 4001,
         "name": "",
         "targetType": 3,
@@ -1113,6 +1121,22 @@
         "targetType": 3,
         "abilityEffectType": "",
         "value1": 8507201,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5071,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8507301,
+        "value2": 0
+      },
+      {
+        "styleLimitBreakEffectMstId": 5072,
+        "name": "",
+        "targetType": 3,
+        "abilityEffectType": "",
+        "value1": 8507401,
         "value2": 0
       }
     ]

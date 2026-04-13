@@ -1,0 +1,14 @@
+{
+  "url": "/api/mst/getCollaborationMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "collaborationMstId": 1,
+        "copyrightText": "©西尾維新／講談社・アニプレックス・シャフト",
+        "startTime": "2026-04-06T11:00:00+09:00",
+        "endTime": "2026-05-05T11:59:59+09:00"
+      }
+    ]
+  }
+}

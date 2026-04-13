@@ -338,6 +338,24 @@
         "characterMstId": 1146,
         "paramUpGroupId": 1,
         "objectRewardGroupId": 1146
+      },
+      {
+        "characterHeartMstId": 1150,
+        "characterMstId": 1150,
+        "paramUpGroupId": 1,
+        "objectRewardGroupId": 1150
+      },
+      {
+        "characterHeartMstId": 1151,
+        "characterMstId": 1151,
+        "paramUpGroupId": 1,
+        "objectRewardGroupId": 1151
+      },
+      {
+        "characterHeartMstId": 1152,
+        "characterMstId": 1152,
+        "paramUpGroupId": 2,
+        "objectRewardGroupId": 1152
       }
     ]
   }

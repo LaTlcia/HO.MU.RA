@@ -160,6 +160,19 @@
         "resourceName": ""
       },
       {
+        "shopSeriesMstId": 2940,
+        "title": "〈物語〉シリーズコラボピックアップガチャ交換所",
+        "description": "",
+        "category": 2,
+        "startTime": "2026-04-06T12:00:00+09:00",
+        "endTime": "2026-05-06T11:59:59+09:00",
+        "shopGroupId1": 2940,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 231050,
+        "resourceName": ""
+      },
+      {
         "shopSeriesMstId": 2942,
         "title": "キオクメダル（1st Anniversary）交換所",
         "description": "",
@@ -885,6 +898,32 @@
         "shopGroupId2": 0,
         "payType": 3,
         "payId": 231004,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 3926,
+        "title": "思い出の餃子交換所",
+        "description": "",
+        "category": 3,
+        "startTime": "2026-04-06T12:00:00+09:00",
+        "endTime": "2026-05-06T11:59:59+09:00",
+        "shopGroupId1": 3926,
+        "shopGroupId2": 0,
+        "payType": 3,
+        "payId": 201067,
+        "resourceName": ""
+      },
+      {
+        "shopSeriesMstId": 3928,
+        "title": "〈物語〉シリーズコラボ前編イベント交換所",
+        "description": "",
+        "category": 3,
+        "startTime": "2026-04-06T12:00:00+09:00",
+        "endTime": "2026-05-06T11:59:59+09:00",
+        "shopGroupId1": 3928,
+        "shopGroupId2": 3927,
+        "payType": 3,
+        "payId": 201069,
         "resourceName": ""
       },
       {

@@ -764,6 +764,86 @@
         "releaseTime": "2026-02-17T12:00:00+09:00"
       },
       {
+        "dollhouse2dBackgroundMstId": 20523,
+        "name": "みかづき荘/外観(夜)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_90325_02",
+        "lightingType": 2,
+        "isDefault": false,
+        "sortOrder": 20293,
+        "releaseTime": "2026-04-06T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20531,
+        "name": "みかづき荘/キッチン(昼)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_90286_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 20531,
+        "releaseTime": "2026-04-06T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20541,
+        "name": "みかづき荘/キッチン(夜)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_90286_03",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 20541,
+        "releaseTime": "2026-04-06T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20551,
+        "name": "あした屋(昼)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_90039_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 20551,
+        "releaseTime": "2026-04-06T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20562,
+        "name": "あした屋(夕)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_90039_02",
+        "lightingType": 1,
+        "isDefault": false,
+        "sortOrder": 20562,
+        "releaseTime": "2026-04-06T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20572,
+        "name": "参京区/街並み(夕)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_90028_02",
+        "lightingType": 1,
+        "isDefault": false,
+        "sortOrder": 20572,
+        "releaseTime": "2026-04-06T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20582,
+        "name": "参京区/道(夕)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_90027_02",
+        "lightingType": 1,
+        "isDefault": false,
+        "sortOrder": 20132,
+        "releaseTime": "2026-04-06T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20641,
+        "name": "砂場の魔女/最深層",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_10043_02",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 20641,
+        "releaseTime": "2026-04-06T12:00:00+09:00"
+      },
+      {
         "dollhouse2dBackgroundMstId": 20652,
         "name": "豊鶴市/海沿いの公園(夕)",
         "seriesId": 2,
@@ -822,6 +902,16 @@
         "isDefault": false,
         "sortOrder": 20422,
         "releaseTime": "2026-03-27T22:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20711,
+        "name": "灯台劇場/エイプリルフール2026",
+        "seriesId": 999,
+        "resourceName": "bg_adv_04_05_0003",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 20711,
+        "releaseTime": "2026-04-01T00:00:00+09:00"
       },
       {
         "dollhouse2dBackgroundMstId": 30011,
@@ -1672,6 +1762,16 @@
         "isDefault": false,
         "sortOrder": 990181,
         "releaseTime": "2026-01-01T00:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 990261,
+        "name": "駅前(昼)",
+        "seriesId": 999,
+        "resourceName": "bg_adv_99_90328_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 990261,
+        "releaseTime": "2026-04-06T12:00:00+09:00"
       },
       {
         "dollhouse2dBackgroundMstId": 990321,

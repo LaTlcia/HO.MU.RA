@@ -1396,12 +1396,52 @@
         "bgmOffEnglishPath": ""
       },
       {
+        "movieReplaceMstId": 175,
+        "path": "Movie/3DMovie/mv4069",
+        "isStreamable": false,
+        "bgmOffPath": "Movie/3DMovie/mv4069_bgmoff",
+        "englishPath": "Movie/3DMovie/mv4069_en",
+        "bgmOffEnglishPath": "Movie/3DMovie/mv4069_en_bgmoff"
+      },
+      {
+        "movieReplaceMstId": 176,
+        "path": "Movie/3DMovie/mv3039",
+        "isStreamable": false,
+        "bgmOffPath": "Movie/3DMovie/mv3039_bgmoff",
+        "englishPath": "",
+        "bgmOffEnglishPath": ""
+      },
+      {
+        "movieReplaceMstId": 177,
+        "path": "Movie/3DMovie/mv6044",
+        "isStreamable": true,
+        "bgmOffPath": "Movie/3DMovie/mv6044_bgmoff",
+        "englishPath": "Movie/3DMovie/mv6044_en",
+        "bgmOffEnglishPath": "Movie/3DMovie/mv6044_en_bgmoff"
+      },
+      {
         "movieReplaceMstId": 182,
         "path": "Movie/3DMovie/mv4071",
         "isStreamable": false,
         "bgmOffPath": "Movie/3DMovie/mv4071_bgmoff",
         "englishPath": "Movie/3DMovie/mv4071_en",
         "bgmOffEnglishPath": "Movie/3DMovie/mv4071_en_bgmoff"
+      },
+      {
+        "movieReplaceMstId": 183,
+        "path": "Movie/3DMovie/mv4088",
+        "isStreamable": false,
+        "bgmOffPath": "Movie/3DMovie/mv4088_bgmoff",
+        "englishPath": "Movie/3DMovie/mv4088_en",
+        "bgmOffEnglishPath": "Movie/3DMovie/mv4088_en_bgmoff"
+      },
+      {
+        "movieReplaceMstId": 184,
+        "path": "Movie/3DMovie/mv4107",
+        "isStreamable": true,
+        "bgmOffPath": "Movie/3DMovie/mv4107_bgmoff",
+        "englishPath": "Movie/3DMovie/mv4107_en",
+        "bgmOffEnglishPath": "Movie/3DMovie/mv4107_en_bgmoff"
       }
     ]
   }

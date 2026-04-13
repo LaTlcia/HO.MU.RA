@@ -450,6 +450,30 @@
         "iconResourceName": "1146",
         "colorCode": "#6C6299",
         "enCapsName": "FUKA HIGURE"
+      },
+      {
+        "characterMstId": 1150,
+        "name": "八九寺真宵",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1150",
+        "colorCode": "#FFB0B7",
+        "enCapsName": "MAYOI HACHIKUJI"
+      },
+      {
+        "characterMstId": 1151,
+        "name": "忍野忍",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1151",
+        "colorCode": "#FDE101",
+        "enCapsName": "SHINOBU OSHINO"
+      },
+      {
+        "characterMstId": 1152,
+        "name": "まどか先輩",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1152",
+        "colorCode": "#F36D97",
+        "enCapsName": "MADOKA-SENPAI"
       }
     ]
   }

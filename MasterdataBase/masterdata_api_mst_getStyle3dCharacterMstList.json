@@ -802,6 +802,36 @@
         "sortOrder": 100,
         "isExistVoice": true,
         "isDefault": true
+      },
+      {
+        "style3dCharacterMstId": 115001,
+        "type": 1,
+        "name": "八九寺真宵/魔法少女",
+        "resourceName": "chara_115001_battle_unit",
+        "homeMotionResourceName": "chara_11500101_home",
+        "sortOrder": 115001,
+        "isExistVoice": true,
+        "isDefault": true
+      },
+      {
+        "style3dCharacterMstId": 115101,
+        "type": 1,
+        "name": "忍野忍/魔法少女",
+        "resourceName": "chara_115101_battle_unit",
+        "homeMotionResourceName": "chara_11510101_home",
+        "sortOrder": 115101,
+        "isExistVoice": true,
+        "isDefault": true
+      },
+      {
+        "style3dCharacterMstId": 115201,
+        "type": 1,
+        "name": "まどか先輩/魔法少女",
+        "resourceName": "chara_115201_battle_unit",
+        "homeMotionResourceName": "chara_11520101_home",
+        "sortOrder": 115201,
+        "isExistVoice": true,
+        "isDefault": true
       }
     ]
   }

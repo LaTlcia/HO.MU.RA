@@ -3034,6 +3034,21 @@
         "sortOrder": 0
       },
       {
+        "selectionAbilityMstId": 5022,
+        "selectionAbilityType": 1,
+        "selectionAbilityEffectId": 68,
+        "rarity": 4,
+        "targetType": 2,
+        "name": "口約束だから平気だよ！",
+        "description": "攻撃力+8.8%、与えるダメージ+8.8%",
+        "abilityEffectType": "",
+        "value1": 1130022,
+        "value2": 0,
+        "styleMstId": 11520101,
+        "resourceIconName": "battle_icon_selection_ability_ex",
+        "sortOrder": 0
+      },
+      {
         "selectionAbilityMstId": 6001,
         "selectionAbilityType": 1,
         "selectionAbilityEffectId": 68,
@@ -4095,6 +4110,36 @@
         "value1": 1150054,
         "value2": 0,
         "styleMstId": 11460101,
+        "resourceIconName": "battle_icon_selection_ability_ex",
+        "sortOrder": 0
+      },
+      {
+        "selectionAbilityMstId": 7055,
+        "selectionAbilityType": 1,
+        "selectionAbilityEffectId": 139,
+        "rarity": 4,
+        "targetType": 2,
+        "name": "すべて二刀のもとに伏してやろう",
+        "description": "与えるダメージ+20%。<br>HP回復量+10%",
+        "abilityEffectType": "",
+        "value1": 1150055,
+        "value2": 0,
+        "styleMstId": 11510101,
+        "resourceIconName": "battle_icon_selection_ability_ex",
+        "sortOrder": 0
+      },
+      {
+        "selectionAbilityMstId": 7056,
+        "selectionAbilityType": 1,
+        "selectionAbilityEffectId": 140,
+        "rarity": 4,
+        "targetType": 2,
+        "name": "その攻撃、迷子にさせていただきます！",
+        "description": "最大HP+10%、狙われる確率上昇。<br>必殺技を発動したときスピード+10%(2ターン)",
+        "abilityEffectType": "",
+        "value1": 1150056,
+        "value2": 0,
+        "styleMstId": 11500101,
         "resourceIconName": "battle_icon_selection_ability_ex",
         "sortOrder": 0
       }

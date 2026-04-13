@@ -13300,6 +13300,14 @@
         "compareValue": "5"
       },
       {
+        "battleConditionMstId": 1670,
+        "description": "しのぶの専用バフが付与されているとき",
+        "compareTarget": 1,
+        "compareContent": 26,
+        "compareOperator": 7,
+        "compareValue": "14"
+      },
+      {
         "battleConditionMstId": 1671,
         "description": "攻撃でブレイクした敵が1体の場合",
         "compareTarget": 6,
@@ -13372,6 +13380,22 @@
         "compareValue": "3"
       },
       {
+        "battleConditionMstId": 1680,
+        "description": "八九寺真宵専用バフが付与されているとき",
+        "compareTarget": 1,
+        "compareContent": 26,
+        "compareOperator": 7,
+        "compareValue": "15"
+      },
+      {
+        "battleConditionMstId": 1681,
+        "description": "八九寺真宵専用バフが10以上のとき",
+        "compareTarget": 1,
+        "compareContent": 27,
+        "compareOperator": 4,
+        "compareValue": "15,10"
+      },
+      {
         "battleConditionMstId": 1685,
         "description": "攻撃された時",
         "compareTarget": 3,
@@ -13394,6 +13418,22 @@
         "compareContent": 14,
         "compareOperator": 1,
         "compareValue": "1120"
+      },
+      {
+        "battleConditionMstId": 1688,
+        "description": "自分のキャラクターが「忍野忍」",
+        "compareTarget": 1,
+        "compareContent": 14,
+        "compareOperator": 1,
+        "compareValue": "1151"
+      },
+      {
+        "battleConditionMstId": 1689,
+        "description": "自分のキャラクターが「八九寺真宵」",
+        "compareTarget": 1,
+        "compareContent": 14,
+        "compareOperator": 1,
+        "compareValue": "1150"
       },
       {
         "battleConditionMstId": 1693,

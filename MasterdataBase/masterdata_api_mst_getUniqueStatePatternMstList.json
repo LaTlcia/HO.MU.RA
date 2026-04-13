@@ -82,6 +82,18 @@
         "iconName": "battle_icon_unique_018"
       },
       {
+        "uniqueStatePatternMstId": 14,
+        "name": "不死の魔法少女",
+        "stateFlipName": "不死の魔法少女",
+        "iconName": "battle_icon_unique_019"
+      },
+      {
+        "uniqueStatePatternMstId": 15,
+        "name": "迷宮の魔法少女",
+        "stateFlipName": "迷宮の魔法少女",
+        "iconName": "battle_icon_unique_020"
+      },
+      {
         "uniqueStatePatternMstId": 17,
         "name": "咲き誇る花々",
         "stateFlipName": "咲き誇る花々",

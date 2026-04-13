@@ -544,6 +544,18 @@
         "appealIconObjectId": 0
       },
       {
+        "loginBonusMstId": 46,
+        "title": "コラボ記念ログインボーナス 第1弾",
+        "cycleType": 2,
+        "sortOrder": 1010,
+        "startTime": "2026-04-06T12:00:00+09:00",
+        "endTime": "2026-05-05T11:59:59+09:00",
+        "conditionDescription": "ログインで",
+        "appealDescription": "<color=#ecd19c>コラボガチャで使用できるマギアキーセット</color>を獲得！",
+        "appealIconObjectReceiveType": 5,
+        "appealIconObjectId": 232054
+      },
+      {
         "loginBonusMstId": 48,
         "title": "カムバックログインボーナス",
         "cycleType": 3,
@@ -566,6 +578,18 @@
         "appealDescription": "<color=#ecd19c>マギカストーン最大6,000個</color>など豪華アイテムと交換！",
         "appealIconObjectReceiveType": 5,
         "appealIconObjectId": 201072
+      },
+      {
+        "loginBonusMstId": 51,
+        "title": "エイプリルフールログインボーナス",
+        "cycleType": 2,
+        "sortOrder": 1008,
+        "startTime": "2026-04-01T00:00:00+09:00",
+        "endTime": "2026-04-08T23:59:59+09:00",
+        "conditionDescription": "ログインで",
+        "appealDescription": "<color=#ecd19c>特別なポートレイト</color>を獲得！",
+        "appealIconObjectReceiveType": 4,
+        "appealIconObjectId": 4200070
       }
     ]
   }

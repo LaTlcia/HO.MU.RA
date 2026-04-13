@@ -2026,6 +2026,61 @@
         "cheekParam": 0,
         "defaultOption": "",
         "releaseTime": "2026-03-27T22:00:00+09:00"
+      },
+      {
+        "styleLive2dCostumeMstId": 115000,
+        "name": "八九寺真宵/魔法少女",
+        "resourceName": "404230",
+        "sortOrder": 115000,
+        "isDefault": true,
+        "isExistVoice": true,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-04-06T12:00:00+09:00"
+      },
+      {
+        "styleLive2dCostumeMstId": 115001,
+        "name": "八九寺真宵/私服",
+        "resourceName": "404231",
+        "sortOrder": 115001,
+        "isDefault": false,
+        "isExistVoice": true,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-04-06T12:00:00+09:00"
+      },
+      {
+        "styleLive2dCostumeMstId": 115100,
+        "name": "忍野忍/魔法少女",
+        "resourceName": "404630",
+        "sortOrder": 115100,
+        "isDefault": true,
+        "isExistVoice": true,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-04-06T12:00:00+09:00"
+      },
+      {
+        "styleLive2dCostumeMstId": 115101,
+        "name": "忍野忍/私服",
+        "resourceName": "404631",
+        "sortOrder": 115101,
+        "isDefault": false,
+        "isExistVoice": true,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-04-06T12:00:00+09:00"
+      },
+      {
+        "styleLive2dCostumeMstId": 115200,
+        "name": "まどか先輩/魔法少女",
+        "resourceName": "210230",
+        "sortOrder": 115200,
+        "isDefault": true,
+        "isExistVoice": true,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-04-01T00:00:00+09:00"
       }
     ]
   }

@@ -1,0 +1,50 @@
+{
+  "url": "/api/mst/getCollaborationCopyrightMstList",
+  "status": 200,
+  "payload": {
+    "mstList": [
+      {
+        "collaborationCopyrightMstId": 1,
+        "collaborationMstId": 1,
+        "targetObjectType": 1,
+        "targetObjectId": 0
+      },
+      {
+        "collaborationCopyrightMstId": 2,
+        "collaborationMstId": 1,
+        "targetObjectType": 2,
+        "targetObjectId": 115101
+      },
+      {
+        "collaborationCopyrightMstId": 3,
+        "collaborationMstId": 1,
+        "targetObjectType": 3,
+        "targetObjectId": 115100
+      },
+      {
+        "collaborationCopyrightMstId": 4,
+        "collaborationMstId": 1,
+        "targetObjectType": 3,
+        "targetObjectId": 115101
+      },
+      {
+        "collaborationCopyrightMstId": 5,
+        "collaborationMstId": 1,
+        "targetObjectType": 2,
+        "targetObjectId": 115001
+      },
+      {
+        "collaborationCopyrightMstId": 6,
+        "collaborationMstId": 1,
+        "targetObjectType": 3,
+        "targetObjectId": 115000
+      },
+      {
+        "collaborationCopyrightMstId": 7,
+        "collaborationMstId": 1,
+        "targetObjectType": 3,
+        "targetObjectId": 115001
+      }
+    ]
+  }
+}

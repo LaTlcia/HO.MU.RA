@@ -2236,6 +2236,87 @@
         "face": ""
       },
       {
+        "cameraPoseMstId": 11150011,
+        "type": 1,
+        "objectMstId": 115001,
+        "name": "ポーズ①",
+        "sortOrder": 11150011,
+        "animation": "HomeWait01",
+        "face": "Smile"
+      },
+      {
+        "cameraPoseMstId": 11150012,
+        "type": 1,
+        "objectMstId": 115001,
+        "name": "ポーズ②",
+        "sortOrder": 11150012,
+        "animation": "HomeWait02",
+        "face": "Smiling"
+      },
+      {
+        "cameraPoseMstId": 11150013,
+        "type": 1,
+        "objectMstId": 115001,
+        "name": "ポーズ③",
+        "sortOrder": 11150013,
+        "animation": "HomeUnique01",
+        "face": "Smile"
+      },
+      {
+        "cameraPoseMstId": 11151011,
+        "type": 1,
+        "objectMstId": 115101,
+        "name": "ポーズ①",
+        "sortOrder": 11151011,
+        "animation": "HomeWait01",
+        "face": "Smile"
+      },
+      {
+        "cameraPoseMstId": 11151012,
+        "type": 1,
+        "objectMstId": 115101,
+        "name": "ポーズ②",
+        "sortOrder": 11151012,
+        "animation": "HomeWait02",
+        "face": "Smiling"
+      },
+      {
+        "cameraPoseMstId": 11151013,
+        "type": 1,
+        "objectMstId": 115101,
+        "name": "ポーズ③",
+        "sortOrder": 11151013,
+        "animation": "HomeUnique01",
+        "face": "Smile"
+      },
+      {
+        "cameraPoseMstId": 11152011,
+        "type": 1,
+        "objectMstId": 115201,
+        "name": "ポーズ①",
+        "sortOrder": 11152011,
+        "animation": "HomeWait01",
+        "face": "Smile"
+      },
+      {
+        "cameraPoseMstId": 11152012,
+        "type": 1,
+        "objectMstId": 115201,
+        "name": "ポーズ②",
+        "sortOrder": 11152012,
+        "animation": "HomeWait02",
+        "face": "Expressionless"
+      },
+      {
+        "cameraPoseMstId": 11152013,
+        "type": 1,
+        "objectMstId": 115201,
+        "name": "ポーズ③",
+        "sortOrder": 11152013,
+        "animation": "HomeUnique01",
+        "face": "Furious"
+      },
+      {
         "cameraPoseMstId": 21001001,
         "type": 2,
         "objectMstId": 100100,
@@ -10512,6 +10593,231 @@
         "objectMstId": 114601,
         "name": "ポーズ⑤",
         "sortOrder": 21146015,
+        "animation": "motion_400",
+        "face": "50"
+      },
+      {
+        "cameraPoseMstId": 21150001,
+        "type": 2,
+        "objectMstId": 115000,
+        "name": "ポーズ①",
+        "sortOrder": 21150001,
+        "animation": "motion_000",
+        "face": "10"
+      },
+      {
+        "cameraPoseMstId": 21150002,
+        "type": 2,
+        "objectMstId": 115000,
+        "name": "ポーズ②",
+        "sortOrder": 21150002,
+        "animation": "motion_100",
+        "face": "11"
+      },
+      {
+        "cameraPoseMstId": 21150003,
+        "type": 2,
+        "objectMstId": 115000,
+        "name": "ポーズ③",
+        "sortOrder": 21150003,
+        "animation": "motion_200",
+        "face": "20"
+      },
+      {
+        "cameraPoseMstId": 21150004,
+        "type": 2,
+        "objectMstId": 115000,
+        "name": "ポーズ④",
+        "sortOrder": 21150004,
+        "animation": "motion_300",
+        "face": "30"
+      },
+      {
+        "cameraPoseMstId": 21150005,
+        "type": 2,
+        "objectMstId": 115000,
+        "name": "ポーズ⑤",
+        "sortOrder": 21150005,
+        "animation": "motion_400",
+        "face": "50"
+      },
+      {
+        "cameraPoseMstId": 21150011,
+        "type": 2,
+        "objectMstId": 115001,
+        "name": "ポーズ①",
+        "sortOrder": 21150011,
+        "animation": "motion_000",
+        "face": "10"
+      },
+      {
+        "cameraPoseMstId": 21150012,
+        "type": 2,
+        "objectMstId": 115001,
+        "name": "ポーズ②",
+        "sortOrder": 21150012,
+        "animation": "motion_100",
+        "face": "11"
+      },
+      {
+        "cameraPoseMstId": 21150013,
+        "type": 2,
+        "objectMstId": 115001,
+        "name": "ポーズ③",
+        "sortOrder": 21150013,
+        "animation": "motion_200",
+        "face": "20"
+      },
+      {
+        "cameraPoseMstId": 21150014,
+        "type": 2,
+        "objectMstId": 115001,
+        "name": "ポーズ④",
+        "sortOrder": 21150014,
+        "animation": "motion_300",
+        "face": "30"
+      },
+      {
+        "cameraPoseMstId": 21150015,
+        "type": 2,
+        "objectMstId": 115001,
+        "name": "ポーズ⑤",
+        "sortOrder": 21150015,
+        "animation": "motion_400",
+        "face": "50"
+      },
+      {
+        "cameraPoseMstId": 21151001,
+        "type": 2,
+        "objectMstId": 115100,
+        "name": "ポーズ①",
+        "sortOrder": 21151001,
+        "animation": "motion_000",
+        "face": "10"
+      },
+      {
+        "cameraPoseMstId": 21151002,
+        "type": 2,
+        "objectMstId": 115100,
+        "name": "ポーズ②",
+        "sortOrder": 21151002,
+        "animation": "motion_100",
+        "face": "11"
+      },
+      {
+        "cameraPoseMstId": 21151003,
+        "type": 2,
+        "objectMstId": 115100,
+        "name": "ポーズ③",
+        "sortOrder": 21151003,
+        "animation": "motion_200",
+        "face": "20"
+      },
+      {
+        "cameraPoseMstId": 21151004,
+        "type": 2,
+        "objectMstId": 115100,
+        "name": "ポーズ④",
+        "sortOrder": 21151004,
+        "animation": "motion_300",
+        "face": "30"
+      },
+      {
+        "cameraPoseMstId": 21151005,
+        "type": 2,
+        "objectMstId": 115100,
+        "name": "ポーズ⑤",
+        "sortOrder": 21151005,
+        "animation": "motion_400",
+        "face": "50"
+      },
+      {
+        "cameraPoseMstId": 21151011,
+        "type": 2,
+        "objectMstId": 115101,
+        "name": "ポーズ①",
+        "sortOrder": 21151011,
+        "animation": "motion_000",
+        "face": "10"
+      },
+      {
+        "cameraPoseMstId": 21151012,
+        "type": 2,
+        "objectMstId": 115101,
+        "name": "ポーズ②",
+        "sortOrder": 21151012,
+        "animation": "motion_100",
+        "face": "11"
+      },
+      {
+        "cameraPoseMstId": 21151013,
+        "type": 2,
+        "objectMstId": 115101,
+        "name": "ポーズ③",
+        "sortOrder": 21151013,
+        "animation": "motion_200",
+        "face": "20"
+      },
+      {
+        "cameraPoseMstId": 21151014,
+        "type": 2,
+        "objectMstId": 115101,
+        "name": "ポーズ④",
+        "sortOrder": 21151014,
+        "animation": "motion_300",
+        "face": "30"
+      },
+      {
+        "cameraPoseMstId": 21151015,
+        "type": 2,
+        "objectMstId": 115101,
+        "name": "ポーズ⑤",
+        "sortOrder": 21151015,
+        "animation": "motion_400",
+        "face": "50"
+      },
+      {
+        "cameraPoseMstId": 21152001,
+        "type": 2,
+        "objectMstId": 115200,
+        "name": "ポーズ①",
+        "sortOrder": 21152001,
+        "animation": "motion_000",
+        "face": "10"
+      },
+      {
+        "cameraPoseMstId": 21152002,
+        "type": 2,
+        "objectMstId": 115200,
+        "name": "ポーズ②",
+        "sortOrder": 21152002,
+        "animation": "motion_100",
+        "face": "11"
+      },
+      {
+        "cameraPoseMstId": 21152003,
+        "type": 2,
+        "objectMstId": 115200,
+        "name": "ポーズ③",
+        "sortOrder": 21152003,
+        "animation": "motion_200",
+        "face": "20"
+      },
+      {
+        "cameraPoseMstId": 21152004,
+        "type": 2,
+        "objectMstId": 115200,
+        "name": "ポーズ④",
+        "sortOrder": 21152004,
+        "animation": "motion_300",
+        "face": "30"
+      },
+      {
+        "cameraPoseMstId": 21152005,
+        "type": 2,
+        "objectMstId": 115200,
+        "name": "ポーズ⑤",
+        "sortOrder": 21152005,
         "animation": "motion_400",
         "face": "50"
       }

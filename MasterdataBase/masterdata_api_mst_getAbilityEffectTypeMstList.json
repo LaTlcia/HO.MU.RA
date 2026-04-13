@@ -2765,6 +2765,50 @@
         "displayType": 1
       },
       {
+        "abilityEffectTypeMstId": 256,
+        "name": "与ダメージ上昇",
+        "effectType": "UP_GIV_DMG_ACCUM_RATIO",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "BuffIconL",
+        "stateFlipName": "与ダメージ上昇",
+        "displayType": 1
+      },
+      {
+        "abilityEffectTypeMstId": 257,
+        "name": "与ダメージ減少",
+        "effectType": "DWN_GIV_DMG_ACCUM_RATIO",
+        "category": 3,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "DebuffIconL",
+        "stateFlipName": "与ダメージ減少",
+        "displayType": 1
+      },
+      {
+        "abilityEffectTypeMstId": 258,
+        "name": "累積ユニークバフ解除",
+        "effectType": "RESET_UNIQUE_BUFF",
+        "category": 2,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "",
+        "stateFlipName": "累積ユニークバフ解除",
+        "displayType": 1
+      },
+      {
+        "abilityEffectTypeMstId": 259,
+        "name": "累積ユニークデバフ解除",
+        "effectType": "RESET_UNIQUE_DEBUFF",
+        "category": 3,
+        "targetParams": "",
+        "paramEffectType": 0,
+        "iconName": "",
+        "stateFlipName": "累積ユニークデバフ解除",
+        "displayType": 1
+      },
+      {
         "abilityEffectTypeMstId": 1001,
         "name": "HP・攻撃力・防御力上昇",
         "effectType": "UP_HP_ATK_DEF_RATIO",
