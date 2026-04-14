@@ -1943,6 +1943,20 @@
         "bannerLabelMstId": 2
       },
       {
+        "bannerMstId": 284,
+        "name": "",
+        "imageName": "banner_00270",
+        "destination": "Gacha",
+        "bannerLabelMstId": 17
+      },
+      {
+        "bannerMstId": 285,
+        "name": "",
+        "imageName": "banner_00271",
+        "destination": "StoryEvent",
+        "bannerLabelMstId": 2
+      },
+      {
         "bannerMstId": 286,
         "name": "",
         "imageName": "banner_00272",
@@ -1967,6 +1981,13 @@
         "bannerMstId": 289,
         "name": "",
         "imageName": "banner_00275",
+        "destination": "",
+        "bannerLabelMstId": 5
+      },
+      {
+        "bannerMstId": 290,
+        "name": "",
+        "imageName": "banner_00276",
         "destination": "",
         "bannerLabelMstId": 5
       },

@@ -4142,6 +4142,21 @@
         "styleMstId": 11500101,
         "resourceIconName": "battle_icon_selection_ability_ex",
         "sortOrder": 0
+      },
+      {
+        "selectionAbilityMstId": 7057,
+        "selectionAbilityType": 1,
+        "selectionAbilityEffectId": 141,
+        "rarity": 4,
+        "targetType": 2,
+        "name": "一気に蹴散らそうか",
+        "description": "ブレイクボーナス+5%(敵の数が多いほど効果値上昇、最大25%)。<br>敵がブレイクしたときMP+10%",
+        "abilityEffectType": "",
+        "value1": 1150057,
+        "value2": 0,
+        "styleMstId": 11490101,
+        "resourceIconName": "battle_icon_selection_ability_ex",
+        "sortOrder": 0
       }
     ]
   }

@@ -1129,6 +1129,42 @@
         "advMstId": 0
       },
       {
+        "miniTutorialMstId": 23401,
+        "miniTutorialNumber": 234,
+        "sortOrder": 1,
+        "title": "貸し出しキオクについて",
+        "description": "貸し出しキオクは各ロールに1枠ずつ、ALL枠に1枠の計7枠編成できます。\nおまかせ編成でまとめて編成することもできます。",
+        "resourceName": "rental_01",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 23402,
+        "miniTutorialNumber": 234,
+        "sortOrder": 2,
+        "title": "キオクレンタルについて",
+        "description": "メインクエストなどの一部コンテンツでは、他のプレイヤーからキオクをレンタルできます。\nレンタルしたキオクはパーティの5枠目のキオクと入れ替えで編成されます。\nレンタルしたキオクにはポートレイトやサポートキオクを編成できます。",
+        "resourceName": "rental_02",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 23403,
+        "miniTutorialNumber": 234,
+        "sortOrder": 3,
+        "title": "自動レンタル設定について",
+        "description": "メインクエストでは、自動でキオクをレンタルするように設定することもできます。\n設定は編成メニュー内の「自動レンタル設定」から行えます。\n設定項目には自動レンタルする際に優先的に選択されるキオクの条件を指定できます。",
+        "resourceName": "rental_03",
+        "advMstId": 0
+      },
+      {
+        "miniTutorialMstId": 23404,
+        "miniTutorialNumber": 234,
+        "sortOrder": 4,
+        "title": "フレンドメダルについて",
+        "description": "キオクを貸し出したり、他のプレイヤーからレンタルするとフレンドメダルが獲得できます。\n獲得できるフレンドメダルの量は、相手プレイヤーとの関係性により変動します。",
+        "resourceName": "rental_04",
+        "advMstId": 0
+      },
+      {
         "miniTutorialMstId": 31701,
         "miniTutorialNumber": 317,
         "sortOrder": 1,

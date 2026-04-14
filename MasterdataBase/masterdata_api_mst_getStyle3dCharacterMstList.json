@@ -804,6 +804,16 @@
         "isDefault": true
       },
       {
+        "style3dCharacterMstId": 114901,
+        "type": 1,
+        "name": "斧乃木余接/魔法少女",
+        "resourceName": "chara_114901_battle_unit",
+        "homeMotionResourceName": "chara_11490101_home",
+        "sortOrder": 114901,
+        "isExistVoice": true,
+        "isDefault": true
+      },
+      {
         "style3dCharacterMstId": 115001,
         "type": 1,
         "name": "八九寺真宵/魔法少女",

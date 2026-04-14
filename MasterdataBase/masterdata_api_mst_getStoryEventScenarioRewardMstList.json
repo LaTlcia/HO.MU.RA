@@ -4680,6 +4680,62 @@
         "num": 10
       },
       {
+        "storyEventScenarioRewardMstId": 104801,
+        "storyEventScenarioMstId": 104801,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 10
+      },
+      {
+        "storyEventScenarioRewardMstId": 104802,
+        "storyEventScenarioMstId": 104802,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 10
+      },
+      {
+        "storyEventScenarioRewardMstId": 104803,
+        "storyEventScenarioMstId": 104803,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 10
+      },
+      {
+        "storyEventScenarioRewardMstId": 104804,
+        "storyEventScenarioMstId": 104804,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 10
+      },
+      {
+        "storyEventScenarioRewardMstId": 104805,
+        "storyEventScenarioMstId": 104805,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 10
+      },
+      {
+        "storyEventScenarioRewardMstId": 104806,
+        "storyEventScenarioMstId": 104806,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 10
+      },
+      {
+        "storyEventScenarioRewardMstId": 104807,
+        "storyEventScenarioMstId": 104807,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 10
+      },
+      {
+        "storyEventScenarioRewardMstId": 104808,
+        "storyEventScenarioMstId": 104808,
+        "objectReceiveType": 2,
+        "objectId": 0,
+        "num": 10
+      },
+      {
         "storyEventScenarioRewardMstId": 1100001,
         "storyEventScenarioMstId": 1100001,
         "objectReceiveType": 2,

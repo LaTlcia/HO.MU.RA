@@ -901,6 +901,19 @@
         "resourceName": ""
       },
       {
+        "shopSeriesMstId": 3925,
+        "title": "〈物語〉シリーズコラボ後編イベント交換所",
+        "description": "",
+        "category": 3,
+        "startTime": "2026-04-14T12:00:00+09:00",
+        "endTime": "2026-05-06T11:59:59+09:00",
+        "shopGroupId1": 3925,
+        "shopGroupId2": 3927,
+        "payType": 3,
+        "payId": 201070,
+        "resourceName": ""
+      },
+      {
         "shopSeriesMstId": 3926,
         "title": "思い出の餃子交換所",
         "description": "",

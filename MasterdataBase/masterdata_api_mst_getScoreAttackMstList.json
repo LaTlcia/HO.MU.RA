@@ -244,6 +244,18 @@
         "dioramaBackgroundMstId": 1010115
       },
       {
+        "scoreAttackMstId": 21,
+        "name": "",
+        "startTime": "2026-04-14T12:00:00+09:00",
+        "endTime": "2026-05-05T11:59:59+09:00",
+        "comment": "ボスはターンが経過するほど防御力とスピードが上昇します。<br>ブレイクボーナスが500%以上の場合に被ダメージが上昇するため、ブレイクボーナスの上昇を積極的に狙っていくとよいでしょう。",
+        "reprintNum": 0,
+        "highScoreRewardGroupId": 21,
+        "totalScoreRewardGroupId": 20,
+        "rankingRewardGroupId": 21,
+        "dioramaBackgroundMstId": 810119
+      },
+      {
         "scoreAttackMstId": 22,
         "name": "",
         "startTime": "2026-03-27T22:00:00+09:00",

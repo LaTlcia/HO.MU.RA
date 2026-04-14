@@ -834,6 +834,56 @@
         "releaseTime": "2026-04-06T12:00:00+09:00"
       },
       {
+        "dollhouse2dBackgroundMstId": 20591,
+        "name": "撮影機の魔女/最深層",
+        "seriesId": 2,
+        "resourceName": "bg_adv_99_10097_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 20591,
+        "releaseTime": "2026-04-14T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20601,
+        "name": "みかづき荘/リビング(夜)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_90279_03",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 20601,
+        "releaseTime": "2026-04-14T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20612,
+        "name": "新西区/道(夕)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_90003_02",
+        "lightingType": 1,
+        "isDefault": false,
+        "sortOrder": 20612,
+        "releaseTime": "2026-04-14T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20621,
+        "name": "神浜市立大付属学校/正門(昼)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_90006_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 20621,
+        "releaseTime": "2026-04-14T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 20632,
+        "name": "栄区/街並み(夕)",
+        "seriesId": 2,
+        "resourceName": "bg_adv_01_90054_02",
+        "lightingType": 1,
+        "isDefault": false,
+        "sortOrder": 20632,
+        "releaseTime": "2026-04-14T12:00:00+09:00"
+      },
+      {
         "dollhouse2dBackgroundMstId": 20641,
         "name": "砂場の魔女/最深層",
         "seriesId": 2,
@@ -1772,6 +1822,56 @@
         "isDefault": false,
         "sortOrder": 990261,
         "releaseTime": "2026-04-06T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 990271,
+        "name": "ショッピングモール",
+        "seriesId": 999,
+        "resourceName": "bg_adv_99_90260_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 990271,
+        "releaseTime": "2026-04-14T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 990281,
+        "name": "ビルの屋上(昼)",
+        "seriesId": 999,
+        "resourceName": "bg_adv_01_90312_01",
+        "lightingType": 0,
+        "isDefault": false,
+        "sortOrder": 990281,
+        "releaseTime": "2026-04-14T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 990293,
+        "name": "廃墟内(夜)",
+        "seriesId": 999,
+        "resourceName": "bg_adv_99_90274_03",
+        "lightingType": 2,
+        "isDefault": false,
+        "sortOrder": 990293,
+        "releaseTime": "2026-04-14T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 990302,
+        "name": "霊園(夕)",
+        "seriesId": 999,
+        "resourceName": "bg_adv_01_90319_02",
+        "lightingType": 1,
+        "isDefault": false,
+        "sortOrder": 990302,
+        "releaseTime": "2026-04-14T12:00:00+09:00"
+      },
+      {
+        "dollhouse2dBackgroundMstId": 990313,
+        "name": "建設中のビル(夜)",
+        "seriesId": 999,
+        "resourceName": "bg_adv_01_90202_02",
+        "lightingType": 2,
+        "isDefault": false,
+        "sortOrder": 990313,
+        "releaseTime": "2026-04-14T12:00:00+09:00"
       },
       {
         "dollhouse2dBackgroundMstId": 990321,

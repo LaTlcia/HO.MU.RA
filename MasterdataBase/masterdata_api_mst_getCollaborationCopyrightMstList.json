@@ -44,6 +44,24 @@
         "collaborationMstId": 1,
         "targetObjectType": 3,
         "targetObjectId": 115001
+      },
+      {
+        "collaborationCopyrightMstId": 8,
+        "collaborationMstId": 1,
+        "targetObjectType": 2,
+        "targetObjectId": 114901
+      },
+      {
+        "collaborationCopyrightMstId": 9,
+        "collaborationMstId": 1,
+        "targetObjectType": 3,
+        "targetObjectId": 114900
+      },
+      {
+        "collaborationCopyrightMstId": 10,
+        "collaborationMstId": 1,
+        "targetObjectType": 3,
+        "targetObjectId": 114901
       }
     ]
   }

@@ -924,6 +924,26 @@
         "resourceName": ""
       },
       {
+        "storyEventMstId": 48,
+        "name": "〈物語〉シリーズコラボ後編 ～ラビリンス・ストーリー～",
+        "storyQuestGroupId": 1069,
+        "scoreAttackMstId": 21,
+        "maxPlayCountPerDay": 5,
+        "eventItemId": 201070,
+        "shopSeriesMstId": 3925,
+        "bonusStyleIds": "0",
+        "isEndPlayable": false,
+        "endDisplayTime": "2026-05-05T11:59:59+09:00",
+        "sortOrder": 9952,
+        "eventStartDirection": 6,
+        "topImageName": "46",
+        "bannerImageName": "banner_00271",
+        "bossCameraAssetName": "0",
+        "description": "不可思議な世界に閉じ込められた、いろはたち\n抜け出す方法を探して、忍・真宵・余接と協力することに\nしかし、脱出を阻もうとする存在が牙を剥いて…？\n物語を越えて築かれた絆が今、真実を掴む――",
+        "soundMstId": 3000999,
+        "resourceName": ""
+      },
+      {
         "storyEventMstId": 10000,
         "name": "焦らずゆっくり未来へ ～魔法少女に夢を見て～",
         "storyQuestGroupId": 1004,

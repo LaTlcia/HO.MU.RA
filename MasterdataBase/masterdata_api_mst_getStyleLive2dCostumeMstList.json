@@ -2028,6 +2028,28 @@
         "releaseTime": "2026-03-27T22:00:00+09:00"
       },
       {
+        "styleLive2dCostumeMstId": 114900,
+        "name": "斧乃木余接/魔法少女",
+        "resourceName": "404730",
+        "sortOrder": 114900,
+        "isDefault": true,
+        "isExistVoice": true,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-04-14T12:00:00+09:00"
+      },
+      {
+        "styleLive2dCostumeMstId": 114901,
+        "name": "斧乃木余接/私服",
+        "resourceName": "404731",
+        "sortOrder": 114901,
+        "isDefault": false,
+        "isExistVoice": true,
+        "cheekParam": 0,
+        "defaultOption": "",
+        "releaseTime": "2026-04-14T12:00:00+09:00"
+      },
+      {
         "styleLive2dCostumeMstId": 115000,
         "name": "八九寺真宵/魔法少女",
         "resourceName": "404230",

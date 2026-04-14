@@ -8604,6 +8604,126 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 413901,
+        "skillUniqueId": 4139,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "木属性の与えるダメージ+7.5%<br>【ブレイカーに装備時に追加】<br>スピード+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 413902,
+        "skillUniqueId": 4139,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "木属性の与えるダメージ+8.5%<br>【ブレイカーに装備時に追加】<br>スピード+6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 413903,
+        "skillUniqueId": 4139,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "木属性の与えるダメージ+9.5%<br>【ブレイカーに装備時に追加】<br>スピード+7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 413904,
+        "skillUniqueId": 4139,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "木属性の与えるダメージ+10.5%<br>【ブレイカーに装備時に追加】<br>スピード+8%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 413905,
+        "skillUniqueId": 4139,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "木属性の与えるダメージ+11.5%<br>【ブレイカーに装備時に追加】<br>スピード+9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 413906,
+        "skillUniqueId": 4139,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "木属性の与えるダメージ+12.5%<br>【ブレイカーに装備時に追加】<br>スピード+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 414001,
+        "skillUniqueId": 4140,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "攻撃力+5%、防御力+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 414002,
+        "skillUniqueId": 4140,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "攻撃力+5.5%、防御力+5.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 414003,
+        "skillUniqueId": 4140,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "攻撃力+6%、防御力+6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 414004,
+        "skillUniqueId": 4140,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "攻撃力+6.5%、防御力+6.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 414005,
+        "skillUniqueId": 4140,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "攻撃力+7%、防御力+7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 414006,
+        "skillUniqueId": 4140,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "攻撃力+7.5%、防御力+7.5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 414101,
         "skillUniqueId": 4141,
         "level": 1,
@@ -8719,6 +8839,66 @@
         "level": 6,
         "name": "【アビリティ】",
         "description": "防御力+10%<br>【八九寺真宵に装備時に追加】<br>スピード+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 414301,
+        "skillUniqueId": 4143,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "木属性の与えるダメージ+5%<br>【斧乃木余接に装備時に追加】<br>MP回復効率+1%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 414302,
+        "skillUniqueId": 4143,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "木属性の与えるダメージ+6%<br>【斧乃木余接に装備時に追加】<br>MP回復効率+1.8%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 414303,
+        "skillUniqueId": 4143,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "木属性の与えるダメージ+7%<br>【斧乃木余接に装備時に追加】<br>MP回復効率+2.6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 414304,
+        "skillUniqueId": 4143,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "木属性の与えるダメージ+8%<br>【斧乃木余接に装備時に追加】<br>MP回復効率+3.4%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 414305,
+        "skillUniqueId": 4143,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "木属性の与えるダメージ+9%<br>【斧乃木余接に装備時に追加】<br>MP回復効率+4.2%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 414306,
+        "skillUniqueId": 4143,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "木属性の与えるダメージ+10%<br>【斧乃木余接に装備時に追加】<br>MP回復効率+5%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -9199,6 +9379,186 @@
         "level": 6,
         "name": "【アビリティ】",
         "description": "状態異常命中率+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415201,
+        "skillUniqueId": 4152,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "デバフ命中率+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415202,
+        "skillUniqueId": 4152,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "デバフ命中率+6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415203,
+        "skillUniqueId": 4152,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "デバフ命中率+7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415204,
+        "skillUniqueId": 4152,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "デバフ命中率+8%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415205,
+        "skillUniqueId": 4152,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "デバフ命中率+9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415206,
+        "skillUniqueId": 4152,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "デバフ命中率+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415301,
+        "skillUniqueId": 4153,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415302,
+        "skillUniqueId": 4153,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415303,
+        "skillUniqueId": 4153,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415304,
+        "skillUniqueId": 4153,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+8%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415305,
+        "skillUniqueId": 4153,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415306,
+        "skillUniqueId": 4153,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "戦闘スキルで与えるダメージ+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415401,
+        "skillUniqueId": 4154,
+        "level": 1,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+5%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415402,
+        "skillUniqueId": 4154,
+        "level": 2,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+6%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415403,
+        "skillUniqueId": 4154,
+        "level": 3,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+7%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415404,
+        "skillUniqueId": 4154,
+        "level": 4,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+8%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415405,
+        "skillUniqueId": 4154,
+        "level": 5,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+9%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 415406,
+        "skillUniqueId": 4154,
+        "level": 6,
+        "name": "【アビリティ】",
+        "description": "必殺技で与えるダメージ+10%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -17599,6 +17959,16 @@
         "level": 1,
         "name": "その攻撃、迷子にさせていただきます！",
         "description": "最大HP+10%、狙われる確率上昇。<br>必殺技を発動したときスピード+10%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 1150057,
+        "skillUniqueId": 1150057,
+        "level": 1,
+        "name": "一気に蹴散らそうか",
+        "description": "ブレイクボーナス+5%(敵の数が多いほど効果値上昇、最大25%)。<br>敵がブレイクしたときMP+10%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -27104,6 +27474,106 @@
         "skillButtonIcon": "battle_icon_passive_buff"
       },
       {
+        "passiveSkillMstId": 1505801,
+        "skillUniqueId": 15058,
+        "level": 1,
+        "name": "デュアルヘイスト",
+        "description": "バトル開始時魔力0/10、ブレイクゲージ削減量上昇、ブレイク特効+45%。<br><br>【魔力が10になったとき】<br>追加ターンを獲得する。<br>自身が通常攻撃、戦闘スキルで攻撃したとき魔力-10。<br><br>自身が敵に攻撃したときスピード+3%(1ターン/敵の数が多いほど効果値上昇、最大15%)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1505802,
+        "skillUniqueId": 15058,
+        "level": 2,
+        "name": "デュアルヘイスト",
+        "description": "バトル開始時魔力0/10、ブレイクゲージ削減量上昇、ブレイク特効+54%。<br><br>【魔力が10になったとき】<br>追加ターンを獲得する。<br>自身が通常攻撃、戦闘スキルで攻撃したとき魔力-10。<br><br>自身が敵に攻撃したときスピード+3%(1ターン/敵の数が多いほど効果値上昇、最大15%)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1505803,
+        "skillUniqueId": 15058,
+        "level": 3,
+        "name": "デュアルヘイスト",
+        "description": "バトル開始時魔力0/10、ブレイクゲージ削減量上昇、ブレイク特効+67%。<br><br>【魔力が10になったとき】<br>追加ターンを獲得する。<br>自身が通常攻撃、戦闘スキルで攻撃したとき魔力-10。<br><br>自身が敵に攻撃したときスピード+3%(1ターン/敵の数が多いほど効果値上昇、最大15%)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1505804,
+        "skillUniqueId": 15058,
+        "level": 4,
+        "name": "デュアルヘイスト",
+        "description": "バトル開始時魔力0/10、ブレイクゲージ削減量上昇、ブレイク特効+80%。<br><br>【魔力が10になったとき】<br>追加ターンを獲得する。<br>自身が通常攻撃、戦闘スキルで攻撃したとき魔力-10。<br><br>自身が敵に攻撃したときスピード+3%(1ターン/敵の数が多いほど効果値上昇、最大15%)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1505805,
+        "skillUniqueId": 15058,
+        "level": 5,
+        "name": "デュアルヘイスト",
+        "description": "バトル開始時魔力0/10、ブレイクゲージ削減量上昇、ブレイク特効+95%。<br><br>【魔力が10になったとき】<br>追加ターンを獲得する。<br>自身が通常攻撃、戦闘スキルで攻撃したとき魔力-10。<br><br>自身が敵に攻撃したときスピード+3%(1ターン/敵の数が多いほど効果値上昇、最大15%)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1505806,
+        "skillUniqueId": 15058,
+        "level": 6,
+        "name": "デュアルヘイスト",
+        "description": "バトル開始時魔力0/10、ブレイクゲージ削減量上昇、ブレイク特効+110%。<br><br>【魔力が10になったとき】<br>追加ターンを獲得する。<br>自身が通常攻撃、戦闘スキルで攻撃したとき魔力-10。<br><br>自身が敵に攻撃したときスピード+3%(1ターン/敵の数が多いほど効果値上昇、最大15%)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1505807,
+        "skillUniqueId": 15058,
+        "level": 7,
+        "name": "デュアルヘイスト",
+        "description": "バトル開始時魔力0/10、ブレイクゲージ削減量上昇、ブレイク特効+126%。<br><br>【魔力が10になったとき】<br>追加ターンを獲得する。<br>自身が通常攻撃、戦闘スキルで攻撃したとき魔力-10。<br><br>自身が敵に攻撃したときスピード+3%(1ターン/敵の数が多いほど効果値上昇、最大15%)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1505808,
+        "skillUniqueId": 15058,
+        "level": 8,
+        "name": "デュアルヘイスト",
+        "description": "バトル開始時魔力0/10、ブレイクゲージ削減量上昇、ブレイク特効+143%。<br><br>【魔力が10になったとき】<br>追加ターンを獲得する。<br>自身が通常攻撃、戦闘スキルで攻撃したとき魔力-10。<br><br>自身が敵に攻撃したときスピード+3%(1ターン/敵の数が多いほど効果値上昇、最大15%)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1505809,
+        "skillUniqueId": 15058,
+        "level": 9,
+        "name": "デュアルヘイスト",
+        "description": "バトル開始時魔力0/10、ブレイクゲージ削減量上昇、ブレイク特効+160%。<br><br>【魔力が10になったとき】<br>追加ターンを獲得する。<br>自身が通常攻撃、戦闘スキルで攻撃したとき魔力-10。<br><br>自身が敵に攻撃したときスピード+3%(1ターン/敵の数が多いほど効果値上昇、最大15%)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
+        "passiveSkillMstId": 1505810,
+        "skillUniqueId": 15058,
+        "level": 10,
+        "name": "デュアルヘイスト",
+        "description": "バトル開始時魔力0/10、ブレイクゲージ削減量上昇、ブレイク特効+180%。<br><br>【魔力が10になったとき】<br>追加ターンを獲得する。<br>自身が通常攻撃、戦闘スキルで攻撃したとき魔力-10。<br><br>自身が敵に攻撃したときスピード+3%(1ターン/敵の数が多いほど効果値上昇、最大15%)",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": "battle_icon_passive_buff"
+      },
+      {
         "passiveSkillMstId": 1600000,
         "skillUniqueId": 1600000,
         "level": 1,
@@ -27824,6 +28294,16 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 2001063,
+        "skillUniqueId": 2001063,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "非常にHPが高いため撃破が困難<br>自身がブレイクするたび、攻撃力が減少する<br><br>敵が使用するバフ効果量を減少させる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 2002001,
         "skillUniqueId": 2002001,
         "level": 1,
@@ -28529,6 +29009,26 @@
         "level": 1,
         "name": "アビリティⅠ",
         "description": "非常にHPが高いため撃破が困難<br>弱点属性ではない敵から攻撃を受けた場合、1ターンの間、自身の被ダメージを軽減する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2005038,
+        "skillUniqueId": 2005038,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "ブレイク中にスピードが大幅に上昇する<br>味方がブレイクするたび、受けるダメージが上昇する<br>自身がブレイクするたび、攻撃力とブレイク中のスピードが減少する<br><br>ダメージを受けるたび自身の魔力+1<br>魔力が8になったとき、反撃を発動する<br><br>【反撃】<br>敵全体に弱威力の闇属性ダメージを与える<br>ターンが経過するたび、威力が上昇する<br><br>対象が弱点属性ではない場合、MP回復効率を永続的に減少させる<br>魔力-8",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 2005039,
+        "skillUniqueId": 2005039,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "受けるダメージを大幅に軽減し、攻撃力を大幅に上昇する<br>ブレイク中にスピードが大幅に上昇する<br>味方全体のブレイク総数が増えるたび、ダメージ軽減効果が減少する<br>自身のブレイク回数が増えるたび、攻撃力とブレイク中のスピード上昇効果が減少する",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -30744,6 +31244,16 @@
         "skillButtonIcon": ""
       },
       {
+        "passiveSkillMstId": 5001152,
+        "skillUniqueId": 5001152,
+        "level": 1,
+        "name": "アビリティⅣ",
+        "description": "2回行動する<br>自身のブレイクボーナスが500%以上の場合、被ダメージが上昇する<br>ターンが経過するほど、防御力とスピードが上昇する<br><br>弱点属性ではない敵が行動した際、2ターンの間、弱点属性ではない敵のMP回復効率を減少させる",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
         "passiveSkillMstId": 5001153,
         "skillUniqueId": 5001153,
         "level": 1,
@@ -31169,6 +31679,16 @@
         "level": 1,
         "name": "アビリティⅥ",
         "description": "持続ダメージを受けた次のターンの行動が変化する",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 7001018,
+        "skillUniqueId": 7001018,
+        "level": 1,
+        "name": "アビリティⅠ",
+        "description": "ダメージを受けるたび自身の魔力+1<br>魔力が8になったとき、反撃を発動する<br><br>【反撃】<br>敵全体に弱威力の闇属性ダメージを与える<br>ターンが経過するたび、威力が上昇する<br><br>対象にバリアが付与されていない場合、行動順を減少させる<br>魔力-8",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -32679,6 +33199,16 @@
         "level": 1,
         "name": "限界突破効果",
         "description": "バリアが付与されている味方の受けるダメージ-10%。<br> 戦闘スキルを発動したとき魔力+1、行動順+10%",
+        "conditionElement": 0,
+        "conditionRole": 0,
+        "skillButtonIcon": ""
+      },
+      {
+        "passiveSkillMstId": 8507501,
+        "skillUniqueId": 85075,
+        "level": 1,
+        "name": "限界突破効果",
+        "description": "バトル開始時に魔力+5。<br>人形の魔法少女の効果ターン+1。<br>敵がブレイクしたとき行動順+10%",
         "conditionElement": 0,
         "conditionRole": 0,
         "skillButtonIcon": ""
@@ -42181,6 +42711,106 @@
         "description": "【ディフェンダーに装備時】<br>防御力+10%。<br>バリアが付与されているとき狙われる確率上昇",
         "conditionElement": 0,
         "conditionRole": 6,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9505701,
+        "skillUniqueId": 95057,
+        "level": 1,
+        "name": "ヘイストテクニカル",
+        "description": "【ブレイカーに装備時】<br>ブレイクゲージ削減量上昇、ブレイクボーナス+10%。<br>必殺技を発動したとき自身のスピード+15%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9505702,
+        "skillUniqueId": 95057,
+        "level": 2,
+        "name": "ヘイストテクニカル",
+        "description": "【ブレイカーに装備時】<br>ブレイクゲージ削減量上昇、ブレイクボーナス+11.1%。<br>必殺技を発動したとき自身のスピード+16%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9505703,
+        "skillUniqueId": 95057,
+        "level": 3,
+        "name": "ヘイストテクニカル",
+        "description": "【ブレイカーに装備時】<br>ブレイクゲージ削減量上昇、ブレイクボーナス+12.2%。<br>必殺技を発動したとき自身のスピード+17%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9505704,
+        "skillUniqueId": 95057,
+        "level": 4,
+        "name": "ヘイストテクニカル",
+        "description": "【ブレイカーに装備時】<br>ブレイクゲージ削減量上昇、ブレイクボーナス+13.3%。<br>必殺技を発動したとき自身のスピード+18%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9505705,
+        "skillUniqueId": 95057,
+        "level": 5,
+        "name": "ヘイストテクニカル",
+        "description": "【ブレイカーに装備時】<br>ブレイクゲージ削減量上昇、ブレイクボーナス+14.4%。<br>必殺技を発動したとき自身のスピード+19%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9505706,
+        "skillUniqueId": 95057,
+        "level": 6,
+        "name": "ヘイストテクニカル",
+        "description": "【ブレイカーに装備時】<br>ブレイクゲージ削減量上昇、ブレイクボーナス+15.6%。<br>必殺技を発動したとき自身のスピード+20%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9505707,
+        "skillUniqueId": 95057,
+        "level": 7,
+        "name": "ヘイストテクニカル",
+        "description": "【ブレイカーに装備時】<br>ブレイクゲージ削減量上昇、ブレイクボーナス+16.7%。<br>必殺技を発動したとき自身のスピード+21%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9505708,
+        "skillUniqueId": 95057,
+        "level": 8,
+        "name": "ヘイストテクニカル",
+        "description": "【ブレイカーに装備時】<br>ブレイクゲージ削減量上昇、ブレイクボーナス+17.8%。<br>必殺技を発動したとき自身のスピード+22%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9505709,
+        "skillUniqueId": 95057,
+        "level": 9,
+        "name": "ヘイストテクニカル",
+        "description": "【ブレイカーに装備時】<br>ブレイクゲージ削減量上昇、ブレイクボーナス+18.9%。<br>必殺技を発動したとき自身のスピード+23%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 2,
+        "skillButtonIcon": "battle_icon_supportpassive_buff"
+      },
+      {
+        "passiveSkillMstId": 9505710,
+        "skillUniqueId": 95057,
+        "level": 10,
+        "name": "ヘイストテクニカル",
+        "description": "【ブレイカーに装備時】<br>ブレイクゲージ削減量上昇、ブレイクボーナス+20%。<br>必殺技を発動したとき自身のスピード+25%(2ターン)",
+        "conditionElement": 0,
+        "conditionRole": 2,
         "skillButtonIcon": "battle_icon_supportpassive_buff"
       }
     ]

@@ -508,6 +508,30 @@
         "num": 1
       },
       {
+        "scoreAttackRankingRewardMstId": 64,
+        "groupId": 21,
+        "ranking": 10,
+        "objectReceiveType": 5,
+        "objectId": 370081,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 65,
+        "groupId": 21,
+        "ranking": 50,
+        "objectReceiveType": 5,
+        "objectId": 370082,
+        "num": 1
+      },
+      {
+        "scoreAttackRankingRewardMstId": 66,
+        "groupId": 21,
+        "ranking": 100,
+        "objectReceiveType": 5,
+        "objectId": 370083,
+        "num": 1
+      },
+      {
         "scoreAttackRankingRewardMstId": 67,
         "groupId": 22,
         "ranking": 10,

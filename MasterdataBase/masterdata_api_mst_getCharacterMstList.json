@@ -452,6 +452,14 @@
         "enCapsName": "FUKA HIGURE"
       },
       {
+        "characterMstId": 1149,
+        "name": "斧乃木余接",
+        "awakeItemMstId": 0,
+        "iconResourceName": "1149",
+        "colorCode": "#87C8B0",
+        "enCapsName": "YOTSUGI ONONOKI"
+      },
+      {
         "characterMstId": 1150,
         "name": "八九寺真宵",
         "awakeItemMstId": 0,

@@ -844,6 +844,21 @@
         "sortOrder": 0
       },
       {
+        "characterMstId": 1149,
+        "description": "人形の魔法少女。もしも〈物語〉シリーズのヒロインたちが<br>魔法少女になったら…という「if」の姿。<br>魔女を倒すことこそが使命だと思っている。<br>世界やそれぞれの愛する人を災難に巻き込まないために戦う。<br>表情があまり変わらないのが特徴。<br><br>(C)N/K・A・S",
+        "characterVoice": "早見沙織",
+        "schoolName": "―",
+        "age": "0",
+        "weapon": "0",
+        "gift": "0",
+        "weakPoint": "0",
+        "seriesId": 90,
+        "regionId": 5,
+        "teamId1": 0,
+        "teamId2": 0,
+        "sortOrder": 0
+      },
+      {
         "characterMstId": 1150,
         "description": "迷宮の魔法少女。もしも〈物語〉シリーズのヒロインたちが<br>魔法少女になったら…という「if」の姿。<br>防御に秀で、敵の攻撃は道に迷ったように彼女を避ける。<br>なぜか、どうしても母親の家に辿り着けないでいる。<br>願いごとは「家に帰りたい」。<br><br>(C)N/K・A・S",
         "characterVoice": "加藤英美里",

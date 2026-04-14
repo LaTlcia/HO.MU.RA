@@ -84,6 +84,14 @@
         "missionCampaignGroupMstId": 2
       },
       {
+        "missionTitleMstId": 5089,
+        "prevMissionTitleMstId": 0,
+        "title": "コラボ記念ミッション 第2弾",
+        "priority": 26,
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 2
+      },
+      {
         "missionTitleMstId": 5090,
         "prevMissionTitleMstId": 0,
         "title": "マギアレコード Crescent Memoria 第３弾イベントミッション",
@@ -116,6 +124,22 @@
         "missionCampaignGroupMstId": 0
       },
       {
+        "missionTitleMstId": 5094,
+        "prevMissionTitleMstId": 0,
+        "title": "〈物語〉シリーズコラボ後編 ～ラビリンス・ストーリー～イベントミッション",
+        "priority": 59,
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
+      },
+      {
+        "missionTitleMstId": 5095,
+        "prevMissionTitleMstId": 0,
+        "title": "〈物語〉シリーズコラボ後編 ～ラビリンス・ストーリー～イベントメモリアルメダル獲得ミッション",
+        "priority": 60,
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
+      },
+      {
         "missionTitleMstId": 5096,
         "prevMissionTitleMstId": 0,
         "title": "カムバックミッション",
@@ -136,6 +160,14 @@
         "prevMissionTitleMstId": 0,
         "title": "1st Anniversaryミッション 第1弾",
         "priority": 20,
+        "featuredRewardResourceName": "",
+        "missionCampaignGroupMstId": 0
+      },
+      {
+        "missionTitleMstId": 5099,
+        "prevMissionTitleMstId": 0,
+        "title": "1st Anniversaryミッション 第2弾",
+        "priority": 21,
         "featuredRewardResourceName": "",
         "missionCampaignGroupMstId": 0
       }

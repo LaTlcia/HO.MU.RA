@@ -556,6 +556,18 @@
         "appealIconObjectId": 232054
       },
       {
+        "loginBonusMstId": 47,
+        "title": "コラボ記念ログインボーナス 第2弾",
+        "cycleType": 2,
+        "sortOrder": 1015,
+        "startTime": "2026-04-14T12:00:00+09:00",
+        "endTime": "2026-05-05T11:59:59+09:00",
+        "conditionDescription": "ログインで",
+        "appealDescription": "<color=#ecd19c>コラボガチャで使用できるマギアキーセット</color>を獲得！",
+        "appealIconObjectReceiveType": 5,
+        "appealIconObjectId": 232054
+      },
+      {
         "loginBonusMstId": 48,
         "title": "カムバックログインボーナス",
         "cycleType": 3,

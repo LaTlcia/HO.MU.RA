@@ -328,6 +328,12 @@
         "value1": 11460101
       },
       {
+        "userTitleMstId": 11490101,
+        "title": "例外のほうが多い規則",
+        "titleType": 1,
+        "value1": 11490101
+      },
+      {
         "userTitleMstId": 11500101,
         "title": "螺旋帰道",
         "titleType": 1,
@@ -1316,6 +1322,12 @@
         "title": "〈物語〉シリーズコラボ前編 ～ラビリンス・ストーリー～クリア",
         "titleType": 2,
         "value1": 4200073
+      },
+      {
+        "userTitleMstId": 60000039,
+        "title": "〈物語〉シリーズコラボ後編 ～ラビリンス・ストーリー～クリア",
+        "titleType": 2,
+        "value1": 4200075
       },
       {
         "userTitleMstId": 70000001,

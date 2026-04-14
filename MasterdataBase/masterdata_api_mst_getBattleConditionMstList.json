@@ -13396,6 +13396,30 @@
         "compareValue": "15,10"
       },
       {
+        "battleConditionMstId": 1682,
+        "description": "斧乃木余接専用バフが付与されているとき",
+        "compareTarget": 1,
+        "compareContent": 26,
+        "compareOperator": 7,
+        "compareValue": "16"
+      },
+      {
+        "battleConditionMstId": 1683,
+        "description": "ブレイク倍率が最大のとき",
+        "compareTarget": 8,
+        "compareContent": 22,
+        "compareOperator": 1,
+        "compareValue": "TRUE"
+      },
+      {
+        "battleConditionMstId": 1684,
+        "description": "ブレイク倍率が最大ではないとき",
+        "compareTarget": 8,
+        "compareContent": 22,
+        "compareOperator": 2,
+        "compareValue": "TRUE"
+      },
+      {
         "battleConditionMstId": 1685,
         "description": "攻撃された時",
         "compareTarget": 3,
@@ -13434,6 +13458,30 @@
         "compareContent": 14,
         "compareOperator": 1,
         "compareValue": "1150"
+      },
+      {
+        "battleConditionMstId": 1690,
+        "description": "自分のキャラクターが「斧乃木余接」",
+        "compareTarget": 1,
+        "compareContent": 14,
+        "compareOperator": 1,
+        "compareValue": "1149"
+      },
+      {
+        "battleConditionMstId": 1691,
+        "description": "自分が3ターンごとに（ターン6から）",
+        "compareTarget": 1,
+        "compareContent": 13,
+        "compareOperator": 1,
+        "compareValue": "3,6"
+      },
+      {
+        "battleConditionMstId": 1692,
+        "description": "トークンが10未満",
+        "compareTarget": 1,
+        "compareContent": 17,
+        "compareOperator": 5,
+        "compareValue": "10"
       },
       {
         "battleConditionMstId": 1693,
@@ -13890,6 +13938,342 @@
         "compareContent": 314,
         "compareOperator": 4,
         "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 1776,
+        "description": "バトル中に味方がブレイクした総回数が0回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "0"
+      },
+      {
+        "battleConditionMstId": 1777,
+        "description": "バトル中に味方がブレイクした総回数が1回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 1778,
+        "description": "バトル中に味方がブレイクした総回数が2回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "2"
+      },
+      {
+        "battleConditionMstId": 1779,
+        "description": "バトル中に味方がブレイクした総回数が3回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 1780,
+        "description": "バトル中に味方がブレイクした総回数が4回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "4"
+      },
+      {
+        "battleConditionMstId": 1781,
+        "description": "バトル中に味方がブレイクした総回数が5回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "5"
+      },
+      {
+        "battleConditionMstId": 1782,
+        "description": "バトル中に味方がブレイクした総回数が6回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "6"
+      },
+      {
+        "battleConditionMstId": 1783,
+        "description": "バトル中に味方がブレイクした総回数が7回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "7"
+      },
+      {
+        "battleConditionMstId": 1784,
+        "description": "バトル中に味方がブレイクした総回数が8回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "8"
+      },
+      {
+        "battleConditionMstId": 1785,
+        "description": "バトル中に味方がブレイクした総回数が9回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "9"
+      },
+      {
+        "battleConditionMstId": 1786,
+        "description": "バトル中に味方がブレイクした総回数が10回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "10"
+      },
+      {
+        "battleConditionMstId": 1787,
+        "description": "バトル中に味方がブレイクした総回数が11回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "11"
+      },
+      {
+        "battleConditionMstId": 1788,
+        "description": "バトル中に味方がブレイクした総回数が12回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "12"
+      },
+      {
+        "battleConditionMstId": 1789,
+        "description": "バトル中に味方がブレイクした総回数が13回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "13"
+      },
+      {
+        "battleConditionMstId": 1790,
+        "description": "バトル中に味方がブレイクした総回数が14回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "14"
+      },
+      {
+        "battleConditionMstId": 1791,
+        "description": "バトル中に味方がブレイクした総回数が15回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "15"
+      },
+      {
+        "battleConditionMstId": 1792,
+        "description": "バトル中に味方がブレイクした総回数が16回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "16"
+      },
+      {
+        "battleConditionMstId": 1793,
+        "description": "バトル中に味方がブレイクした総回数が17回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "17"
+      },
+      {
+        "battleConditionMstId": 1794,
+        "description": "バトル中に味方がブレイクした総回数が18回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "18"
+      },
+      {
+        "battleConditionMstId": 1795,
+        "description": "バトル中に味方がブレイクした総回数が19回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "19"
+      },
+      {
+        "battleConditionMstId": 1796,
+        "description": "バトル中に味方がブレイクした総回数が20回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "20"
+      },
+      {
+        "battleConditionMstId": 1797,
+        "description": "バトル中に味方がブレイクした総回数が21回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "21"
+      },
+      {
+        "battleConditionMstId": 1798,
+        "description": "バトル中に味方がブレイクした総回数が22回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "22"
+      },
+      {
+        "battleConditionMstId": 1799,
+        "description": "バトル中に味方がブレイクした総回数が23回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "23"
+      },
+      {
+        "battleConditionMstId": 1800,
+        "description": "バトル中に味方がブレイクした総回数が24回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "24"
+      },
+      {
+        "battleConditionMstId": 1801,
+        "description": "バトル中に味方がブレイクした総回数が25回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "25"
+      },
+      {
+        "battleConditionMstId": 1802,
+        "description": "バトル中に味方がブレイクした総回数が26回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "26"
+      },
+      {
+        "battleConditionMstId": 1803,
+        "description": "バトル中に味方がブレイクした総回数が27回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "27"
+      },
+      {
+        "battleConditionMstId": 1804,
+        "description": "バトル中に味方がブレイクした総回数が28回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "28"
+      },
+      {
+        "battleConditionMstId": 1805,
+        "description": "バトル中に味方がブレイクした総回数が29回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "29"
+      },
+      {
+        "battleConditionMstId": 1806,
+        "description": "バトル中に味方がブレイクした総回数が30回のとき",
+        "compareTarget": 5,
+        "compareContent": 306,
+        "compareOperator": 1,
+        "compareValue": "30"
+      },
+      {
+        "battleConditionMstId": 1807,
+        "description": "自身のブレイク回数が0回のとき",
+        "compareTarget": 1,
+        "compareContent": 30,
+        "compareOperator": 1,
+        "compareValue": "0"
+      },
+      {
+        "battleConditionMstId": 1808,
+        "description": "自身のブレイク回数が1回のとき",
+        "compareTarget": 1,
+        "compareContent": 30,
+        "compareOperator": 1,
+        "compareValue": "1"
+      },
+      {
+        "battleConditionMstId": 1809,
+        "description": "自身のブレイク回数が2回のとき",
+        "compareTarget": 1,
+        "compareContent": 30,
+        "compareOperator": 1,
+        "compareValue": "2"
+      },
+      {
+        "battleConditionMstId": 1810,
+        "description": "自身のブレイク回数が3回のとき",
+        "compareTarget": 1,
+        "compareContent": 30,
+        "compareOperator": 1,
+        "compareValue": "3"
+      },
+      {
+        "battleConditionMstId": 1811,
+        "description": "自身のブレイク回数が4回のとき",
+        "compareTarget": 1,
+        "compareContent": 30,
+        "compareOperator": 1,
+        "compareValue": "4"
+      },
+      {
+        "battleConditionMstId": 1812,
+        "description": "自身のブレイク回数が5回のとき",
+        "compareTarget": 1,
+        "compareContent": 30,
+        "compareOperator": 1,
+        "compareValue": "5"
+      },
+      {
+        "battleConditionMstId": 1813,
+        "description": "自身のブレイク回数が6回のとき",
+        "compareTarget": 1,
+        "compareContent": 30,
+        "compareOperator": 1,
+        "compareValue": "6"
+      },
+      {
+        "battleConditionMstId": 1814,
+        "description": "自身のブレイク回数が7回のとき",
+        "compareTarget": 1,
+        "compareContent": 30,
+        "compareOperator": 1,
+        "compareValue": "7"
+      },
+      {
+        "battleConditionMstId": 1815,
+        "description": "自身のブレイク回数が8回のとき",
+        "compareTarget": 1,
+        "compareContent": 30,
+        "compareOperator": 1,
+        "compareValue": "8"
+      },
+      {
+        "battleConditionMstId": 1816,
+        "description": "自身のブレイク回数が9回のとき",
+        "compareTarget": 1,
+        "compareContent": 30,
+        "compareOperator": 1,
+        "compareValue": "9"
+      },
+      {
+        "battleConditionMstId": 1817,
+        "description": "自身のブレイク回数が10回のとき",
+        "compareTarget": 1,
+        "compareContent": 30,
+        "compareOperator": 1,
+        "compareValue": "10"
       }
     ]
   }
